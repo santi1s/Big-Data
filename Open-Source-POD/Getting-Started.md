@@ -1,5 +1,3 @@
-The Open Source POD is focused on HDInsight, Databricks and ARIS.
-
 #Open Source TEAMS
 #Open Source Distribution Lists & Security Groups
 #Open Source MyAccess Enlistments
