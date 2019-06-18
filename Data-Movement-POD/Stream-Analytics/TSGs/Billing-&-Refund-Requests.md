@@ -13,7 +13,7 @@ Questions
   - No - Continue to next step.
 - Is Customer Enterprise or Pro Direct?
   - Yes - Contact Azure Billing and Subscription team to determine if customer's agreement has recently changed.
-  - No  - Gather time range and charged ammount with product group via the Escalation teams channel to determine if there has been an error.
+  - No  - Gather time range and charged amount with product group via the Escalation teams channel to determine if there has been an error.
 
 
  
