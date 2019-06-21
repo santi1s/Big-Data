@@ -1,2 +1,3 @@
 [Teams Channel](https://teams.microsoft.com/l/channel/19%3aed61c2064c6941d2988493b7cdce55d7%40thread.skype/z%2520-%2520Stream%2520Analytics?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) - Ask for help from your peers.
 [Escalation Teams Channel](https://teams.microsoft.com/l/team/19%3aaa42f7f4a4bd4daf88581ddc76faf624%40thread.skype/conversations?groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) - Ask if you think escalation is needed and why.
+ASA Readiness (training & help videos) on [Streams](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
