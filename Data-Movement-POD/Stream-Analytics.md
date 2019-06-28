@@ -1,4 +1,16 @@
-#hello, ASA
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
+
 # Getting Started
 Azure Stream Analytics (ASA) is a PaaS Service in Microsoft Azure, available from the Azure Portal https://portal.azure.com
 ![Azure Stream Analytics Logo](https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-intro-pipeline.png) You can find more infromation about Azure Stream Analytics from the [Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/).
