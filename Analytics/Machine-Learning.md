@@ -1,1 +1,1 @@
-[#Support Wiki](https://msblox-03.visualstudio.com/bigdataanalytics/_wiki/wikis/bigdataanalytics-wiki.wiki?pagePath=%2FWiki%2FML%20Platform&pageId=53&wikiVersion=GBwikiMaster)
+#[Support Wiki](https://msblox-03.visualstudio.com/bigdataanalytics/_wiki/wikis/bigdataanalytics-wiki.wiki?pagePath=%2FWiki%2FML%20Platform&pageId=53&wikiVersion=GBwikiMaster)
