@@ -12,12 +12,14 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
 # Getting Started
-Azure Stream Analytics (ASA) is a PaaS Service in Microsoft Azure, available from the Azure Portal https://portal.azure.com
-![Azure Stream Analytics Logo](https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-intro-pipeline.png) You can find more infromation about Azure Stream Analytics from the [Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/).
+
 
 # **Technology Introduction**
 
-Microsoft Azure Stream Analytics is a fully managed real-time stream computation service host in Microsoft Azure. It provides low latency, highly resilient and scalable complex event processing. It's easy for a non-developer to create job easily and provide business insight quickly, specify transformations and monitor the scale/speed of their overall streaming pipeline. The service can easily scale from a few kilobytes to a gigabyte or more of events processed per second.
+Azure Stream Analytics (ASA) is a PaaS Service in Microsoft Azure, available from the Azure Portal https://portal.azure.com
+![Azure Stream Analytics Logo](https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-intro-pipeline.png) You can find more infromation about Azure Stream Analytics from the [Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/).
+
+ASA provides low latency, highly resilient and scalable complex event processing. It's easy for a non-developer to create job easily and provide business insight quickly, specify transformations and monitor the scale/speed of their overall streaming pipeline. The service can easily scale from a few kilobytes to a gigabyte or more of events processed per second.
 
 Laymen's Analogy - think of how you would count all the red cars in a parking lot with a SQL query or MapReduce word count. Now consider the equivalent streaming scenario - how would you count all the red cars passing a particular sign on the highway within a 1 minute timeframe.
 
@@ -25,49 +27,44 @@ Writing a Stream Analytics job is as simple as pointing to a source input, writi
 
 [Azure Stream Analytics Intro News Story](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Azure%20Stream%20Analytics%20Intro%20News%20Story.aspx)
 
-Groups  to be added to
-Big Data Stream Analytics teams channel
-https://teams.microsoft.com/l/channel/19%3aed61c2064c6941d2988493b7cdce55d7%40thread.skype/z%2520-%2520Stream%2520Analytics?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47
-
-ASA CSS PG collab teams channel
-https://teams.microsoft.com/l/team/19%3aaa42f7f4a4bd4daf88581ddc76faf624%40thread.skype/conversations?groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47
-
-ASAEngineers Outlook Group
-https://outlook-sdf.office.com/owa/ASAEngineers@service.microsoft.com/groupsubscription.ashx?action=join&source=Outlook&guid=e58c0254-744d-404e-87c7-5cdc7aba458a
+#Collaboration Group to Join
+[Big Data Stream Analytics teams channel](https://teams.microsoft.com/l/channel/19%3aed61c2064c6941d2988493b7cdce55d7%40thread.skype/z%2520-%2520Stream%2520Analytics?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 
-Meetings to attend:
+[ASA CSS PG collab teams channel](https://teams.microsoft.com/l/team/19%3aaa42f7f4a4bd4daf88581ddc76faf624%40thread.skype/conversations?groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+
+
+[ASA Engineers Outlook Group](https://outlook-sdf.office.com/owa/ASAEngineers@service.microsoft.com/groupsubscription.ashx?action=join&source=Outlook&guid=e58c0254-744d-404e-87c7-5cdc7aba458a)
+
+
+
+#Meetings to attend:
 Daily ASA FDR triage
-
-
 Weekly Education series
-
-
-
 Daily ASA PG Triage
 
-MyAccess:
-WA CTS -14817
-AzureSupportCenter SupportEngineer Access - 18897
-WAUtil Read-Only Access - 12611
+#[MyAccess](https://myaccess/identityiq/home.jsf):
+In order to access the correct Jarvis logs, and Azure Support Center, request access to the following projects:
+![myAccess.png](/.attachments/myAccess-b87156c8-689c-4fef-99e9-5d4fa98fc70e.png)
+
+- WA CTS -14817
+- AzureSupportCenter SupportEngineer Access - 18897
+- WAUtil Read-Only Access - 12611
          
-
-Intro:
-https://learn.microsoft.com/activity/S1604001/launch#/
-Do up to "MSSolve Tracking your case and logging your time"
-
-
 Collaboration & Escalation: Swarming https://learn.microsoft.com/activity/S4295219/launch#/
 
-Troubleshooting:
-Review Basic Troubleshooting TSG
-https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster
+#Troubleshooting Introduction:
+[Azure Stream Analytics 101 learning course](https://learn.microsoft.com/activity/S1604001/launch#/)
+Do up to "MSSolve Tracking your case and logging your time. MSSolve has been deprecated, we now use Service Desk to manage cases, and AxisNow to track labor.
 
-Casework Basics Video:
-https://msit.microsoftstream.com/video/72e5a0f5-8dd9-471d-b346-8403a9eeef7c?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
+Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
 
 
-Metrics Troubleshootinghttps://msit.microsoftstream.com/video/a0710e60-8277-4d3b-b420-2a8fc2650e0b?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
+[Casework Basics Video](https://msit.microsoftstream.com/video/72e5a0f5-8dd9-471d-b346-8403a9eeef7c?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+
+
+
+[Metrics Troubleshooting](https://msit.microsoftstream.com/video/a0710e60-8277-4d3b-b420-2a8fc2650e0b?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
 Activity & Diagnostic Logs
 https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
