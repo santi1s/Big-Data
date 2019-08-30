@@ -59,7 +59,7 @@ https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?chan
 Other TSGs can be found on the BigData wiki
 https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics&pageId=143905&wikiVersion=GBwikiMaster
 
-Tools:
+#Tools:
 Service Desk Training
 https://microsoft.sharepoint.com/teams/EAST/SitePages/Service-Desk.aspx
 
@@ -71,7 +71,7 @@ https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePa
 Axis Now Training
 https://sharepoint.partners.extranet.microsoft.com/sites/pfetools/Training%20Library/AxisNow/Training%20-%20Using%20AxisNow.docx
 
-Videos to Watch:
+#Videos to Watch:
 
 SLA, FDR, CSAT
 https://msit.microsoftstream.com/video/3c1688d0-93bf-4cfd-bd53-2b137df9767f?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
@@ -79,14 +79,14 @@ https://msit.microsoftstream.com/video/3c1688d0-93bf-4cfd-bd53-2b137df9767f?chan
 Engineer Success Series:
 https://msit.microsoftstream.com/channel/283a6521-5684-4415-ae36-29d694264e5f
 
-Transfer Procedure
+#Transfer Procedure
+Sender
+- Making Great Decisions!
+- Documentation // Title, SAP, Notes Summary
+- Add Entry to SP List à Big Data Analytics POD TEAM | Case Transfer channel | Transfer tab
+- Transfer Case to Queue via Service Desk
 
-· Sender
-		o Making Great Decisions!
-		o Documentation // Title, SAP, Notes Summary
-		o Add Entry to SP List à Big Data Analytics POD TEAM | Case Transfer channel | Transfer tab
-		o Transfer Case to Queue via Service Desk
-· Receiver
-		o Review & Provide Feedback (positive or constructive)
-· Follow Up
-		o POD Leads Review & Share Trends and Progress
+Receiver
+- Review & Provide Feedback (positive or constructive)
+Follow Up
+- POD Leads Review & Share Trends and Progress
