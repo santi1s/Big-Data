@@ -20,6 +20,11 @@
 - [ ]         Meet with your manager to review your work to date against your objectives.
 - [ ]         Discuss progress on your training plan and identify any additional training or development activities of         interest.
 
+## Milestone - 90 Days
+- [ ] Schedule and complete your second Connect with your manager.
+- [ ] Adjust your Core Priorities as needed.
+
+
 # Organization Information
 - [ ]   Organization Chart:  [Cloud + AI Team in CSS](https://microsoft.sharepoint.com/teams/CA)
 - [ ]   Organization Mission & Vision, Strategic Objectives & Plans:  Customer Service & Support
