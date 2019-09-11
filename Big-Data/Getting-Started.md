@@ -5,7 +5,7 @@
 - [ ]      Provide you with business- and team-specific resources, information, and tools to drive your effectiveness and business results
 - [ ]  Assist in your navigation within the organization.
 
-## First Week
+          ## First Week
 - [ ]   Settle into Microsoft and our team by completing the tasks outlined in your [**New Employee Start List**](https://microsoft.sharepoint.com/teams/STARTInfo/startlist/Shared%20Documents/Forms/AllItems.aspx)
 
 ## Second Week
