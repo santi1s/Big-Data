@@ -9,7 +9,7 @@
 ## First Week
 - [ ]   Settle into Microsoft and our team by completing the tasks outlined in your [**New Employee Start List**](https://microsoft.sharepoint.com/teams/STARTInfo/startlist/Shared%20Documents/Forms/AllItems.aspx)
 
-## Second Weel
+## Second Week
 - [ ]   Outline your work and objectives for the next 60 days.
 - [ ]   Establish ongoing meetings with key partners and your Onboarding Buddy, as necessary.
 - [ ]   Work with your Onboarding Buddy and manager as necessary to fine-tune your training plan around tools, technology, or processes. 
