@@ -6,6 +6,9 @@
        business results     
 - [ ]  Assist in your navigation within the organization.
 
+# During Week 1
+- [ ]   Settle into Microsoft and our team by completing the tasks outlined in your [New Employee Start List](https://microsoft.sharepoint.com/teams/STARTInfo/startlist/Shared%20Documents/Forms/AllItems.aspx)
+
 # Organization Information
 - [ ]   Organization Chart:  [Cloud + AI Team in CSS](https://microsoft.sharepoint.com/teams/CA)
 - [ ]   Organization Mission & Vision, Strategic Objectives & Plans:  Customer Service & Support
