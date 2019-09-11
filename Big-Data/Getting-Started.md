@@ -12,8 +12,7 @@
 ## Week 2
 - [ ]   Outline your work and objectives for the next 60 days.
 - [ ]   Establish ongoing meetings with key partners and your Onboarding Buddy, as necessary.
-- [ ]   Work with your Onboarding Buddy and manager as necessary to fine-tune your training plan around tools, technology, 
-- [ ]   or processes. 
+- [ ]   Work with your Onboarding Buddy and manager as necessary to fine-tune your training plan around tools, technology, or processes. 
 - [ ]   Outline work and objectives for the next 60 days through completing a Connect with your manager
 
 ## Milestone - 60 Days
