@@ -1,6 +1,6 @@
 
 #Create Your Azure Account
-   * Go to [https://microsoft.sharepoint.com/teams/azureinternal/CSSMgmt/SitePages/Home.aspx]()
+   * Go to [CSS Management]()
 
 #Big Data Teams
 #Big Data Distribution Lists and Security Groups
