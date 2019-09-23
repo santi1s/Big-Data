@@ -1,0 +1,1 @@
+- [ ] You should know about these events as part of the Microsoft rhythm of the business:
