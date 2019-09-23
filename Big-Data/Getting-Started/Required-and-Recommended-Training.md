@@ -3,10 +3,8 @@
 
 |Training| Description of Training |
 |--|--|
-| [CSS Learn: Azure Boot Camp - New to Support Engineer Role](https://ready.azurewebsites.net/csslearning/1687) | This is the New to Support Engineer track that was developed as a part of the Azure Boot Camp. <br/>**NOTE:  Ok to skip the MSSolve Modules and Demos
-[Service Desk Case and Insights Training](https://ready.azurewebsites.net/csslearning/2368)
-[Service Desk Case](https://learn.microsoft.com/activity/S2001609/launch#/) 
- |
+| [CSS Learn: Azure Boot Camp - New to Support Engineer Role](https://ready.azurewebsites.net/csslearning/1687) | This is the New to Support Engineer track that was developed as a part of the Azure Boot Camp. <br/>**NOTE:  Ok to skip the MSSolve Modules and Demos 
+[Service Desk Case and Insights Training](https://ready.azurewebsites.net/csslearning/2368)<br/> [Service Desk Case](https://learn.microsoft.com/activity/S2001609/launch#/)  |**NOTE:  Replace the MSSolve modules in the above Learning Path with these two Service Desk Training Courses<br/>Additional Service Desk information:  https://microsoft.sharepoint.com/teams/EAST/SitePages/Service-Desk.aspx 
 |  |  |
 |  |  |
 |  |  |
