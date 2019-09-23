@@ -8,7 +8,7 @@ Below are the file shares, SharePoint and other web sites we have for informatio
 | [Microsoft Performance and Development Philosophy](https://microsoft.sharepoint.com/sites/HRw/Pages/perfphilosophy.aspx) | Overview and explanation of Microsoft’s Performance Review Model, Culture and Development Philosophy |
 | [CSS New Hire](https://microsoft.sharepoint.com/teams/cssnewhire2) |Welcome to CSS!  This location explains all about Customer Service and Support organization.  Lots of great information here.    |
 | [CSS Web Site](https://microsoft.sharepoint.com/teams/CSS) | Internal Website for CSS with overview and detail about the CSS Customer Experience Framework (CXF). |
-|  |  |
+| [CSS Stakeholder Walking Deck](https://microsoft.sharepoint.com/:p:/r/teams/DSSWeb/CSSWeb/_layouts/15/Doc.aspx?sourcedoc=%7B3625f203-ea29-4c2b-a84a-3ba5bb6c1c7d%7D&action=default) |Great PPT deck that gives additional context and information about the CSS Organization  |
 |  |  |
 |  |  |
 |  |  |
