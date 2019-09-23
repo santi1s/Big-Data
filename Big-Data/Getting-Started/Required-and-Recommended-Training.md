@@ -7,7 +7,7 @@
 [Service Desk Case and Insights Training](https://ready.azurewebsites.net/csslearning/2368)<br/> [Service Desk Case](https://learn.microsoft.com/activity/S2001609/launch#/)  |**NOTE:  Replace the MSSolve modules in the above Learning Path with these two Service Desk Training Courses<br/>Additional Service Desk information:  https://microsoft.sharepoint.com/teams/EAST/SitePages/Service-Desk.aspx 
 | Create an Azure account | 1) https://microsoft.sharepoint.com/teams/azureinternal/CSSMgmt/SitePages/Home.aspx<br/>2) Specify “css-Azure High Usage” for Program Name<br/>3) You’ll need to add the following for the High Usage justification:<br/> <h3>XXX is a support engineer in the Big Data Analytics POD. He will be supporting up to 9 different Microsoft Azure services, none of which have on-premise equivalents thus requiring him to use this subscription to both ramp into these technologies and support customers using the services. All engineers on this team are in the High Usage category.
 HDI New Hire Ramp up Plan|[HDI-NewHireRampup.docx](/.attachments/HDI-NewHireRampup-aeef6210-9175-477a-9279-b8d6e895cc78.docx)
-|  |  |
+| [Azure HDInsight Accreditation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fready.azurewebsites.net%2Fcsslearning%2F2196&data=02%7C01%7Claurieh%40microsoft.com%7C609de6727e2f42ac4f1e08d677347ef6%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636827466352589353&sdata=HfcVeur%2FxdRCmIHPg0GNFdlE%2BMuCXudlsc1lpeJlk7A%3D&reserved=0) | Please complete this Learning Path and attain L200 Certification |
 |  |  |
 |  |  |
 |  |  |
