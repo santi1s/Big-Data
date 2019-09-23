@@ -2,7 +2,7 @@ Below are the file shares, SharePoint and other web sites we have for informatio
 
 
 
-|Name of share|Description of Contents  |
+|Name of share                 |Description of Contents  |
 |--|--|
 |  |  |
 |  |  |
