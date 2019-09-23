@@ -1,0 +1,1 @@
+- [ ] Required and recommended trainings are automatically populated on Infopedia. Only fill if there are any additional recommended trainings for the new joiner
