@@ -10,7 +10,7 @@ Below are the file shares, SharePoint and other web sites we have for informatio
 | [CSS Web Site](https://microsoft.sharepoint.com/teams/CSS) | Internal Website for CSS with overview and detail about the CSS Customer Experience Framework (CXF). |
 | [CSS Stakeholder Walking Deck](https://microsoft.sharepoint.com/:p:/r/teams/DSSWeb/CSSWeb/_layouts/15/Doc.aspx?sourcedoc=%7B3625f203-ea29-4c2b-a84a-3ba5bb6c1c7d%7D&action=default) |Great PPT deck that gives additional context and information about the CSS Organization  |
 | [Role Excellence Guide to Support Engineer Role](https://microsoft.sharepoint.com/sites/Infopedia_G04/Programs/Pages/RP/Org08/RolEx-Customer-Service-and-Support-Support-Engineer.aspx) | Primary source of information for your role.  Assets here are designed to help you understand your role’s accountabilities, how you learn new skills, and how to ultimately be successful as a Support Engineer |
-|  |  |
-|  |  |
+| [New@Microsoft](https://microsoft.sharepoint.com/sites/infopedia/GlobalLearning/Pages/NewEmployees.aspx) | We’ve curated this page to provide you with basic resources to get started at Microsoft, in your team, and in your role. Explore away! And remember: your manager and onboarding buddy are great resources for support in your onboarding journey. |
+| [NCINFO Website](https://microsoft.sharepoint.com/sites/refweb/na/East/charlotte/Pages/default.aspx) | Welcome to the Charlotte Campus |
 
 
