@@ -11,7 +11,7 @@ HDI New Hire Ramp up Plan|[HDI-NewHireRampup.docx](/.attachments/HDI-NewHireRamp
 | [//Learning Portal](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/kcdoc.aspx?k=g00-1-67816) |The complete online catalog of training available at Microsoft.  |
 |[Big Data POD Training](https://microsoft.sharepoint.com/sites/Infopedia/csslearning/Pages/BI-&-Data.aspx#SQL%20-%20Big%20Data%20POD)  | Learning Paths for our Big Data Services and Technologies |
 |[Required Microsoft Learning](https://microsoft.sharepoint.com/sites/infopedia/pages/training.aspx)  | Specific required training you will need to take as soon as possible. |
-|  |  |
+|[Kepner Tregoe Training](https://microsoft.sharepoint.com/teams/kttraining?e=1:50641c52b71a43a6afe2e56b606c84d4)  | You will be scheduled to attend this 4 day workshop in the coming months.  In the meantime though, you can take a look at the website to get an understanding and introduction to the learning. |
 |  |  |
 |  |  |
 
