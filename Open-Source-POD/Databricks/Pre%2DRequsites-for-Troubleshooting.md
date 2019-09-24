@@ -2,7 +2,7 @@
 
 - [ ] Have to be a member of below Teams. Please request from your manager
 
-|Team Name|
+|**Team Name**|
 |--|
 |[Big Data Analytics POD](https://teams.microsoft.com/l/team/19%3a7cef0a9bac9e49fbb9393249478baa75%40thread.skype/conversations?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|
 |[Azure Databricks Support](https://teams.microsoft.com/l/team/19%3a9b4e9783b02f4ffba54baff443cdf18c%40thread.skype/conversations?groupId=6dcaeca8-c680-408a-b1ec-b97755233914&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|
