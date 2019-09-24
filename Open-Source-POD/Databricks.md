@@ -1,6 +1,7 @@
-#What is Azure Databricks
+#What is Azure Databricks 
+![DataBricks2.png](/.attachments/DataBricks2-58fe8462-e701-46b1-adb8-0277f502204f.png)
 
-<br/><br/><br/>
+
 
 Fast, easy, and collaborative Apache SparkTM–based analytics service.
 
