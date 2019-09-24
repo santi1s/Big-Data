@@ -1,1 +1,6 @@
-[BigData Readiness](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fready.azurewebsites.net%2Fcsslearning%2F2078&data=02%7C01%7Cradeal%40microsoft.com%7Cf58e90a9da97423d4e4708d70f60e4f4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636994781150187589&sdata=YpT0H5MV1FYGnN3OlUT5UW1lQojJ%2FceC%2FJIT4R7yZ18%3D&reserved=0)
+#[What is Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/)
+
+Fast, easy, and collaborative Apache SparkTM–based analytics service.
+
+
+
