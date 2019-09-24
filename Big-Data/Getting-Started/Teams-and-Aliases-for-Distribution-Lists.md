@@ -18,3 +18,5 @@ Various other site and business DLs| We will get you added to these as needed go
 |[Azure Databricks Disc(w/Enternal Databricks Team)](https://teams.microsoft.com/l/team/19%3a098fcaaaeafd4bc6b17f56cfbc3ea25f%40thread.skype/conversations?groupId=16543315-219d-4e77-b77a-093787f8578f&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|Collaboration place with other roles|
 |[Azure Cosmos DB PG + CSS Discussion](https://teams.microsoft.com/l/team/19%3a0f1aba33107c459c94e655ca3af60e9a%40thread.skype/conversations?groupId=d7443996-a15e-46e2-bcc7-58091aa7d9d9&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|Cosmos DB PG Discussions|
 |[CSS Data & AI + Business Apps](https://teams.microsoft.com/l/team/19%3a531061e591214ba2936043065cd3ad3c%40thread.skype/conversations?groupId=50b42132-8aec-43f8-9509-464b4fbb70ec&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|Global Data & AI Discussions |
+
+Note : Send a request to your manager to add to all these Aliases and teams
