@@ -6,8 +6,8 @@ Fast, easy, and collaborative Apache SparkTM–based analytics service.
 
 
 **Important Documentations**
-[Microsoft Azure Databricks Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
-[Databricks Documentation for Azure](https://docs.azuredatabricks.net)
+- [ ] [Microsoft Azure Databricks Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+- [ ] [Databricks Documentation for Azure](https://docs.azuredatabricks.net)
 
 
 
