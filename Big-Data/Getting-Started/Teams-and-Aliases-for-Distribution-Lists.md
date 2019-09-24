@@ -13,6 +13,6 @@ Various other site and business DLs| We will get you added to these as needed go
 |--|--|
 |[Big Data Analytics POD](https://teams.microsoft.com/l/team/19%3a7cef0a9bac9e49fbb9393249478baa75%40thread.skype/conversations?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|This is the core Teams team for All Big Data Analytics technologies|
 |[Azure Databricks Support](https://teams.microsoft.com/l/team/19%3a9b4e9783b02f4ffba54baff443cdf18c%40thread.skype/conversations?groupId=6dcaeca8-c680-408a-b1ec-b97755233914&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)| Team for questions specific to Azure Databricks|
-|[Big Data POD - ATZ](https://teams.microsoft.com/l/team/19%3adbb2c68d01df42cd88f6306330d1d4c3%40thread.skype/conversations?groupId=1f72a2c4-5887-4c80-b3e0-2abbac19e874&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)||
+|[Big Data POD - ATZ](https://teams.microsoft.com/l/team/19%3adbb2c68d01df42cd88f6306330d1d4c3%40thread.skype/conversations?groupId=1f72a2c4-5887-4c80-b3e0-2abbac19e874&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)|Team for Azure Big Data Technologies Global (All time zones)|
 
 
