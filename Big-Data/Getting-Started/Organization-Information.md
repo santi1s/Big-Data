@@ -7,12 +7,14 @@
 Following are the Organizational charts for two Big Data Analytics teams reporting to Laurie Helps and Todd DeDecker
 
 ##[Todd DeDecker Direct Reports](http://who/is/toddde)
+<br/>
+
 
 ![Todd-Org.png](/.attachments/Todd-Org-47e43c7e-1587-4ad5-b7de-dd671e1688fc.png)
 
 
 ##[Laurie Helms Direct Reports](http://who/is/laurieh)
-
+<br/>
 ![Laurie-Org.png](/.attachments/Laurie-Org-aa42c7ac-e551-40bd-b64e-75d2cb8e938a.png)
 
 
