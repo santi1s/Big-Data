@@ -1,6 +1,4 @@
-#<p align="left"> [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)</p>                                                                                 
-
-# Onboarding Overview  
+#<p align="left"> [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)</p> Onboarding Overview  
  [[_TOC_]]         
 
 ## First Week
