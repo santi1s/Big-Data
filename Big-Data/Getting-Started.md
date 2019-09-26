@@ -1,27 +1,19 @@
-# Objectives
-  
-- [ ]      Facilitate your orientation, acculturation, and business contribution.
-- [ ]      Accelerate your learning, performance, and traction during the first year on the job. 
-- [ ]      Provide you with business- and team-specific resources, information, and tools to drive your effectiveness and business results
-- [ ]  Assist in your navigation within the organization.
+[[_TOC_]]
 
+##  [Onboarding Overeview](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218244/Oboarding-Overview)
 
-# Contents
+##[Organization Information](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218246/Organization-Information) 
 
-- [ ] [Onboarding Overeview](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218244/Oboarding-Overview)
+## [Key Partners & Contacts](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218249/Key-Partners-and-Contacts)
 
-- [ ] [Organization Information](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218246/Organization-Information) 
+## [Information Sharing](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218250/Information-Sharing)
 
-- [ ] [Key Partners & Contacts](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218249/Key-Partners-and-Contacts)
+## [Teams & Aliases](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218252/Teams-and-Aliases-for-Distribution-Lists)
 
-- [ ] [Information Sharing](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218250/Information-Sharing)
+##[Regular Meetings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218253/Regular-Meetings)
 
-- [ ] [Teams & Aliases](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218252/Teams-and-Aliases-for-Distribution-Lists)
+## [Key Dates](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218257/Key-Dates)
 
-- [ ] [Regular Meetings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218253/Regular-Meetings)
+## [Key Deliverables](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218258/Key-Deliverables) 
 
-- [ ] [Key Dates](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218257/Key-Dates)
-
-- [ ] [Key Deliverables](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218258/Key-Deliverables) 
-
-- [ ] [Required & Recommended Trainings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218259/Required-and-Recommended-Training) 
+## [Required & Recommended Trainings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218259/Required-and-Recommended-Training) 
