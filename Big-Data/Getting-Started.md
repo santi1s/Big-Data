@@ -17,3 +17,5 @@
 - [ ] [Information Sharing](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218250/Information-Sharing)
 
 - [ ] [Teams & Aliases](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218252/Teams-and-Aliases-for-Distribution-Lists)
+
+- [ ] [Regular Meetings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218253/Regular-Meetings)
