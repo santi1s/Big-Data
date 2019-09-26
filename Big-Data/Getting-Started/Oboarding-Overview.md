@@ -3,7 +3,7 @@
 [[_TOC_]]
                                    
 
-## First Week
+## [First Week](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FGetting%20Started%2FOboarding%20Overview&pageId=218244&anchor=first-week)
 - [ ]   Settle into Microsoft and our team by completing the tasks outlined in your [**New Employee Start List**](https://microsoft.sharepoint.com/teams/STARTInfo/startlist/Shared%20Documents/Forms/AllItems.aspx)
 
 ## Second Week
