@@ -21,3 +21,7 @@
 - [ ] [Regular Meetings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218253/Regular-Meetings)
 
 - [ ] [Key Dates](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218257/Key-Dates)
+
+- [ ] [Key Deliverables](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218258/Key-Deliverables) 
+
+- [ ] [Required & Recommended Trainings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218259/Required-and-Recommended-Training) 
