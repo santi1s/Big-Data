@@ -1,5 +1,3 @@
-
-
 # Onboarding Overview 
 
 ## First Week
