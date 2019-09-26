@@ -1,6 +1,7 @@
-#### <p align="left"> [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)</p> Onboarding Overview  
- [[_TOC_]]         
 
+# Onboarding Overview
+  
+[[_TOC_]]         
 ## First Week
 - [ ]   Settle into Microsoft and our team by completing the tasks outlined in your [**New Employee Start List**](https://microsoft.sharepoint.com/teams/STARTInfo/startlist/Shared%20Documents/Forms/AllItems.aspx)
 
