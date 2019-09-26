@@ -15,3 +15,4 @@
 |[Kepner Tregoe Training](https://microsoft.sharepoint.com/teams/kttraining?e=1:50641c52b71a43a6afe2e56b606c84d4)  | You will be scheduled to attend this 4 day workshop in the coming months.  In the meantime though, you can take a look at the website to get an understanding and introduction to the learning. |
 
 
+##   [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)
