@@ -9,5 +9,7 @@
 | [Big Data ATZ Team Meeting](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253a2ddb4b29300f4de5aeebe884c1bd0f6d%2540thread.skype%2F1541522456778%3Fcontext%3D%257b%2522Tid%2522%253a%252272f988bf-86f1-41af-91ab-2d7cd011db47%2522%252c%2522Oid%2522%253a%2522de1635ab-60bc-4c17-9b16-ca0e846e32d9%2522%257d&data=02%7C01%7Claurieh%40microsoft.com%7Cb0f36464da6747942b7308d6597ad1ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636794781399944144&sdata=i7MeuOj6Q61EWL0Aq9FgnUk4F2j5pQnrMDr%2FsRyM0Fw%3D&reserved=0) | Monthly team meeting of Big Data support engineers in the Americas Time Zone <br/> Occurs the first Tuesday of every 1 month(s) effective 11/6/2018 from 12:30 PM to 1:30 PM <br/> [Join Microsoft Teams Meeting](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253a2ddb4b29300f4de5aeebe884c1bd0f6d%2540thread.skype%2F1541522456778%3Fcontext%3D%257b%2522Tid%2522%253a%252272f988bf-86f1-41af-91ab-2d7cd011db47%2522%252c%2522Oid%2522%253a%2522de1635ab-60bc-4c17-9b16-ca0e846e32d9%2522%257d&data=02%7C01%7Claurieh%40microsoft.com%7Cb0f36464da6747942b7308d6597ad1ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636794781399944144&sdata=i7MeuOj6Q61EWL0Aq9FgnUk4F2j5pQnrMDr%2FsRyM0Fw%3D&reserved=0)
 
 
+##   [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)
+
 
  
