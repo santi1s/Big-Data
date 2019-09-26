@@ -22,4 +22,4 @@ Various other site and business DLs| We will get you added to these as needed go
 
 Note : Send a request to your manager to add to all these Aliases and teams
 
-##   [Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)
+[Home](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24057/Getting-Started)
