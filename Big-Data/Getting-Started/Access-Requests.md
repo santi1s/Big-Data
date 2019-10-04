@@ -20,4 +20,6 @@
 - [ ] Expected Behavior:  same info as 
 - [ ] Click Submit
 
+Note : New account will be created in a couple of hours.  Be sure to use Chrome as your browser when you log into https://servicedesk.microsoft.com/
+
 
