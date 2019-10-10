@@ -35,7 +35,6 @@ ADMS code access:
 https://msdata.visualstudio.com/Azure%20Data%20Movement/_git/HybridDataIS - Mostly use this now.
 
 Security groups: https://idweb/identitymanagement/aspx/groups/AllGroups.aspx  
-ADF EEE
 CSS Big Data - Data Movement <bddatamovement@microsoft.com>
 
 Attached the process of Oracle driver from PROGRESS.
