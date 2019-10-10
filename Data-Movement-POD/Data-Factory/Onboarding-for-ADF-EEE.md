@@ -19,7 +19,7 @@ If you do not have access, you can log a ticket with BTS team at http://aka.ms/b
 	1. In the field titled ‘Issue Title’ please enter the statement: ‘Enable my access in Service Desk’  
 	2. In the field titled ‘Service (Product/Application’ please select: ‘Service Desk Case’  
 	3. In the field titled ‘Impact’ please select: ‘Single User’  
-In the field titled ‘Issue Type’ please select: ‘User Account Maintenance’
+        4. In the field titled ‘Issue Type’ please select: ‘User Account Maintenance’
 
 ASC:
 
