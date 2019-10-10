@@ -34,6 +34,10 @@ ADMS code access:
 15446 on https://myaccess/.
 https://msdata.visualstudio.com/Azure%20Data%20Movement/_git/HybridDataIS - Mostly use this now.
 
+Security groups: https://idweb/identitymanagement/aspx/groups/AllGroups.aspx  
+ADF EEE
+CSS Big Data - Data Movement <bddatamovement@microsoft.com>
+
 **Candy for ADMS New Hire**
 
 https://microsoft.sharepoint.com/teams/datamovement2/HDIS/_layouts/OneNote.aspx?id=%2Fteams%2Fdatamovement2%2FHDIS%2FShared%20Documents%2FHybrid%20Data%20Integration%20Service&wd=target%28Dev%2FDev%20Guide.one%7C8C3459CA-0EE8-4A37-A378-9DF1BA7DD7A6%2FCandy%20for%20ADMS%20New%20Hire%7CD814CE94-D66D-4AAC-AD93-57BAD0FB8ACA%2F%29
