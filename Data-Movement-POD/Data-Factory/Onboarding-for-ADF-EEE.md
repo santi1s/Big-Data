@@ -38,6 +38,12 @@ Security groups: https://idweb/identitymanagement/aspx/groups/AllGroups.aspx
 ADF EEE
 CSS Big Data - Data Movement <bddatamovement@microsoft.com>
 
+Attached the process of Oracle driver from PROGRESS.
+[SupportLink Access Instructions.docx](/.attachments/SupportLink%20Access%20Instructions-ba89c91f-6e19-49e1-ac62-6ea984fdd196.docx)
+For other Simba drivers, Here is the process: https://microsoft.sharepoint.com/teams/datamovement2/HDIS/_layouts/OneNote.aspx?id=%2Fteams%2Fdatamovement2%2FHDIS%2FShared%20Documents%2FHybrid%20Data%20Integration%20Service&wd=target%28Dev%2FCOPY%20Query.one%7C65376A32-BE37-48BE-8FD6-B85AE806A6F1%2FRFI%20Connectors%20Ramp%20Up%7C083D2D2F-61FB-4FAD-A932-D4C720749E86%2F%29
+onenote:https://microsoft.sharepoint.com/teams/datamovement2/HDIS/Shared%20Documents/Hybrid%20Data%20Integration%20Service/Dev/COPY%20Query.one#RFI%20Connectors%20Ramp%20Up&section-id={65376A32-BE37-48BE-8FD6-B85AE806A6F1}&page-id={083D2D2F-61FB-4FAD-A932-D4C720749E86}&object-id={DD7D4B0D-ABF0-01CC-2558-1A70E7F3765F}&12
+
+
 **Candy for ADMS New Hire**
 
 https://microsoft.sharepoint.com/teams/datamovement2/HDIS/_layouts/OneNote.aspx?id=%2Fteams%2Fdatamovement2%2FHDIS%2FShared%20Documents%2FHybrid%20Data%20Integration%20Service&wd=target%28Dev%2FDev%20Guide.one%7C8C3459CA-0EE8-4A37-A378-9DF1BA7DD7A6%2FCandy%20for%20ADMS%20New%20Hire%7CD814CE94-D66D-4AAC-AD93-57BAD0FB8ACA%2F%29
@@ -51,3 +57,15 @@ onenote:https://microsoft.sharepoint.com/teams/datamovement2/Shared%20Documents/
 **ADF TSG**
 https://microsoft.sharepoint.com/teams/datamovement2/_layouts/OneNote.aspx?id=%2Fteams%2Fdatamovement2%2FShared%20Documents%2FLiveSite%2FDM%20CSS%20Handbook
 onenote:https://microsoft.sharepoint.com/teams/datamovement2/Shared%20Documents/LiveSite/DM%20CSS%20Handbook/
+
+**ICM**
+
+As your daily work need to work on ICM, you can refer to the following to get your work items there.
+
+https://icm.ad.msft.net/imp/v3/incidents/search/advanced?cq=TrackedByMe
+
+1, Create your own filter for the query.
+2, Owning Service select Azure Data Factory or Azure Data Movement
+3, State select Active
+4, Title contains CSS
+
