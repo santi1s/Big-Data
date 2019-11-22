@@ -20,7 +20,7 @@ You can also get the JobID from this query, which is needed for other Jarvis que
 TraceJobStatus
 
 **Filtering Condition:** 
-where subscriptionId=="<subid>"
+```where subscriptionId=="<subid>```
 
 #Find ASA Job Run IDs
 JobRunID is equivalent to the ActivityID and is needed for several other Jarvis queries.
@@ -29,17 +29,17 @@ JobRunID is equivalent to the ActivityID and is needed for several other Jarvis 
 TraceJobStatus
 
 **Filtering Condition:**
-where jobId=="<jobID>"
+```where jobId=="<jobID>"```
 
 **Client Query:**
-groupby jobRunId let minTimestamp  = Min(PreciseTimestamp), maxTimestamp  = Max(PreciseTimeStamp), diff  = Max(PreciseTimestamp) - Min(PreciseTimestamp), lastStatus  = Last().status, lastClusterName  = Last().clusterName
+```groupby jobRunId let minTimestamp  = Min(PreciseTimestamp), maxTimestamp  = Max(PreciseTimeStamp), diff  = Max(PreciseTimestamp) - Min(PreciseTimestamp), lastStatus  = Last().status, lastClusterName  = Last().clusterName```
 
 #Determining job health status and number of SU
 **Table:**
 TraceJobStatus
 
 **Filtering Condition:** 
-where subscriptionId.ToLower() = "<subid>".ToLower() and resourceName.ToLower() = "<jobname>".ToLower() and resourceGroupName.ToLower() = "<resourceGroupName>".ToLower() groupby status let Total = count() let SU = Max(StreamingUnits) let clusterName = Max(clusterName)
+```where subscriptionId.ToLower() = "<subid>".ToLower() and resourceName.ToLower() = "<jobname>".ToLower() and resourceGroupName.ToLower() = "<resourceGroupName>".ToLower() groupby status let Total = count() let SU = Max(StreamingUnits) let clusterName = Max(clusterName)```
 
 #Job QoS
 Determines the health of incoming and outgoing connections.
@@ -48,7 +48,7 @@ Determines the health of incoming and outgoing connections.
 Job QoS Event
 
 **Filtering Condition:**
-where JobRunId = "<JobRunId>" and ScenarioId = 2 groupby JobRunId, operationName, resultType let count = Sum(Count) let DurationMs = Sum(durationMs)
+```where JobRunId = "<JobRunId>" and ScenarioId = 2 groupby JobRunId, operationName, resultType let count = Sum(Count) let DurationMs = Sum(durationMs)```
 
 #Azure User Events
 User facing messages (found in Activity Log on portal).
@@ -57,7 +57,7 @@ User facing messages (found in Activity Log on portal).
 Azure User Events
 
 **Filtering Condition:**
-where ActivityId = "<jobRunID>"
+```where ActivityId = "<jobRunID>"```
 
 (activityID is the same as JobRunID)
 
@@ -68,8 +68,7 @@ Internal messages and errors of significance.
 Trace Event
 
 **Filtering Condition:**
-where      ( Level<=3 or Type = "DataConversionError\UserActionableException" or  exception.ContainsI("at Microsoft.Streaming.Diagnostics.DataErrorPolicies.StopPolicy.ErrorAction"))     and ActivityId = "<jobRunID>"      and FxVersion = "1.2.64625.114" 
-
+```where      ( Level<=3 or Type = "DataConversionError\UserActionableException" or  exception.ContainsI("at Microsoft.Streaming.Diagnostics.DataErrorPolicies.StopPolicy.ErrorAction"))     and ActivityId = "<jobRunID>"```
 
 #Detailed Traces
 
@@ -77,7 +76,7 @@ where      ( Level<=3 or Type = "DataConversionError\UserActionableException" or
 TraceInformation, TraceVerbose
 
 **Filtering Condition:**
-where ActivityId = "<jobRunID>"
+```where ActivityId = "<jobRunID>"```
 
 #Job Metrics
 Detailed metrics of job performance.
@@ -86,10 +85,10 @@ Detailed metrics of job performance.
 JobMetrics1MRollup
 
 **Filtering Condition:**
-where ActivityId.ToLower() = "<jobRunID>".ToLower() and ( MetricName = "OutputEventsTotal" or MetricName = "DegradedEventsTotal" or MetricName = "InputEventsDegradedTotal" or MetricName = "InputEventsEarlyTotal" or MetricName = "InputEventsLateTotal" or MetricName = "InputEventsSerializerErrorsTotal" or MetricName = "QueryDroppedOrAdjustedEventsTotal" or MetricName = "QueryEventsReadTotal" or MetricName = "InputEventsSourcesTotal" or MetricName = "InputEventsTotal" or MetricName = "InputEventsLastArrivalTime" or MetricName = "OutputLastPunctuationTime" or MetricName = "RefDataCacheRangeEndTime" or MetricName = "ResourceUtilizationAsPercentage" or MetricName = "CpuUtilizationAsPercentage" or MetricName = "OutputLastPunctuationTime" or MetricName = "QueryLastPunctuationTime" or MetricName = "InputEventsSourcesBacklogged" or MetricName = "InputEventsLastPunctuationTime" or MetricName = "OutputEventsSerializerErrorsTotal" or MetricName = "StreamingProcessorWatermark" or (MetricName = "InputAdapterGetBatchRequestsTotal" and ProcessorType = "Input"))
+```where ActivityId.ToLower() = "<jobRunID>".ToLower() and ( MetricName = "OutputEventsTotal" or MetricName = "DegradedEventsTotal" or MetricName = "InputEventsDegradedTotal" or MetricName = "InputEventsEarlyTotal" or MetricName = "InputEventsLateTotal" or MetricName = "InputEventsSerializerErrorsTotal" or MetricName = "QueryDroppedOrAdjustedEventsTotal" or MetricName = "QueryEventsReadTotal" or MetricName = "InputEventsSourcesTotal" or MetricName = "InputEventsTotal" or MetricName = "InputEventsLastArrivalTime" or MetricName = "OutputLastPunctuationTime" or MetricName = "RefDataCacheRangeEndTime" or MetricName = "ResourceUtilizationAsPercentage" or MetricName = "CpuUtilizationAsPercentage" or MetricName = "OutputLastPunctuationTime" or MetricName = "QueryLastPunctuationTime" or MetricName = "InputEventsSourcesBacklogged" or MetricName = "InputEventsLastPunctuationTime" or MetricName = "OutputEventsSerializerErrorsTotal" or MetricName = "StreamingProcessorWatermark" or (MetricName = "InputAdapterGetBatchRequestsTotal" and ProcessorType = "Input"))```
 
 **Chart Query:**
-groupby TIMESTAMP.roundDown("PT1M") as X, MetricName, Max
+```groupby TIMESTAMP.roundDown("PT1M") as X, MetricName, Max```
 
 #DGML
 A markup file which represents the job topology.
@@ -98,7 +97,7 @@ A markup file which represents the job topology.
 TraceEvent
 
 **Filtering Condition:**
-where ActivityId == "<jobRunID>" and type = "DgmlTopology" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message 
+```where ActivityId == "<jobRunID>" and type = "DgmlTopology" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message ```
 
 #Metadata
 Job configuration details such as input, output, policies, and anonymous query.
@@ -107,7 +106,7 @@ Job configuration details such as input, output, policies, and anonymous query.
 TraceEvent
 
 **Filtering condition:**
-where ActivityId == "<jobRunID>" and type == "Metadata" and activityName == "container" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message 
+```where ActivityId == "<jobRunID>" and type == "Metadata" and activityName == "container" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message ```
 
 
 
