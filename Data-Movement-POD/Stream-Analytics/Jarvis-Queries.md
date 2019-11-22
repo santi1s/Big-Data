@@ -52,6 +52,7 @@ where JobRunId = "<JobRunId>" and ScenarioId = 2 groupby JobRunId, operationName
 
 #Azure User Events
 User facing messages (found in Activity Log on portal).
+
 **Table:** 
 Azure User Events
 
@@ -62,6 +63,7 @@ where ActivityId = "<jobRunID>"
 
 #Trace Event
 Internal messages and errors of significance.
+
 **Table:** 
 Trace Event
 
@@ -70,6 +72,7 @@ where      ( Level<=3 or Type = "DataConversionError\UserActionableException" or
 
 
 #Detailed Traces
+
 **Table:** 
 TraceInformation, TraceVerbose
 
@@ -78,6 +81,7 @@ where ActivityId = "<jobRunID>"
 
 #Job Metrics
 Detailed metrics of job performance.
+
 **Table:** 
 JobMetrics1MRollup
 
@@ -89,6 +93,7 @@ groupby TIMESTAMP.roundDown("PT1M") as X, MetricName, Max
 
 #DGML
 A markup file which represents the job topology.
+
 **Table:** 
 TraceEvent
 
@@ -97,6 +102,7 @@ where ActivityId == "<jobRunID>" and type = "DgmlTopology" let PreciseTimestamp 
 
 #Metadata
 Job configuration details such as input, output, policies, and anonymous query.
+
 **Table:** 
 TraceEvent
 
