@@ -97,8 +97,10 @@ where ActivityId == "<jobRunID>" and type = "DgmlTopology" let PreciseTimestamp 
 
 #Metadata
 Job configuration details such as input, output, policies, and anonymous query.
-Table: TraceEvent
-Filtering condition:
+**Table:** 
+TraceEvent
+
+**Filtering condition:**
 where ActivityId == "<jobRunID>" and type == "Metadata" and activityName == "container" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message 
 
 
