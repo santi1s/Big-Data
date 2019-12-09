@@ -23,6 +23,9 @@
 
 Note : New account will be created in a couple of hours.  Be sure to use Chrome as your browser when you log into https://servicedesk.microsoft.com/
 
+# How to request Azure Support Center access
+- [ ] https://azuresupportcenterdocs.azurewebsites.net/supportengineer/ASCAccess.html 
+
 # How to request access for partner ticket systems including Genie access
 
 - [ ] http://aka.ms/partneraccess
