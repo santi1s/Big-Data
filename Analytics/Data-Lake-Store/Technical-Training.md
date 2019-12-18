@@ -10,10 +10,10 @@
 	
 6. Make sure you have access to Jarvis:https://jarvis-west.dc.ad.msft.net/FBF35882  
 	
-7. Using your data lake and new knowledge about how to create access problems, let's simulate some!
-a. Create an Azure Data Factory using this tutorial: https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store#create-a-data-factory
-b. Assign permissions to this data factory using the MSI (Managed Service Identity) using this tutorial. First, apply good permissions: https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-data-lake-store#managed-identity
-c. Create a basic copy pipeline using this tutorial (but instead of using Amazon S3 as a source, just have a source folder and a sink folder in your Data lake store, and use the same data lake as both source and sink.)https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store#load-data-into-data-lake-storage-gen1
+7. Using your data lake and new knowledge about how to create access problems, let's simulate some!
+a. Create an Azure Data Factory using this tutorial: https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store#create-a-data-factory
+b. Assign permissions to this data factory using the MSI (Managed Service Identity) using this tutorial. First, apply good permissions: https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-data-lake-store#managed-identity
+c. Create a basic copy pipeline using this tutorial (but instead of using Amazon S3 as a source, just have a source folder and a sink folder in your Data lake store, and use the same data lake as both source and sink.)https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store#load-data-into-data-lake-storage-gen1
 d. Once you have a copy job reliably working, assign bad permissions for your MSI. Re-run your pipeline to see your failure. Try different scenarios:
 Incomplete ACL permissions.
 Mask on a parent folder.
