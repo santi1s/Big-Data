@@ -1,6 +1,6 @@
 ## Data Lake Resource Has Been Deleted
 
-1. Was the deleted data lake resource encrypted?
+_Was the deleted data lake resource encrypted?_
 **Yes** - We cannot restore this data lake.
 **No** - Open an ICM with the Data Lake Store/Store team, and select the "Account Related" Type Of Issue
 https://icm.ad.msft.net/imp/v3/incidents/create
