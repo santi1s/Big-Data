@@ -25,7 +25,9 @@ Adding a firewall to your data lake store.
 9. Your endpoint should be set to Diagnostic PROD
 Your namespace should be AzureDataLake
 Your Events to search should be CfeHttpEvent
-Set the Time range to the timestamp, paying attention to time zone, and set an area of time to search around it.
+![Jarvis Settings for ADL HTTP.jpg](/.attachments/Jarvis%20Settings%20for%20ADL%20HTTP-c635513a-26ee-4596-8db8-d896398664cb.jpg)
+
+10. Set the Time range to the timestamp, paying attention to time zone, and set an area of time to search around it.
 Role is the region of the data lake: 12 - Central US, 15 - East US 2...
 Under Filtering Conditions, you can scan for data in various columns. KiwiAccountName is the name of the data lake.
 After you run the query, at the bottom of the query page, check the columns button to see how many columns are being displayed.
