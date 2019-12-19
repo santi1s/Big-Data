@@ -74,3 +74,4 @@ ASC Doc: https://azuresupportcenterdocs.azurewebsites.net/
 Azure Self-Help Doc: https://support-docs.azurewebsites.net/docs/index.html  
 ASC Troubleshoot OneNote: https://microsoft.sharepoint.com/teams/AzureDataASCtroubleshooters/_layouts/OneNote.aspx?id=%2Fteams%2FAzureDataASCtroubleshooters%2FSiteAssets%2FAzure Data ASC troubleshooters Notebook&wd=target(Engineering Onboarding.one|ABD96E66-3CAE-41B4-BFCA-5919B151D058%2FAzure Support Center Dev Environment Setup|0FF65455-DF04-424E-AC97-2B94622D1315%2F)  
 onenote:https://microsoft.sharepoint.com/teams/AzureDataASCtroubleshooters/SiteAssets/Azure Data ASC troubleshooters Notebook/Engineering Onboarding.one#Azure Support Center Dev Environment Setup&section-id={ABD96E66-3CAE-41B4-BFCA-5919B151D058}&page-id={0FF65455-DF04-424E-AC97-2B94622D1315}&object-id={45578535-57ED-4E3B-A8F8-F4B0821F4EAF}&8D  
+How to Test ASC/ADS: https://web.microsoftstream.com/video/140636cc-d623-4c95-838d-f6e1dd5c8fd0
