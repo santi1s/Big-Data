@@ -9,6 +9,9 @@ If you are connected to corp-net, put the below address into your file explorer:
 3. Get Started with your first U-SQL Script: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-get-started-portal
 
 4. After running this script, grab the job url on the lower, left-hand side of the page. Open Visual Studio 2015. Go to tools, data lake, Job View and enter your job URL. You should be able to see your job details here! This is how we look at customer jobs too.Your job URL should look like this: https://whhenderintadla.azuredatalakeanalytics.net/Jobs/0387eec5-ae6f-4a1e-ada6-77d03f246d6a?api-version=2015-10-01-previewIf you're having an issue with "invalid job url" make sure you have Jobs and the api version on your URL:https://whhenderintadla.azuredatalakeanalytics.net/Jobs/0387eec5-ae6f-4a1e-ada6-77d03f246d6a?api-version=2015-10-01-preview
+
+5. Check all the jobs in your ADLA account by opening Visual Studio, going to "Server Explorer" Clicking Data Lake Analytics, and clicking your account, then 'Jobs'
+You can do the same for a customer account by right-clicking "Data Lake Analytics" and selecting "Add Account for DRI"
 	
 5. Go through stairway to U-SQL to get the basics on the U-SQL language. (Though please note, for specifics, especially on limitations of U-SQL don't use this as a reference. It's a great starting point, but is not up to date on specifics): https://www.sqlservercentral.com/steps/stairway-to-u-sql-level-1-introduction-to-u-sql-and-azure-data-lakes
 	
