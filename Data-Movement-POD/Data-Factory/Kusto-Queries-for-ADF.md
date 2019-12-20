@@ -1,4 +1,4 @@
-_First download Kusto, and make sure you have successfully added all connections listed in [Tools and Teams](/Data-Movement-POD/Data-Factory/Tools-and-Teams)_
+_First [download Kusto](/Data-Movement-POD/Data-Factory/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](/Data-Movement-POD/Data-Factory/Tools-and-Teams)_
 
 #Kusto Basics for ADF
 
@@ -27,5 +27,29 @@ You can use Search ++ to make a quick review of all tables, and see which one ha
 ![image.png](/.attachments/image-75aa793c-b503-4ac2-ae1a-c2ea264fe80d.png)
 
 # Azure Data Factory V2 Queries
+
+_Queries to find pipelines and activity runs. Search in Adfcus or Adfneu depending on the region of the data factory._
+
+When a customer provides a Run ID and a timestamp, you can check if this is an Activity ID or a Run ID by running this query:
+`ActivityRuns
+| where * == "<RUN ID>"`
+
+Using RUNID:
+AdfTraceEvent 
+| where TraceCorrelationId == "<RUN ID>"; 
+
+Using RunId:
+ActivityRuns 
+| where pipelineRunId == "<RUN ID>;
+
+Under Azuredmprod (data movement)
+Using ACTIVITY ID:
+CustomLogEvent
+| where ActivityId == "<Activity ID>";
+
+Using Activity ID:
+ExecutionApiCall
+| where * contains "<Activity ID>"
+
 
 # Azure Data Factory V1 Queries
