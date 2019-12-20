@@ -61,6 +61,9 @@ ActivityRuns
 
 _Queries to find pipelines and activity runs. Search in Adfcus or Adfneu depending on the region of the data factory._
 
+**ActivityRuns**
+The ActivityRuns table will tell you all the activities that ran for specific pipelines, when they ran, what integration runtime they used, and what their status is/was.
+
 When a customer provides a Run ID and a timestamp, you can check if this is an Activity ID or a Run ID by running this query:
 ```
 ActivityRuns
@@ -80,9 +83,23 @@ ActivityRuns
 | where activityRunId == "<RUN ID>"
 ```
 
-Using RUNID:
-AdfTraceEvent 
-| where TraceCorrelationId == "<RUN ID>"; 
+You can use this information to gather the **activityRunId** which you can use to find run-time information from the table CustomLogEvent.
+However, you can also use ActivityRuns to see which activities are failing, what kind of activity was failing, and how frequently it is failing.
+
+You can use a query like the one below to see how frequently a specific activity failed in the last few days. This can help to pinpoint an intermittent issue, or a continuous issue.
+```
+ActivityRuns
+| where subscriptionId =~ "204671FF-5130-9999-819C-E314B65F9D06"
+| where dataFactoryName =~ "whhenderadf"
+| where activityName == "CustomActivity1"
+| where status != "InProgress"
+| where status != "Queued"
+| where TIMESTAMP >= ago (5d)
+|project TIMESTAMP, pipelineName, pipelineRunId, activityRunId, status
+```
+
+
+
 
 Using RunId:
 ActivityRuns 
