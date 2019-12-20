@@ -102,19 +102,11 @@ ActivityRuns
 
 **CustomLogEvent** _(Query against Azuredmprod)_
 
-
-Using RunId:
-ActivityRuns 
-| where pipelineRunId == "<RUN ID>;
-
-Under Azuredmprod (data movement)
-Using ACTIVITY ID:
+```
 CustomLogEvent
-| where ActivityId == "<Activity ID>";
+| where ActivityId == "<Activity ID>"
+```
 
-Using Activity ID:
-ExecutionApiCall
-| where * contains "<Activity ID>"
 
 
 # Azure Data Factory V1 Queries
