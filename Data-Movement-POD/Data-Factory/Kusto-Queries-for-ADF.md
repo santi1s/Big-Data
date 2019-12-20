@@ -29,7 +29,7 @@ You can use Search ++ to make a quick review of all tables, and see which one ha
 # Helpful Kusto Language Tidbits
 
 1. Make a search be agnostic to case using =~ instead of ==
-For example: 
+For example, the below query will ignore the case of whhenderadf when returning results: 
 
 ```
 ActivityRuns
@@ -43,7 +43,7 @@ For example:
 ActivityRuns
 | where subscriptionId =~ "204671FF-5130-9999-819C-E314B65F9D06"
 | where dataFactoryName =~ "whhenderadf"
-|project TIMESTAMP, pipelineName, pipelineRunId, activityName, activityRunId, status, effectiveIntegrationRuntime
+| project TIMESTAMP, pipelineName, pipelineRunId, activityName, activityRunId, status, effectiveIntegrationRuntime
 ``` 
 
 3. You can search a date range in the past from your current date by using the ago( ) function.
