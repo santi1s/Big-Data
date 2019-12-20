@@ -12,6 +12,8 @@ d. ADF product OneNote: [DM CSS Handbook](onenote:#base-path=https://microsoft.s
 
 4. Install Kusto: https://kusto.azurewebsites.net/docs/tools/kusto-explorer.html
 Add the below urls under 'Connections', 'Add Connection'
+![Kusto Add Connection.jpg](/.attachments/Kusto%20Add%20Connection-8130cd16-d90c-4924-8b03-60b01d602eaa.jpg)
+
 a. ADF Prod US West Region https://adfcus.kusto.windows.net:443/​​
 b. ADF Prod North EU Region https://adfneu.kusto.windows.net:443
 c. Data Movement https://azuredmprod.kusto.windows.net:443/AzureDataMovement​
