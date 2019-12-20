@@ -26,13 +26,53 @@ You can use Search ++ to make a quick review of all tables, and see which one ha
 3. If any tables have associated data, they will show up with the number of rows that have the data you are looking for. You can click the number of rows and then select "View Details" to see the logs.
 ![image.png](/.attachments/image-75aa793c-b503-4ac2-ae1a-c2ea264fe80d.png)
 
+# Helpful Kusto Language Tidbits
+
+1. Make a search be agnostic to case using =~ instead of ==
+For example: 
+
+```
+ActivityRuns
+| where dataFactoryName =~ "whhenderadf"
+```
+
+2. Include only some columns in your results by using 'project' and then listing the columns you want. 
+For example:
+
+```
+ActivityRuns
+| where subscriptionId =~ "204671FF-5130-9999-819C-E314B65F9D06"
+| where dataFactoryName =~ "whhenderadf"
+|project TIMESTAMP, pipelineName, pipelineRunId, activityName, activityRunId, status, effectiveIntegrationRuntime
+``` 
+
+3. You can search a date range in the past from your current date by using the ago( ) function.
+For example:
+
+
+
 # Azure Data Factory V2 Queries
 
 _Queries to find pipelines and activity runs. Search in Adfcus or Adfneu depending on the region of the data factory._
 
 When a customer provides a Run ID and a timestamp, you can check if this is an Activity ID or a Run ID by running this query:
-`ActivityRuns
-| where * == "<RUN ID>"`
+```
+ActivityRuns
+| where * == "<RUN ID>"
+```
+
+
+Then you can check which column it falls under. If you know which it is you can use
+
+```
+ActivityRuns
+| where pipelineRunId == "<RUN ID>"
+```
+
+```
+ActivityRuns
+| where activityRunId == "<RUN ID>"
+```
 
 Using RUNID:
 AdfTraceEvent 
