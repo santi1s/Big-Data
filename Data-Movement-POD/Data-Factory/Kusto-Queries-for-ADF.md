@@ -68,7 +68,7 @@ ActivityRuns
 ```
 
 
-Then you can check which column it falls under. If you know which it is you can use
+Then you can check which column it falls under. If you know if you have a pipeline run ID or activity run ID, you can use the associated value:
 
 ```
 ActivityRuns
