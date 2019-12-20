@@ -101,13 +101,29 @@ ActivityRuns
 
 
 **CustomLogEvent** _(Query against Azuredmprod)_
+The CustomLogEvent table will give you run information on any Data Movement based activity (things like Copy Activities, Custom Activites, etc...)
 
+For CustomLogEvent you'll use the Activity Run ID, either given to you by the customer, or found using the ActivityRuns table:
 ```
 CustomLogEvent
 | where ActivityId == "<Activity ID>"
 ```
 
+Look under the "Message" column for runtime information, output information, and error information.
 
+Here's a query you can use to check for the execution information like timeToFirstByte (how long it took for the source to return the first byte of data), queued time (how long it took ADF to run the activity), and the time that each stage of a copy activity took to run (if staging is enabled).
+
+```
+CustomLogEvent 
+| where ActivityId == "<ActivityId>" and TraceMessage == "TransferServiceExecutorExecutionState"
+```
+**JobInfo** _(Query against Azuredmprod)_
+JobInfo can give you information about the integration runtime, and is useful when a customer is using a self-hosted integration runtime. From JobInfo you can find the version, name, and ID of the self-hosted integration runtime using the activity ID
+
+```
+JobInfo 
+| where ActivityId == "<ActivityId>"
+```
 
 # Azure Data Factory V1 Queries
 
