@@ -125,6 +125,14 @@ JobInfo
 | where ActivityId == "<ActivityId>"
 ```
 
+**Hearbeats** _(Query against Azuredmprod)_
+You can use the heartbeats table to look at the health/traffic of a self-hosted IR during an activity run.
+```
+Heartbeats 
+| where AgentGroupId == "<AgentId from JobInfo>" 
+and TIMESTAMP >= start_time of activity and TIMESTAMP <= end_time of activity
+```
+
 # Azure Data Factory V1 Queries
 
 (Coming soon!)
