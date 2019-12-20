@@ -47,7 +47,13 @@ ActivityRuns
 ``` 
 
 3. You can search a date range in the past from your current date by using the ago( ) function.
-For example:
+For example, the below query searches for anything in the last 5 days:
+```
+ActivityRuns
+| where subscriptionId =~ "204671FF-5130-9999-819C-E314B65F9D06"
+| where dataFactoryName =~ "whhenderadf"
+| where TIMESTAMP >= ago(5d)
+```
 
 
 
