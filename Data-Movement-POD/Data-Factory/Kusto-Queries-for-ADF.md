@@ -57,11 +57,12 @@ ActivityRuns
 
 
 
-# Azure Data Factory V2 Queries
+# Azure Data Factory V2 Queries by Table
 
-_Queries to find pipelines and activity runs. Search in Adfcus or Adfneu depending on the region of the data factory._
 
-**ActivityRuns**
+
+**ActivityRuns** _(Query against Adfcus or Adfneu depending on the region of the data factory.)_
+
 The ActivityRuns table will tell you all the activities that ran for specific pipelines, when they ran, what integration runtime they used, and what their status is/was.
 
 When a customer provides a Run ID and a timestamp, you can check if this is an Activity ID or a Run ID by running this query:
@@ -99,6 +100,7 @@ ActivityRuns
 ```
 
 
+**CustomLogEvent** _(Query against Azuredmprod)_
 
 
 Using RunId:
@@ -116,3 +118,5 @@ ExecutionApiCall
 
 
 # Azure Data Factory V1 Queries
+
+(Coming soon!)
