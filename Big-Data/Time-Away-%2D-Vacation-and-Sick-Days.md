@@ -14,6 +14,10 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 # Vacation
 ## Check Available Vacation Time
 1. Go to //tar to check your total vacation balance as of the present date. You can see it here:
+![image.png](/.attachments/image-c6a81e80-3705-4cbd-899d-13b03ae0f83a.png)
+
+2. You can also check for any Flex/Lieu Days on WFM (see section below for Flex/Lieu Days), by going to Personal Accounts, entering the date, and checking your current balance.
+![image.png](/.attachments/image-bde547ef-30f7-47fd-be0c-c2af60327193.png)
 
 ## Request Vacation
 ## Add Vacation to Outlook Calendar
@@ -26,3 +30,5 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 ## Who to Reach Out to When You Are Sick
 ## Automatic Replies
 ## Case Handling for Sick Days
+
+#Flex/Lieu Days
