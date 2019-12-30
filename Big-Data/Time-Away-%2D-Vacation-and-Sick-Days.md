@@ -11,5 +11,5 @@
 #Sick Days
 ## Check Available Sick Days
 ## Who to Reach Out to When You Are Sick
-## Automatic Replied
+## Automatic Replies
 ## Case Handling for Sick Days
