@@ -1,4 +1,3 @@
-# -Work In Progress, Not Yet Complete-
 
 [[_TOC_]]
 
