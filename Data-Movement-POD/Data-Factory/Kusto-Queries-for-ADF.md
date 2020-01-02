@@ -1,5 +1,8 @@
 _First [download Kusto](/Data-Movement-POD/Data-Factory/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](/Data-Movement-POD/Data-Factory/Tools-and-Teams)_
 
+[[_TOC_]]
+
+
 #Kusto Basics for ADF
 
 There are four connections that we can use in Kusto to find logs regarding data factory.
@@ -61,7 +64,8 @@ ActivityRuns
 
 
 
-**ActivityRuns** _(Query against Adfcus or Adfneu depending on the region of the data factory.)_
+###ActivityRuns 
+_(Query against Adfcus or Adfneu depending on the region of the data factory.)_
 
 The ActivityRuns table will tell you all the activities that ran for specific pipelines, when they ran, what integration runtime they used, and what their status is/was.
 
@@ -100,7 +104,8 @@ ActivityRuns
 ```
 
 
-**CustomLogEvent** _(Query against Azuredmprod)_
+###CustomLogEvent
+_(Query against Azuredmprod)_
 The CustomLogEvent table will give you run information on any Data Movement based activity (things like Copy Activities, Custom Activites, etc...)
 
 For CustomLogEvent you'll use the Activity Run ID, either given to you by the customer, or found using the ActivityRuns table:
@@ -117,7 +122,9 @@ Here's a query you can use to check for the execution information like timeToFir
 CustomLogEvent 
 | where ActivityId == "<ActivityId>" and TraceMessage == "TransferServiceExecutorExecutionState"
 ```
-**JobInfo** _(Query against Azuredmprod)_
+
+###JobInfo
+_(Query against Azuredmprod)_
 JobInfo can give you information about the integration runtime, and is useful when a customer is using a self-hosted integration runtime. From JobInfo you can find the version, name, and ID of the self-hosted integration runtime using the activity ID
 
 ```
@@ -125,7 +132,8 @@ JobInfo
 | where ActivityId == "<ActivityId>"
 ```
 
-**Hearbeats** _(Query against Azuredmprod)_
+###Heartbeats
+_(Query against Azuredmprod)_
 You can use the heartbeats table to look at the health/traffic of a self-hosted IR during an activity run.
 ```
 Heartbeats 
