@@ -143,6 +143,7 @@ After your vacation has been approved, or on the first day back from your vacati
 ![image.png](/.attachments/image-4ea19a1f-c598-4f3a-a108-07315703f23c.png)
 
 #Sick Days
+
 ## Check Available Sick Days
 1. Go to //tar to check your available sick day balance. You can see it here:
 ![image.png](/.attachments/image-cfd39796-e46b-4e11-94a9-618b363846c4.png)
