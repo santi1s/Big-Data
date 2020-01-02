@@ -24,6 +24,8 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 
 ## Request Vacation
 
+_**Note that the earlier you request vacation time, the better!**_
+
 1. Go to WFM and select "Schedule Editor"
 ![image.png](/.attachments/image-69aea1dc-5ba4-4870-a819-717d41f47742.png)
 
