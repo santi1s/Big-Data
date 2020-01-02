@@ -10,10 +10,10 @@ Please do refer to our benefits site (//benefits) and our Human Resources site (
 _If you do not have access to either site, please reach out to your manager or TA_
 
 **WFM:** https://wfm2.corp.microsoft.com/WFO/WFMPRD/home/dashboard/
-This site is for vacation/schedule requests, as well as viewing your shift times and queue times.
+This site is for vacation/schedule requests as well as viewing your shift times and queue times.
 
 **TAR:** https://tar/Common/Home.aspx (//tar)
-This is the Time and Absence Microsoft site where you can see vacation and sick leave balances, as well as the site where you record any vacation, sick leave, Jury Duty, or Bereavement (this guide does not cover bereavement or jury duty. Please look into benefits to reach out to your manager if you have question about bereavement or jury duty processes)
+This is the Time and Absence Microsoft site where you can see vacation and sick leave balances as well as the site where you record any vacation, sick leave, Jury Duty, or Bereavement (this guide does not cover bereavement or jury duty. Please look into benefits to reach out to your manager if you have question about bereavement or jury duty processes)
 # Vacation
 ## Check Available Vacation Time
 1. Go to //tar to check your total vacation balance as of the present date. You can see it here:
