@@ -44,7 +44,13 @@ Note that selecting "Add" does not guarantee vacation time.
 This time still needs to be approved by your manager.
 ```
 
-6. Send an email to your manager indicating that you have submitted a request for the specified day/days, and cc the WFM scheduling team (wfms@microsoft.com).
+6. For a vacation that is **2 weeks or longer** , please also make a request for Pre OOF days. 
+Pre OOF days are days you will be in the office but out of the queue before your vacation. You can use these days to wrap up outstanding cases and hand off any cases that will need to be tended in your absence.
+![image.png](/.attachments/image-c0b528b4-338d-4107-afb2-bc48036e69ae.png)
+For a vacation of two weeks, request one pre-oof day. For a longer vacation, please discuss your caseload and pre-oof plan with your manager.
+
+
+7. Send an email to your manager indicating that you have submitted a request for the specified day/days, and cc the WFM scheduling team (wfms@microsoft.com).
 
 ## Check if Vacation Was Approved
 1. When vacation is approved and your schedule is updated, you will receive an email telling you what dates have been updated.
@@ -117,10 +123,31 @@ Best Regards,
 ```
 
 ## Case Handoff for Vacation
+
+For short vacations, handoff is only necessary for critical or active cases, or cases where customers would like to meet during your time away.
+
+For longer vacations, please close what cases you can. For critical or very active cases, let your customers know you will be away and that you will be handing their case to a teammate. If at all possible, find a teammate in your POD who will be able to take the case, and provide a warm handoff.
+
+For slower cases where you are waiting on the customer or product team, and don't expect any update will be needed until after your return, please let the customer know of your absence and confirm if they are alright to have an update on your return, or if they would prefer to be handed off to another engineer in the meantime. 
+
+If you are not able to find a case owner for cases that need handoff during your time away, please reach out to your TA with a list of cases, for each case including number, product, brief description, brief status.
+
 ## Logging Vacation Hours
+
+After your vacation has been approved, or on the first day back from your vacation, you'll need to log your vacation hours in Time and Absence Reporting (TAR). This is how all your vacation and sick hours are tracked and logged.
+
+1. Go to //tar, and navigate to the dates of your vacation:
+![image.png](/.attachments/image-7e4c4d49-4711-4a18-aebc-94c1f5edd082.png)
+
+2. Enter your usual number of work hours under the "Vacation" column for all your vacation days. If you are not ready to submit the hours or need more time to edit, select 'Save'. If the hours are finalized, please select 'Submit'. **Please note that to log your hours they must be 'Submitted', and not only saved.**
+![image.png](/.attachments/image-4ea19a1f-c598-4f3a-a108-07315703f23c.png)
 
 #Sick Days
 ## Check Available Sick Days
+1. Go to //tar to check your available sick day balance. You can see it here:
+![image.png](/.attachments/image-cfd39796-e46b-4e11-94a9-618b363846c4.png)
+
+If you need more time than your current sick leave balance allows, please reach out to your manager. Microsoft has a lot of options to work with you through medical absences. 
 ## Who to Reach Out to When You Are Sick
 ## Automatic Replies
 ## Case Handling for Sick Days
