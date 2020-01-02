@@ -1,4 +1,8 @@
 # -Work In Progress, Not Yet Complete-
+
+[[_TOC_]]
+
+
 # Benefits Page/Microsoft Policy
 _This guide that covers best practices on the Big Data team for requesting/logging Vacation and Sick Days.
 Please do refer to our benefits site (//benefits) and our Human Resources site (//hrweb) or reach out to your manager for additional questions, or conversations about specific scenarios._
