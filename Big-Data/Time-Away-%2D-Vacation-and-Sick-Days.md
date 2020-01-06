@@ -255,6 +255,6 @@ This time still needs to be approved by your manager.
 
 7. Send an email to your manager indicating that you have submitted a request for the specified day/days, and cc the WFM scheduling team (wfms@microsoft.com).
 
-## Logging Flex/Lieu Days
+## Record Flex/Lieu Days
 
 Flex/Lieu days do not need to be recorded in TAR.
