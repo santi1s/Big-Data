@@ -160,15 +160,6 @@ If you are ill and need to take a sick day, please send an email to wfms@microso
 
 The WFM team will update the schedule.
 
-## Record Sick Days
-
-On the first day back from your sick day/days, you'll need to log your hours in Time and Absence Reporting (TAR). This is how all your vacation and sick hours are tracked and logged.
-
-1. Go to //tar, and navigate to your sick days:
-![image.png](/.attachments/image-7e4c4d49-4711-4a18-aebc-94c1f5edd082.png)
-
-2. Enter your usual number of work hours under the "Vacation" column for all your vacation days. If you are not ready to submit the hours or need more time to edit, select 'Save'. If the hours are finalized, please select 'Submit'. **Please note that to log your hours they must be 'Submitted', and not only saved.**
-
 ## Automatic Replies
 
 For long vacation or sick days, it is good to set automatic replies that contain your expected return date, so teammates and customers know when you are expected to be back, and if there are any other avenues of communication open to them in your absence. Below are example automatic replies for both Internal, and External communications, as well as steps to set them.
@@ -222,10 +213,20 @@ If you are unable to find a case owner, reach out to a teammate or your TA with 
 
 For any **scheduled meetings** with customers, please reschedule, or arrange for a teammate to join the meeting instead.
 
+## Record Sick Days
+
+On the first day back from your sick day/days, you'll need to log your hours in Time and Absence Reporting (TAR). This is how all your vacation and sick hours are tracked and logged.
+
+1. Go to //tar, and navigate to your sick days:
+![image.png](/.attachments/image-7e4c4d49-4711-4a18-aebc-94c1f5edd082.png)
+
+2. Enter your usual number of work hours under the "Vacation" column for all your vacation days. If you are not ready to submit the hours or need more time to edit, select 'Save'. If the hours are finalized, please select 'Submit'. **Please note that to log your hours they must be 'Submitted', and not only saved.**
+
 #Flex/Lieu Days
 Flex/Lieu days are granted when you volunteer to work your usual hours on days that would otherwise be Microsoft holidays. You can find our holidays here ([MSFT Holidays](https://microsoft.sharepoint.com/sites/hrw/Pages/globalholidays.aspx))
 
 Sometimes Big Data managers will ask for volunteers of these holidays, and if you sign up and work those days, you will be granted a Flex/Lieu hours/days that you can use to essentially take that holiday at another time.
+
 
 Flex/Lieu days do not need to be recorded in TAR, but they do need to be requested in WFM.
 
