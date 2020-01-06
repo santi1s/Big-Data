@@ -7,4 +7,4 @@ We would love any feedback you'd like to provide:
 -Additional Information/Clarity for Existing Guides
 -Guides/Pages You Would Like to See
 
-**Please follow up on our Wiki Feedback Teams Channel:** [Teams Link](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/24054/Big-Data)
+**Please follow up on our Wiki Feedback Teams Channel:** [Teams Link](https://teams.microsoft.com/l/channel/19%3a36f2d8d531614f75bc1c18c1fbf5a986%40thread.skype/Wiki%2520Feedback?groupId=1f72a2c4-5887-4c80-b3e0-2abbac19e874&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
