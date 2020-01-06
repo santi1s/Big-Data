@@ -6,6 +6,10 @@
 _This guide that covers best practices on the Big Data team for requesting/logging Vacation and Sick Days.
 Please do refer to our benefits site (//benefits) and our Human Resources site (//hrweb) or reach out to your manager for additional questions, or conversations about specific scenarios._
 
+##MSFT Official Holidays
+Microsoft has a number of yearly holidays where, unless you volunteer specifically to work those days, you do not need to request time off.
+You can find those here on the //hrweb page: [Link](https://microsoft.sharepoint.com/sites/HRw/Pages/globalholidays.aspx)
+
 # Sites You Will Need
 _If you do not have access to either site, please reach out to your manager or TA_
 
