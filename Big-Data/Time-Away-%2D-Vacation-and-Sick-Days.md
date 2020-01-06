@@ -137,7 +137,7 @@ For slower cases where you are waiting on the customer or product team, and don'
 
 If you are not able to find a case owner for cases that need handoff during your time away, please reach out to your TA with a list of cases, for each case including number, product, brief description, brief status.
 
-## Logging Vacation Hours
+## Record Vacation Hours
 
 After your vacation has been approved, or on the first day back from your vacation, you'll need to log your vacation hours in Time and Absence Reporting (TAR). This is how all your vacation and sick hours are tracked and logged.
 
