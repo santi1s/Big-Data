@@ -7,8 +7,12 @@ _This guide that covers best practices on the Big Data team for requesting/loggi
 Please do refer to our benefits site (//benefits) and our Human Resources site (//hrweb) or reach out to your manager for additional questions, or conversations about specific scenarios._
 
 ##MSFT Official Holidays
-Microsoft has a number of yearly holidays where, unless you volunteer specifically to work those days, you do not need to request time off.
-You can find those here on the //hrweb page: [Link](https://microsoft.sharepoint.com/sites/HRw/Pages/globalholidays.aspx)
+Microsoft has a number of yearly holidays where you do not need to spend vacation hours.
+For major holidays like Thanksgiving and Christmas, unless you volunteer specifically to work those days, you do not need to request time off.
+For more minor holidays like Presidents day, Big Data does not see a large volume drop in cases, so we treat these as a normal workday. If you want these days off, you will need to request these days through WFM like usual-- However, you do not need to spend vacation hours to take these holidays off, and if you work these days, you will be given Flex Time.
+Your manager should email you about these holidays beforehand, and if you have any questions, please reach out to you manager.
+
+You can find a list of Microsoft Holidays here on the //hrweb page: [Link](https://microsoft.sharepoint.com/sites/HRw/Pages/globalholidays.aspx)
 
 # Sites You Will Need
 _If you do not have access to either site, please reach out to your manager or TA_
