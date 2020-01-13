@@ -68,8 +68,6 @@ If these two actions are assigned together, they grant the role effective Superu
 
 ACLs are Data-Level permissions, applied for specific users, groups, or service principals, that grant access to specific data paths.
 Unless a user is an RBAC Owner,  or is part of a group that is an RBAC Owner, or has a custom role with the SuperUser Action applied, the user will require ACLs to be able to access the data.
-## How To Apply ACL Permissions
-### Best Practices
 
 ## What Permissions Are Needed
 ### Browsing/Portal
@@ -79,7 +77,17 @@ Unless a user is an RBAC Owner,  or is part of a group that is an RBAC Owner, or
 
 ## The Mask
 
-## How to Manage Permissions
+## Apply/Manage Permissions
+
+### Portal
+The portal is one of the most common tools for managing ACL permissions. Under the 'Data Explorer' you can select any file/folder and choose 'Access' to view or edit its permissions.
+
+### Tools and Scripts
+### Best Practices
+
+1. Only 32 individual permissions profiles are able to be added to any file/folder, so it is highly suggested that permissions be applied to groups, and then users are added to those groups when they need access.
+
+2. For high-volume permissions edits, it is highly suggested that you do not use the portal, as the portal will have to remain open for the duration of the operation, and the portal is not as efficient. Use the Java tool, mentioned above, or some other script like .NET or PowerShell
 
 #Superusers vs Owning Users vs Owning Groups
 
