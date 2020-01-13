@@ -44,15 +44,19 @@ There are four Built-In Roles that customers can assign their users, and it is p
 | User Access Administrator | Add and Remove Roles | Governed by ACL | The User Access Administrator role can manage RBAC user access to accounts. The UAA role can be assigned any access to the data using ACLs. |
 
 ## Custom Roles
-[Custom Roles Documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
+RBAC roles are all built out of a set of Actions, that grant any user assigned that role the ability to take those actions.
+Custom roles do not come up frequently on ADLS cases, so this knowledge is helpful, but not critical. 
+For more information on building custom roles, go here: [Custom Roles Documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
 )
 
-[PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/module/az.resources/get-azprovideroperation?view=azps-3.3.0)
+To see what kinds of actions can be taken on any kind of Azure resource, you can use PowerShell:
+[AzProviderOperation Documentation](https://docs.microsoft.com/en-us/powershell/module/az.resources/get-azprovideroperation?view=azps-3.3.0)
 
+For example, to see all actions available on Data Lake Store Gen 1, you can use this PowerShell Command:
 ```
 Get-AzProviderOperation Microsoft.DataLakeStore/*
 ```
-Two actions to note:
+**Two actions to note for ADLS Gen 1:**
 Microsoft.DataLakeStore/accounts/Superuser/action
 Microsoft.Authorization/roleAssignments/write
 
