@@ -5,6 +5,8 @@ For the most up to date information, please refer to our official, public-facing
 [ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
 [ADLS Gen 1 Security Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)_
 
+_For Troubleshooting, please see our TSG([Troubleshooting Access](/Analytics/Data-Lake-Store/TSGs/Troubleshooting-Access))_
+
 
 [[_TOC_]]
 
