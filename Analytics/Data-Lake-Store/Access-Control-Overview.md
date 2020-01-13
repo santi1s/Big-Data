@@ -84,20 +84,20 @@ I have regularly sent personalized versions of the below paragraph to give a hig
 Azure Data Lake Store Gen 1 has two Levels of security:
 
 1. First Level of Security – RBAC
-You can see this level of permission on the 'Access Control (IAM)' menu. RBAC (Role Based Access Control) roles provide management rights to your Data Lake resource, but do not necessarily grant access to the Data.
+You can see this level of permission in the 'Access Control (IAM)' menu. RBAC (Role Based Access Control) roles provide management rights to your Data Lake resource, but do not necessarily grant access to the Data.
 
-You can see on this chart in the documentation what permissions the RBAC roles grant users on the data lake: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management
+You can see on the RABC for Account Management chart in the documentation what permissions the RBAC roles grant users on the data lake: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management
 
 The only RBAC role that grants access to the data is the 'Owner' role, which grants full access to all data.
 All other RBAC roles need to be to be assigned ACLs in order to access the data.
 
 2. Second Level of Security – ACLs
-ACLs are permissions assigned to the data directly. If you open the Data Explorer and select “Access” at the top menu, you can see the ACLs for that folder.
-Users need to be granted specific access to any files or folders they need access to, and granting “Read” access to one file deep in a folder nest isn’t going to be enough for a user to be able to browse to that file, or access the file through code You’ll need to assign appropriate permissions for your users in order for them to be able to access their data.
+ACLs are permissions assigned to the data directly. If you open the Data Explorer in the Data Lake Resource and select “Access” at the top menu, you can see the ACLs for that folder.
+Users need to be granted specific access to any files or folders, and granting “Read” access to one file deep in a folder nest isn’t going to be enough for a user to be able to browse to that file, or access the file through code. You’ll need to assign appropriate permissions for your users in order for them to be able to access their data.
 For example – 
 In order to be able to read a file in the portal, you will need to assign R-X permissions to the folder path starting at the root and then down to the parent folder. You will then need R-- access on the file itself.
 
-The documentation covers common scenarios, permissions and how to assign them, explains how permissions inheritance works, and other aspects of data lake security as well.
+The documentation covers common scenarios like the one above, permissions and how to assign them, explains how permissions inheritance works, and other aspects of data lake security as well.
 Have a look and if you have any specific questions, please let me know!
 Documentation: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control
 ```
