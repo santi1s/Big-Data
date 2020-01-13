@@ -81,7 +81,7 @@ Often, though the documentation covers all the principals above, customers have 
 I have regularly sent personalized versions of the below paragraph to give a high-level understanding of our system augmented with some examples from the customer's own environment:
 
 ```
-Azure Data Lake Store has two Levels of Security:
+Azure Data Lake Store Gen 1 has two Levels of security:
 
 1. First Level of Security – RBAC
 You can see this level of permission on the 'Access Control (IAM)' menu. RBAC (Role Based Access Control) roles provide management rights to your Data Lake resource, but do not necessarily grant access to the Data.
