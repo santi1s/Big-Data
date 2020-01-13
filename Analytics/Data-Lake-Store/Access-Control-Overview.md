@@ -1,7 +1,10 @@
 --WIP--
 
 _This guide is a breakdown of the access/security documentation.
-For the most up to date information, please refer to our official, public-facing documentation: [ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)_
+For the most up to date information, please refer to our official, public-facing documentation: 
+[ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
+[ADLS Gen 1 Security Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)_
+
 
 [[_TOC_]]
 
@@ -20,6 +23,27 @@ Being very familiar with this documentation will be critical in your ability to 
 ```
 
 #RBAC Permissions
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management)
+RBAC Permissions are the permissions applied under Access Control (IAM)
+![image.png](/.attachments/image-0f90baa5-5e3e-4eae-8169-3fd69f15aa1e.png)
+
+RBAC (Role Based Access Control) Permissions are essentially the level of control that a user has on an Azure Resource. For some roles, permissions on the resource also means permissions to the data itself, but for many roles in Data Lake store, the RBAC assignment only affects management capabilities, and all data access is governed by ACL permissions.
+
+## Built-In Roles
+There are four Built-In Roles that customers can assign their users, and it is possible for the user to have **no** RBAC permissions assigned, but they will still have access to the data.
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management)
+
+|Role|Management rights| Data access rights |  Explanation|
+|--|--|--|--|
+| No RBAC Role Assigned | None | Governed by ACL | The user cannot use the Azure portal or Azure PowerShell cmdlets to browse Data Lake Storage Gen1. The user can use command-line tools only. |
+| Owner | All | All | The Owner role is a **superuser**. This role can manage everything and has full access to data without ACLS.|
+| Reader | Read-Only | Governed by ACL | The Reader role can view everything regarding account management, such as which user is assigned to which role. The Reader role can't make any changes to management functions. The reader role can be assigned any access to the data using ACLs. |
+| Contributor | All except Add and Remove Roles | Governed by ACL | The Contributor role can manage some aspects of an account, such as deployments and creating and managing alerts. The Contributor role cannot add or remove roles. The contributor role can be assigned any access to the data using ACLs.|
+| User Access Administrator | Add and Remove Roles | Governed by ACL | The User Access Administrator role can manage RBAC user access to accounts. The UAA role can be assigned any access to the data using ACLs. |
+
+## Custom Roles
+
+
 
 #ACL Permissions
 ## How To Apply ACL Permissions
