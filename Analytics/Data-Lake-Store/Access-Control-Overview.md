@@ -70,12 +70,42 @@ ACLs are Data-Level permissions, applied for specific users, groups, or service 
 Unless a user is an RBAC Owner,  or is part of a group that is an RBAC Owner, or has a custom role with the SuperUser Action applied, the user will require ACLs to be able to access the data.
 
 ## What Permissions Are Needed
-### Browsing/Portal
-### Code
+
+Common scenarios/operations and permissions needed to complete them are listed in the documentation here: [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#common-scenarios-related-to-permissions)
+
+_**Most Frequent Scenarios**:_
+
+1. In order to perform any operation on any file, a user will need at least --X permissions from the root folder all the way to the file in question.
+2. In order to be able to **browse** to a file or folder (in the portal, or in any other UI where the user will traverse the folder structure), --X is not enough, and a user will need at least R-X permissions from the root folder all the way to the file in question. 
+R-X allows the user to list all files/folders contained in a folder. This ability to list is what allows them to see the files and folders to be able to click through them.
+
 
 ## Permissions Inheritance/Default Permissions
 
+When a new file or folder is created on the data lake it **does not automatically inherit the parent folder's permissions**. Instead, the new file or folder inherits the **Default Permissions**. You can find the Default permissions in the portal under the Data Explorer -> Access -> Advanced
+![image.png](/.attachments/image-8e7c9fd8-dca3-4ace-a570-4792557bec51.png)
+
+For example, in the scenario above, note that the only user that will be automatically granted permissions on a new file or folder is whhenderintadfv2.
+
+If any other users needed to be granted automatic access to new files and folders under this folder, they would need to be granted default permissions on this folder.
+
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#default-permissions-on-new-files-and-folders)
+
 ## The Mask
+
+The Mask on an ADLS File/Folder is essentially **effective permissions** on that file or folder.
+You can find the mask settings on any file/folder by going to Access -> Advanced, and then beneath the Default permissions is the mask.
+
+![image.png](/.attachments/image-33e0010d-c21f-4a4e-9069-3d3adc59a805.png)
+
+The mask limits access for named users/groups (users/groups that have been granted permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
+
+For example, in this image:
+![image.png](/.attachments/image-e25a8fbb-d974-4ff7-a1d7-3710e1a0c1f1.png)
+
+The mask is listed as --X, so even though whhenderTestSP is listed as having RWX under 'Assigned Permissions', the mask has created an effective permission of --X. Whenever whhenderTestSP interacts with this folder, it will only have --X permissions.
+
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#the-mask)
 
 ## Apply/Manage Permissions
 
