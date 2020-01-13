@@ -64,12 +64,22 @@ Microsoft.Authorization/roleAssignments/write
 If these two actions are assigned together, they grant the role effective Superuser permissions.
 
 #ACL Permissions
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
+
+ACLs are Data-Level permissions, applied for specific users, groups, or service principals, that grant access to specific data paths.
+Unless a user is an RBAC Owner,  or is part of a group that is an RBAC Owner, or has a custom role with the SuperUser Action applied, the user will require ACLs to be able to access the data.
 ## How To Apply ACL Permissions
+### Best Practices
+
 ## What Permissions Are Needed
 ### Browsing/Portal
 ### Code
+
 ## Permissions Inheritance/Default Permissions
+
 ## The Mask
+
+## How to Manage Permissions
 
 #Superusers vs Owning Users vs Owning Groups
 
