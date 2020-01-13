@@ -1,11 +1,13 @@
 [Data Lake TSG OneNote](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29)
 
+[[_TOC_]]
 
-## Recovery of user-deleted data is not supported, and so cannot be guaranteed, but we will make our best effort to restore their data.
+
+**Recovery of user-deleted data is not supported, and so cannot be guaranteed, but we will make our best effort to restore their data.**
 Communicate this to your customer, to set expectations, and gather the information below based on their situation.
 
 
-#  Data Lake Resource Has Been Deleted
+#  Entire Data Lake Resource Has Been Deleted
 
 ## Was the deleted data lake resource encrypted?
 _Yes_ - We cannot restore this data lake.
@@ -29,7 +31,7 @@ Information to Be Gathered from Customer:
 Information to be Gathered by CSS:
 - Find the Jarvis query showing the path deleted.
 
-### Jarvis Instructions:
+### Jarvis Instructions
 
 1. Follow the link: https://jarvis-west.dc.ad.msft.net/C8EDB5E 
 
