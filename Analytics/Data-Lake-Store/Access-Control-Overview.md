@@ -13,6 +13,11 @@ Data Lake has three levels of security:
 3. ACL Permissions
 
 The firewall is address-based security and acts like any other firewall. RBAC Permissions and ACL Permissions are user-based permissions.
+```
+Note:
+Understanding how these permissions work will allow you to solve many/most ADLS cases.
+Being very familiar with this documentation will be critical in your ability to resolve ADLS cases quickly.
+```
 
 #RBAC Permissions
 
@@ -21,7 +26,7 @@ The firewall is address-based security and acts like any other firewall. RBAC Pe
 ## What Permissions Are Needed
 ### Browsing/Portal
 ### Code
-## Permissions Inheritance
+## Permissions Inheritance/Default Permissions
 ## The Mask
 
 #Superusers vs Owning Users vs Owning Groups
