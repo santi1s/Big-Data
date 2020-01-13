@@ -45,6 +45,16 @@ There are four Built-In Roles that customers can assign their users, and it is p
 [Custom Roles Documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
 )
 
+[PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/module/az.resources/get-azprovideroperation?view=azps-3.3.0)
+
+```
+Get-AzProviderOperation Microsoft.DataLakeStore/*
+```
+Two actions to note:
+Microsoft.DataLakeStore/accounts/Superuser/action
+Microsoft.Authorization/roleAssignments/write
+
+If these two actions are assigned together, they grant the role effective Superuser permissions.
 
 #ACL Permissions
 ## How To Apply ACL Permissions
