@@ -22,10 +22,9 @@ The firewall is address-based security and acts like any other firewall. RBAC Pe
 ### Browsing/Portal
 ### Code
 ## Permissions Inheritance
+## The Mask
 
 #Superusers vs Owning Users vs Owning Groups
-
-#Permissions Inheritance
 
 #Firewall
 ## W/ A VNet
