@@ -113,6 +113,19 @@ The mask is listed as --X, so even though whhenderTestSP is listed as having RWX
 The portal is one of the most common tools for managing ACL permissions. Under the 'Data Explorer' you can select any file/folder and choose 'Access' to view or edit its permissions.
 
 ### Tools and Scripts
+
+1. Java Tool
+This tool will allow you to recursively specify permissions (both access and default) for users and groups through your entire data tree. It runs more quickly than operations in the portal and doesn’t require that you leave a browser tab open.
+Here is the link to the tool download that includes documentation and getting started tips:
+https://azure.github.io/data-lake-adlstool/doc/
+
+2. Azure CLI 
+The Azure CLI is a command tool
+https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-cli-2.0#work-with-permissions-and-acls-for-a-data-lake-storage-gen1-account
+
+
+For more information on ACLEntry strings:
+https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.datalake.store.acl._acl_entry
 ### Best Practices
 
 1. Only 32 individual permissions profiles are able to be added to any file/folder, so it is highly suggested that permissions be applied to groups, and then users are added to those groups when they need access.
