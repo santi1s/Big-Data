@@ -42,7 +42,8 @@ There are four Built-In Roles that customers can assign their users, and it is p
 | User Access Administrator | Add and Remove Roles | Governed by ACL | The User Access Administrator role can manage RBAC user access to accounts. The UAA role can be assigned any access to the data using ACLs. |
 
 ## Custom Roles
-
+[Custom Roles Documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
+)
 
 
 #ACL Permissions
