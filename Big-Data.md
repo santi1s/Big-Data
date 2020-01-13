@@ -1,4 +1,4 @@
-This project has been deprecated and you should use the individual team projects instead.
+
 
 
 
