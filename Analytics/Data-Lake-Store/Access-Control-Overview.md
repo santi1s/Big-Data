@@ -17,6 +17,15 @@ The firewall is address-based security and acts like any other firewall. RBAC Pe
 #RBAC Permissions
 
 #ACL Permissions
+## How To Apply ACL Permissions
+## What Permissions Are Needed
+### Browsing/Portal
+### Code
+## Permissions Inheritance
+
+#Superusers vs Owning Users vs Owning Groups
+
+#Permissions Inheritance
 
 #Firewall
 ## W/ A VNet
