@@ -6,16 +6,7 @@
 **Recovery of user-deleted data is not supported, and so cannot be guaranteed, but we will make our best effort to restore their data.**
 Communicate this to your customer, to set expectations, and gather the information below based on their situation.
 
-
-#  Entire Data Lake Resource Has Been Deleted
-
-## Was the deleted data lake resource encrypted?
-_Yes_ - We cannot restore this data lake.
-_No_ - Open an ICM with the Data Lake Store/Store team, and select the "Account Related" Type Of Issue
-https://icm.ad.msft.net/imp/v3/incidents/create
-Provide the name of the resource, subscription ID, resource group name, region, and the time of deletion to the product team.
-
-# Data Files or Folders Have Been Deleted
+# Recover Files or Folders That Have Been Deleted
 
 Gather the below information, and then create an ICM(https://icm.ad.msft.net/imp/v3/incidents/create) to the Azure Data Lake Store/Store team setting the Type of Incident to File/Folder Deletion/Recovery.
 
@@ -56,3 +47,11 @@ a. If it is a single operation, gather the Activity ID for the product team and 
 b. If it is multiple operations, provide the Jarvis link with all delete operations to product team.
 (You can find the Jarvis link at the top right of the lefthand blade, under the little link image)
 ![Jarvis Link Link.jpg](/.attachments/Jarvis%20Link%20Link-fc343569-0146-44a6-a90a-727cd3ad4763.jpg)
+
+#  Recover an Entire Data Lake That Was Deleted
+
+## Was the deleted data lake resource encrypted?
+_Yes_ - We cannot restore this data lake.
+_No_ - Open an ICM with the Data Lake Store/Store team, and select the "Account Related" Type Of Issue
+https://icm.ad.msft.net/imp/v3/incidents/create
+Provide the name of the resource, subscription ID, resource group name, region, and the time of deletion to the product team.
