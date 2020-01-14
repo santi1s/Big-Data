@@ -1,5 +1,5 @@
 
-_This guide is a breakdown of the access/security documentation.
+_This guide is a breakdown of the access/security documentation for quick troubleshooting and helpful tips.
 For the most up to date information, please refer to our official, public-facing documentation: 
 [ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
 [ADLS Gen 1 Security Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)_
