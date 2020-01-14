@@ -12,6 +12,12 @@ _For Troubleshooting, please see our TSG([Troubleshooting Access](/Analytics/Dat
 
 # Basic Principals
 
+```
+Note:
+Understanding how these permissions work will allow you to solve many/most ADLS cases.
+Being very familiar with this documentation will be critical in your ability to resolve ADLS cases quickly.
+```
+
 Data Lake has three levels of security:
 1. Firewall - Network Level Security
 2. RBAC Permissions - User/Resource Level Security
@@ -19,21 +25,15 @@ Data Lake has three levels of security:
 
 These permissions can all play a part in a user's access to the data, and this guide covers the basics of all three below! In general, however, refer to the Firewall when dealing with network security, refer to RBAC when dealing with Resource-Level security, and refer to ACL permissions when dealing with data-level security.
 
-```
-Note:
-Understanding how these permissions work will allow you to solve many/most ADLS cases.
-Being very familiar with this documentation will be critical in your ability to resolve ADLS cases quickly.
-```
-
 #RBAC Permissions
 [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management)
 RBAC Permissions are the permissions applied under Access Control (IAM)
 ![image.png](/.attachments/image-0f90baa5-5e3e-4eae-8169-3fd69f15aa1e.png)
 
-RBAC (Role Based Access Control) Permissions are essentially the level of control that a user has on an Azure Resource. For some roles, permissions on the resource also means permissions to the data itself, but for many roles in Data Lake store, the RBAC assignment only affects management capabilities, and all data access is governed by ACL permissions.
+RBAC (Role Based Access Control) Permissions are essentially the level of control that a user has on an Azure Resource (The Azure Resource in this case being the Data Lake resource itself). For some roles and resources, permissions on the resource also means permissions to the data itself, but for many roles in Data Lake store the RBAC assignment only affects management capabilities and all data access is governed by ACL permissions.
 
 ## Built-In Roles
-There are four Built-In Roles that customers can assign their users, and it is possible for the user to have **no** RBAC permissions assigned, but they will still have access to the data.
+There are four Built-In RBAC Roles that customers can assign their users, and it is possible for the user to have **no** RBAC permissions assigned, but they will still have access to the data.
 [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview#rbac-for-account-management)
 
 |Role|Management rights| Data access rights |  Explanation|
@@ -45,7 +45,7 @@ There are four Built-In Roles that customers can assign their users, and it is p
 | User Access Administrator | Add and Remove Roles | Governed by ACL | The User Access Administrator role can manage RBAC user access to accounts. The UAA role can be assigned any access to the data using ACLs. |
 
 ## Custom Roles
-RBAC roles are all built out of a set of Actions, that grant any user assigned that role the ability to take those actions.
+RBAC roles are all built out of a set of Actions that grant any user assigned that role the ability to take those actions.
 Custom roles do not come up frequently on ADLS cases, so this knowledge is helpful, but not critical. 
 For more information on building custom roles, go here: [Custom Roles Documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles
 )
@@ -61,12 +61,12 @@ Get-AzProviderOperation Microsoft.DataLakeStore/*
 Microsoft.DataLakeStore/accounts/Superuser/action
 Microsoft.Authorization/roleAssignments/write
 
-If these two actions are assigned together, they grant the role effective Superuser permissions.
+If these two actions are assigned together, they grant the role effective [Superuser](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FAnalytics%2FData%20Lake%20Store%2FAccess%20Control%20Overview&pageId=280882&anchor=superusers-vs-owning-users-vs-owning-groups) permissions.
 
 #ACL Permissions
 [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
 
-ACLs are Data-Level permissions, applied for specific users, groups, or service principals, that grant access to specific data paths.
+ACLs are Data-Level permissions applied for specific users, groups, or service principals, that grant access to specific data paths.
 Unless a user is an RBAC Owner,  or is part of a group that is an RBAC Owner, or has a custom role with the SuperUser Action applied, the user will require ACLs to be able to access the data.
 
 ## What Permissions Are Needed
@@ -75,7 +75,7 @@ Common scenarios/operations and permissions needed to complete them are listed i
 
 _**Most Frequent Scenarios**:_
 
-1. In order to perform any operation on any file, a user will need at least --X permissions from the root folder all the way to the file in question.
+1. In order to perform any operation on any file, a user will need at least --X permissions from the root folder all the way down the folder path to the file in question.
 2. In order to be able to **browse** to a file or folder (in the portal, or in any other UI where the user will traverse the folder structure), --X is not enough, and a user will need at least R-X permissions from the root folder all the way to the file in question. 
 R-X allows the user to list all files/folders contained in a folder. This ability to list is what allows them to see the files and folders to be able to click through them.
 
@@ -85,7 +85,7 @@ R-X allows the user to list all files/folders contained in a folder. This abilit
 When a new file or folder is created on the data lake it **does not automatically inherit the parent folder's permissions**. Instead, the new file or folder inherits the **Default Permissions**. You can find the Default permissions in the portal under the Data Explorer -> Access -> Advanced
 ![image.png](/.attachments/image-8e7c9fd8-dca3-4ace-a570-4792557bec51.png)
 
-For example, in the scenario above, note that the only user that will be automatically granted permissions on a new file or folder is whhenderintadfv2.
+For example, in the scenario above, note that the only user that will be automatically granted permissions on a new file or folder under the root is whhenderintadfv2.
 
 If any other users needed to be granted automatic access to new files and folders under this folder, they would need to be granted default permissions on this folder.
 
@@ -98,12 +98,14 @@ You can find the mask settings on any file/folder by going to Access -> Advanced
 
 ![image.png](/.attachments/image-33e0010d-c21f-4a4e-9069-3d3adc59a805.png)
 
-The mask limits access for named users/groups (users/groups that have been granted permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
+The mask limits access for named users/groups (users/groups that have been granted ACL permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
 
 For example, in this image:
 ![image.png](/.attachments/image-e25a8fbb-d974-4ff7-a1d7-3710e1a0c1f1.png)
 
-The mask is listed as --X, so even though whhenderTestSP is listed as having RWX under 'Assigned Permissions', the mask has created an effective permission of --X. Whenever whhenderTestSP interacts with this folder, it will only have --X permissions.
+The mask is listed as --X, so even though whhenderTestSP, whhenderintadfv2, and whhendertestgroup3 are listed as having RWX under 'Assigned Permissions', the mask has created an effective permission of --X for all of them. Whenever whhenderTestSP, whhenderintadfv2, or whhendertestgroup3 interacts with this folder, it will only have --X permissions.
+
+However the Owning User of the folder (the first user listed under Owner on this folder, in this instance 'Whitney') will maintain RWX permissions because the mask does not affect Owning Users.
 
 [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#the-mask)
 
