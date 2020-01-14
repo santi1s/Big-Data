@@ -8,7 +8,7 @@ Communicate this to your customer, to set expectations, and gather the informati
 
 # Recover Files or Folders That Have Been Deleted
 
-Gather the below information, and then create an ICM(https://icm.ad.msft.net/imp/v3/incidents/create) to the Azure Data Lake Store/Store team setting the Type of Incident to File/Folder Deletion/Recovery.
+Gather the below information, and then create a **Sev 3** ICM(https://icm.ad.msft.net/imp/v3/incidents/create) to the Azure Data Lake Store/Store team setting the Type of Incident to File/Folder Deletion/Recovery.
 
 Information to Be Gathered from Customer:
 - ADLS Resource Name
