@@ -111,8 +111,42 @@ However the Owning User of the folder (the first user listed under Owner on this
 
 ## Apply/Manage Permissions
 
+###Permissions Needed to Manage Permissions
+
+**_RBAC_** - To manage RBAC Permissions a user will need at least an RBAC permission of Contributor, User Access Administrator, or Owner
+
+**_ACLS_** - To manage ACL Permissions on a file or folder a user will either need:
+1. The Owner RBAC Permission on the Data Lake resource. (Which is Superuser permissions)
+**-OR-**
+2. They will need to be the Owning User on that file or folder
+(The Owning Group **does not** have permissions to edit ACLs on files or folders.)
+
+For any questions about Owning User, Owning Group, or Superusers, see the section on all three below.
+
+
 ### Portal
 The portal is one of the most common tools for managing ACL permissions. Under the 'Data Explorer' you can select any file/folder and choose 'Access' to view or edit its permissions.
+![image.png](/.attachments/image-9ae0b425-b8d1-44c8-9b98-40e4c3069ccb.png)
+
+To be able to add or edit these permissions, you will need at least the permissions listed above. Otherwise, the options to add or edit will appear as greyed out.
+
+```
+Tip: You'll note that when a user opens the 'Access' menu, their own effective permissions are shown at the top! 
+You can use this to check the current user's effective permissions and pinpoint hidden issues.
+```
+
+To manage default or mask permissions in the portal, you'll need to access the 'Advanced' menu.
+![image.png](/.attachments/image-f3804288-5f1b-47ec-9652-3df313b0a60a.png)
+
+Here you can find all default permissions, the mask, and the option 'Apply to Children'
+
+### Apply to Children
+
+The Apply to Children/Apply folder permissions to sub-folders is an option in the portal that you can use to apply all a folder's current permissions to its children. 
+_Note: **Current Permissions** refer to the Current Assigned Permissions on the **Access** blade. The current assigned permissions as shown on the 'Access' blade will be the permissions applied to all children. The 'Default Permissions' right above the Apply to All Children button are **not** the permissions that will be applied to all children._
+
+![image.png](/.attachments/image-37e2fc4c-08f7-4bb3-b042-3bbe396e9152.png)
+
 
 ### Tools and Scripts
 
@@ -135,6 +169,13 @@ https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.datalake.store.acl
 2. For high-volume permissions edits, it is highly suggested that you do not use the portal, as the portal will have to remain open for the duration of the operation, and the portal is not as efficient. Use the Java tool, mentioned above, or some other script like .NET or PowerShell
 
 #Superusers vs Owning Users vs Owning Groups
+
+#Everyone Else
+
+The "Everyone Else" option you see at the bottom of the Access permissions blade is an option to set permissions for 'everyone else' who is trying to reach the data lake. 
+
+An 'Everyone Else' setting of --- means that only those with explicit permissions to the data will be able to access it.
+An 'Everyone Else' setting of RWX means that anyone attempting to reach the data will be able to perform any actions against the data.
 
 #Firewall
 ## W/ A VNet
