@@ -165,7 +165,10 @@ https://azure.github.io/data-lake-adlstool/doc/
 The Azure CLI is a command tool that can be used to access and manage the Data Lake! It was built to optimize operations like applying permissions, so is another option for bulk operations.
 https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-cli-2.0#work-with-permissions-and-acls-for-a-data-lake-storage-gen1-account
 
-
+3. PowerShell
+PowerShell is a versatile scripting tool you can use to create, manage, and add data to the data lake! Many of the permissions editing cmdlts in PowerShell are also now recursive, and so don't require scripting to do more heavy-hitting tasks.
+For a tutorial on how to use PowerShell with ADLS Gen 1, go here: [Link](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-powershell)
+For a reference on all cmdlts available for use against ADLS Gen 1, go here:
 
 
 ### Best Practices
@@ -179,6 +182,64 @@ A user with SuperUser access only needs to perform one access check to see if it
 
 #Superusers vs Owning Users vs Owning Groups
 
+One common sticking point for all customers is the difference between the Superuser, Owning Users, and owning Groups roles, and what kinds of actions each of these roles can perform. Each of those roles has been touched on in the guide above, but here we'll have a definition of each as well as the kinds of operations they can perform.
+
+## Superusers (RBAC Owners)
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#the-super-user)
+
+_Definition_ - A superuser is a user that has been assigned the Owner RBAC role on the data lake resource. (Or a user who has been granted the two actions necessary on a Custom RBAC role to make them a superuser. see Custom Roles above for more information.)
+
+_Capabilities_ 
+
+- RWX access to **all** files and folders without needing an explicit ACL assignment.
+- Can change permissions of any files or folders.
+- Can change owning user or owning group of any files or folders.
+
+```
+Note: Superuser assignments cannot be seen from the Access blade in the data explorer.
+You will have to check the Access Control (IAM) menu and look for Owners to see who is a superuser.
+```
+
+## Owning Users
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#the-owning-user)
+
+_Definition_ - An Owning User is the user who has ownership of a file or folder, and the owning user of any file or folder is always automatically set to the user that created that file or folder.
+
+_Capabilities_ 
+- Has the permissions applied to an Owning User on the file/folder where they are an Owning User.
+- Is able to change the permissions of the owned files/folders
+- Is able to change the Owning Group of the file/folder, so long as the owning user is a member of that target group.
+
+```
+Note: You can see the Owning User of a file/folder under the access tab. They will be the first account listed under 'Owners'
+And they have a single-person Icon.
+```
+
+## Owning Groups
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#the-owning-group)
+
+_Definition_ - The Owning Group is a holdover from POSIX ACLS which ADLS Gen 1 is designed to work with. In POSIX all users have a primary group they are associated with, but since AD users have no 'primary group' owning group is assigned in this way:
+
+Assigning owning group to new file or folder:
+Case 1: The root folder '/'. This folder is created with the ADLS account is created, and the owning group is set to an all-zero GUID, which does not permit any access. It is a placeholder until a group is assigned.
+
+Case 2: For all other files and folders, when a new item is created the owning group is copied from the parent folder.
+
+```
+Note: An Owning Group must be an AD Group! If Owning Group is assigned to a user rather than a group, when ADLS attempts
+to resolve the permissions it will not be able to parse the permissions since it is expecting a group, and the user will
+default to whatever other permissions they have assigned on that file/folder.
+```
+
+_Capabilities_
+- Owning Group has the permissions assigned to the owning group on that file/folder.
+- Owning Group **cannot** change the ACLS of a file or folder.
+
+```
+Note: You can see the Owning Group of a file/folder under the access tab. They will be the second account listed under 'Owners'
+And they have a multi-person icon.
+```
+
 #Everyone Else
 
 The "Everyone Else" option you see at the bottom of the Access permissions blade is an option to set permissions for 'everyone else' who is trying to reach the data lake. 
@@ -187,7 +248,18 @@ An 'Everyone Else' setting of --- means that only those with explicit permission
 An 'Everyone Else' setting of RWX means that anyone attempting to reach the data will be able to perform any actions against the data.
 
 #Firewall
-## W/ A VNet
+
+The firewall here in Data Lake is no different than any other. You can establish an IP range for your trusted clients, and only they will be able to access your data. For permissions issues that do not explicitly mention ACLs -- check the firewall.
+
+## With A VNet
+[Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-network-security)
+
+It is possible to integrate Azure Data Lake Store with a VNet for tighter security in the environment.
+For details on how this can be executed, please refer to the documentation above, below we'll list a few, common issues seen with this feature.
+
+1. ADLS Gen 1 with VNet integration does not work with Managed Identities.
+2. Creating a new HDI Cluster and connecting it to a VNet integrated ADLS requires that the firewall be disabled during cluster creation, though it can be re-enabled afterwards.
+3. File and Folder data in a VNet enabled ADLS isn't accessible from the portal, though they are accessable through non-portal resources like SDK access, PowerShell Scripts, and other Azure services outside the portal.
 
 
 #Quick Summary/Explanation for Customers
