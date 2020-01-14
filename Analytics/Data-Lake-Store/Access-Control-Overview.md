@@ -125,7 +125,13 @@ For any questions about Owning User, Owning Group, or Superusers, see the sectio
 
 
 ### Portal
-The portal is one of the most common tools for managing ACL permissions. Under the 'Data Explorer' you can select any file/folder and choose 'Access' to view or edit its permissions.
+The portal is one of the most common tools for managing ACL permissions. One thing to note about the portal, however:
+**The Portal is not efficient for large-scale permissions editing.**
+
+For large numbers of files and folders, Portal operations will be relatively slow and it will be required for the user to keep their browser tab option for the operation to complete! For large-scale operations, using another tool or script is highly recommended.
+
+
+To edit permissions from the portal, under the 'Data Explorer' you can select any file/folder and choose 'Access' to view or edit its permissions.
 ![image.png](/.attachments/image-9ae0b425-b8d1-44c8-9b98-40e4c3069ccb.png)
 
 To be able to add or edit these permissions, you will need at least the permissions listed above. Otherwise, the options to add or edit will appear as greyed out.
@@ -138,11 +144,11 @@ You can use this to check the current user's effective permissions and pinpoint 
 To manage default or mask permissions in the portal, you'll need to access the 'Advanced' menu.
 ![image.png](/.attachments/image-f3804288-5f1b-47ec-9652-3df313b0a60a.png)
 
-Here you can find all default permissions, the mask, and the option 'Apply to Children'
+Here you can find all default permissions, the mask, and the option 'Apply to Children'.
 
 ### Apply to Children
 
-The Apply to Children/Apply folder permissions to sub-folders is an option in the portal that you can use to apply all a folder's current permissions to its children. 
+The Apply to Children/Apply folder permissions to sub-folders is an option in the portal that you can use to apply all a folder's current permissions recursively to its children. 
 _Note: **Current Permissions** refer to the Current Assigned Permissions on the **Access** blade. The current assigned permissions as shown on the 'Access' blade will be the permissions applied to all children. The 'Default Permissions' right above the Apply to All Children button are **not** the permissions that will be applied to all children._
 
 ![image.png](/.attachments/image-37e2fc4c-08f7-4bb3-b042-3bbe396e9152.png)
@@ -156,17 +162,20 @@ Here is the link to the tool download that includes documentation and getting st
 https://azure.github.io/data-lake-adlstool/doc/
 
 2. Azure CLI 
-The Azure CLI is a command tool
+The Azure CLI is a command tool that can be used to access and manage the Data Lake! It was built to optimize operations like applying permissions, so is another option for bulk operations.
 https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-cli-2.0#work-with-permissions-and-acls-for-a-data-lake-storage-gen1-account
 
 
-For more information on ACLEntry strings:
-https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.datalake.store.acl._acl_entry
+
+
 ### Best Practices
 
 1. Only 32 individual permissions profiles are able to be added to any file/folder, so it is highly suggested that permissions be applied to groups, and then users are added to those groups when they need access.
 
 2. For high-volume permissions edits, it is highly suggested that you do not use the portal, as the portal will have to remain open for the duration of the operation, and the portal is not as efficient. Use the Java tool, mentioned above, or some other script like .NET or PowerShell
+
+3. For large-scale delete or traversal operations, it is recommended that a user with SuperUser access performs the operations. This is because for every file and folder encountered an access check has to be made, and eventually large volumes of these access checks can bog the system down and you'll begin to see timeout errors. 
+A user with SuperUser access only needs to perform one access check to see if it is a superuser, so large-scale operations can run without having to overload the system with access checks.
 
 #Superusers vs Owning Users vs Owning Groups
 
