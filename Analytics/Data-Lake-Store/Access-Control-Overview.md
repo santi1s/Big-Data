@@ -1,4 +1,3 @@
---WIP--
 
 _This guide is a breakdown of the access/security documentation.
 For the most up to date information, please refer to our official, public-facing documentation: 
