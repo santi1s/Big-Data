@@ -49,7 +49,7 @@ Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_
 
 [Casework Basics Video](https://msit.microsoftstream.com/video/72e5a0f5-8dd9-471d-b346-8403a9eeef7c?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
-
+[Case Handling Best Practices](/Big-Data/Case-Handling-Best-Practices)
 
 [Metrics Troubleshooting](https://msit.microsoftstream.com/video/a0710e60-8277-4d3b-b420-2a8fc2650e0b?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
