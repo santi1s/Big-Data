@@ -24,4 +24,4 @@ Engineer Success Series - Session 2: Techniques for Communicating PG Responses t
 
 Engineer Success Series - Session 3: Tips for getting an Unresponsive Customer to Respond
 
-Engineer Success Series 4: Writing Case Documentation that will Impress Your Peers
+Engineer Success Series - Session 4: Writing Case Documentation that will Impress Your Peers
