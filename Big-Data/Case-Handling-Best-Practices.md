@@ -14,3 +14,14 @@
 | **Resolution** | Upon case closure, could another Support Engineer understand the steps you took to resolve the issue? |
 | **Symptom** | Upon case closure, did you write a clear symptom? (Don't just copy the case Title) |
 
+## Case Handling Training Videos
+
+[There are 4 recordings located here](https://teams.microsoft.com/l/channel/19%3ab0025c29eb9c46608347ed4034cbc011%40thread.skype/Training?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
+
+Engineer Success Series - Session 1: Effective Communication
+
+Engineer Success Series - Session 2: Techniques for Communicating PG Responses to Customers
+
+Engineer Success Series - Session 3: Tips for getting an Unresponsive Customer to Respond
+
+Engineer Success Series 4: Writing Case Documentation that will Impress Your Peers
