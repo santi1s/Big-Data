@@ -18,6 +18,8 @@
 
 [There are 4 recordings located here](https://teams.microsoft.com/l/channel/19%3ab0025c29eb9c46608347ed4034cbc011%40thread.skype/Training?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
 
+Microsoft Stream [Link](https://msit.microsoftstream.com/channel/283a6521-5684-4415-ae36-29d694264e5f)
+
 Engineer Success Series - Session 1: Effective Communication
 
 Engineer Success Series - Session 2: Techniques for Communicating PG Responses to Customers
