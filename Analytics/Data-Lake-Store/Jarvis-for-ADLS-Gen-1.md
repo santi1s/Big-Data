@@ -3,9 +3,9 @@
 --WIP--
 
 # What is this Guide For?
-This guide covers the basics of the Jarvis UI and using Jarvis to query for Azure Data Lake Store specifically.
+This guide covers the basics of the Jarvis UI and using Jarvis to query for Azure Data Lake Store Gen 1.
 It does not contain troubleshooting steps for specific situations. For troubleshooting guides, see  the TSG section!
-This guide is meant to familiarize you with the tool and give you some reference points for using Jarvis to troubleshoot ADLS issues.
+This guide is meant to familiarize you with the tool and give you some reference points for using Jarvis to troubleshoot any ADLS issues.
 
 _If you have any problems authenticating or do not have access to Jarvis - please reach out to your TA._
 
@@ -92,26 +92,95 @@ These options allow you to set the range of logs around the timestamp that you n
 The +, -, and +/- options allow you to set if you are searching for a range of time after, before, or after and before your timestamp.
 ![image.png](/.attachments/image-3def934f-9935-4ad4-b70e-7c581485705f.png)
 
-The numerical range value 
+The numerical range value allows you to search for a range of hours, days, or minutes.
+It is suggested to limit your search to less than 24 hours, as queries of that size or larger often time out before they can complete.
+![image.png](/.attachments/image-8b86644e-32dd-4c41-bf62-d3dbe34a2089.png)
 
 ### Scoping Conditions
+Scoping Conditions narrow the amount of data that Jarvis needs to search for, and allow you to be able to pull more data.
+![image.png](/.attachments/image-42e18b8b-c10c-4577-87ff-8bc5cb071c32.png)
+
+For Data Lake Store we normally use one of two values for Scoping Conditions:
+1. Region - The Region of the Data Lake
+2. Role - This is also based on the region of the data lake, however if you do not know what region your data lake is in, you can choose 'Role', add all roles in the drop down menu, and run a search on a more narrow timestamp. If you are able to find records for your data lake, look for the 'env_cloud_role' column. This will give you the role of the data lake and allow you to narrow your scoping conditions to a single role and therefore pull more data.
+
 ### Filtering Conditions
+Filtering Conditions allow you to filter the data resulting from the Time Range and Scoping conditions by column, and pull only rows that have column values you are looking for. You can choose a new filtering condition by picking the 'Field' dropdown and selecting your column.
+![image.png](/.attachments/image-883fdba6-57d0-4fac-9f87-090dc862b436.png)
+Most Common filtering Conditions for ADLS:
+1. KiwiAccountName - This is the name of the data lake account. You should **always** filter by this value.
+2. Path - The folder path in data lake that the request is against. Helps to narrow down calls to only a certain file or folder.
+3. HTTPStatusCode - HTTP code response from the request. You can search for an error code like 404 or 403 to narrow down for errors.
+4. UserName - If you are looking for the actions of a specific user, you can add 'UserName' to look for any actions they have taken. It is suggested to use 'contains' rather than == for user name.
+5. Operation - You can look for operations, like delete, using this column.
+
 ### Link
+You can get a link to any specific Jarvis query you have run -- with all the above parameters included, using the 'Link' button in the top right of the Server Query Pane.
+![image.png](/.attachments/image-19e114a5-62f1-40b3-8fda-737920be46bd.png)
+
+You can add any one of those three links to your own notes, or provide those links to a teammate or the product team to allow them to run the same query.
+
+
 ## Logs Pane
 The Logs Pane is the center pane in Jarvis, and after you run your query, it will contain all the logs retrieved. The view will be filtered by the results filters at the top of the page. Here you can view and filter the data, select what columns to see, organize data by column, or download the data.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-f4aa635b-7015-4583-82f7-198cd42688a4.jpg)
 
 
 ### The Logs
-### Number of Columns
-### Client Query/Results Filters
+The logs that result from your query will surface in the middle of the Logs Pane in Jarvis. They will be organized by column, the top row being the column names, and you can scroll to the right or left to see all data values.
+If you click on any of the columns, it will sort the data by that column.
+![image.png](/.attachments/image-40d091bb-eca4-48fd-83d9-8a68f36e0e46.png)
+
+Note also, that when the query starts running, the initial columns are loaded into the logs display, but after that no more appear and there is a refresh button with a steadily increasing number.
+
+This number is just the number of logs that have been pulled by the query but are not yet being displayed in the logs pane.
+![image.png](/.attachments/image-084b2e01-9ed7-4378-991e-baf7e0b7aded.png)
+
+Click this refresh button to populate the logs page with any outstanding logs.
+
 ### Download Results
+You can download all the logs you were able to gather with your query using the 'Download' button in the top left corner of the Logs Pane.
+![image.png](/.attachments/image-b7ad9c21-630d-4bdb-b0d2-5e9d5e014461.png)
+The data will be downloaded in a zipped .csv without any of your filtering or aggregate data.
+
+### Number of Columns
+The Logs pane does not automatically display all columns when a query is run, so it may display too few columns for your needs, or too many. You can select to view all columns or just some specific columns using the Columns button at the bottom, left hand corner of the logs pane.
+![image.png](/.attachments/image-11edef70-7b25-40f2-97fc-f698a3a32327.png)
+
+Click on this button, select 'All Columns' or a subset of columns, then select 'Apply'
+
+### Client Query/Results Filters
+At the top of the Logs pane is the Client Query, or Results Filter. This is usually empty, but you'll note if you click on a column header to sort by that column, an 'orderby' query will appear there.
+![image.png](/.attachments/image-c800d1c1-de3a-4195-b8a2-9f19ab6bf995.png)
+Also, any aggregates selected will also appear as a filtering query. You can add any of these queries by hand as well.
+If you want to remove any of these filters, you can mouse over the number beside them and select the 'x'.
+
+![image.png](/.attachments/image-1bd0c198-d3e7-4da0-b404-4ab80f562593.png)
 
 ## Aggregates Pane
 The Aggregates Pane is the right-hand pane in Jarvis, and can be used to aggregate data in your query by column.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-01eeedbf-6a68-432e-8d7a-f36ca45ae7d9.jpg)
 
-#Jarvis for ADLS
+Add any aggregates by selecting the '+' button.
+![image.png](/.attachments/image-5c74ca47-cff5-4c21-8755-e220ba00e168.png)
+
+From there you can choose Count, Average, Max, Min, or Sum.
+![image.png](/.attachments/image-cfefd97e-8b1f-49c1-b7a2-6d62e1eead1b.png)
+```
+Note: For the CfeHttpEvent, even the Latency columns are strings, not integers, so Sums or Averages won't work as you expect them to.
+```
+Then, by clicking 'Select' you can choose which column you wish to see aggregates for.
+![image.png](/.attachments/image-9a6922c5-1c8b-4f29-87a0-179aedba2735.png)
+
+After selecting the column, you can see results per each value type for the column.
+![image.png](/.attachments/image-0de14a9a-a377-4b80-8a70-ed246d145239.png)
+
+If you click on any one of these values, it will be added as a Client Query in the top section of the Logs pane, and all the displayed data will be filtered by that column.
+![image.png](/.attachments/image-1d558196-23a3-4c2a-8d2f-e7ebb507fd32.png)
+
+#Jarvis for ADLS Troubleshooting
+
+Jarvis
 ##Standard Query
 ##Important Columns
 Of course, all these columns contain important/useful information for troubleshooting data lake.
