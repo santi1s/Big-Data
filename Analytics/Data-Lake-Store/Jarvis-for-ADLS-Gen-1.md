@@ -13,7 +13,7 @@ This guide is meant to familiarize you with the tool and give you some reference
 5. Set your Time Range to your known issue timestamp.
 6. Under Scoping Conditions set 'Region' to the region of the data lake you are looking into.
 7. Under Filtering conditions set 'KiwiAccountName' to the name of the data lake you are looking into.
-8. Run the query by pressing the blue magnifying glass 'run' button.
+8. Run the query by pressing the blue magnifying glass 'Run' button.
 9. Make sure to refresh your Logs pane once the query has finished running to make sure you are viewing all results.
 10. Check the 'Columns' button at the very bottom of the Logs pane to confirm that you are looking at all columns/the columns you need.
 
