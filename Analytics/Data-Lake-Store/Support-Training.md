@@ -13,7 +13,7 @@
 	
 6. Make sure you have access to Jarvis:https://jarvis-west.dc.ad.msft.net/FBF35882  
 
-7. Familiarize yourself with Jarvis: 
+7. Familiarize yourself with Jarvis: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1
 	
 7. Using your data lake and new knowledge about how to create access problems, let's simulate some!
 a. Create an Azure Data Factory using this tutorial: https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store#create-a-data-factory
