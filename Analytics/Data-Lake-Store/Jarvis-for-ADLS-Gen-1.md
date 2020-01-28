@@ -172,20 +172,49 @@ From this base query you can start looking at requests coming into the data lake
 When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
 1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
 ![image.png](/.attachments/image-19e114a5-62f1-40b3-8fda-737920be46bd.png)
+2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
 
 ##Important Columns
 Of course, all these columns contain important/useful information for troubleshooting data lake.
 Below are outlined the columns most regularly used when pinpointing issues in ADLS.
 
 **ActivityID**
+This column is a unique ID for every request. This is helpful for narrowing down some error messages (which will include an activity ID) or for passing information to the product team or teammate to help them pinpoint a specific record to look at.
+
 **HTTPStatusCode**
+The HTTP response to the query/request represented by the row. Helpful for knowing if a request was successful or if it errored. 
+
+_Common error codes for ADLS:_
+403 - Authentication Error. A problem with permissions.
+429 - Throttling. Too much data being written to the data lake and the customer is being throttled.
+200/201 - successful
+309 - Redirect - Normal. Not an issue.
+
 **Path**
+The folder path in the data lake that is being queried against. All folder paths are preceded with webhdfs/v1. Those are not customer folders. The folder / after that is the root, and anything following are child files/folders.
+
 **Query**
+The full query/request that was received by the data lake. Useful to see what exactly is occurring.
+
 **RequestStartTimeUtc**
+The time that ADLS received/began working on the request. Most accurate timestamp.
+
 **UserAgent**
+This is the Agent/Machine/Script that sent the request. Here you can see if the request came from the portal (you'll see something like Mozilla or Chrome), or from HD-Insight Spark or Hive, from Python, or from any number of other Agents.
+
 **UserName**
+The user that sent the request. This will be the AD authenticated username that sent the request to the data lake. 
+Anything ending in "@SPI" is a service principal.
+
 **LatencyMilliseconds**
+Number of Milliseconds it took to run a request. Normally, these will be quite low. If you start seeing high values, check the data Ingress/Egress and see how much data was being moved. If there was high latency on small data, follow the TSG in the Product Group's One Note to Gather more information.
+
+**StoreEgressSize/StoreIngressSize**
+The size of the data moving into or out of the data lake.
+
 **StoreErrorCode**
+The ADLS-specific error code for any issue that has occurred on the Data Lake.
+There is a lookup table for 
 **Env_Cloud_Role**
 
 #Quick Reference for Getting Started with Jarvis for ADLS
