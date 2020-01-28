@@ -205,15 +205,17 @@ The user that sent the request. This will be the AD authenticated username that 
 Anything ending in "@SPI" is a service principal.
 
 **LatencyMilliseconds**
-Number of Milliseconds it took to run a request. Normally, these will be quite low. If you start seeing high values, check the data Ingress/Egress and see how much data was being moved. If there was high latency on small data, follow the TSG in the Product Group's One Note to Gather more information.
+Number of Milliseconds it took to run a request. Normally, these will be quite low. If you start seeing high values, check the data Ingress/Egress and see how much data was being moved. If there was high latency on small data, follow the TSG in the Product Group's One Note to Gather more information. [ADLS TSGs](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc=%7Bf47ad678-9d0c-4766-8a17-691ca6564b93%7D&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29)
 
 **StoreEgressSize/StoreIngressSize**
 The size of the data moving into or out of the data lake.
 
 **StoreErrorCode**
 The ADLS-specific error code for any issue that has occurred on the Data Lake.
-There is a lookup table for 
+The ADLS PG has a list of the error codes in their one note: [ADLS Error Codes](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Error%20Codes%7Cdd7079ee-8626-4134-8d01-b43ce634f386%2F%29)
+
 **Env_Cloud_Role**
+This is an internal name that aligns with the region the data lake is housed in. It can be used as a Scoping Condition to be able to pull more logs from Jarvis.
 
 #Quick Reference for Getting Started with Jarvis for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
