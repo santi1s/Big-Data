@@ -169,6 +169,9 @@ This table will not tell you everything, however. It only tells you what request
 From this base query you can start looking at requests coming into the data lake and begin to narrow your query and more deeply understand what is going on.
 
 ##Providing Jarvis Information to Others
+When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
+1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
+![image.png](/.attachments/image-19e114a5-62f1-40b3-8fda-737920be46bd.png)
 
 ##Important Columns
 Of course, all these columns contain important/useful information for troubleshooting data lake.
