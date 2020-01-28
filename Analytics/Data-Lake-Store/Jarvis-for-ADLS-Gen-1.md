@@ -174,16 +174,16 @@ From this base query you can start looking at requests coming into the data lake
 Of course, all these columns contain important/useful information for troubleshooting data lake.
 Below are outlined the columns most regularly used when pinpointing issues in ADLS.
 
-###ActivityID
-###HTTPStatusCode
-###Path
-###Query
-###RequestStartTimeUtc
-###UserAgent
-###UserName
-###LatencyMilliseconds
-###StoreErrorCode
-###Env_Cloud_Role
+**ActivityID**
+**HTTPStatusCode**
+**Path**
+**Query**
+**RequestStartTimeUtc**
+**UserAgent**
+**UserName**
+**LatencyMilliseconds**
+**StoreErrorCode**
+**Env_Cloud_Role**
 
 #Quick Reference for Getting Started with Jarvis for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
