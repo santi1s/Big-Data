@@ -1,7 +1,5 @@
 [[_TOC_]]
 
---WIP--
-
 # What Is This Guide for?
 This guide covers the basics of the Jarvis UI and using Jarvis to query for Azure Data Lake Store Gen 1.
 It does not contain troubleshooting steps for specific situations. For troubleshooting guides, see  the TSG section!
