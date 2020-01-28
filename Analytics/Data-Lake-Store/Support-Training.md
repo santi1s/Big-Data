@@ -4,7 +4,9 @@
 	
 3. If you aren't familiar with PowerShell, create an ADLS account using PowerShell, just to get yourself familiar with it: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-powershell
 	
-4. Familiarize yourself with the security overview: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview
+4. Familiarize yourself with the security overview.
+- Support Training Security Overview: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280882/Access-Control-Overview
+ - MSFT Documentation: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview
 	
 5. This piece of documentation is the most critical. Be very, very familiar with the Access Control documentation. Most ADLS cases are solved with this documentation. Be familiar with what permissions are necessary, how to view them, what the Mask is and does and how to view it. Be familiar with super user, owning user, owning group, and assigned user and what actions each of those can perform. The documentation is somewhat unclear, hence all our problems with customers, so if you have any questions, just ask. https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control
 	
