@@ -78,7 +78,7 @@ The Logs Pane is the center pane in Jarvis, and after you run your query, it wil
 
 ### The Logs
 ### Number of Columns
-### Results Filters
+### Client Query/Results Filters
 ### Download Results
 
 ## Aggregates Pane
