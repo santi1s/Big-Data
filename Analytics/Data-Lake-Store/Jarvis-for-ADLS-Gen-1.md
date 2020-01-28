@@ -24,21 +24,21 @@ Here we can create our queries and gather the link to a specific query to share 
 **Endpoint**
 The Endpoint option in Jarvis is essentially the logs 'Server' we are pointing our query to in Jarvis.
 For ADLS, you will use 'Diagnostics PROD'
-![image.png](/.attachments/image-6ffd6171-e420-46ca-8b8d-6c267d6a6669.png)
+![image.png](/.attachments/image-9a8d63f3-05a3-4f12-a9ee-94fdfb914320.png)
 
 **Namespace**
 The Namespace option in Jarvis is essentially the logs 'Database' we are pointing our query to in Jarvis.
-For ADLS, you will use 'AzureDataLake'
-![image.png](/.attachments/image-94b98e07-da73-43a4-b19b-84a62814ae15.png)
+For ADLS, you will use 'ADLSInternalProd'
+![image.png](/.attachments/image-0ed9a52c-60c9-46ff-8da1-a88be966095e.png)
 
 **Events to Search**
 The Events to Search option in Jarvis is essentially the logs 'Table' we are pointing our query to in Jarvis.
 For ADLS, you will generally use 'CfeHttpEvent' though sometimes TSGs will point you to other Events to Search. If you are following a TSG, pay attention to what Events to Search, and which Logs columns you are looking for.
-![image.png](/.attachments/image-255210b3-7487-4970-b031-2191f05f782f.png)
+![image.png](/.attachments/image-de33beb2-f695-4bdb-8226-3e1112644a6e.png)
 
 **Time Range**
 The Time Range search option sets the time window for the records you can pull, and is important to being able to effectively/quickly search the data.
-![image.png](/.attachments/image-f1af5e58-e2a7-4912-bad9-f82d516d68af.png)
+![image.png](/.attachments/image-4147e34d-163f-42df-a722-cd42878ffa60.png)
 
 Note the 'UTC' option next to the time stamp.
 ![image.png](/.attachments/image-f9206466-dfa8-446a-bae0-e0f61245817e.png)
@@ -82,7 +82,7 @@ Most Common filtering Conditions for ADLS:
 
 **Link**
 You can get a link to any specific Jarvis query you have run -- with all the above parameters included, using the 'Link' button in the top right of the Server Query Pane.
-![image.png](/.attachments/image-19e114a5-62f1-40b3-8fda-737920be46bd.png)
+![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
 
 You can add any one of those three links to your own notes, or provide those links to a teammate or the product team to allow them to run the same query.
 
@@ -156,20 +156,21 @@ This table will not tell you everything, however. It only tells you what request
 ##Standard Query for ADLS Gen 1
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
 2. Set Endpoint to 'Diagnostics PROD'
-3. Set Namespace to 'AzureDataLake'
+3. Set Namespace to 'ADLSInternalProd'
 4. Set Events to search to 'CfeHttpEvent'
 5. Set your Time Range to your known issue timestamp.
 6. Under Scoping Conditions set 'Region' to the region of the data lake you are looking into.
 7. Under Filtering conditions set 'KiwiAccountName' to the name of the data lake you are looking into.
 8. Run the query by pressing the blue magnifying glass 'Run' button.
-![image.png](/.attachments/image-41f0837f-9a1e-4308-b072-d540497011b5.png)
+
+![image.png](/.attachments/image-6f7ca8eb-ad72-4a61-be34-769b77c2438b.png)
 
 From this base query you can start looking at requests coming into the data lake and begin to narrow your query and more deeply understand what is going on.
 
 ##Providing Jarvis Information to Others
 When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
 1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
-![image.png](/.attachments/image-19e114a5-62f1-40b3-8fda-737920be46bd.png)
+![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
 2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
 
 ##Important Columns
