@@ -37,6 +37,9 @@ Starting with a broad query to make sure you are able to find logs for the data 
 ![image.png](/.attachments/image-11d4fd79-8596-4052-ae6d-8f58dd565ab5.png)
 ![image.png](/.attachments/image-1bd0c198-d3e7-4da0-b404-4ab80f562593.png)
 
+5. Query being throttled? 
+Narrow the time range you are searching or dd more filtering conditions to your query to pull down a smaller amount of data
+
 
 # Overview of Jarvis Settings
 To Access Jarvis - Go to this link: https://jarvis-west.dc.ad.msft.net/logs/dgrep
@@ -70,12 +73,34 @@ For ADLS, you will generally use 'CfeHttpEvent' though sometimes TSGs will point
 ### Time Range
 The Time Range search option sets the time window for the records you can pull, and is important to being able to effectively/quickly search the data.
 ![image.png](/.attachments/image-f1af5e58-e2a7-4912-bad9-f82d516d68af.png)
+
+Note the 'UTC' option next to the time stamp.
+![image.png](/.attachments/image-f9206466-dfa8-446a-bae0-e0f61245817e.png)
+
+**UTC option is Blue** - The timestamp is set to UTC time and will return logs with matching UTC timestamps.
+**UTC option is White** - The timestamp is set to LOCAL time, and the query will return logs in the corresponding UTC time.
+
+The 'Now' button (shown in green below) will set the timestamp to the current time.
+The minutes options below the timestamp will adjust the time of the timestamp by the corresponding number of minutes.
+![image.png](/.attachments/image-852832c1-0b53-42b2-9de4-27091cabb61d.png)
+
+Next to the timestamp options, are the time range options.
+![image.png](/.attachments/image-f6e709d0-e8cb-4cf1-a6c1-0a887ab962d8.png)
+
+These options allow you to set the range of logs around the timestamp that you need to query.
+
+The +, -, and +/- options allow you to set if you are searching for a range of time after, before, or after and before your timestamp.
+![image.png](/.attachments/image-3def934f-9935-4ad4-b70e-7c581485705f.png)
+
+The numerical range value 
+
 ### Scoping Conditions
 ### Filtering Conditions
 ### Link
 ## Logs Pane
 The Logs Pane is the center pane in Jarvis, and after you run your query, it will contain all the logs retrieved. The view will be filtered by the results filters at the top of the page. Here you can view and filter the data, select what columns to see, organize data by column, or download the data.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-f4aa635b-7015-4583-82f7-198cd42688a4.jpg)
+
 
 ### The Logs
 ### Number of Columns
