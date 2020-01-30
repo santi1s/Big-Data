@@ -1,4 +1,4 @@
-1. Join the Team DL using //idweb - CSS Big Data - Data Movement (bddatamovement@microsoft.com)
+1. Join the your regional Team DL using //idweb 
 
 2. Join our Teams Channel
 	ADF - CSS Collaboration, General
