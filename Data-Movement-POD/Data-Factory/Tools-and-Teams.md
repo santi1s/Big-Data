@@ -1,5 +1,16 @@
 1. Join the your regional Team DL using //idweb 
 
+
+```
+NA CSS Big Data - Data Movement <nadatamovement@microsoft.com>
+JAPAN CSS Big Data - Data Movement <japandatamovement@microsoft.com>
+APAC CSS Big Data - Data Movement <apacdatamovement@microsoft.com>
+INDIA CSS Big Data - Data Movement <indiadatamovement@microsoft.com>
+EMEA CSS Big Data – Data Movement <emeadatamovement@microsoft.com>
+MT CSS Big Data – Data Movement <mtdatamovement@microsoft.com>
+```
+
+
 2. Join our Teams Channel
 	ADF - CSS Collaboration, General
 https://teams.microsoft.com/l/team/19%3a768c7b4fcda64cd3acc29bc91eb98bfc%40thread.skype/conversations?groupId=97f0bf0e-fe36-422a-9083-3e59230b5715&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47
