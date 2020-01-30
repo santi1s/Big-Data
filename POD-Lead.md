@@ -1,0 +1,6 @@
+Global - Sonic Tang (haitang)
+- US - Lee Pauling (lepaulin)
+- APAC - Sonic Tang (haitang)
+- IGTSC - Mohamed Sathik U (samohame)
+- EMEA - Telmo Batista (tebatist)
+- MT - Vinod Kakarparhi (vikakarp)
