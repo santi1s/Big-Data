@@ -59,4 +59,10 @@ Using 'Get-AzDataLakeStoreChildItem' we printed a file that had the creation dat
 
 ## Using Jarvis to Troubleshoot Permissions
 
+For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+
+### Troubleshoot Error Messages with Jarvis
+
+### Look up User Activity in Jarvis
+
 ## Opening an ICM for Permissions
