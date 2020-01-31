@@ -62,6 +62,7 @@ Using 'Get-AzDataLakeStoreChildItem' we printed a file that had the creation dat
 For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
 
 ### Troubleshoot Error Messages with Jarvis
+Many Error messages in ADLS end with a timestamp and an Activity ID! You can use both this timestamp and this activity ID to look up the specific failing request in Jarvis and find out more information about it.
 
 ### Look up User Activity in Jarvis
 
