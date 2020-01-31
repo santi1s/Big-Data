@@ -68,3 +68,6 @@ Many Error messages in ADLS end with a timestamp and an Activity ID! You can use
 To confirm if the user is able to successfully access other parts of the data lake, or if they are seeing an issue accessing everything, you can search for activity based on that username and see if there are any successful calls coming from that user.
 
 ## Opening an ICM for Permissions
+For more information about opening ICMs for ADLS in general please refer to: [ICMs for ADLS Gen 1](/Data-Movement-POD/Data-Lake-Store/ICMs-for-ADLS-Gen-1)
+
+Specifically for permissions
