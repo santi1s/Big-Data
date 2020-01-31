@@ -26,8 +26,8 @@ Information to be Gathered by CSS:
 
 1. Follow the link: https://jarvis-west.dc.ad.msft.net/C8EDB5E 
 
-2. Ensure that Endpoint is set to Diagnostics PROD, Namespace is set to AzureDataLake, Events to search is set to CfeHttp Event.
-![Jarvis Settings for ADL HTTP.jpg](/.attachments/Jarvis%20Settings%20for%20ADL%20HTTP-af0d146c-8ed4-4542-a699-98ed5934fb44.jpg)
+2. Ensure that Endpoint is set to Diagnostics PROD, Namespace is set to ADLSInternalProd, Events to search is set to CfeHttp Event.
+![image.png](/.attachments/image-9195af1f-f379-4bb4-838a-69a8769c3b6e.png)
 
 3. Set Time range to the timestamp you are searching for.
 
