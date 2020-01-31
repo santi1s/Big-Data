@@ -65,5 +65,6 @@ For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-
 Many Error messages in ADLS end with a timestamp and an Activity ID! You can use both this timestamp and this activity ID to look up the specific failing request in Jarvis and find out more information about it.
 
 ### Look up User Activity in Jarvis
+To confirm if the user is able to successfully access other parts of the data lake, or if they are seeing an issue accessing everything, you can search for activity based on that username and see if there are any successful calls coming from that user.
 
 ## Opening an ICM for Permissions
