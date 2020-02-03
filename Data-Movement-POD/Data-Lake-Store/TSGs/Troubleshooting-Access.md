@@ -1,4 +1,3 @@
---WIP--
 
 [[_TOC_]]
 
@@ -59,15 +58,46 @@ Using 'Get-AzDataLakeStoreChildItem' we printed a file that had the creation dat
 
 ## Using Jarvis to Troubleshoot Permissions
 
-For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+For a full guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+
+For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
+
+When a certain action is failing for a customer, gather this information:
+1. Timestamp
+2. Path
+3. Action
+4. User
+
+With this information, you will be able to search Jarvis and find the specific action they are taking as well as the error message. If you only have some subset of this information, you can use what information you do have to discover the rest of the information.
 
 ### Troubleshoot Error Messages with Jarvis
+For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+
+For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
+
 Many Error messages in ADLS end with a timestamp and an Activity ID! You can use both this timestamp and this activity ID to look up the specific failing request in Jarvis and find out more information about it.
+
+Follow the quick reference to set up your query, then set the filtering conditions to search the Activity ID column for your particular Activity ID.
+
+If you are unable to find it, broaden your timestamp search window.
 
 ### Look up User Activity in Jarvis
 To confirm if the user is able to successfully access other parts of the data lake, or if they are seeing an issue accessing everything, you can search for activity based on that username and see if there are any successful calls coming from that user.
 
+Follow the quick reference guide to get started with Jarvis, and set the filtering condition to look for your user name.
+
+For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Data-Movement-POD/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+
+For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
+
 ## Opening an ICM for Permissions
 For more information about opening ICMs for ADLS in general please refer to: [ICMs for ADLS Gen 1](/Data-Movement-POD/Data-Lake-Store/ICMs-for-ADLS-Gen-1)
 
-Specifically for permissions
+
+Many ADLS permissions cases can be resolved WITHOUT the assistance of the product team, as most of them are user error/misunderstanding. However, if after searching all logs, checking permissions settings, and checking expected behavior expectations you have found an issue or unable to explain the behavior, create an ICM.
+
+1. Include full issue description including the error/issue the customer is seeing, the action they are attempting to take, and the behavior they expect to see.
+2. Include all relevant Jarvis logs. Narrow query results to show only relevant logs and/or provide the timestamp/activity ID specific to your issue.
+3. Include any relevant network traces, PowerShell queries and results, or any screenshots relevant to demonstrating the issue.
+
+The more relevant information you can provide to pinpoint the issue, the more quickly and accurately the PG can respond to your request.
