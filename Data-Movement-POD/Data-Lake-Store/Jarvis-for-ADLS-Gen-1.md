@@ -221,7 +221,7 @@ This is an internal name that aligns with the region the data lake is housed in.
 #Quick Reference for Getting Started with Jarvis for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
 2. Set Endpoint to 'Diagnostics PROD'
-3. Set Namespace to 'AzureDataLake'
+3. Set Namespace to 'ADLSInternalProd'
 4. Set Events to search to 'CfeHttpEvent'
 5. Set your Time Range to your known issue timestamp.
 6. Under Scoping Conditions set 'Region' to the region of the data lake you are looking into.
