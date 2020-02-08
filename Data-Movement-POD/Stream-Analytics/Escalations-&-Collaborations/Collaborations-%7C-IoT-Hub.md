@@ -4,7 +4,7 @@ Email the IoT POD:
 CSSPodDevSptDevIOT@microsoft.com
 
 Not getting any response from the IoT Pod?
-Reach out the correct regional manager for your customer:
+Reach out the correct regional SME for your customer:
 
 
 |Region|Name             |Alias   |Email                  |
