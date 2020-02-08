@@ -7,7 +7,7 @@ Not getting any response from the IoT Pod?
 Reach out the correct regional manager for your customer:
 
 
-|Region|Nam e            |Alias   |Email                  |
+|Region|Name             |Alias   |Email                  |
 |------|-----------------|--------|-----------------------|
 |ATZ   |Mark Radbourne   |markrad |markrad@microsoft.com  |
 |ATZ   |Doug Iman        |dougiman|dougiman@microsoft.com |
