@@ -249,7 +249,7 @@ Best Regards, <br>
 
 
 ####By design (Product Limitation) Email
-- Please work with HDI Product Team to get a tentative ETA of the feature/fix that you should include in this email so that customer has some timelines, instead of closing the case without any timelines.
+- Please work with relevant Product Team to get a tentative ETA of the feature/fix that you should include in this email so that customer has some timelines, instead of closing the case without any timelines.
 <table border="1";bgcolor="#DFDFDF";>
 <tr>
   <td style='border-style:solid;border-color:#A3A3A3;background-color:#e4f7db;border-width:1pt; 
