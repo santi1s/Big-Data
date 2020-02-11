@@ -70,6 +70,72 @@ For Data Lake Store we normally use one of two values for Scoping Conditions:
 1. Region - The Region of the Data Lake
 2. Role - This is also based on the region of the data lake, however if you do not know what region your data lake is in, you can choose 'Role', add all roles in the drop down menu, and run a search on a more narrow timestamp. If you are able to find records for your data lake, look for the 'env_cloud_role' column. This will give you the role of the data lake and allow you to narrow your scoping conditions to a single role and therefore pull more data.
 
+### 'Role' Values Mapping to Region
+EAST US 2
+datalakestorerp-prod-eastus2
+datalakeanalyticsrp-prod-eastus2
+ADLUS15FE-Prod-BN3P
+
+Central US
+datalakestorerp-prod-centralus
+datalakeanalyticsrp-prod-centralus
+ADLUS12FE-Prod-DM2P
+
+North Europe
+datalakestorerp-prod-northeurope
+datalakeanalyticsrp-prod-northeurope
+ADLIE11FE-Prod-DB3P
+
+West Europe
+datalakestorerp-prod-westeurope
+datalakeanalyticsrp-prod-westeurope
+ADLNL10FE-Prod-AM3P
+
+Southeast Asia
+datalakestorerp-prod-sg17datalakeanalyticsrp-prod-sg17
+ADLSG17FE-Prod-SG2P
+
+East Asia
+datalakestorerp-prod-hk16datalakeanalyticsrp-prod-hk16
+ADLHK16FE-Prod-HK2P
+
+Japan East
+datalakestorerp-prod-jp20datalakeanalyticsrp-prod-jp20 
+ADLJP20FE-Prod-TY1P
+
+Japan West
+datalakestorerp-prod-jp21(ADLS only so far)
+ADLJP21FE-Prod-OS1P
+
+Australia Southeast
+datalakestorerp-prod-au18datalakeanalyticsrp-prod-au18
+ADLAU18FE-Prod-ML1P
+
+Australia East
+datalakestorerp-prod-au19datalakeanalyticsrp-prod-au19
+(setup-ing)
+ADLAU19FE-Prod-SYD01P
+
+West US 2
+Datalakestorerp-prod-westus2Datalakeanalyticsrp-prod-westus2
+ADLUS81FE-Prod-MW1P
+
+West Central US
+Datalakestorerp-prod-westcentralusDatalakeanalyticsrp-prod-westcentralus
+ADLUS80FE-Prod-CY4P
+
+UK West
+datalakestorerp-prod-ukwest
+datalakeanalyticsrp-prod-ukwest
+adlie01fe-prod-db5
+
+Brazil South
+datalakestorerp-prod-eastus2
+datalakeanalyticsrp-prod-eastus2(host EAST US 2)
+ADLUS15FE-Prod-BN3P
+
+
+
 **Filtering Conditions**
 Filtering Conditions allow you to filter the data resulting from the Time Range and Scoping conditions by column, and pull only rows that have column values you are looking for. You can choose a new filtering condition by picking the 'Field' dropdown and selecting your column.
 ![image.png](/.attachments/image-883fdba6-57d0-4fac-9f87-090dc862b436.png)
