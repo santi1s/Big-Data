@@ -28,7 +28,6 @@ Ensuring that CSS is summarizing the issue, that all mitigation/resolution steps
 # General LQR workflow for Un-Responsive Customers:
 The below workflow gives a general idea about the process CSS should follow when working with an un-responsive customer. CSS should always take into account the case context and customer sentiment.
 
-![image.png](/.attachments/image-6a20eb26-1663-4d81-b59c-6ec066296e69.png)
 <IMG  src="https://supportability.visualstudio.com/870b0c89-5235-4a33-a0c6-44be26e284e7/_apis/git/repositories/8f6307ee-95a6-47da-aef6-77f425946e60/Items?path=%2FAzureHDinsight%2F.attachments%2Fimage-6a20eb26-1663-4d81-b59c-6ec066296e69.png&amp;download=false&amp;resolveLfs=true&amp;%24format=octetStream&amp;api-version=5.0-preview.1&amp;sanitize=true&amp;versionDescriptor.version=master"  alt="image.png"/>
 
 # Scenarios
