@@ -1,3 +1,6 @@
+[[_TOC_]]
+
+
 # Gather
 1. Open the Microsoft Integration Runtime Configuration Manager
 2. Go to 'Diagnostics'
