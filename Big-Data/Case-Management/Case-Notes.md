@@ -5,7 +5,7 @@ The goal of your notes should be that anyone that  looks at your latest case not
 
 Write the notes you would want to see if you were coming to the case totally new and need to pick up where the last engineer left off.
 
-This will make it easy for you to trace your steps, and for your fellow engineers to be able to help if you open a collaboration, need to hand off, take a sick day, or just need a second opinion!
+This will make it easy for you to trace your steps later, and for your fellow engineers to be able to help if you open a collaboration, need to hand off, take a sick day, or just need a second opinion!
 
 # How to Take Good Notes
 We have some awesome in-depth training on writing amazing notes!
