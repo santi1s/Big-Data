@@ -1,4 +1,6 @@
-_If you do not have access to this notebook, please reach out._
+This wiki covers all TSGs and resources from the Azure Data Factory product team.
 
-https://microsoft.sharepoint.com/teams/datamovement2/_layouts/OneNote.aspx?id=%2Fteams%2Fdatamovement2%2FShared%20Documents%2FLiveSite%2FDM%20CSS%20Handbook
-onenote:https://microsoft.sharepoint.com/teams/datamovement2/Shared%20Documents/LiveSite/DM%20CSS%20Handbook/
+Please use this Wiki!
+The wiki will be the onestop for all TSGs, processes and tools etc. in ADF & ADMS cases. All the new updates & TSGs will be posted in this wiki going forward. We would request everyone to start leveraging the new wiki as much as possible.
+
+[WDF Team Wiki](https://supportability.visualstudio.com/AzureDataFactory/_wiki/wikis/AzureDataFactory/286282/Getting-Started)
