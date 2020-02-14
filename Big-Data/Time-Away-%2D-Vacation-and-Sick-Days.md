@@ -25,6 +25,15 @@ You can check received Flex Hours the following day in WFM. Check this guide on 
 If you do not see a credit of received flex hours, please reach out to the WFM team at wfms@microsoft.com
 Let them know what date you worked and that you should receive flex hours.
 
+
+### Taking off a Minor Holiday
+For minor holidays like President's Day (and others as reported by your managers) if you plan on NOT working that day, you will need to request it off in WFM just like any other vacation day.
+
+In WFM, request the day as "Planned OOF" [Vacation Request Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FTime%20Away%20%252D%20Vacation%20and%20Sick%20Days&pageId=277566&_a=edit&anchor=request-vacation)
+
+The difference is that you DO NOT need to enter this vacation day in //tar. You do not need to take a vacation day to have this holiday off.
+
+
 # Sites You Will Need
 _If you do not have access to either site, please reach out to your manager or TA_
 
