@@ -6,7 +6,7 @@
 _This guide that covers best practices on the Big Data team for requesting/logging Vacation and Sick Days.
 Please do refer to our benefits site (//benefits) and our Human Resources site (//hrweb) or reach out to your manager for additional questions, or conversations about specific scenarios._
 
-##MSFT Official Holidays
+##MSFT Official Holidays in Big Data
 Microsoft has a number of yearly holidays where you do not need to spend vacation hours.
 
 For major holidays like Thanksgiving and Christmas, unless you volunteer specifically to work those days, you do not need to request time off.
@@ -16,6 +16,14 @@ For more minor holidays like Presidents day, Big Data does not see a large volum
 Your manager should email you about these holidays beforehand, and if you have any questions, please reach out to you manager.
 
 You can find a list of Microsoft Holidays here on the //hrweb page: [Link](https://microsoft.sharepoint.com/sites/HRw/Pages/globalholidays.aspx)
+
+### Working on a Minor Holiday
+For minor holidays like President's Day (and others as reported by your managers) if you plan on working those days, there is no action you need to take. Just come in to the office as usual and you should automatically receive Flex Hours.
+
+You can check received Flex Hours the following day in WFM. Check this guide on how to do that: [Check Flex Hours](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FTime%20Away%20%252D%20Vacation%20and%20Sick%20Days&pageId=277566&anchor=check-flex%2Flieu-days-available)
+
+If you do not see a credit of received flex hours, please reach out to the WFM team at wfms@microsoft.com
+Let them know what date you worked and that you should receive flex hours.
 
 # Sites You Will Need
 _If you do not have access to either site, please reach out to your manager or TA_
@@ -241,7 +249,7 @@ Flex/Lieu days do not need to be recorded in TAR, but they do need to be request
 Check for any Flex/Lieu Days on WFM, by going to Personal Accounts, entering the date, and checking your current balance.
 ![image.png](/.attachments/image-bde547ef-30f7-47fd-be0c-c2af60327193.png)
 
-## Request to Use Flex/Lieu Days
+## How to Use Flex/Lieu Days to take Vacation
 1. Go to WFM and select "Schedule Editor"
 ![image.png](/.attachments/image-69aea1dc-5ba4-4870-a819-717d41f47742.png)
 
