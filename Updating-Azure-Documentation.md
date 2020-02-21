@@ -9,9 +9,9 @@ Travis LaGrone has a guide! Reach out to him.
 5. [Fork](https://guides.github.com/activities/forking/) a repo using GitHub in the browser.
 6. Install [Git for Windows](https://git-scm.com/download/win) and [VS Code](https://code.visualstudio.com/).
 7. [Clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) a repo from GitHub to local using Git in VS Code.
-8. Edit Docs-flavored Markdown using the Docs Authoring Pack in VS Code.
-9. Commit and push using Git in VS Code.
-10. Create a pull request from the fork to the original using GitHub in the browser.
+8. Edit [Docs-flavored Markdown](https://docs.microsoft.com/en-us/contribute/markdown-reference) using the [Docs Authoring Pack](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack) in VS Code.
+9. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
+10. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
 
 Links:
 https://github.com/MicrosoftDocs/azure-docs-pr
