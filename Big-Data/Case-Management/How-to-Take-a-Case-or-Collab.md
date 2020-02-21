@@ -26,11 +26,28 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 
 ##Check If It Is a Full Case or a Collab
 
+1. Check the Type column to see if the pending task is a Collaboration, or a full Case
+![image.png](/.attachments/image-5542aad7-831c-43ce-ac75-2b7c833d9134.png)
+
 ##Assign to Yourself and Notify DMs
 
 ###Self-Assign Case
+1. To Self-Assign a case, open the case in Service Desk and choose "Edit"
+![image.png](/.attachments/image-7448aab0-4243-45e0-968a-25b19e554012.png)
+
+2. Then select 'Assign to Me'
+![image.png](/.attachments/image-a6a20aa5-985f-4c8d-aa82-aaffacdc32f5.png)
 
 ###Self-Assign Collaboration
+1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
+![image.png](/.attachments/image-7448aab0-4243-45e0-968a-25b19e554012.png)
+
+2. Scroll down to the 'Tasks' Tile, be sure you are on the 'Collaboration' view, and choose the ellipsis button next to the collaboration you are picking up.
+![image.png](/.attachments/image-26526cef-f5dc-418b-9c4c-14784465382f.png)
+
+3. Choose 'Assign to Me'
+![image.png](/.attachments/image-9876a496-d968-4d1d-b07b-77cf9d15b16a.png)
+
 
 ###Notify DMs
 
