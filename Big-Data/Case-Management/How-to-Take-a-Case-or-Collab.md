@@ -84,8 +84,17 @@ If it was not you, scroll down to the 'Tasks' tile, make sure 'Collaboration' ta
 
 3. You can Check the 'My Cases and Tasks' tile in Service Desk
 Your list of cases has a column called 'Type' that will tell you if an assignment is a case or a Collaboration
-
+![image.png](/.attachments/image-ca7ae09f-60dd-4dd5-985d-d8747afcfbbf.png)
 
 ##Check SLA
 
-##Getting Started Best Practices
+There are two ways to check current SLA (time until we have agreed to contact the customer).
+1. In the case! Open the case in Service desk, and in the Details there is an SLA box, which shows the current time until SLA.
+![image.png](/.attachments/image-c47e504d-03c9-4b8c-9cb2-43406d979a37.png)
+
+##Getting Started Best Practices/Checklist
+
+1. Check SLA and be sure to call or email the customer before this SLA time.
+2. If you have a good amount of SLA time left, do some research and try to give the customer a solution, or provide questions/next steps in your first contact!
+3. If you have very little SLA time left, reach out to a customer in an email introducing yourself, saying you are currently reviewing their issue and will reach out shortly with next steps.
+4. Don't forget to change case state in the top, right-hand corner!
