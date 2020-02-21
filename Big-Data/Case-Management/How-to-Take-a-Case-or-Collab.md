@@ -49,7 +49,15 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-9876a496-d968-4d1d-b07b-77cf9d15b16a.png)
 
 
-###Notify DMs
+###Notify DMs (Duty Managers)
+After you have assigned a case or collaboration to yourself, be sure to reach out to your duty managers to let them know they no longer need to find a case owner.
+
+Email: sqldmmdt@microsoft.com
+
+Email Title: <Case Number> Assigned to <Your Alias>
+
+Email Body:
+I am picking up <Case Number>. Thank you!
 
 # Starting a Case that Has Been Assigned
 
