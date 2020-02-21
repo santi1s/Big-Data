@@ -16,3 +16,5 @@ Travis LaGrone has a guide! Reach out to him.
 Links:
 https://github.com/MicrosoftDocs/azure-docs-pr
 https://repos.opensource.microsoft.com/
+
+GitHub Cheat Sheet: https://rogerdudler.github.io/git-guide/
