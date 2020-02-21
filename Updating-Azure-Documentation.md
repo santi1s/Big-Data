@@ -1,5 +1,5 @@
-Travis LaGrone has a guide! Reach out to him.
-(Soon we'll have the guide here!)
+Travis LaGrone has expertise here! Reach out to him if you have questions!
+(Soon we'll have a full guide/training video here!)
 
 1. [Set Up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
 2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs](https://github.com/MicrosoftDocs).
