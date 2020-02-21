@@ -92,9 +92,26 @@ There are two ways to check current SLA (time until we have agreed to contact th
 1. In the case! Open the case in Service desk, and in the Details there is an SLA box, which shows the current time until SLA.
 ![image.png](/.attachments/image-c47e504d-03c9-4b8c-9cb2-43406d979a37.png)
 
+2. Under the My Cases and Tasks tile you can click 'View All' and in that table there is an 'Initial Response SLA' column, which will tell you if the SLA was met, missed, or how much time is left.
+![image.png](/.attachments/image-fd3259c3-a63b-459f-bf4e-23b746dda2ba.png)
+
+## Check Customer's Communication Preferences
+
+When a customer opens a case, they can choose if they prefer phone or email communications. You can check this under the 'Contacts' tile in the case. Look for the little 'preferred' marker which will either be by the phone number or email address.
+![image.png](/.attachments/image-0d38178e-29a2-494a-91b9-d2a32c8f2971.png)
+
+Please respect this preference at least for the first communication and feel free to confirm their preferences for further communications in that conversation.
+
+Even if a customer lists 'Phone' as their preferred communication method, send an email before you call them so they have your contact information, and mention you will reach out to them shortly be phone.
+
 ##Getting Started Best Practices/Checklist
 
 1. Check SLA and be sure to call or email the customer before this SLA time.
 2. If you have a good amount of SLA time left, do some research and try to give the customer a solution, or provide questions/next steps in your first contact!
 3. If you have very little SLA time left, reach out to a customer in an email introducing yourself, saying you are currently reviewing their issue and will reach out shortly with next steps.
 4. Don't forget to change case state in the top, right-hand corner!
+![image.png](/.attachments/image-4b5c9aca-8b5f-4fdf-bda8-ddb14f016d72.png)
+
+5. If you have provided any information or suggestions that you believe could resolve the case, change the case status to 'Waiting for Confirmation' and leave it there for the duration of the case. 
+
+6. Even if a customer lists 'Phone' as their preferred communication method, send an email before you call them so they have your contact information, and mention you will reach out to them shortly be phone.
