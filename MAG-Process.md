@@ -5,3 +5,9 @@
 5.	Visit https://osp.office.net/idm/identity/access/Clearances and once you see "Citizenship = US" under "Granted", you are all set to proceed to the next step in the process.  If this takes longer than 5-7 business days, let me or Todd know.
 6.	The next step in the process is to follow the instructions on the [Microsoft US Government Support page](https://microsoft.sharepoint.com/teams/USGovCloudSupport/SitePages/How.aspx?web=1).  Following these instructions gets you access to Azure government cases in Service Desk.
 7.	The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That process is located [here](https://ageaccounts.azurewebsites.us/home).  
+
+
+
+
+Useful Links:
+- https://microsoft.sharepoint.com/teams/USGovCloudSupport/SitePages/How.aspx
