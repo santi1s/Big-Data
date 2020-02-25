@@ -4,5 +4,7 @@ Welcome to Azure Databricks.
 
 <br>
 
-- Visit [Azure Databricks Wiki](https://supportability.visualstudio.com/AzureDataBricks/_wiki/wikis/AzureDatabricks/290710/Training)
+- Following are the important training modules you have to complete. 
+
+
  
