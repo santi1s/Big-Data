@@ -151,6 +151,22 @@ Best Regards,
 <Signature>
 ```
 
+### Phone Numbers for Immediate Support By Region
+For your away messages, feel free to include any/all numbers for our supported regions so any of your customers can get support while you are out.
+
+India
+Premier : 1800-425-5666/080-6000-5666
+Professional : 1800-419-5666
+
+US
+Premier : +1 800 936 3100
+Professional : +1 800 936 5800 / +1-800-936-4900
+
+EMEA
+Premier : +44-844-800-8338
+Professional : +44-844-800-2400 
+
+
 ## Case Handoff for Vacation
 
 For short vacations, handoff is only necessary for critical or active cases, or cases where customers would like to meet during your time away.
@@ -229,6 +245,20 @@ US/North America:
 Best Regards,
 <Signature>
 ```
+### Phone Numbers for Immediate Support By Region
+For your away messages, feel free to include any/all numbers for our supported regions so any of your customers can get support while you are out.
+
+India
+Premier : 1800-425-5666/080-6000-5666
+Professional : 1800-419-5666
+
+US
+Premier : +1 800 936 3100
+Professional : +1 800 936 5800 / +1-800-936-4900
+
+EMEA
+Premier : +44-844-800-8338
+Professional : +44-844-800-2400 
 
 ## Case Handling for Sick Days
 
