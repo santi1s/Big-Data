@@ -65,6 +65,23 @@ The product team uses this 'Root Cause' data to understand what kinds of cases t
 #Collaboration Closure
 ##Confirm Collaboration Closure with Case Owner
 
+Before closing out your collaboration, reach out to your case owner over Teams, email, or in person to confirm that they don't need any further information from your collaboration!
+
+This ensures everyone is on the same page and that the case will continue to be fully supported.
+
 ##Last Notes
+Much like last quality response, you should provide final notes in a case as you close out your collaboration.
+
+Your notes should include:
+- Original Reason for Collaboration
+- Summary of Findings/Results from Collaboration
+- Resolution Steps for Collaboration (if needed)
 
 ##Steps for Case Closure in Service Desk
+1. Open the case and select "Edit" 
+![image.png](/.attachments/image-deedf023-f576-4870-a257-8c565f4f20cd.png)
+2. Navigate to your collaboration under the 'Tasks' tile
+3. Choose the ellipsis button next to the collaboration and then select "Complete"
+![image.png](/.attachments/image-1880766c-fa01-4453-9eec-20a15fb41771.png)
+4. Choose 'End' to close the Service Desk Tab
+![image.png](/.attachments/image-1f790a01-0ecb-43b0-8a37-f679e8101946.png)
