@@ -4,7 +4,7 @@
 # **Technology Introduction**
 
 Azure Stream Analytics (ASA) is a PaaS Service in Microsoft Azure, available from the Azure Portal https://portal.azure.com
-![Azure Stream Analytics Logo](https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-intro-pipeline.png) You can find more infromation about Azure Stream Analytics from the [Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/).
+![Azure Stream Analytics Logo](https://docs.microsoft.com/en-us/azure/stream-analytics/media/stream-analytics-introduction/stream-analytics-intro-pipeline.png).
 
 ASA provides low latency, highly resilient and scalable complex event processing. It's easy for a non-developer to create job easily and provide business insight quickly, specify transformations and monitor the scale/speed of their overall streaming pipeline. The service can easily scale from a few kilobytes to a gigabyte or more of events processed per second.
 
@@ -13,6 +13,9 @@ Laymen's Analogy - think of how you would count all the red cars in a parking lo
 Writing a Stream Analytics job is as simple as pointing to a source input, writing a SQL like query to process the events, and pointing to a destination / output. Underneath Stream Analytics uses a custom YARN application that is deployed in a set of multi-tentant HDInsight clusters to ingest data, and provide output. The HDInsight clusters points to two storage accounts - one for the cluster management and default logs, and a second shared storage account which holds the common job store. The jobs are resilient and will automatically retry should HDInsight experience an interruption. You can Start and Stop the jobs from the portal or PowerShell cmdlets.
 
 [Azure Stream Analytics Intro News Story](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Azure%20Stream%20Analytics%20Intro%20News%20Story.aspx)
+
+#Public Documentation
+You can find more information about Azure Stream Analytics from the [Documentation](https://docs.microsoft.com/en-us/azure/stream-analytics/)
 
 #Collaboration Group to Join
 [Big Data Stream Analytics teams channel](https://teams.microsoft.com/l/channel/19%3aed61c2064c6941d2988493b7cdce55d7%40thread.skype/z%2520-%2520Stream%2520Analytics?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
