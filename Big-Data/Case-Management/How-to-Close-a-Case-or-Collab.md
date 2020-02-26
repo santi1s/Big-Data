@@ -4,10 +4,20 @@
 #Case Closure
 
 ##Confirm Case Closure With Your Customer
+For any case, you need to confirm closure with your customer either verbally in a call, or in writing in a chat or email before proceeding with closure. This will ensure your customer is satisfied and has everything they need before you move forward with closing out the case.
 
 ###Non-Idle Case
+Confirm closure with your customer either verbally or in an email by asking if they need any further information or support from Microsoft for their case, in an example like this:
+
+```
+Is there any further information you need, 
+or any further support we can provide you for this issue 
+before we proceed with case closure?
+```
+This moves your case forward, but also provides your customer with the ability to ask for what they need while assuring them we will continue to support them should they need it!
 
 ###Idle Case
+For an Idle case, first follow our Idle Case guidelines [here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289639/Idle-Customers) by implementing the three-strike rule.
 
 ##Last Quality Response  
 Last Quality Response is your last communication with the customer, and your last opportunity to leave a lasting impression. It is also used to provide a brief summary of the issue and resolution so your customer can provide this communication to their team, or use the summary in the future to resolve a similar issue.
