@@ -10,6 +10,29 @@
 ###Idle Case
 
 ##Last Quality Response  
+Last Quality Response is your last communication with the customer, and your last opportunity to leave a lasting impression. It is also used to provide a brief summary of the issue and resolution so your customer can provide this communication to their team, or use the summary in the future to resolve a similar issue.
+
+**LQR Should Include:**
+- Customers Name
+- Thank them for using Microsoft Products and reaching out to Microsoft Support
+- Description of the problem
+- Resolution and recap of process, if it was a long running case
+- You and your managers contact information (which may already be in your signature)
+- Inform them that it is possible they will receive a survey about their support experience and appreciation of any feedback
+- Invitation to reopen if issue reoccurs or not resolved
+
+LQR Should Avoid:
+Contacting and closing cases on holidays, weekends and after working hours.
+
+**Dissatisfied Customer:**
+If you think that customer may be dissatisfied for any reason, then:
+
+1 - Discuss as soon as possible this case with a Senior Engineer or Technical Advisor. Do not delay asking for help if the customer is dissatisfied.
+2 - Contact TAM (for Premier cases)
+3 - Consider reaching out to your manager to have your manager perform a 'Recovery Call', which is where your manager would reach out to the customer to discuss the case and how it was handled.
+
+###Last Quality Response Templates and Training
+Templates for last quality response and more training information, are available here: [Last Quality Response](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/292872/Last-Quality-Response)
 
 ##Steps for Case Closure in Service Desk
 After you have confirmed closure with your customer and sent the last quality response to your customer, follow the steps below to close out your case.
