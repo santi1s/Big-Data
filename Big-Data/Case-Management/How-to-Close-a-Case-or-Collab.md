@@ -13,7 +13,7 @@
 Last Quality Response is your last communication with the customer, and your last opportunity to leave a lasting impression. It is also used to provide a brief summary of the issue and resolution so your customer can provide this communication to their team, or use the summary in the future to resolve a similar issue.
 
 **LQR Should Include:**
-- Customers Name
+- Customer's Name
 - Thank them for using Microsoft Products and reaching out to Microsoft Support
 - Description of the problem
 - Resolution and recap of process, if it was a long running case
