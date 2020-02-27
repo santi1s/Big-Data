@@ -313,3 +313,12 @@ This time still needs to be approved by your manager.
 ## Record Flex/Lieu Days
 
 Flex/Lieu days do not need to be recorded in TAR.
+
+## Didn't Get Flex/Lieu Days?
+
+If you worked during one of our Minor Holidays, in WFM2 you should see flex time added for that specific date.
+
+If you do not see flex/lieu time added for that date, please reach out to wfms@microsoft.com
+
+Give them your alias, tell them what holiday you worked, and ask for them to grant flex hours.
+They respond quickly.
