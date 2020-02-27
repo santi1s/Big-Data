@@ -16,3 +16,7 @@ Subscription ID
 ResourceId contains <Data Share Name>
 
 ![image.png](/.attachments/image-d036e3d4-5fb5-426b-b750-1eed1410388b.png)
+
+
+##Columns
+Check tracinglevel, stackTrace, exception, message, env_time
