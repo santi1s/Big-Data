@@ -1,4 +1,5 @@
-
+[[_TOC_]]
+# Severity Best Practices
 ICM Severity - we had an escalation recently and realized that we had been a bit conditioned by some PGs on setting severity. We are resetting and aligning our approach to the following:
 
 
