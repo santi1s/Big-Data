@@ -1,7 +1,7 @@
 [[_TOC_]]
 
 
-# Jarvis for DataShare
+# Jarvis for Data Share
 Endpoint - Diagnostics Prod
 Namespace - AzureDataShare
 Events to Search - DataShareLogEvent
@@ -20,3 +20,7 @@ ResourceId contains <Data Share Name>
 
 ##Columns
 Check tracinglevel, stackTrace, exception, message, env_time
+
+
+#Kusto for Data Share
+Kusto Endpoint: https://azuredatashare.kusto.windows.net
