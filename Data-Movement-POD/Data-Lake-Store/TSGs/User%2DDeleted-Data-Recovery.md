@@ -10,19 +10,21 @@ Communicate this to your customer, to set expectations, and gather the informati
 
 Gather the below information, and then create a **Sev 3** ICM(https://icm.ad.msft.net/imp/v3/incidents/create) to the Azure Data Lake Store/Store team setting the Type of Incident to File/Folder Deletion/Recovery.
 
-Information to Be Gathered from Customer:
+**Information to Be Gathered from Customer:**
 - ADLS Resource Name
 - ADLS Resource Region
 - Files/Folder Path that were deleted
 - Approx Timestamp when the data was deleted
-- Single, recursive delete
+- Was it a Single delete action of a parent folder, or multiple/recursive delete process
 - Do we have permission from the customer to restore the data?
 - Should the data be restored to the original folder, or to some other folder (like <original folder name>_restore)?
 
-Information to be Gathered by CSS:
+**Information to be Gathered by CSS:**
 - Find the Jarvis query showing the path deleted.
 
 ### Jarvis Instructions
+
+_For a full Jarvis guide, check here: [Jarvis for ADLS Gen 1](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1)_
 
 1. Follow the link: https://jarvis-west.dc.ad.msft.net/C8EDB5E 
 
@@ -31,10 +33,9 @@ Information to be Gathered by CSS:
 
 3. Set Time range to the timestamp you are searching for.
 
-4. Set Role to the region of the data lake:
-a. ADLUS12 - Central US
-b. ADLUS15 - East US 2
-c. ...
+4.  Under Scoping Conditions, either set Role or Region to the region of the data lake:
+Region is Clear
+For Role, you can use this chart: [Role by Region List](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor='role'-values-mapping-to-region)
 
 5. Set KiwiAccountName contans to the name of the data lake, Path contains to the path of the affected data, and set Operation to contains "DELETE"
 ![Jarvis DELETE Operation Settings.jpg](/.attachments/Jarvis%20DELETE%20Operation%20Settings-7fca3459-a242-4ef4-bb29-01bc8056476e.jpg)
