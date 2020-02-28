@@ -1,4 +1,4 @@
-## **CSS-EEE Engagement Workflow**
+## **CSS Engagement Workflow**
 
 CSS Big Data engineers needs to follow the below workflow for SME/EEE/PG engagement. Usage of Ava is encouraged for engaging SMEs & EEEs:
 
