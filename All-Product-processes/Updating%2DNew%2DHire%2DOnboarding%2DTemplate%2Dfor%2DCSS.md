@@ -46,8 +46,7 @@ assigned to any engineer. </p>
      font-size:11.0pt'>Primary templates</span><span style='font-family:Calibri;
      font-size:11.0pt;font-weight:normal;font-style:normal;font-weight:normal;
      font-family:Calibri;font-size:11.0pt'> template: Includes all the
-     trainings, tools &amp; access etc required in the Azure Data Factory &amp;
-     Azure Data Movement Service. </span></li>
+     trainings, tools &amp; access etc required at the service level</span></li>
 </ol>
 
 <p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
