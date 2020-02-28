@@ -117,3 +117,5 @@ Even if a customer lists 'Phone' as their preferred communication method, send a
 6. Even if a customer lists 'Phone' as their preferred communication method, send an email before you call them so they have your contact information, and mention you will reach out to them shortly be phone.
 
 **7. Don't forget to click "Save" and/or to use the 'End' button rather than clicking directly out of the tab on a case. Just to make sure everything gets saved on the backend.**
+
+Troubleshooting
