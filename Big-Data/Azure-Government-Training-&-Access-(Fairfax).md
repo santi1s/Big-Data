@@ -30,6 +30,8 @@
 
 The process could take a week or more depending on your circumstances.  Please read through the instructions before beginning. 
 
+_For emergency temporary accesses contact "Temporary Special Access Case Provisioning" (tspecialaccess@microsoft.com) alias for short term/single instance access._
+
 Please follow these steps and let your manager know if you have any questions/issues:  
 
 1. In Browser Navigate to:  https://osp.office.net/idm/identity/access/Clearances 
