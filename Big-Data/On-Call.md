@@ -1,5 +1,1 @@
-#Open Source
-##HDInsight
-##Databricks
-
-#Database
+aka.ms/bigdataoncall
