@@ -53,4 +53,14 @@ _This step may take up to 48 business hours to complete._
 8. The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That [process is located here](https://ageaccounts.azurewebsites.us/).   
 _This step may take a week or more._ 
 
+##IV. Azure Government URLs and ports
+
+|Azure|Azure Gov| Azure China|Outbound port|Description|
+|--|--|--|--|--|
+|*.servicebus.windows.net|*.servicebus.usgovcloudapi.net|*.servicebus.chinacloudapi.cn|443|Required by the self-hosted integration runtime to connect to data movement services in Azure Data Factory.|
+|*.frontend.clouddatahub.net|*.frontend.datamovement.azure.us|*.frontend.datamovement.azure.cn|443|Required by the self-hosted integration runtime to connect to the Data Factory service.|
+|download.microsoft.com|download.microsoft.com|download.microsoft.com|443|Required by the self-hosted integration runtime for downloading the updates. If you have disabled auto-update, you can skip configuring this|
+|*.core.windows.net|*.core.usgovcloudapi.net|*.core.chinacloudapi.cn|443|Used by the self-hosted integration runtime to connect to the Azure storage account when you use the staged copy feature.|
+|*.database.windows.net|*.database.usgovcloudapi.net|*.database.chinacloudapi.cn|1433|Required only when you copy from or to Azure SQL Database or Azure SQL Data Warehouse and optional otherwise. Use the staged-copy feature to copy data to SQL Database or SQL Data Warehouse without opening port 1433.|
+
  ****
