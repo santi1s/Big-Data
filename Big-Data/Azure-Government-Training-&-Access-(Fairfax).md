@@ -1,5 +1,9 @@
-[[_TOC_]]
+**Contents**
+<a href="Courses">I. Courses for Azure Government</a>
+<a href="Training">II. Training Materials</a>
+<a href="Access">III. Azure Government Case Access</a>
 
+****
 
 **<a name="Courses">I. Courses for Azure Government</a>** 
 
