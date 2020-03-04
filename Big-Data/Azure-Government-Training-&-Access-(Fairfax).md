@@ -1,8 +1,6 @@
 [[_TOC_]]
 
 
- **** 
-
 **<a name="Courses">I. Courses for Azure Government</a>** 
 
 1. New Hire Azure BootCamp – Azure Government: 
