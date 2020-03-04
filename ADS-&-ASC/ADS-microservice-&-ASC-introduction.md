@@ -10,8 +10,15 @@ The session is useful across all Big Data services as a first introduction to AD
 - Test, PPE and Production environments
 - Service Fabric
 - Kusto
+- Pull requests
+
 </br>
 
 Please find below the meeting recording:
 - https://msit.microsoftstream.com/video/8a841653-206a-42b1-8f0f-6d99daa17ebd
+
+
+
+
+
 
