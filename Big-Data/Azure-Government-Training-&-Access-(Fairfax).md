@@ -1,11 +1,9 @@
-**Contents**
-<a href="Courses">I. Courses for Azure Government</a>
-<a href="Training">II. Training Materials</a>
-<a href="Access">III. Azure Government Case Access</a>
+[[_TOC_]]
+
 
 ****
 
-**<a name="Courses">I. Courses for Azure Government</a>** 
+##I. Courses for Azure Government
 
 1. New Hire Azure BootCamp – Azure Government: 
 
@@ -15,7 +13,7 @@
 
     https://www.youtube.com/watch?v=_WcyWeARD2Y 
 
-**<a name="Training">II. Training Materials</a>** 
+##II. Training Materials
 
 1. Azure Government Online Documentation: 
 
@@ -26,7 +24,7 @@
     https://azure.microsoft.com/en-us/blog/topics/government/ 
 
  
-**<a name="Access">III. Azure Government Case Access<a/>** 
+##III. Azure Government Case Access
 
 The process could take a week or more depending on your circumstances.  Please read through the instructions before beginning. 
 
