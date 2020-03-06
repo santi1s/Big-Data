@@ -1,4 +1,4 @@
-http//aka.ms/bigdataoncall
+http://aka.ms/bigdataoncall
 
 Click on Big Data (NEW) to see when you are on call
 
