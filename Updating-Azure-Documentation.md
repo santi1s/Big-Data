@@ -1,3 +1,18 @@
+<!-- Link Reference Definitions -->
+[Azure Docs]: <https://docs.microsoft.com/azure>
+[azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
+[azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
+[Git]: <https://git-scm.com>
+[Git Docs]: <https://git-scm.com/doc>
+[Git for Windows]: <https://git-scm.com/download/win>
+[GitHub]: <https://github.com>
+[GitHub Docs]: <https://help.github.com>
+[Microsoft Docs]: <https://docs.microsoft.com>
+[Microsoft GitHub]: <https://repos.opensource.microsoft.com>
+[Microsoft Open Source]: <https://opensource.microsoft.com>
+[MicrosoftDocs]: <https://github.com/MicrosoftDocs>
+[VS Code]: <https://code.visualstudio.com>
+
 Travis LaGrone has expertise here! Reach out to him if you have questions!
 (Soon we'll have a full guide/training video here!)
 
