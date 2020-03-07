@@ -1,19 +1,9 @@
-<!--region Link Reference Definitions-->
-
 [Azure Docs]: <https://docs.microsoft.com/azure>
-[azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
-[Docs contributor guide]: <https://docs.microsoft.com/contribute>
-[Docs publishing schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#publishing-schedule---azure-docs-pr>
-[Docs pull-request review schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#pull-request-review-schedule>
-[Docs schedules]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules> "Docs pull-request review and publishing schedules"
-[Markdown]: <https://guides.github.com/features/mastering-markdown>
-
-<!--endregion-->
 
 # WHAT
 
-You can contribute _directly_ to the official [Azure Docs]!
+_You_ can contribute directly to the official [Azure Docs]!
 
 # WHY
 
@@ -30,7 +20,7 @@ The Azure Docs [source][azure-docs-pr] is right on GitHub!
 
 # WHEN
 
-Azure Docs pull-requests are reviewed and published _[three times per day][Docs schedules]_!
+Azure Docs pull-requests are reviewed and published [three times per day](https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules)!
 
 # HOW
 
@@ -82,7 +72,7 @@ Known CSS Big Data SMEs on the following topics:
 # See Also
 
 - [Azure Docs source code][azure-docs-pr]
-- [Docs contributor guide]
-- [Docs Markdown reference][Docs Markdown]
+- [Docs contributor guide](https://docs.microsoft.com/contribute)
+- [Docs Markdown reference](https://docs.microsoft.com/en-us/contribute/markdown-reference)
 - [Git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet)
 - [GitHub quickstart](https://help.github.com/en/github/getting-started-with-github/quickstart)
