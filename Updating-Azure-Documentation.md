@@ -9,6 +9,9 @@
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Docs contributor guide]: <https://docs.microsoft.com/contribute>
 [Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
+[Docs publishing schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#publishing-schedule---azure-docs-pr>
+[Docs pull-request review schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#pull-request-review-schedule>
+[Docs schedules]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules> "Docs pull-request review and publishing schedules"
 [Git]: <https://git-scm.com>
 [Git Docs]: <https://git-scm.com/doc>
 [Git for Windows]: <https://git-scm.com/download/win>
@@ -27,21 +30,26 @@
 
 # WHAT
 
-You can contribute directly to the [Azure Docs] :smiley:
+You can contribute _directly_ to the official [Azure Docs]!
+
+# WHERE
+
+The Azure Docs [source code][azure-docs-pr] is on GitHub!
+
+# WHEN
+
+Azure Docs pull-requests are reviewed and published _[three times per day]!_
 
 # HOW
 
 1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
-2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
-3. Find [azure-docs-pr], and explain why it should be used instead of [azure-docs].
-4. Find [databricks-pr], and explain how it relates to each of docs.databricks.com and docs.microsoft.com/azure.
-	
-5. [Fork](https://guides.github.com/activities/forking/) a repo using GitHub in the browser.
-6. Install [Git for Windows] and [VS Code].
-7. [Clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) a repo from GitHub to local using Git in VS Code.
-8. Edit [Docs-flavored Markdown] using the [Docs Authoring Pack] in VS Code.
-9. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
-10. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
+1. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
+1. [Fork](https://guides.github.com/activities/forking/) the GitHub repo [MicrosoftDocs/azure-docs-pr][azure-docs-pr].
+1. [Clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) a repo from GitHub to local using Git in VS Code.
+1. Install [Git for Windows] and [VS Code].
+1. Edit [Docs-flavored Markdown] using the [Docs Authoring Pack] in VS Code.
+1. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
+1. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
 
 # WHO
 
