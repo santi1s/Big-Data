@@ -48,8 +48,8 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
    1. On GitHub, [fork](https://guides.github.com/activities/forking/) the [MicrosoftDocs/azure-docs-pr][azure-docs-pr] repo to your own account.
    1. In VS Code, [clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) your fork of the repo to your local machine.
 1. Edit the Azure Docs source.
-   - Azure Docs is written in [Docs-flavored Markdown](https://docs.microsoft.com/en-us/contribute/markdown-reference). It is very similar to [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-   - The [Docs Authoring Pack](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack) for VS Code is quite helpful. For example, you can [preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) what your edits will look like.
+   - Azure Docs is written in [Docs-flavored Markdown](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master). It is very similar to GitHub-flavored Markdown, but has additional features such as [alerts](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#alerts-note-tip-important-caution-warning), [selectors](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#selectors)
+   - The [Docs Authoring Pack](https://review.docs.microsoft.com/en-us/help/contribute/docs-authoring-pack?branch=master) for VS Code is quite helpful. For example, you can [preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) what your edits will look like.
    - VS Code itself is a powerful and _very_ extensible editor. Read the [getting started guide](https://code.visualstudio.com/docs) to VS Code if you're new. 
 
 1. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
