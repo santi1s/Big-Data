@@ -26,6 +26,8 @@
 
 <!--endregion-->
 
+
+
 Travis LaGrone has expertise here! Reach out to him if you have questions!
 (Soon we'll have a full guide/training video here!)
 
@@ -40,6 +42,12 @@ Travis LaGrone has expertise here! Reach out to him if you have questions!
 8. Edit [Docs-flavored Markdown] using the [Docs Authoring Pack] in VS Code.
 9. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
 10. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
+
+# WHO
+
+Azure Docs SMEs in CSS Big Data:
+
+- 
 
 # See Also
 
