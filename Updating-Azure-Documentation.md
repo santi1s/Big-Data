@@ -7,7 +7,7 @@
 [Databricks Docs]: <https://docs.databricks.com>
 [databricks-pr]: <https://github.com/MicrosoftDocs/databricks-pr>
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
-[Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
+[Docs-flavored Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
 [Git]: <https://git-scm.com>
 [Git Docs]: <https://git-scm.com/doc>
 [Git for Windows]: <https://git-scm.com/download/win>
@@ -35,14 +35,15 @@ Travis LaGrone has expertise here! Reach out to him if you have questions!
 4. Find [databricks-pr], and explain how it relates to each of docs.databricks.com and docs.microsoft.com/azure.
 	
 5. [Fork](https://guides.github.com/activities/forking/) a repo using GitHub in the browser.
-6. Install [Git for Windows](https://git-scm.com/download/win) and [VS Code](https://code.visualstudio.com/).
+6. Install [Git for Windows] and [VS Code].
 7. [Clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) a repo from GitHub to local using Git in VS Code.
-8. Edit [Docs-flavored Markdown](https://docs.microsoft.com/en-us/contribute/markdown-reference) using the [Docs Authoring Pack](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack) in VS Code.
+8. Edit [Docs-flavored Markdown] using the [Docs Authoring Pack] in VS Code.
 9. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
 10. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
 
-Links:
-https://github.com/MicrosoftDocs/azure-docs-pr
-https://repos.opensource.microsoft.com/
+# See Also
 
-GitHub Cheat Sheet: https://rogerdudler.github.io/git-guide/
+- [Azure Docs source code][azure-docs-pr]
+- [Git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet)
+- [GitHub quickstart](https://help.github.com/en/github/getting-started-with-github/quickstart)
+- [Microsoft Docs contributor guide]
