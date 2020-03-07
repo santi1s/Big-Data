@@ -4,6 +4,7 @@
 [azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
 [CommonMark]: <https://commonmark.org>
+[Databricks Docs]: <https://docs.databricks.com>
 [databricks-pr]: <https://github.com/MicrosoftDocs/databricks-pr>
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
@@ -31,7 +32,7 @@ Travis LaGrone has expertise here! Reach out to him if you have questions!
 1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
 2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
 3. Find [azure-docs-pr], and explain why it should be used instead of [azure-docs].
-4. Find [databricks-pr](https://github.com/MicrosoftDocs/databricks-pr), and explain how it relates to each of docs.databricks.com and docs.microsoft.com/azure.
+4. Find [databricks-pr], and explain how it relates to each of docs.databricks.com and docs.microsoft.com/azure.
 	
 5. [Fork](https://guides.github.com/activities/forking/) a repo using GitHub in the browser.
 6. Install [Git for Windows](https://git-scm.com/download/win) and [VS Code](https://code.visualstudio.com/).
