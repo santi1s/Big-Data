@@ -1,8 +1,10 @@
-<!-- Link Reference Definitions -->
+<!--region Link Reference Definitions-->
+
 [Azure Docs]: <https://docs.microsoft.com/azure>
 [azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
 [CommonMark]: <https://commonmark.org>
+[databricks-pr]: <https://github.com/MicrosoftDocs/databricks-pr>
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
 [Git]: <https://git-scm.com>
@@ -14,18 +16,21 @@
 [MarkDig]: <https://github.com/lunet-io/markdig#markdig---->
 [Markdown]: <https://guides.github.com/features/mastering-markdown>
 [Microsoft Docs]: <https://docs.microsoft.com>
+[Microsoft Docs contributor guide]: <https://docs.microsoft.com/contribute>
 [Microsoft GitHub]: <https://repos.opensource.microsoft.com>
 [Microsoft Open Source]: <https://opensource.microsoft.com>
 [MicrosoftDocs]: <https://github.com/MicrosoftDocs>
 [VS Code]: <https://code.visualstudio.com>
 [VS Code Docs]: <https://code.visualstudio.com/docs>
 
+<!--endregion-->
+
 Travis LaGrone has expertise here! Reach out to him if you have questions!
 (Soon we'll have a full guide/training video here!)
 
-1. [Set Up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
-2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs](https://github.com/MicrosoftDocs).
-3. Find [azure-docs-pr](https://github.com/MicrosoftDocs/azure-docs-pr), and explain why it should be used instead of [azure-docs](https://github.com/MicrosoftDocs/azure-docs).
+1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
+2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
+3. Find [azure-docs-pr], and explain why it should be used instead of [azure-docs].
 4. Find [databricks-pr](https://github.com/MicrosoftDocs/databricks-pr), and explain how it relates to each of docs.databricks.com and docs.microsoft.com/azure.
 	
 5. [Fork](https://guides.github.com/activities/forking/) a repo using GitHub in the browser.
