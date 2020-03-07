@@ -2,6 +2,7 @@
 [Azure Docs]: <https://docs.microsoft.com/azure>
 [azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
+[CommonMark]: <https://commonmark.org>
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
 [Git]: <https://git-scm.com>
@@ -9,7 +10,7 @@
 [Git for Windows]: <https://git-scm.com/download/win>
 [GitHub]: <https://github.com>
 [GitHub Docs]: <https://help.github.com>
-[Markdig]: <https://github.com/lunet-io/markdig#markdig---->
+[MarkDig]: <https://github.com/lunet-io/markdig#markdig---->
 [Microsoft Docs]: <https://docs.microsoft.com>
 [Microsoft GitHub]: <https://repos.opensource.microsoft.com>
 [Microsoft Open Source]: <https://opensource.microsoft.com>
