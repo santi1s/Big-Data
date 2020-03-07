@@ -34,7 +34,9 @@ You can contribute _directly_ to the official [Azure Docs]!
 
 # WHY
 
+- Update old articles
 - 
+- Add specific examples
 
 # WHERE
 
