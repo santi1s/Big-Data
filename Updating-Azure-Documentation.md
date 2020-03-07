@@ -47,7 +47,7 @@ Travis LaGrone has expertise here! Reach out to him if you have questions!
 
 Azure Docs SMEs in CSS Big Data:
 
-- 
+- [Travis LaGrone][https://who/is/trlagron]
 
 # See Also
 
