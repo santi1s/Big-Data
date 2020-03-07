@@ -7,17 +7,16 @@
 [Databricks Docs]: <https://docs.databricks.com>
 [databricks-pr]: <https://github.com/MicrosoftDocs/databricks-pr>
 [Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
-[Docs-flavored Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
+[Docs contributor guide]: <https://docs.microsoft.com/contribute>
+[Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
 [Git]: <https://git-scm.com>
 [Git Docs]: <https://git-scm.com/doc>
 [Git for Windows]: <https://git-scm.com/download/win>
 [GitHub]: <https://github.com>
 [GitHub Docs]: <https://help.github.com>
-[GitHub-flavored Markdown]: <https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax>
+[GitHub Markdown]: <https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax>
 [MarkDig]: <https://github.com/lunet-io/markdig#markdig---->
 [Markdown]: <https://guides.github.com/features/mastering-markdown>
-[Microsoft Docs]: <https://docs.microsoft.com>
-[Microsoft Docs contributor guide]: <https://docs.microsoft.com/contribute>
 [Microsoft GitHub]: <https://repos.opensource.microsoft.com>
 [Microsoft Open Source]: <https://opensource.microsoft.com>
 [MicrosoftDocs]: <https://github.com/MicrosoftDocs>
@@ -26,6 +25,9 @@
 
 <!--endregion-->
 
+# WHAT
+
+You can contribute directly to the [Azure Docs] :smiley:
 
 # HOW
 
@@ -64,6 +66,7 @@ Known CSS Big Data SMEs on the following topics:
 # See Also
 
 - [Azure Docs source code][azure-docs-pr]
+- [Docs contributor guide]
+- [Docs Markdown reference][Docs Markdown]
 - [Git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet)
 - [GitHub quickstart](https://help.github.com/en/github/getting-started-with-github/quickstart)
-- [Microsoft Docs contributor guide]
