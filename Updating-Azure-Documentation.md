@@ -67,16 +67,16 @@ Known CSS Big Data SMEs on the following topics:
 [Julie O'Brien]: <https://who/is/juobrie>
 [Travis LaGrone]: <https://who/is/trlagron>
 
-- [Azure Docs][Docs contributor guide]
+- Azure Docs
   - [Travis LaGrone]
-- [Git][Git Docs]
+- Git
   - [Calvin Moisan]
   - [Travis LaGrone]
-- [GitHub][GitHub Docs]
+- GitHub
   - [Calvin Moisan]
   - [Julie O'Brien]
   - [Travis LaGrone]
-- [VS Code]
+- VS Code
   - [Travis LaGrone]
 
 # See Also
