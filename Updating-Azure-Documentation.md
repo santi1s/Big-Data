@@ -32,13 +32,17 @@
 
 You can contribute _directly_ to the official [Azure Docs]!
 
+# WHY
+
+- 
+
 # WHERE
 
-The Azure Docs [source code][azure-docs-pr] is on GitHub!
+The Azure Docs [source][azure-docs-pr] is right on GitHub!
 
 # WHEN
 
-Azure Docs pull-requests are reviewed and published _[three times per day]!_
+Azure Docs pull-requests are reviewed and published _[three times per day][Docs schedules]_!
 
 # HOW
 
