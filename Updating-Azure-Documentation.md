@@ -34,9 +34,12 @@ You can contribute _directly_ to the official [Azure Docs]!
 
 # WHY
 
-- Update old articles
-- 
-- Add specific examples
+- Update out-of-date articles
+- Document undocumented features
+- Clarify commonly-misunderstood behavior
+- Demonstrate examples of common scenarios
+- Publish customer-facing TSGs
+- _...and much more!_
 
 # WHERE
 
