@@ -52,8 +52,8 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
 # HOW
 
 1. Prepare your local machine.
-   1. Install [Git for Windows].
-   1. Install [VS Code].
+   - Install [Git for Windows].
+   - Install [VS Code].
 
 1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
 1. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
