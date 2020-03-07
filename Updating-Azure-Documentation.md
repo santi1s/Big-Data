@@ -50,10 +50,14 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
 1. Edit the Azure Docs source.
    - Azure Docs is written in [Docs-flavored Markdown](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master). It is very similar to GitHub-flavored Markdown, but has additional features such as [alerts](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#alerts-note-tip-important-caution-warning), [buttons](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#next-step-action), [includes](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#included-markdown-files), [selectors](https://review.docs.microsoft.com/en-us/help/contribute/markdown-reference?branch=master#selectors), [snippets](https://review.docs.microsoft.com/en-us/help/contribute/code-in-docs?branch=master#in-repo-snippet-references), etc.
    - The [Docs Authoring Pack](https://review.docs.microsoft.com/en-us/help/contribute/docs-authoring-pack?branch=master) for VS Code is quite helpful. For example, you can [preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) what your edits will look like.
-   - VS Code itself is a powerful and _very_ extensible editor. Read the [getting started guide](https://code.visualstudio.com/docs) to VS Code if you're new. 
-
-1. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
-1. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
+   - VS Code itself is a powerful and _very_ extensible editor. Read the [getting started](https://code.visualstudio.com/docs) guide to VS Code if you're new, then visit the [Extension Marketplace](https://marketplace.visualstudio.com/vscode) to customize VS Code to your heart's content. In particular, take a look at the [version control guide](https://code.visualstudio.com/docs/editor/versioncontrol) and install the [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
+   - **Always** follow Microsoft's official [style guide](https://docs.microsoft.com/en-us/contribute/style-quick-start) and standard [formatting guidelines](https://docs.microsoft.com/en-us/contribute/text-formatting-guidelines).
+1. Submit your edits for review and publication.
+   1. In VS Code, [commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) your local changes (edits).
+   1. In VS Code, [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) your local commits to _your_ fork on GitHub.
+   1. On GitHub, create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from your fork to the original repo. Your pull request will be automatically reviewed if possible. Otherwise, you will have to [request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review) a human review.
+   1. On GitHub, once your pull request is approved (successfully reviewed), then follow the instructions of your reviewer to sign it. **Always** re-read your entire contribution one last time before signing it.
+   1. Approved and signed pull requests will be published during the next time slot in the [publishing schedule](https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules?branch=master#publishing-schedule---azure-docs-pr).
 
 # WHO
 
