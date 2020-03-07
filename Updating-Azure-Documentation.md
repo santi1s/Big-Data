@@ -3,28 +3,11 @@
 [Azure Docs]: <https://docs.microsoft.com/azure>
 [azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
-[CommonMark]: <https://commonmark.org>
-[Databricks Docs]: <https://docs.databricks.com>
-[databricks-pr]: <https://github.com/MicrosoftDocs/databricks-pr>
-[Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Docs contributor guide]: <https://docs.microsoft.com/contribute>
-[Docs Markdown]: <https://docs.microsoft.com/en-us/contribute/markdown-reference>
 [Docs publishing schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#publishing-schedule---azure-docs-pr>
 [Docs pull-request review schedule]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules#pull-request-review-schedule>
 [Docs schedules]: <https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules> "Docs pull-request review and publishing schedules"
-[Git]: <https://git-scm.com>
-[Git Docs]: <https://git-scm.com/doc>
-[Git for Windows]: <https://git-scm.com/download/win>
-[GitHub]: <https://github.com>
-[GitHub Docs]: <https://help.github.com>
-[GitHub Markdown]: <https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax>
-[MarkDig]: <https://github.com/lunet-io/markdig#markdig---->
 [Markdown]: <https://guides.github.com/features/mastering-markdown>
-[Microsoft GitHub]: <https://repos.opensource.microsoft.com>
-[Microsoft Open Source]: <https://opensource.microsoft.com>
-[MicrosoftDocs]: <https://github.com/MicrosoftDocs>
-[VS Code]: <https://code.visualstudio.com>
-[VS Code Docs]: <https://code.visualstudio.com/docs>
 
 <!--endregion-->
 
@@ -53,10 +36,10 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
 
 1. Prepare your development environment.
    1. Install [Git](https://git-scm.com/download).
-   1. Install [VS Code].
-   1. Install the [Docs Authoring Pack] extension for VS Code.
+   1. Install [VS Code](https://code.visualstudio.com).
+   1. Install the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension for VS Code.
 1. Configure your GitHub account.
-   1. Create a _personal_ [GitHub account](https://docs.microsoft.com/en-us/contribute/get-started-setup-github). You will keep this account even if you leave Microsoft.
+   1. Create a _personal_ [GitHub](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) account. You will keep this account even if you leave Microsoft.
    1. Set up [two-factor authentication](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your GitHub account.
 1. Request access to the Azure Docs source.
    1. Sign up for [Microsoft Open Source](https://repos.opensource.microsoft.com).
@@ -65,9 +48,10 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
    1. On GitHub, [fork](https://guides.github.com/activities/forking/) the [MicrosoftDocs/azure-docs-pr][azure-docs-pr] repo to your own account.
    1. In VS Code, [clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) your fork of the repo to your local machine.
 1. Edit the Azure Docs source.
-   1. 
+   - Azure Docs is written in [Docs-flavored Markdown](https://docs.microsoft.com/en-us/contribute/markdown-reference).
+   - The [Docs Authoring Pack](https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack) for VS Code has a number of useful features. For example, you can [preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) what your edits will look like.
+   - If you are new to VS Code, then take a look at the [VS Code docs](https://code.visualstudio.com/docs).
 
-1. Edit [Docs-flavored Markdown] using the [Docs Authoring Pack] in VS Code.
 1. [Commit](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) and [push](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes) using Git in VS Code.
 1. [Create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from the fork to the original using GitHub in the browser.
 
