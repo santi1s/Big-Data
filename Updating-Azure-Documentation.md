@@ -51,11 +51,18 @@ Azure Docs pull-requests are reviewed and published _[three times per day][Docs 
 
 # HOW
 
-1. Prepare your local machine.
-   - Install [Git for Windows].
-   - Install [VS Code].
+1. Prepare your development environment.
+   1. Install [Git](https://git-scm.com/download).
+   1. Install [VS Code].
+   1. Install the [Docs Authoring Pack] extension for VS Code.
+1. Configure your GitHub account.
+   1. Create a _personal_ [GitHub account](https://docs.microsoft.com/en-us/contribute/get-started-setup-github). You will keep this account even if you leave Microsoft.
+   1. Set up [two-factor authentication](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication) on your GitHub account.
+1. Request access to the Azure Docs source.
+   1. Sign up for [Microsoft Open Source](https://repos.opensource.microsoft.com).
+   1. Join the [MicrosoftDocs](https://repos.opensource.microsoft.com/MicrosoftDocs) team.
+1. 
 
-1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
 1. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
 1. [Fork](https://guides.github.com/activities/forking/) the [azure-docs-pr] repo on GitHub.
 1. [Clone](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository) your fork of the repo to your local machine.
