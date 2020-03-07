@@ -27,7 +27,7 @@
 
 # WHAT
 
-You can contribute directly to the [Azure Docs] :bowtie:
+You can contribute directly to the [Azure Docs] :smiley:
 
 # HOW
 
