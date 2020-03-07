@@ -2,6 +2,7 @@
 [Azure Docs]: <https://docs.microsoft.com/azure>
 [azure-docs]: <https://github.com/MicrosoftDocs/azure-docs>
 [azure-docs-pr]: <https://github.com/MicrosoftDocs/azure-docs-pr>
+[Docs Authoring Pack]: <https://docs.microsoft.com/en-us/contribute/how-to-write-docs-auth-pack>
 [Git]: <https://git-scm.com>
 [Git Docs]: <https://git-scm.com/doc>
 [Git for Windows]: <https://git-scm.com/download/win>
