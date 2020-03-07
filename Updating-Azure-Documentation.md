@@ -27,9 +27,7 @@
 <!--endregion-->
 
 
-
-Travis LaGrone has expertise here! Reach out to him if you have questions!
-(Soon we'll have a full guide/training video here!)
+# HOW
 
 1. [Set up](https://docs.microsoft.com/en-us/contribute/get-started-setup-github) a personal GitHub account and [configure 2FA.](https://help.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
 2. [Request access](https://repos.opensource.microsoft.com/) to [MicrosoftDocs].
@@ -45,9 +43,23 @@ Travis LaGrone has expertise here! Reach out to him if you have questions!
 
 # WHO
 
-Azure Docs SMEs in CSS Big Data:
+Known CSS Big Data SMEs on the following topics:
 
-- [Travis LaGrone][https://who/is/trlagron]
+[Calvin Moisan]: <https://who/is/camoisan>
+[Julie O'Brien]: <https://who/is/juobrie>
+[Travis LaGrone]: <https://who/is/trlagron>
+
+- [Azure Docs][Microsoft Docs contributor guide]
+  - [Travis LaGrone]
+- [Git][Git Docs]
+  - [Calvin Moisan]
+  - [Travis LaGrone]
+- [GitHub][GitHub Docs]
+  - [Calvin Moisan]
+  - [Julie O'Brien]
+  - [Travis LaGrone]
+- [VS Code]
+  - [Travis LaGrone]
 
 # See Also
 
