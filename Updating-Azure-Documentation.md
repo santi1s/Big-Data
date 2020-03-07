@@ -18,6 +18,7 @@
 [Microsoft Open Source]: <https://opensource.microsoft.com>
 [MicrosoftDocs]: <https://github.com/MicrosoftDocs>
 [VS Code]: <https://code.visualstudio.com>
+[VS Code Docs]: <https://code.visualstudio.com/docs>
 
 Travis LaGrone has expertise here! Reach out to him if you have questions!
 (Soon we'll have a full guide/training video here!)
