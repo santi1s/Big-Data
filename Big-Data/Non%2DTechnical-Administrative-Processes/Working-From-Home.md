@@ -1,6 +1,6 @@
-**WFM / remote = work from home**
+# **WFM / remote = work from home**
 
-**Guideline / how to - Ad Hoc (not a scheduled or pre-approved arrangement)** 
+##Guideline / how to - Ad Hoc _(Not scheduled or pre-approved arrangement)_
 _We are using this for simple guidelines for keeping our teams safe while supporting our customers during the COVID-19 Situation_
 
 1. Please Use **Teams** to give your LOCAL team and mgr a he_ads up 
@@ -20,6 +20,6 @@ Scheduled / pre-arranged  guideline / process will be captured differently.
 3. VPN set up and tested.  (link)
 
 
-FAQ's:
+## FAQ's:
 ​​​​​​​​​​​​​​Use MSFTVPN for VPN connectivity: 
 https://microsoft.sharepoint.com/sites/Network_Connectivity/SitePages/RemoteAccess/MSFTVPN-Rollout.aspx
