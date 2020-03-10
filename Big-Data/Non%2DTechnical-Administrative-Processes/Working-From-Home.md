@@ -6,7 +6,7 @@ _We are using this for simple guidelines for keeping our teams safe while suppor
 1. Please Use **Teams** to give your LOCAL team and mgr a he_ads up 
 2. As a back up, please post your back up communication (mobile number, home number, etc) in Teams while your letting your peers know your WFH / Remote. 
 3. You must have high speed internet, and ideally mobile hotspot as a backup internet connection. 
-4. **DO NOT** need to do a WFM request/ approval. 
+- 4. You **DO NOT** need to do a WFM request/ approval. 
 5.  Please Do NOT abuse, if so we all lose.  i.e. last minute always Monday and Fridays, team cant get a hold of you. 
 6.  Please be diligent in documentation reaction to pings and cases. 
  This is very important to build a very strong case of the value and helps with leadership support. 
