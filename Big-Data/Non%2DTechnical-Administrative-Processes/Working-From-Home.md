@@ -3,7 +3,7 @@
 ##Guideline / how to - Ad Hoc _(Not scheduled or pre-approved arrangement)_
 _We are using this for simple guidelines for keeping our teams safe while supporting our customers during the COVID-19 Situation_
 
-1. Please Use **Teams** to give your LOCAL team and mgr a he_ads up 
+1. Please Use **Teams** to give your LOCAL team and mgr a heads up 
 2. As a back up, please post your back up communication (mobile number, home number, etc) in Teams while your letting your peers know your WFH / Remote. 
 3. You must have high speed internet, and ideally mobile hotspot as a backup internet connection. 
 - 4. You **DO NOT** need to do a WFM request/ approval. 
@@ -15,11 +15,16 @@ _We are using this for simple guidelines for keeping our teams safe while suppor
 Scheduled / pre-arranged  guideline / process will be captured differently. 
 
 **What do you need to effectively support our customers when WFH / remote?** 
-1. Microsoft laptop / surface, with latest, patched Windows OS. 
-2. 2 factor authentication  (link)
-3. VPN set up and tested.  (link)
+1. Microsoft laptop / surface, with latest, patched Windows OS with power supply
+2. Usb headset
+3. 2 factor authentication  (link)
+4. VPN set up and tested.  (link)
 
 
-## FAQ's:
+## FAQ's / Pro Tips:
 ​​​​​​​​​​​​​​Use MSFTVPN for VPN connectivity: 
 https://microsoft.sharepoint.com/sites/Network_Connectivity/SitePages/RemoteAccess/MSFTVPN-Rollout.aspx
+
+Use your personal USB keyboard and USB Mouse or wireless (bluetooth) mouse/keyboard
+
+Use personal 4k / HD TV's as 2nd or third monitors via HDMI (either with USB to HDMI cables or with a docking station) 
