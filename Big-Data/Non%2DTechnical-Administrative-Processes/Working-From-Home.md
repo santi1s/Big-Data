@@ -3,7 +3,8 @@
 ##Guideline / how to - Ad Hoc _(Not scheduled or pre-approved arrangement)_
 _We are using this for simple guidelines for keeping our teams safe while supporting our customers during the COVID-19 Situation_
 
-1. Please Use **Teams** to give your LOCAL team and mgr a heads up 
+1. Please Use **Teams** to give your LOCAL team and mgr a heads up. 
+1a.  Please use "availability status" for good. 
 2. As a back up, please post your back up communication (mobile number, home number, etc) in Teams while your letting your peers know your WFH / Remote. 
 3. You must have high speed internet, and ideally mobile hotspot as a backup internet connection. 
 - 4. You **DO NOT** need to do a WFM request/ approval. 
