@@ -16,7 +16,11 @@ http://toolbox/OLHelper
 
 ##Case Buddy
 **Description**
+Case Buddy is a comprehensive case-management tool that works alongside service desk to manage cases.
+In-built timers, in-built note takers, ability to create and manage categories and personalize your queue views.
+
 **Download**
+[Case Buddy Download](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcasebuddy.blob.core.windows.net%2Finstall%2Fproduction%2FCaseBuddy.application&data=02%7C01%7Cwhhender%40microsoft.com%7C55ec764694a7431e9f3e08d6bded745b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636905226173355003&sdata=jpbMifh91kUgK15csrddr5IXXTkZCdv4ZRnUoAQzM6U%3D&reserved=0)
 
 #Productivity Tools
 
