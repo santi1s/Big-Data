@@ -38,3 +38,5 @@ This will ad the incident to your 'Tracked Incidents' list.
 ![image.png](/.attachments/image-8a0a9b1a-037b-4a22-a30d-b8e1aa33b867.png)
 
 This will send you emails for any updates to your ICM!
+
+#What to Share with Your Customers from ICMs
