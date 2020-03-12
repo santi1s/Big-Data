@@ -27,5 +27,11 @@ The Microsoft Security Response Center follows these processes for all vulnerabi
 Microsoft follows Coordinated Vulnerability Disclosure (CVD) and, to protect the ecosystem, we request that those reporting to us do the same.
 
 
+# Customer Messaging
+Here is some example messaging we can share with the customer:
 
+_We reviewed the document you provided with a report of security vulnerabilities. Having received similar requests from customers previously, and after working with our security teams and program managers, the process is for customers to work with the [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue).  Microsoft Security Response Center investigates all reports of security vulnerabilities affecting Microsoft products and services.  There is no additional cost for this service._
+	
+	
+_Please do let me know if you would like me to schedule a Teams meeting for us to discuss any questions you may have. Otherwise, the next course of action is for us to archive this support case and you will engage the Microsoft Security Response Center._ 
 
