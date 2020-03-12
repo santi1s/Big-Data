@@ -41,6 +41,10 @@ This will send you emails for any updates to your ICM!
 
 #What to Share with Your Customers from ICMs
 ## What to Share
+1. That you have involved and/or are working alongside the product team to understand an issue.
+2. Estimates and Timelines - Tell your customer when you will update them next. Give rough/openended dates for product team deliverables. Use phrasing like "We expect a deployment within 2-3 weeks." 
+This allows for changes in the product team schedule and rollout time.
+
 ## What NOT to Share
 1. ICM Link/Case Number/The word "ICM" -- Your customers do not have access to this and they do not know what it is. Communicate to your customer that you are involving the product team, or working alongside the product team.
 2. Full Backend Logs - Your customers do not need to parse logs-- That is our job. Also, exposing the structure of these backend logs is a security risk. Communicate with your customer what the logs mean/say, not their specific content.
