@@ -42,7 +42,7 @@ This will send you emails for any updates to your ICM!
 #What to Share with Your Customers from ICMs
 ## What to Share
 1. That you have involved and/or are working alongside the product team to understand an issue.
-2. Estimates and Timelines - Tell your customer when you will update them next. Give rough/openended dates for product team deliverables. Use phrasing like "We expect a deployment within 2-3 weeks." 
+2. Estimates and Timelines - Tell your customer when you will update them next. Give rough/open-ended dates for product team deliverables. Use phrasing like "We expect a deployment within 2-3 weeks." 
 This allows for changes in the product team schedule and rollout time.
 
 ## What NOT to Share
