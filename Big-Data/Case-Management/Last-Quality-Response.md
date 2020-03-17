@@ -160,7 +160,7 @@ Unresponsive Customer Final Email (Closure)
 =========================
 Hello [Customer Name],
 
-Thank you for contacting Microsoft Azure Support. Your case:[Case Number] has now been closed.
+Thank you for contacting Microsoft Azure Support. Your case: [Case Number] has now been closed.
 
 If you need to continue working on this case, please do not hesitate to reach out to me directly or reopen this service request in your support history and submit a re-open ticket request.
 
