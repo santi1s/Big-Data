@@ -67,7 +67,7 @@ Working Hours:
   <td style='border-style:solid;border-color:#A3A3A3;background-color:#e4f7db;border-width:1pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
-Hello [_Customer Name]_,
+Hello [Customer Name],
  
 This is fantastic news and thank you for updating me. For my own understanding, can you please share any changes or steps that were taken to resolve your issue?
  
