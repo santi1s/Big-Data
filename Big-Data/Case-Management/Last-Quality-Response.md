@@ -18,7 +18,7 @@ Should you have any further questions you may reach me using the information in 
 You may possibly receive a survey about your support experience. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
  
 Sincerely,
-[Support Engineer Name]
+**[Support Engineer Name]**
 Title | Team
 Phone: xxx-xxx-xxxx
 Email: xxxxx@microsoft.com
