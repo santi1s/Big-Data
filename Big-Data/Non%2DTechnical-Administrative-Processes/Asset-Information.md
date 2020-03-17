@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-#Tools
+#Hardware
 For information about your machine or any other Microsoft-issued assets, you can use the Asset Link tool!
 
 Go to //AssetLink and it will trigger the install of the AssetLink app.
