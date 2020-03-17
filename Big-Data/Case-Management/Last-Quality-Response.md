@@ -41,7 +41,7 @@ Thank you again for using Microsoft Products and for reaching out to Microsoft S
 Cause _[if applicable]_: _[summary of root cause]_.
 **Resolution: _[Summary of the resolution]_.**
  
-We are so glad we were able to assist you in resolving your issue.
+We are so glad we were able to assist you in resolving your issue and we will continue forward with closing this case.
  
 Should you have any further questions you may reach me using the information in my signature. Additionally, should the issue reoccur, please feel free to reopen the associated incident.
  
