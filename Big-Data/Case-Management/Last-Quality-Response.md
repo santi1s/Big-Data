@@ -34,6 +34,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 <tr>
   <td style='border-style:solid;border-color:#A3A3A3;background-color:#e4f7db;border-width:1pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
 Hello [Customer Name],
 
 Thank you again for using Microsoft Products and for reaching out to Microsoft Support regarding _[Recap of the issue reported]_
@@ -123,6 +124,7 @@ Working Hours:
 <tr>
   <td style='border-style:solid;border-color:#A3A3A3;background-color:#e4f7db;border-width:1pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'> 
+
 Hello [Customer Name],
 
 Sorry I haven’t been able to reach you in my last couple of attempts. Please share your availability and we can continue working at a convenient time for you.
