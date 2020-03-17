@@ -20,7 +20,7 @@ LQR Should **Avoid**:
 
 
 **Dissatisfied Customer**: If you think that customer can be dissatisfied for any reason, then:
-1.	Discuss as soon as possible this case with a Senior Engineer or Technical Advisor, they may suggest looping in the PG as well. Do not delay asking for help if the customer is dissatisfied. 
+1.	Discuss as soon as possible this case with a Senior Engineer or Technical Advisor, they may suggest looping in the PG as well. Do not delay asking for help if the customer is [dissatisfied.] 
 2.	Contact the TAM (for Premier cases) 
 3.	Follow the process for CSAT Impacting IcMs and Consider a recovery call (Link: CSAT Impacting IcMs process) 
 4.	Use a closure email template.
