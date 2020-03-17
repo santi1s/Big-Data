@@ -1,30 +1,4 @@
 [[_TOC_]]
-**Last Quality Response:** gives you an opportunity to leave the customer with a good last impression. Set the expectation that a closing email will be sent that captures the issue and resolution. This is something customer can always use if the issue happens again.
-1.	Ensure a summary if the issue
-2.	Make sure all mitigation/resolution steps are taken
-3.	Show the customer how to avoid the issue in the future --> (This gives additional confidence to the customer that the support provided is excellent)
-
-
-
-LQR Should **Include:**
-1.	Customers name
-2.	Thank them for using Microsoft Products
-3.	Description of the problem
-4.	Resolution and recap if long running case
-5.	You and your managers contact information
-6.	Inform them of the survey and appreciation of feedback
-7.	Invitation to reopen if issue reoccurs or not resolved
-
-
-LQR Should ****Avoid**:**
-1.	Contacting and closing cases on holidays, weekends and after working hours.
-
-
-****Dissatisfied Customer**:** If you think that customer can be dissatisfied for any reason, then:
-1.	Discuss as soon as possible this case with a Senior Engineer or Technical Advisor, they may suggest looping in the PG as well. **_Do not delay asking for help if the customer is dissatisfied_**
-2.	Contact the TAM (_**for Premier cases**_) 
-3.	Follow the process for CSAT Impacting IcMs and Consider a recovery call (**_if applicable_**)
-
 
 **LRQ General workflow for an Unresponsive Customer:**
 The below workflow gives a general idea about the process for CSS to follow when working with an un-responsive customer. **_CSS should always consider the case context and customer sentiment_**.
