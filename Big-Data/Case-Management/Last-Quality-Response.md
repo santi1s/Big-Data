@@ -22,7 +22,7 @@ LQR Should ****Avoid**:**
 ****Dissatisfied Customer**:** If you think that customer can be dissatisfied for any reason, then:
 1.	Discuss as soon as possible this case with a Senior Engineer or Technical Advisor, they may suggest looping in the PG as well. **_Do not delay asking for help if the customer is dissatisfied_**
 2.	Contact the TAM (_**for Premier cases**_) 
-3.	Follow the process for CSAT Impacting IcMs and Consider a recovery call
+3.	Follow the process for CSAT Impacting IcMs and Consider a recovery call (**_if applicable_**)
 
 
 **LRQ General workflow for an Un-Responsive Customer:**
