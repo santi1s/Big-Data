@@ -26,7 +26,6 @@ LQR Should ****Avoid**:**
 
 
 **LRQ General workflow for an Un-Responsive Customer:**
-
 The below workflow gives a general idea about the process for CSS to follow when working with an un-responsive customer. **_CSS should always consider the case context and customer sentiment_**.
 
 
