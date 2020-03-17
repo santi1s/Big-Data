@@ -48,7 +48,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 
 1.	Follow-up 
 2.	2nd Attempt (Unresponsive customer)
-3.	Final attempt (Unresponsive customer)
+3.	Final Attempt (Unresponsive customer)
 4.	Closure Email
 
 
