@@ -1,6 +1,6 @@
-**LRQ workflow for Un-Responsive Customer:**
+**LRQ workflow for Un-Responsive Customer**
 
-![LQR Flow_Un-Responsive Customers.jpg](/.attachments/LQR%20Flow_Un-Responsive%20Customers-0bd73b17-4a41-4268-9868-fdb9c5b13b67.jpg)
+![LQR Flow_Un-Responsive Customers.jpg](/.attachments/LQR%20Flow_Un-Responsive%20Customers-9387c391-dfdb-425a-b191-bb60dc17e83d.jpg)
 
 Resolved Email Templates (Standard Case Closure)
 ==================
@@ -73,7 +73,7 @@ Sorry I haven’t been able to reach you in my last couple of attempts. Please s
 
 We care for your support and it is important to get your consent to close this case before I take that action.
 
-If your issue has been resolved, we always appreciate anything you can share as to the resolution so we can update our records and documentation to help us in future cases.
+If your issue has been resolved, we always appreciate anything you can share as to the resolution; so we can update our records and documentation to help us in future cases.
 
 Sincerely,
 **[Support Engineer Name]**
@@ -93,7 +93,7 @@ If you still need to continue working on this case, please do not hesitate to re
 
 Should we reach **[Month, DD]** without communication, and you are still having this issue, you can reopen this service request in your support history and submit a re-open ticket request.
 
-If your issue has been resolved, we always appreciate anything you can share as to the resolution so we can update our records and documentations to help us in future cases. If you have immediate feedback about me, please feel free to reach out to my manager First Name, Last Name xxxx@microsoft.com.
+If your issue has been resolved, we always appreciate anything you can share as to the resolution; so we can update our records and documentation to help us in future cases. If you have immediate feedback about me, please feel free to reach out to my manager First Name, Last Name xxxx@microsoft.com.
 
 Thank you for choosing Microsoft products.
 
@@ -104,4 +104,24 @@ Phone: xxx-xxx-xxxx
 Email: xxxxx@microsoft.com
 Working Hours: 
 
+Unresponsive Customer Final Email (Closure)
+=========================
+Hello [Customer Name],
+
+Thank you for contacting Microsoft Azure Support. Your case:[Case Number] has now been closed.
+
+If you need to continue working on this case, please do not hesitate to reach out to me directly or reopen this service request in your support history and submit a re-open ticket request.
+
+If your issue has been resolved, we always appreciate anything you can share as to the resolution; so we can update our records and documentation to help us in future cases. 
+
+If you have immediate feedback about me, please feel free to reach out to my manager First Name, Last Name xxxx@microsoft.com.
+
+Thank you for choosing Microsoft products.
+
+Sincerely,
+**[Support Engineer Name]**
+Title | Team
+Phone: xxx-xxx-xxxx
+Email: xxxxx@microsoft.com
+Working Hours: 
 
