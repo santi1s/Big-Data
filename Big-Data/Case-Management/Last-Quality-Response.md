@@ -63,7 +63,7 @@ Email: xxxxx@microsoft.com
 Working Hours: 
 
 
-Unresponsive Customer Second Email (2nd to last attempt)
+Unresponsive Customer Second Email (2nd Attempt)
 ==========================
 Hello [Customer Name],
 
