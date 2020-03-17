@@ -1,3 +1,4 @@
+[[_TOC_]]
 **Last Quality Response:** gives you an opportunity to leave the customer with a good last impression. Set the expectation that a closing email will be sent that captures the issue and resolution. This is something customer can always use if the issue happens again.
 1.	Ensure a summary if the issue
 2.	Make sure all mitigation/resolution steps are taken
