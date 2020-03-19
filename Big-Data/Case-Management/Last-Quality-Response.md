@@ -50,17 +50,7 @@ The following samples gives you an idea of what a LQR might look like. Make sure
 1.	Standard Case Closure
 2.	Resolved by Customer
 
-##Unresolved
-The customer has stopped responding to calls or emails, please make sure to **_CC the TAM and Manager on LQR emails_**. If customer is **_Premier, work with the TAM_** to help contact the customer to verify the case is ready to close.
-
-1.	Follow-up 
-2.	2nd Attempt (Unresponsive customer)
-3.	Final attempt (Unresponsive customer)
-4.	Closure Email
-
-
-
-## Resolved Email Templates (Standard Case Closure)
+### Resolved Email Templates (Standard Case Closure)
 ==================
 
 <table border="1";bgcolor="#DFDFDF";>
@@ -94,7 +84,7 @@ Working Hours:
 </table>
 
 
-## Resolved Email Templates (Resolved by Customer)
+### Resolved Email Templates (Resolved by Customer)
 ==================
 <table border="1";bgcolor="#DFDFDF";>
 <tr>
@@ -123,7 +113,18 @@ Working Hours:
 </table>
 
 
-## Unresponsive Customer First Email (1st Follow-up)
+##Unresolved
+The customer has stopped responding to calls or emails, please make sure to **_CC the TAM and Manager on LQR emails_**. If customer is **_Premier, work with the TAM_** to help contact the customer to verify the case is ready to close.
+
+1.	Follow-up 
+2.	2nd Attempt (Unresponsive customer)
+3.	Final attempt (Unresponsive customer)
+4.	Closure Email
+
+
+
+##Unresponsive Customers
+### Unresponsive Customer First Email (1st Follow-up)
 ========================
 
 <table border="1";bgcolor="#DFDFDF";>
@@ -150,7 +151,7 @@ Working Hours:
 </tr>
 </table>
 
-##Unresponsive Customer Second Email (2nd Attempt)
+###Unresponsive Customer Second Email (2nd Attempt)
 ========================
 
 <table border="1";bgcolor="#DFDFDF";>
@@ -179,7 +180,7 @@ Working Hours:
 </tr>
 </table>
 
-##Unresponsive Customer Third Email (Final attempt)
+###Unresponsive Customer Third Email (Final attempt)
 ========================
 
 <table border="1";bgcolor="#DFDFDF";>
@@ -210,7 +211,7 @@ Working Hours:
 </tr>
 </table>
 
-## Unresponsive Customer Final Email (Closure)
+### Unresponsive Customer Final Email (Closure)
 =========================
 <table border="1";bgcolor="#DFDFDF";>
 <tr>
