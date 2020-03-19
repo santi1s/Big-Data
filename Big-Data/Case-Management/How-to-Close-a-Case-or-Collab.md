@@ -49,11 +49,9 @@ After you have confirmed closure with your customer and sent the last quality re
 
 1. If your case is a Severity A case, reduce severity to B and then save before proceeding with case closure.
 2. Change case state to 'Closed' and Status to the appropriate status for the case. Most usually status will be 'Resolved', but there are some exceptions.
-3. Add notes to Cause, Resolution, and Symptom sections under the 'Details' tile.
+3. Add notes to Cause, Resolution, and Symptom sections under the 'Details' tile. These notes are very important! Please refer to the [below section](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FCase%20Management%2FHow%20to%20Close%20a%20Case%20or%20Collab&pageId=289634&anchor=case-closure-notes) for information on how to appropriately fill them out.
 ![image.png](/.attachments/image-a8281a0f-f892-4a16-b3ed-8953ed5338cb.png)
-These notes are a quick-reference for anyone looking at the case to understand what the issue was, why it occurred, and how to resolve it. 
-Anybody looking at this case should be able to look at the symptoms to see if it matches their own issue, and if it does they should be able to find the cause of the issue and know how to resolve it from these notes, without having to look at your full case notes or email.
-Under 'Resolution', also provide any workarounds that helped to mitigate the issue while the root cause was addressed/researched.
+
 4. Add 'Agent Identified Root Cause'
 ![image.png](/.attachments/image-2b7e9233-e796-4d28-b371-8db4b8e6bdd4.png)
 You will need to select the most specific root cause possible, which is to say you cannot choose a root cause with subtopic underneath. You will need to choose one of the subtopics.
@@ -61,6 +59,27 @@ The product team uses this 'Root Cause' data to understand what kinds of cases t
 5. Enter Labor time for case closure process/any outstanding labor not yet entered for the case.
 6. Select 'End' which will save and close out the case.
 ![image.png](/.attachments/image-bec87edc-28d3-4f1f-bfd6-e4fe8452c731.png)
+
+### Case Closure Notes
+The notes under the 'Details' section are very important! 
+These notes are a quick-reference for anyone looking at the case to understand what the issue was, why it occurred, and how to resolve it. Product teams also use these notes as a reference for the case to be able to diagnose what kinds of issues their customers are regularly seeing.
+These notes should prevent anyone from needing to dig through the case notes or case emails to understand what the issue was and how it was resolved.
+
+1. Under 'Symptoms' add a clear, concise summary of the issue the customer was trying to resolve. Sometimes the customer's original case description does cover the whole issue, but more usually a better summary will need to come from your own notes. Include this information:
+- Symptom/Issue the customer is experiencing, including any error message.
+- Where they saw this symptom/issue (portal, script, application...)
+- Impact this symptom has on their environment.
+
+2. Under 'Resolution' provide full information on any fix or resolution provided. Include any steps taken by the customer or by Microsoft to resolve the issue.
+If the issue was resolved by the product team, or if the issue was caused by an outage/Azure issue, include the ICM link as well as a brief description of the resolution.
+If any workarounds were implemented before a full fix was discovered or deployed, please include the  workaround as well.
+
+3. Under 'Cause' provide a concise description of what caused the issue, be that customer mistakes, lack of documentation, or an Azure problem. 
+Include a description of any setting, script, or mistake that caused the issue.
+Reference any documentation that also points to root cause, if applicable.
+
+
+Again, anybody reviewing your case after it is closed should be able to look at these three boxes to understand the full issue, cause, and mitigation without looking into your case notes or email communications. 
 
 #Collaboration Closure
 ##Confirm Collaboration Closure with Case Owner
