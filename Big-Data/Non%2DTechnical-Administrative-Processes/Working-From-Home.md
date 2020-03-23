@@ -21,6 +21,12 @@ Scheduled / pre-arranged  guideline / process will be captured differently.
 3. 2 factor authentication  (link)
 4. VPN set up and tested.  (link)
 
+**Set up your mobile device to work with Teams and Outlook**  ****NEW****
+As a backup if you loose Internet you'll want to be able to still use Outlook and Teams. 
+1. Phone Authentication and Phone Authentication working on your personal mobile device.  
+- ie. get 2-factor working on your phone (you might already have the 2-factor app for logging into your laptop)
+Here's a great page on setting these up via remote access:
+https://microsoft.sharepoint.com/sites/Network_Connectivity/SitePages/RemoteAccess/Phone-Authentication.aspx?web=1
 
 ## FAQ's / Pro Tips:
 ​​​​​​​​​​​​​​Use MSFTVPN for VPN connectivity: 
