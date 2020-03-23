@@ -1,3 +1,5 @@
+_Effective Date: Mar 10 2020_
+
 As you may know we are doing a lot to improve the customer experience as well as our CSAT score, and trying to learn the great practice from other peer team. You may know like Cosmos DB and HDI, have implemented a way for CSS to escalate cases to the product group when dealing with an unhappy customer. This process is called the "CSAT Impacting" process. After discussion with ADF PG, PG is very supportive to implement the same process here.
 
 In short, when dealing with an extremely unhappy customer where an ICM is not getting traction or not getting traction fast enough, the CSS SE reviews the case with a CSS SME who will approve/deny the escalation. When the escalation is approved, the SE adds [CSAT Impacting] to the service desk case and the ICM. The CSS SE then emails the PM and Engineering Manager (EM) to let them know of the escalation, and then the CSS SE can include the PM and EM in emails, calls, meetings with the customer to get direct assistance in handling the case with a goal to improve the customers CSAT. 
