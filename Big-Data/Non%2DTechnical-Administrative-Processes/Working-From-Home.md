@@ -24,10 +24,11 @@ Scheduled / pre-arranged  guideline / process will be captured differently.
 ****NEW****
 **Set up your personal mobile device to work with Teams and Outlook**  
 As we prepare for different scenarios we should be able to use your mobile a backup if you lose Internet you'll want to be able to still use Outlook and Teams. 
-1. Phone Authentication and Phone Authentication working on your personal mobile device.  
+1. Phone Authentication and secure working on your personal mobile device.  
 - ie. get 2-factor working on your phone (you might already have the 2-factor app for logging into your laptop)
 Here's a great page on setting these up via remote access:
 https://microsoft.sharepoint.com/sites/Network_Connectivity/SitePages/RemoteAccess/Phone-Authentication.aspx?web=1
+follow the steps, download the apps and your good to go. 
 
 
 ## FAQ's / Pro Tips:
