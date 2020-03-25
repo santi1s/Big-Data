@@ -12,6 +12,12 @@ http://toolbox/OLHelper
 
 (If this link isn't working, try again in a couple days.)
 
+##Case Ninja
+Case Ninja is a configurable outlook tool that can throw up a banner when you're assigned a case or a critsit, so you don't miss case assignments or other important case emails.
+
+**Download**
+aka.ms/caseninja
+
 #Case Tools
 
 ##Case Buddy
