@@ -46,8 +46,8 @@ https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/
 **High Level Process:**
 - week prior a heads up email to on call "hive"
 1. case requires call out on Saturday, between 9AM and 9PM PST
-2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI),  and approves call out to which team. 
-3. Duty Manager looks at http://aka.ms/bigdataoncall (well email generated off it a few days before Friday) and calls the the mobile number based on Friday date and POD.
+2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI), 1-800-242-7001, option 86 and approves call out to which team. 
+3. Duty Manager looks at http://aka.ms/bigdataoncall (well email generated off it a few days before Friday) and calls 1-800-242-7001, and based on which POD / Service puts in either 881, 882, 883, or 884. which call forwards to the mobile number based on Friday date and POD, and which engineer is listed. 
 FYI - Fridays your number is put into one of the following Freedom Voice mailmox (call forward)
 881       HDInsight
 882       Data Movement
