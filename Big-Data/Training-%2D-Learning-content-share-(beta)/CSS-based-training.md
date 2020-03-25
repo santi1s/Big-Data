@@ -6,8 +6,11 @@ A majority of this content was taken from the [CSS Business and Culture Foundati
 
 
 # Case Management
+Some engineers rely on Service Desk, while other use Rave. Below you can find trainings for whichever option is correct for you!
+
 [Service Desk Case and Insights Training](https://ready.azurewebsites.net/csslearning/2368 ) 
-[Rave 2.0 - Case Handling]("https://microsofteur.sharepoint.com/:p:/r/teams/OperationalManagementPackage/Rave/_layouts/15/doc2.aspx?sourcedoc=\{E8C4E494-28C5-43A1-8179-74159F96B653\}&file=Rave 2.0 - Training \(for Users\).pptx&action=edit&mobileredirect=true&DefaultItemOpen=1") 
+
+[Rave 2.0 - Case Handling]("https://microsofteur.sharepoint.com/:p:/r/teams/OperationalManagementPackage/Rave/_layouts/15/doc2.aspx?sourcedoc={E8C4E494-28C5-43A1-8179-74159F96B653}&file=Rave 2.0 - Training (for Users).pptx&action=edit&mobileredirect=true&DefaultItemOpen=1") 
 
 [Rave FAQ](https://microsoft.sharepoint.com/:w:/r/teams/SPOT_Production/Release_4162/Release/Rave FAQ.docx?d=wdc9097c0fe0643ad92ab0d406a642ec4&csf=1&e=NNfQDi) 
 
