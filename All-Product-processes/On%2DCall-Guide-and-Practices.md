@@ -1,7 +1,7 @@
 **What:**  What to do when your on-call for a week.   Typically will only be CritSits, or escalations which a on-call manager has approved. 
 **Who:**   Depth Queue and ARR,  typically after an SE has handled at least one CritSit and has comfortably with all the services within the POD (Data Movement has the most services) 
 **How:**   Via a spreadsheet which has the rotation per POD. each region has a spreadsheet (rotation) which is pulled every 3 hours that generates  the on-call for all Data and AI teams into a BI web portal. 
-Why:  **CSS Big Data needs to have an on call per POD for times during our NA (North American) region's timeslot and we** don't have scheduled engineers.   This is also our "backup" in the event we need SE's to stay late or come in early. 
+**Why:**  CSS Big Data needs to have an on call per POD for times during our NA (North American) region's timeslot and we don't have scheduled engineers.   This is also our "backup" in the event we need SE's to stay late or come in early. 
 **When:**   On call rotation starts every Friday and runs to Thursday.   However since the majoriy of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun, 9AM PST to 6 PM PST. 
 
 On call schedule here:  http://aka.ms/bigdataoncall  NA (orange) blocks is us. 
