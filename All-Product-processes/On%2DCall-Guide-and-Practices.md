@@ -48,4 +48,10 @@ https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/
 1. case requires call out on Saturday, between 9AM and 9PM PST
 2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI),  and approves call out to which team. 
 3. Duty Manager looks at http://aka.ms/bigdataoncall (well email generated off it a few days before Friday) and calls the the mobile number based on Friday date and POD.
+FYI - Fridays your number is put into one of the following Freedom Voice mailmox (call forward)
+881       HDInsight
+882       Data Movement
+883       Database
+884       Databricks
+
 4.  SE answers and works case.
