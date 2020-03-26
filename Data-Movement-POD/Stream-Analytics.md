@@ -69,8 +69,11 @@ Microsoft gives its engineers access to a wide variety of learning resources if 
 
 #Troubleshooting Introduction:
 
-[Azure Stream Analytics 101 learning course](https://learn.microsoft.com/activity/S1604001/launch#/)
-Do up to "MSSolve Tracking your case and logging your time. MSSolve has been deprecated, we now use Service Desk to manage cases, and AxisNow to track labor.
+~~[Azure Stream Analytics 101 learning course](https://learn.microsoft.com/activity/S1604001/launch#/)
+Do up to "MSSolve Tracking your case and logging your time. MSSolve has been deprecated, we now use Service Desk to manage cases, and AxisNow to track labor.~~
+
+>*The above training course was retired by the learn team for low consumption. We are working with the PG to determine if another course should be created. In the meantime please review the other content on this page.*
+
 
 Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
 
