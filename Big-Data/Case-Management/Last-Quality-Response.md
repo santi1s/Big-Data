@@ -69,7 +69,7 @@ We are so glad we were able to assist you in resolving your issue and we will co
  
 Should you have any further questions you may reach me using the information in my signature. Additionally, should the issue reoccur, please feel free to reopen the associated incident.
  
-You may possibly receive a survey about your support experience. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
+You may receive an invitation from Microsoft to complete a brief web survey about your support experience. We would appreciate it if you can take a few minutes to complete the survey. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
  
 Sincerely,
 
@@ -99,7 +99,7 @@ This is fantastic news and thank you for updating me. For my own understanding, 
  
 Should you find yourself having any additional issues relating to this service request, please feel free to reopen the associated incident and we will continue our research efforts. You can reach me via my contact details below.
 
-You may possibly receive a survey about your support experience. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
+You may receive an invitation from Microsoft to complete a brief web survey about your support experience. We would appreciate it if you can take a few minutes to complete the survey. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
  
 Sincerely,
 _**[Support Engineer Name]**_
