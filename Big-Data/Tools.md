@@ -28,6 +28,16 @@ In-built timers, in-built note takers, ability to create and manage categories a
 **Download**
 [Case Buddy Download](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcasebuddy.blob.core.windows.net%2Finstall%2Fproduction%2FCaseBuddy.application&data=02%7C01%7Cwhhender%40microsoft.com%7C55ec764694a7431e9f3e08d6bded745b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636905226173355003&sdata=jpbMifh91kUgK15csrddr5IXXTkZCdv4ZRnUoAQzM6U%3D&reserved=0)
 
+#Case Tools
+
+##Case Triage
+**Description**
+Case Triage is a tool you can use to create filters/views of cases. Be that open, closed, SLA Met, FDR, specific products, specific engineers-- It is a filtering tool to allow you to review cases and is available online.
+
+**Link**
+[Case Triage](https://casetriage.azurewebsites.net/Home/OmegaIndex)
+[CT Documentation](https://dev.azure.com/AzureSDI/Orion/_wiki/wikis/Orion.wiki/1/CaseTriage-Wiki)
+
 #Productivity Tools
 
 ##ClipMon
