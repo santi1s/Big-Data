@@ -313,9 +313,22 @@ Narrow the time range you are searching or dd more filtering conditions to your 
 
 #Jarvis Dashboard
 
-Jarvis Dashboard can be accessed by clicking the 'Dashboard' option at the to of Jarvis
+Jarvis Dashboard can be accessed by going to https://jarvis-west.dc.ad.msft.net/, and clicking the 'Dashboard' option at the main menu on the top of the page.
+
+![image.png](/.attachments/image-c0cb0d38-d0fc-458d-8a8c-aa1331461e3c.png)
+
+Jarvis Dashboard provides a aggregated, chart-based view of some Jarvis logs, which can help to pinpoint issues or discover behavior patterns.
 
 ## Overview of Jarvis Dashboard Settings
+
+### Accounts (Dashboards)
+After you have accessed Dashboard, you will need to add the correct account to be able to access the dashboards you need.
+
+Add 'WebHdfs' under 'Accounts' to access the dashboards below.
+
+![image.png](/.attachments/image-bcc62254-cebd-479a-9334-24e1cbe0de60.png)
+
+### Account Name, Timestamp, and other Dashboard-Specific Options
 
 ##Troubleshooting for ADLS using Jarvis Dashboards
 
