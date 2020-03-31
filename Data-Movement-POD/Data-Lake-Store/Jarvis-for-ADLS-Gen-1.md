@@ -7,7 +7,8 @@ This guide is meant to familiarize you with the tool and give you some reference
 
 _If you have any problems authenticating or do not have access to Jarvis - please reach out to your TA._
 
-# Overview of Jarvis Settings
+# Jarvis Logs
+## Overview of Jarvis Settings
 To Access Jarvis - Go to this link: https://jarvis-west.dc.ad.msft.net/logs/dgrep
 
 You will be asked to authenticate before you are able to query any tables. It may ask you right when you enter the page, or it may ask when you click the 'search' button.
@@ -17,7 +18,7 @@ _If you have any problems authenticating or do not have access to Jarvis - pleas
 When you open Jarvis, it is divided up into three main sections, which we will cover below.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-8ea089ff-a49d-4c8d-a425-8a710f6af15f.jpg)
 
-## Server Query Pane
+### Server Query Pane
 The Server Query Pane is the pane on the left hand side of the page, and has all the information you will use to query your data.
 Here we can create our queries and gather the link to a specific query to share with others, or to bring up later.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-d86cc34f-f7c0-44fd-b02d-88ab408a89f2.jpg)
@@ -153,7 +154,7 @@ You can get a link to any specific Jarvis query you have run -- with all the abo
 You can add any one of those three links to your own notes, or provide those links to a teammate or the product team to allow them to run the same query.
 
 
-## Logs Pane
+### Logs Pane
 The Logs Pane is the center pane in Jarvis, and after you run your query, it will contain all the logs retrieved. The view will be filtered by the results filters at the top of the page. Here you can view and filter the data, select what columns to see, organize data by column, or download the data.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-f4aa635b-7015-4583-82f7-198cd42688a4.jpg)
 
@@ -189,7 +190,7 @@ If you want to remove any of these filters, you can mouse over the number beside
 
 ![image.png](/.attachments/image-1bd0c198-d3e7-4da0-b404-4ab80f562593.png)
 
-## Aggregates Pane
+### Aggregates Pane
 The Aggregates Pane is the right-hand pane in Jarvis, and can be used to aggregate data in your query by column.
 ![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-01eeedbf-6a68-432e-8d7a-f36ca45ae7d9.jpg)
 
@@ -210,7 +211,7 @@ After selecting the column, you can see results per each value type for the colu
 If you click on any one of these values, it will be added as a Client Query in the top section of the Logs pane, and all the displayed data will be filtered by that column.
 ![image.png](/.attachments/image-1d558196-23a3-4c2a-8d2f-e7ebb507fd32.png)
 
-#Jarvis for ADLS Troubleshooting
+##Jarvis Logs for ADLS Troubleshooting
 
 Jarvis is a good frontline tool for diagnosting ADLS issues.
 The CfeHttpEvent table is a table you can use to see all requests coming to the data lake, what the request was, what path it was on, how long it took, who ran it, when, and what the result was.
@@ -219,7 +220,7 @@ This is a good baseline for understand what is happening on the data lake, and i
 
 This table will not tell you everything, however. It only tells you what requests came to the data lake and what happened to them. If  request isn't making it to the data lake at all, we may need to find out why using some other means. Or we may need to involve the product team to understand why we are seeing high latencies. If you have any questions about the results you are seeing (or not seeing) from Jarvis-- reach out to an SME on your team, your TA, or the product team to look more deeply into the issue.
 
-##Standard Query for ADLS Gen 1
+###Standard Query for ADLS Gen 1
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
 2. Set Endpoint to 'Diagnostics PROD'
 3. Set Namespace to 'ADLSInternalProd'
@@ -239,7 +240,7 @@ When providing Jarvis information to others, be that your teammates or the produ
 ![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
 2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
 
-##Important Columns
+###Important Columns
 Of course, all these columns contain important/useful information for troubleshooting data lake.
 Below are outlined the columns most regularly used when pinpointing issues in ADLS.
 
@@ -284,20 +285,7 @@ The ADLS PG has a list of the error codes in their one note: [ADLS Error Codes](
 **Env_Cloud_Role**
 This is an internal name that aligns with the region the data lake is housed in. It can be used as a Scoping Condition to be able to pull more logs from Jarvis.
 
-#Quick Reference for Getting Started with Jarvis for ADLS
-1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
-2. Set Endpoint to 'Diagnostics PROD'
-3. Set Namespace to 'ADLSInternalProd'
-4. Set Events to search to 'CfeHttpEvent'
-5. Set your Time Range to your known issue timestamp.
-6. Under Scoping Conditions set 'Region' to the region of the data lake you are looking into.
-7. Under Filtering conditions set 'KiwiAccountName' to the name of the data lake you are looking into.
-8. Under Filtering conditions, set any other filters for columns to narrow your results.
-8. Run the query by pressing the blue magnifying glass 'Run' button.
-9. Make sure to refresh your Logs pane once the query has finished running to make sure you are viewing all results.
-10. Check the 'Columns' button at the very bottom of the Logs pane to confirm that you are looking at all columns/the columns you need.
-
-#Quick Tips/Gotchas in Jarvis
+##Quick Tips/Gotchas in Jarvis Logs
 1. When searching for a specific operation/error on the data lake, **start with a broad query** (just the name of the data lake and a broad timestamp) and then narrow your query step by step to confirm that all your settings are correct as you query the data.
 Starting with a broad query to make sure you are able to find logs for the data lake in general before narrowing to a specific error message will help to avoid assuming you cannot find logs for a specific error when really your original query was incorrect.
 
@@ -315,3 +303,24 @@ Starting with a broad query to make sure you are able to find logs for the data 
 
 5. Query being throttled? 
 Narrow the time range you are searching or dd more filtering conditions to your query to pull down a smaller amount of data.
+
+#Jarvis Dashboard
+
+## Overview of Jarvis Dashboard Settings
+
+##Troubleshooting for ADLS using Jarvis Dashboards
+
+#Quick Reference for Getting Started with Jarvis Logs for ADLS
+1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
+2. Set Endpoint to 'Diagnostics PROD'
+3. Set Namespace to 'ADLSInternalProd'
+4. Set Events to search to 'CfeHttpEvent'
+5. Set your Time Range to your known issue timestamp.
+6. Under Scoping Conditions set 'Region' to the region of the data lake you are looking into.
+7. Under Filtering conditions set 'KiwiAccountName' to the name of the data lake you are looking into.
+8. Under Filtering conditions, set any other filters for columns to narrow your results.
+8. Run the query by pressing the blue magnifying glass 'Run' button.
+9. Make sure to refresh your Logs pane once the query has finished running to make sure you are viewing all results.
+10. Check the 'Columns' button at the very bottom of the Logs pane to confirm that you are looking at all columns/the columns you need.
+
+#Quick Reference for Getting Started with Jarvis Dashboards for ALDS
