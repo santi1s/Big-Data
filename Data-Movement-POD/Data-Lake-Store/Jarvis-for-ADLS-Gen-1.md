@@ -8,6 +8,13 @@ This guide is meant to familiarize you with the tool and give you some reference
 _If you have any problems authenticating or do not have access to Jarvis - please reach out to your TA._
 
 # Jarvis Logs
+
+Jarvis logs can be accessed by going to jarvis-west.dc.ad.msft.net/ and clicking 'Logs' in the top menu.
+
+![image.png](/.attachments/image-f3617f00-eebd-4d75-82b5-f4d6e110e60a.png)
+
+A number of Azure products logs can be accessed through this portal with various settings. Information provided here is only for ADLS Gen 1.
+
 ## Overview of Jarvis Settings
 To Access Jarvis - Go to this link: https://jarvis-west.dc.ad.msft.net/logs/dgrep
 
@@ -306,6 +313,8 @@ Narrow the time range you are searching or dd more filtering conditions to your 
 
 #Jarvis Dashboard
 
+Jarvis Dashboard can be accessed by clicking the 'Dashboard' option at the to of Jarvis
+
 ## Overview of Jarvis Dashboard Settings
 
 ##Troubleshooting for ADLS using Jarvis Dashboards
@@ -324,3 +333,10 @@ Narrow the time range you are searching or dd more filtering conditions to your 
 10. Check the 'Columns' button at the very bottom of the Logs pane to confirm that you are looking at all columns/the columns you need.
 
 #Quick Reference for Getting Started with Jarvis Dashboards for ALDS
+1. Go to [https://jarvis-west.dc.ad.msft.net/dashboard](https://jarvis-west.dc.ad.msft.net/dashboard)
+2. Add 'WebHdfs' under 'Accounts' on the left-hand side.
+3. Under 'WebHdfs' click 'Account Stats' to review Ingress, Egress, Latency, or other account stats.
+4. Under 'Account Stats' click 'AccountOperation Stats' to view the kinds and times of operations being executed against the data lake store.
+5. In the top of the charts pane click "Account Name" and Search for the data lake store account name. If you cannot find it, change the timestamp (to the left of 'Account Name' to be a longer timestamp.
+6. Change the timestamp to fit the timeframe you need to investigate.
+7. **DO NOT SHARE THESE CHARTS DIRECTLY WITH CUSTOMERS** No screenshots. No links. Use these charts to facilitate your own troubleshooting. You can discuss findings saying "I can see a lot of Egress in this timeframe <timeframe>." But do not share charts or logs directly.
