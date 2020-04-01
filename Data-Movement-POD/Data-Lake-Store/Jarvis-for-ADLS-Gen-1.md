@@ -241,12 +241,6 @@ This table will not tell you everything, however. It only tells you what request
 
 From this base query you can start looking at requests coming into the data lake and begin to narrow your query and more deeply understand what is going on.
 
-##Providing Jarvis Information to Others
-When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
-1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
-![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
-2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
-
 ###Important Columns
 Of course, all these columns contain important/useful information for troubleshooting data lake.
 Below are outlined the columns most regularly used when pinpointing issues in ADLS.
@@ -274,6 +268,7 @@ The time that ADLS received/began working on the request. Most accurate timestam
 
 **UserAgent**
 This is the Agent/Machine/Script that sent the request. Here you can see if the request came from the portal (you'll see something like Mozilla or Chrome), or from HD-Insight Spark or Hive, from Python, or from any number of other Agents.
+The user agent name is long and though it is often recognizable, it can be hard for customers to parse in its raw form. If communicating user agent with a customer, use a friendly name. Like 'Browser' or 'Data Factory' or 'Hadoop'.
 
 **UserName**
 The user that sent the request. This will be the AD authenticated username that sent the request to the data lake. 
@@ -287,10 +282,27 @@ The size of the data moving into or out of the data lake.
 
 **StoreErrorCode**
 The ADLS-specific error code for any issue that has occurred on the Data Lake.
-The ADLS PG has a list of the error codes in their one note: [ADLS Error Codes](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Error%20Codes%7Cdd7079ee-8626-4134-8d01-b43ce634f386%2F%29)
+The ADLS PG has a list of the error codes in their one note, so you can translate their meaning: [ADLS Error Codes](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Error%20Codes%7Cdd7079ee-8626-4134-8d01-b43ce634f386%2F%29)
 
 **Env_Cloud_Role**
 This is an internal name that aligns with the region the data lake is housed in. It can be used as a Scoping Condition to be able to pull more logs from Jarvis.
+
+##Providing Jarvis Information to Teammates
+When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
+1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
+![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
+2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
+
+##Providing Jarvis Information to Customers
+1. Do **NOT** provide Jarvis links to your customers. They cannot access them and do not know what it is.
+2. Do **NOT** provide full Jarvis log files to customers. It is a security risk for us to provide anyone with the full format of our backend logs, but also customers do not need to read logs to troubleshoot their issue. That is our job.
+3. Do **NOT** provide store error codes. Providing HTTP status codes is fine, there is general knowledge of what these status codes mean, but the store error codes are specific to Azure Data Lake and mean nothing to your customer.
+3. **DO** provide a summary of the information you find. For example:
+"I can see that this operation was performed by <Service Principal or User Name>."
+"I can see the request that errored, and that it failed with <Translation of Store Error Code>."
+"The error occurred on this path <Path>."
+"I can see that many of your requests are coming from <Friendly name for UserAgent>."
+
 
 ##Quick Tips/Gotchas in Jarvis Logs
 1. When searching for a specific operation/error on the data lake, **start with a broad query** (just the name of the data lake and a broad timestamp) and then narrow your query step by step to confirm that all your settings are correct as you query the data.
