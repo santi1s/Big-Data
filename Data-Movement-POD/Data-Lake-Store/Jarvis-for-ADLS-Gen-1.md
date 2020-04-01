@@ -344,7 +344,7 @@ For each dashboard there are specific settings that allow you to view data for a
 1. Account Stats - Change Time to the specific time range you would like to investigate. Change 'Account Name' to the name of the data lake store. If you cannot find the data lake store you are looking for in the list, expand the time range.
 ![image.png](/.attachments/image-fc9f1494-d0b6-4c7c-9ffb-bb80e83603af.png)
 
-2. AccountOperation Stats - Change 'Time' to the timerange you would like to investigate. Change 'AccountName' to the name of your data lake. If you are looking at/for a specific operation (for example, 'delete') choose 'Operation'
+2. AccountOperation Stats - Change 'Time' to the timerange you would like to investigate. Change 'AccountName' to the name of your data lake. If you cannot find the data lake store you are looking for in the list, expand the time range. If you are looking at/for a specific operation (for example, 'delete') choose 'Operation'
 ![image.png](/.attachments/image-3a19b31e-d661-47e9-84c4-828fe7df9422.png)
 
 ##Troubleshooting for ADLS using Jarvis Dashboards
