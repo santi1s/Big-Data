@@ -363,6 +363,17 @@ For each dashboard there are specific settings that allow you to view data for a
 ![image.png](/.attachments/image-3a19b31e-d661-47e9-84c4-828fe7df9422.png)
 
 ##Troubleshooting for ADLS using Jarvis Dashboards
+Jarvis dashboards are helpful to get a birds-eye view of activity on a data lake account. Below are some situations that can be addressed using Jarvis Dashboards! These are certainly not the only situations, but are just some examples.
+
+###Unexpected Egress
+
+###Deletes
+
+###Latency
+
+###Traffic Spike
+
+###High Number of Errors
 
 #Quick Reference for Getting Started with Jarvis Logs for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
