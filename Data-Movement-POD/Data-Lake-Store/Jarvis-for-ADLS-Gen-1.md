@@ -323,6 +323,9 @@ Starting with a broad query to make sure you are able to find logs for the data 
 5. Query being throttled? 
 Narrow the time range you are searching or dd more filtering conditions to your query to pull down a smaller amount of data.
 
+6. Looking at logs in real-time and they're not showing up?
+Jarvis logs are about 4-6 minutes behind real-time, so give yourself a buffer when monitoring logs in real time. Be sure to refresh several times because the logs do not necessarily appear in time order when they are being initially populated.
+
 #Jarvis Dashboard
 
 Jarvis Dashboard can be accessed by going to https://jarvis-west.dc.ad.msft.net/, and clicking the 'Dashboard' option at the main menu on the top of the page.
