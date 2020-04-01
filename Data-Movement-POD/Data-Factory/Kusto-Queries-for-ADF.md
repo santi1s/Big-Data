@@ -140,6 +140,14 @@ Heartbeats
 | where AgentGroupId == "<AgentId from JobInfo>" 
 and TIMESTAMP >= start_time of activity and TIMESTAMP <= end_time of activity
 ```
+We'll want to look at The 'Telemetries' column, at the values below.
+ 
+Max Capacity - the number of jobs allowed to run on the machine
+Used Capacity - the number of jobs that are actually running on the machine
+ 
+CPUUtilization - how much of the CPU is being run at any one time.
+ 
+We're checking these values for the full runtime of the job. If CPU is high, or if Used Capacity is within 1 or 2 jobs of Max capacity, that's a problem.
 
 # Azure Data Factory V1 Queries
 
