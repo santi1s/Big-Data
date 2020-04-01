@@ -378,6 +378,10 @@ For a customer who is seeing an unexpectedly high egress charge, they may ask yo
 
 ![image.png](/.attachments/image-5489cce8-01e0-4b7a-a158-17e8de6e33f7.png)
 
+## Sharing Jarvis Dashboard Information with Customers
+1. **DO NOT SHARE THESE CHARTS DIRECTLY WITH CUSTOMERS** No screenshots. No links. Use these charts to facilitate your own troubleshooting.
+2. **DO** discuss finding summary by saying things like-- "I can see a lot of Egress in this timeframe <timeframe>." Or "There were some delete operations in <timeframe> and I am looking into them. Do you know about any operations at that time?"
+
 #Quick Reference for Getting Started with Jarvis Logs for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
 2. Set Endpoint to 'Diagnostics PROD'
