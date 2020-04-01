@@ -328,7 +328,24 @@ Add 'WebHdfs' under 'Accounts' to access the dashboards below.
 
 ![image.png](/.attachments/image-bcc62254-cebd-479a-9334-24e1cbe0de60.png)
 
+### Filter
+The filter will allow you to choose specific dashboards to look at after you have selected an account.
+For ADLS Gen 1 we will primarily look at two dashboards:
+1. Account Stats - Account Stats allows you to view latency, ingress, and egress statistics for a specific account for up to 30 days ago.
+![image.png](/.attachments/image-ffe2c8ee-770f-42b6-8ad2-30727f21f995.png)
+
+2. AccountOperation Stats - Account operation stats allow you to see a breakdown of operations that occurred on a specific account for a time period of up to 30 days ago.
+![image.png](/.attachments/image-343a69df-6e5d-4179-8d42-303456acb402.png)
+
 ### Account Name, Timestamp, and other Dashboard-Specific Options
+
+For each dashboard there are specific settings that allow you to view data for a specific account and timeframe. They are in a grey bar just at the top of the dashboard window.
+
+1. Account Stats - Change Time to the specific time range you would like to investigate. Change 'Account Name' to the name of the data lake store. If you cannot find the data lake store you are looking for in the list, expand the time range.
+![image.png](/.attachments/image-fc9f1494-d0b6-4c7c-9ffb-bb80e83603af.png)
+
+2. AccountOperation Stats - Change 'Time' to the timerange you would like to investigate. Change 'AccountName' to the name of your data lake. If you are looking at/for a specific operation (for example, 'delete') choose 'Operation'
+![image.png](/.attachments/image-3a19b31e-d661-47e9-84c4-828fe7df9422.png)
 
 ##Troubleshooting for ADLS using Jarvis Dashboards
 
