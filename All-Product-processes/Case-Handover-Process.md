@@ -12,7 +12,7 @@ a.Regional HO SME: [ APAC: Tracy Zhang / IGTSC: Shyam Simha / EMEA : Ryszard Gaw
 b.Meeting link(no meeting at weekend):
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d)
--  [US->APAC HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI1ZjdlNzktOTYxOC00YWMwLTkyZDctYjEyNDgyMzZkOTE0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d)
+-  [US->APAC HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWIyNzU2MmYtOTkxYy00NTY3LWEyNjAtNmY1YTgwNzc5MzBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2218d7429d-917b-4bba-881a-b254f61f0976%22%7d)
 -  [EMEA->US HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQyZDliMTUtYzlmNi00YTc4LWI5NGQtOTY0NjgxNjZhYzU0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2292be5ebc-4e43-4ea3-a98d-34ff4061dc92%22%7d)
 5. Transfer the case back to queue if it's aligned with respective region SME.
 6. Send email to sqldmmdt@microsoft.com to ask for reassignment.
