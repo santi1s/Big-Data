@@ -378,20 +378,6 @@ For a customer who is seeing an unexpectedly high egress charge, they may ask yo
 
 ![image.png](/.attachments/image-5489cce8-01e0-4b7a-a158-17e8de6e33f7.png)
 
-###Deletes
-For a customer who is seeing an unexpected drop in data, or who is missing data and is not sure when the delete occurred, using Dashboards may be able to give you a quick overview for when deletes occurred.
-
-1. Go to Jarvis Dashboards, select 'AccountOperation Stats', choose your date range, choose operation 'Delete' and enter your account name.
-![image.png](/.attachments/image-cbe09886-b1af-472c-ba17-b77c47fd7578.png)
-
-2.
-
-###Latency
-
-###Traffic Spike
-
-###High Number of Errors
-
 #Quick Reference for Getting Started with Jarvis Logs for ADLS
 1. Go to https://jarvis-west.dc.ad.msft.net/logs/dgrep
 2. Set Endpoint to 'Diagnostics PROD'
