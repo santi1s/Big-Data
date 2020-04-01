@@ -287,13 +287,13 @@ The ADLS PG has a list of the error codes in their one note, so you can translat
 **Env_Cloud_Role**
 This is an internal name that aligns with the region the data lake is housed in. It can be used as a Scoping Condition to be able to pull more logs from Jarvis.
 
-##Providing Jarvis Information to Teammates
+##Providing Jarvis Logs Information to Teammates
 When providing Jarvis information to others, be that your teammates or the product team, two things will be important.
 1. The Jarvis Link for your specific query, which you can obtain using the 'Link' button in the top right of the Server Query Pane.
 ![image.png](/.attachments/image-c6b07a98-99e0-482e-af35-75ba99000618.png)
 2. If there is a specific record you want them to look at, provide the value from the 'ActivityId' of that row. This ActivityID is unique to every record.
 
-##Providing Jarvis Information to Customers
+##Providing Jarvis Logs Information to Customers
 1. Do **NOT** provide Jarvis links to your customers. They cannot access them and do not know what it is.
 2. Do **NOT** provide full Jarvis log files to customers. It is a security risk for us to provide anyone with the full format of our backend logs, but also customers do not need to read logs to troubleshoot their issue. That is our job.
 3. Do **NOT** provide store error codes. Providing HTTP status codes is fine, there is general knowledge of what these status codes mean, but the store error codes are specific to Azure Data Lake and mean nothing to your customer.
