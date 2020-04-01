@@ -39,6 +39,17 @@ This will ad the incident to your 'Tracked Incidents' list.
 
 This will send you emails for any updates to your ICM!
 
+##Check List of Resolved Tracked ICMs
+For a list of all your tracked ICMs (including the resolved ones) you can also use the 'Tracked ICMs' UI.
+
+1. Open the 'Tracked Incidents' list under 'Dashboard and 'My Tracked'
+![image.png](/.attachments/image-0a9a6947-48de-4c50-b393-b3a18153168d.png)
+
+2. In the bottom, right-hand corner select 'View All'
+![image.png](/.attachments/image-a1d46aa8-83b2-4a48-9918-6b4b3e26368b.png)
+
+3. You will be re-routed to a query page which contains a full list of your tracked ICMs, both open and resolved.
+
 #What to Share with Your Customers from ICMs
 ## What to Share
 1. That you have involved and/or are working alongside the product team to understand an issue.
