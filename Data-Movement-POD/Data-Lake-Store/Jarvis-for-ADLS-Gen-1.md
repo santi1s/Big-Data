@@ -366,8 +366,25 @@ For each dashboard there are specific settings that allow you to view data for a
 Jarvis dashboards are helpful to get a birds-eye view of activity on a data lake account. Below are some situations that can be addressed using Jarvis Dashboards! These are certainly not the only situations, but are just some examples.
 
 ###Unexpected Egress
+For a customer who is seeing an unexpectedly high egress charge, they may ask you to review behavior to see why/where this egress is coming from. Starting at the Dashboard level can help you narrow down your scope.
+
+1. Go to Jarvis Dashboards, select 'Account Stats' choose your date range and enter your account name.
+![image.png](/.attachments/image-ae554a85-36ef-4ec6-a666-8a91532b9086.png)
+
+2. Scroll down to the Egress Rates chart. Note any spikes in Egress. These are times you can investigate.
+![image.png](/.attachments/image-d0800728-24c1-46af-848f-ce52e1fb9436.png)
+
+3. Mouse over these spikes to note the time. You can use these timestamps to look up logs in Jarvis Logs and see what data is being added, and by who. Also note the chart time, to make sure you are looking at the correct timestamp!
+
+![image.png](/.attachments/image-5489cce8-01e0-4b7a-a158-17e8de6e33f7.png)
 
 ###Deletes
+For a customer who is seeing an unexpected drop in data, or who is missing data and is not sure when the delete occurred, using Dashboards may be able to give you a quick overview for when deletes occurred.
+
+1. Go to Jarvis Dashboards, select 'AccountOperation Stats', choose your date range, choose operation 'Delete' and enter your account name.
+![image.png](/.attachments/image-cbe09886-b1af-472c-ba17-b77c47fd7578.png)
+
+2.
 
 ###Latency
 
