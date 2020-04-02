@@ -46,6 +46,7 @@ Next Customer's Action
 
 Partner Ticket
 \=============
+......
 
 Handoff Notes
 \=============
@@ -56,10 +57,10 @@ Ticket's checklist
 
 Customer Reachable?:Yes/No
 Waiting for RCA?:Yes/No
-Customer accept English Support?: Yes
+Customer accept English Support?: Yes/No
 Now the issue is pending on?: PG/CSS/Customer
 IcM ID?:
-Reason for Critsit:
+<Reason for Critsit:>
 
 ----
 **Do & Don't during case handling / transfer**
