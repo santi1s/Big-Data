@@ -11,5 +11,5 @@
 6.       Identify yourself and explain the situation.  
 7.       Inform the interpreter you will conference in the customer.  
 8.       Conference in the customer and make introductions. 
-	OneStop link 
-https://sharepoint.partners.extranet.microsoft.com/sites/Onestop/BPM/Lists/CSSBPM%20Procedure/CSSBPM%20Procedure/displayifs.aspx?List=f0900088%2Df118%2D48a4%2D8618%2Ddc2d38646b41&ID=346&Web=0e225e35%2D0866%2D4942%2Da151%2D79a20a0e28dd    
+
+More details, please refer to [VKB 4457308](https://internal.support.services.microsoft.com/en-us/help/4457308)
