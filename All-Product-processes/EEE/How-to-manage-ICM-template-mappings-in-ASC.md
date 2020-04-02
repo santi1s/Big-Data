@@ -4,6 +4,8 @@
 
 I found it’s hard for us to manage or track these templates manually since we have a lot of hdinsight ICM templates. Some templates are based on support topic L1, L2 or L3. Other templates are based on different PG team. Besides, mapping json file is not good to manage in my opinion. I developed a perl script to parse mapping json files to csv. 
 
+You can download 7z file including perl script, test file and test output [here](/.attachments/2020-03-19_10h51_09-82c8d52c-07ac-46c9-a071-ab51da101f0c.png)
+
 ```
 perl extractICMTemplate.pl --infile ICMTemplateMapping.json > TemplatesMap_0330.csv
 ```
