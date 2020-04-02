@@ -1,6 +1,6 @@
 Hi <Customer name>,
  
-Thank you for contacting Microsoft Support! My name is <My Name>.
+Thank you for contacting Microsoft Support! My name is <Your Name>.
 I am the Support Professional who will be working with you on this Service Request <Case ID>.
  
 Below are the details including the initial scope agreement for your issue.
