@@ -49,26 +49,6 @@ Azure Docs pull-requests are reviewed and published [three times per day](https:
    1. On GitHub, once your pull request is approved (successfully reviewed), then follow the instructions of your reviewer to sign it. **Always** re-read your entire contribution one last time before signing it.
    1. Approved and signed pull requests will be published during the next time slot in the [publishing schedule](https://review.docs.microsoft.com/en-us/help/contribute/publishing-schedules?branch=master#publishing-schedule---azure-docs-pr).
 
-# WHO
-
-Known CSS Big Data SMEs on the following topics:
-
-[Calvin Moisan]: <https://who/is/camoisan>
-[Julie O'Brien]: <https://who/is/juobrie>
-[Travis LaGrone]: <https://who/is/trlagron>
-
-- Azure Docs
-  - [Travis LaGrone]
-- Git
-  - [Calvin Moisan]
-  - [Travis LaGrone]
-- GitHub
-  - [Calvin Moisan]
-  - [Julie O'Brien]
-  - [Travis LaGrone]
-- VS Code
-  - [Travis LaGrone]
-
 # See Also
 
 - [Azure Docs source code][azure-docs-pr]
