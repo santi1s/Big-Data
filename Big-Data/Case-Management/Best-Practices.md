@@ -1,3 +1,6 @@
+[[_TOC_]]
+
+
 The following the best practices listed below and implemented rigorously, would help you grow in your technical journey and also make you feel satisfied when you resolve the customer issue.
 
 # Review Factors
@@ -68,6 +71,11 @@ Additionally its very important that you review the logs collected and ensure th
 
 # ICM Severity
 Finally, creating the ICM with correct Severity is very critical to have  great engineering engagement.  I would urge you to follow the CRI  Severity flow  to identify the correct severity.  The important point is that understanding the customer issue and how its impacting their business would help you decide the correct severity and would help you justify the same to the engineering team.   “Please ensure you document the business impact in CRI by filling up the “Business Justification” field.
+
+#Customer Communications
+
+#What you SHOULD NOT Tell Your Customer
+#What you CAN Tell Your Customer
 
 # Take aways
 1.	Ensure the customer problem is understood clearly
