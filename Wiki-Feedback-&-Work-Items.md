@@ -12,4 +12,8 @@ We would love any feedback you'd like to provide:
 -Guides/Pages You Would Like to See
 
 #Work Items
-Want to contribute? Check out our open Wiki Work Items to know what pages we're working on! Feel Free to Add to Any of them!
+Want to contribute? Check out our open Wiki Work Items to know what pages we're working on! Feel Free to Add to any of them! If you pick up a task, assign them to yourself to let others know you are working on it!
+
+[Work Items](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)
+
+
