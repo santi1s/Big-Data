@@ -55,7 +55,8 @@ After you have confirmed closure with your customer and sent the last quality re
 4. Add 'Agent Identified Root Cause'
 ![image.png](/.attachments/image-2b7e9233-e796-4d28-b371-8db4b8e6bdd4.png)
 You will need to select the most specific root cause possible, which is to say you cannot choose a root cause with subtopic underneath. You will need to choose one of the subtopics.
-The product team uses this 'Root Cause' data to understand what kinds of cases they see most frequently for their product.
+The product team uses this 'Root Cause' data to understand what kinds of cases they see most frequently for their product.  For more details please review [Root Cause](/Big-Data/Case-Management/Root-Cause-|-RCA-Case-Management-Closure)
+
 5. Enter Labor time for case closure process/any outstanding labor not yet entered for the case.
 6. Select 'End' which will save and close out the case.
 ![image.png](/.attachments/image-bec87edc-28d3-4f1f-bfd6-e4fe8452c731.png)
