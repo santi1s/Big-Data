@@ -1,7 +1,7 @@
 # Deleting & Recreating an ADC resource in another subscription
 ---
 ## Summary:
-There is only 1 ADC per tenant. This means that customer will not be able to create 2 ADC resources in 2 different subscriptions available on their tenant. Only 1 ADC in any of their subscriptions available on their tenant. Please follow the steps below in case they want to migrate their ADC resource from one subscription to another for any reason.
+There is only 1 ADC per tenant. This means that customer will not be able to create 2 ADC resources in 2 different subscriptions available on their tenant. Only 1 ADC in any of their subscriptions available on their tenant. Please follow the steps below in case they want to migrate their ADC resource from one subscription to another for any reason (e.g. created in the wrong region, or with the wrong name).
 
 Please note:
 - It is not possible to rename the Catalog or move it to a different region.
@@ -48,3 +48,17 @@ Alternate Option:
 
 7. Settings option is visible to allow to manage the User / Administrator.   Azure Data Catalog can be seen from Azure Portal.
 
+### Option 2 Delete Process:
+
+Please update the following "Change Management" template below from the customer and share it with the Product Team:
+ 
+
+- From Azure Data Catalog portal home page, type * in the search box.
+- Examine the assets published in the catalog. This may include mashup queries published by their Office users through Power Query in excel.
+- Which region is your current catalog located?
+- What is the subscription ID your catalog was created with?
+- Name of your catalog
+- Does your catalog have data?
+>- If your answer is “Yes”, are you okay with losing the data? We’ll need consent from one of your catalog admins.
+>- Note:  Azure Data Catalog PG Team will initiate Change Management Request post CRI to get necessary approval.
+- Why do you need to delete the catalog (e.g. created in the wrong region, or with the wrong name)?
