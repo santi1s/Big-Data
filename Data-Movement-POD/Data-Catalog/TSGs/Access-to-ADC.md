@@ -16,3 +16,5 @@ Note: If the Catalog Administrator no longer in the company then we can initiate
 - Azure Portal | Azure Active Directory | User | Find the User who own the Subscription | Properties
 > - Email ID
 > - Copy / Paste the ObjectID and Screen shot
+----
+_Thanks to Sundar Easwaran for his help and notes._
