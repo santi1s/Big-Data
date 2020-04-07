@@ -12,7 +12,7 @@
 | Azure Stream Analytics              | Ruoyu Li(ruoli)        |           |          |  Ashish Shukla (ASHISHSH)       |        |   |
 | **Open Source**                         |                        |           |          |         |        |   |
 | Azure Databricks                    | Chenghao Guo(chg)      |           |          |    Apurba Sinha (APSINHAR)     |        |   |
-| Azure HDInsight                     | Tracy Zhang(xinzhan)   |           |          |     KUmar Chandragupta (KUCHAN)    |        |   |
+| Azure HDInsight                     | Tracy Zhang(xinzhan)   |           |          |     Kumar Chandragupta (KUCHAN)    |        |   |
 |                                     |                        |           |          |         |        |   |
 |                                     |                        |           |          |         |        |   |
 |                                     |                        |           |          |         |        |   |
