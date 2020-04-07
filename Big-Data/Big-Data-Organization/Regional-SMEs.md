@@ -2,7 +2,7 @@
 | **Products**                        | **APAC**               | **Japan** | **EMEA** | **IST** | **US** |   |
 |-------------------------------------|------------------------|-----------|----------|---------|--------|---|
 | **Database**                            |                        |           |          |         |        |   |
-| Azure Cosmos DB                     | Jeremy Li(shijli)      |           |          | Manoj Kumar (Manojmu)     |        |   |
+| Azure Cosmos DB                     | Jeremy Li(shijli)      |           |  Ahmad Alkaiyad (ahalkai), Liviu Ieran (lieran), Ryszard Gawron (gawronr)        | Manoj Kumar (Manojmu)     |        |   |
 | Azure Data Explorer (aka. Kusto DB) | Shawn Wang(junbwang)   |           |          |         |        |   |
 | **Data Movement**                       |                        |           |          |         |        |   |
 | Azure Data Catalog                  | Jackie Huang(jiaqhuan) |           |          | Ashish Shukla (ASHISHSH)        |        |   |
