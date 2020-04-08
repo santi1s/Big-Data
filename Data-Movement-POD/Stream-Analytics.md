@@ -53,7 +53,10 @@ If you're new to Azure start here! Mirosoft has prepared several trainings known
 
 #ASA Learning Courses
 We've identified several internal and external learning resources to help you understand how to set up and managed Azure Stream Analytics cloud jobs. We've broken them up into levels, L1 for novice up to L4 for advanced:
+We recently presented an overview readiness session about ASA and the basics to troubleshoot cases using ASC.
 
+We recorded the session and uploaded it to Big Data WW channel here: 
+[L1 - Internal SE Learning - Intro to Azure Streaming Analytics and TS](https://microsoft.sharepoint.com/:v:/t/BigDataAnalyticsPOD/ERhPMiCNRp1EkdW8TObvYToB7EOnNCsT8BDmiSMwRHDxLg?e=bjM46x)
 [L1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
 [L2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
 [L3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
