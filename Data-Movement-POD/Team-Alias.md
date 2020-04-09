@@ -1,4 +1,5 @@
-CSS Big Data - Data Movement <bddatamovement@microsoft.com>
+Based on your location, join any of the below DLs using idweb and you'll be automatically get added to "CSS Big Data - Data Movement <bddatamovement@microsoft.com>"
+
 - NA CSS Big Data - Data Movement <nadatamovement@microsoft.com>
 - JAPAN CSS Big Data - Data Movement <japandatamovement@microsoft.com>
 - APAC CSS Big Data - Data Movement <apacdatamovement@microsoft.com>
