@@ -1,7 +1,7 @@
 **ProTips around ADF / Data Factory** 
 
 
-Mapping Data Flow2: 
+**Mapping Data Flow:** 
 Please be aware of the following regarding Mapping Data Flow2
 
 
