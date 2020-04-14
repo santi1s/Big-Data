@@ -4,7 +4,7 @@ Welcome to Azure Databricks.
 
 <br>
 
-- Following are the important training modules you have to complete. 
+- Following are the important training modules you have to complete.  
 
 
  
