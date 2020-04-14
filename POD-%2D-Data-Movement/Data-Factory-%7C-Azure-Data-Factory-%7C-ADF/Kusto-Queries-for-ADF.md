@@ -1,4 +1,4 @@
-_First [download Kusto](/Data-Movement-POD/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](/Data-Movement-POD/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams)_
+_First [download Kusto](/POD-%2D-Data-Movement/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](/POD-%2D-Data-Movement/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams)_
 
 [[_TOC_]]
 
