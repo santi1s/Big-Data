@@ -1,1 +1,1 @@
-[Daily Review Meeting ADLS & ADLA](/Data-Movement-POD/Data-Lake-Store/Daily-Review-Meeting-ADLS-&-ADLA)
+[Daily Review Meeting ADLS & ADLA](/POD-%2D-Data-Movement/Data-Lake-Store/Daily-Review-Meeting-ADLS-&-ADLA)
