@@ -13,7 +13,7 @@ Ensuring that CSS is summarizing the issue, that all mitigation/resolution steps
 
 
 ## LQR Should Include:
-- Customers name
+- Customers name 
 - Thank them for using Microsoft Products
 - Description of the problem
 - Resolution and recap if long running case
