@@ -28,6 +28,7 @@ From the docs:
 
 "Once a route is created, data stops flowing to the built-in-endpoint, unless a route is created to that endpoint. If there are no routes to the built-in-endpoint and a fallback route is enabled, only messages that don't match any query conditions on routes will be sent to the built-in-endpoint. Also, if all existing routes are deleted, fallback route must be enabled to receive all data at the built-in-endpoint." https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c#fallback-route 
 
+OTHER TSG:
 
 - Please check if the telemetry is actually arriving at the IoT Hub
 
