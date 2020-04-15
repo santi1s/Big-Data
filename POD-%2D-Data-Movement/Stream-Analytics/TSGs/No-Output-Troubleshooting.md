@@ -53,5 +53,6 @@ _Details to come_
 - Check that Functions do not have errors.
 - Check for Function App Configuration limitations when reading in JSON as array
 - Check that ASA can connect
+- [Known Product Issues](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
 - [More details](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
 _More Details to come_
