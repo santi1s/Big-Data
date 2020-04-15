@@ -27,3 +27,18 @@ If the customer has a route created this means that they are using a query to de
 From the docs: 
 
 "Once a route is created, data stops flowing to the built-in-endpoint, unless a route is created to that endpoint. If there are no routes to the built-in-endpoint and a fallback route is enabled, only messages that don't match any query conditions on routes will be sent to the built-in-endpoint. Also, if all existing routes are deleted, fallback route must be enabled to receive all data at the built-in-endpoint." https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c#fallback-route 
+
+
+- Please check if the telemetry is actually arriving at the IoT Hub
+
+- Check if the telemetry provided us in the correct JSON format
+
+- Navigate to the ASA Input IoTHub Configuration and test the connection.  If no connection, then check the following:
+
+     - Check if the IoTHub routing is passing all data to the default endpoint (eg. no disabled fallback endpoint)
+
+     - Give the IoTHub an extra consumer group to prevent other resources from 'hijacking' messages (under IoTHub | Settings | Built-in endpoints)
+
+     - Check the Stream Analytics input (is it connected to the right IoT Hub with the right consumer group) and after submitting, check the automatic connectivity test.
+
+- If this does not work, please first output to an Event hub and connect that Event hub as an input for your Stream Analytics Job. You get more insights from that event hub.
