@@ -14,8 +14,12 @@ If you are connected to corp-net, put the below address into your file explorer:
 ## Using Visual Studio Tools
 
 ### Looking Up an ADLA Account
+![image.png](/.attachments/image-d7dec9f7-524e-4b47-b558-ca498e88c4f4.png)
 
 ### Looking up a Job
+![image.png](/.attachments/image-14569870-9ed6-45b4-b33b-003b1d197a59.png)
+
+### Investigating Available Job Logs
 
 
 # Common Issues
