@@ -20,6 +20,7 @@ If you are connected to corp-net, put the below address into your file explorer:
 ![image.png](/.attachments/image-14569870-9ed6-45b4-b33b-003b1d197a59.png)
 
 ### Investigating Available Job Logs
+![image.png](/.attachments/image-779b6a63-eaa2-4010-a927-6b0fd5737e15.png)
 
 
 # Common Issues
