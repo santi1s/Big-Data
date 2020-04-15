@@ -21,7 +21,10 @@ After completing the general troubleshooting if you're still unable to see input
 - Check the output path pattern: Ensure that the folders preceding the date/time parameters exist in the Data Lake.
 
 ##Azure SQL Database
-_Details to come_
+- Ensure that the customer can connect to the SQL Database.
+- Ensure that the SQL Database DTU Quota has not been reached.
+- Check logs for connection, Data Conversion, Column does not exist, Duplicate Primary Key, and other errors.
+_More Details to come_
 
 ##Blob Storage
 _Details to come_
@@ -30,7 +33,8 @@ _Details to come_
 _Details to come_
  
 ##Power BI
-_Details to come_
+- Make sure that the Power Bi has not reached any limit.
+_More Details to come_
 
 ##Table Storage
 _Details to come_
@@ -45,4 +49,8 @@ _Details to come_
 _Details to come_
 
 ##Azure Functions
-_Details to come_
+- Check that execution time has not exceeded app limit
+- Check that Functions do not have errors.
+- Check for Function App Configuration limitations when reading in JSON as array
+- Check that ASA can connect
+_More Details to come_
