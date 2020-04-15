@@ -49,7 +49,7 @@ _Details to come_
 _Details to come_
 
 ##Azure Functions
-- Check that execution time has not exceeded app limit
+- Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
 - Check that Functions do not have errors.
 - Check for Function App Configuration limitations when reading in JSON as array
 - Check that ASA can connect to Function App
