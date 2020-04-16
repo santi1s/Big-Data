@@ -1,1 +1,0 @@
-Connect to [this](\\dsdb\sqlskills\Big Data\HDInsight) file location and review the information about HDInsight that is part of our PFE HDInsight Workshop.  
