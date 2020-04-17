@@ -49,6 +49,10 @@ _Details to come_
 _Details to come_
 
 ##Azure Functions
+- Gather Preliminary Information
+   - Function app name:
+   - The logic in function app:
+   - Issue time:
 - Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
    - [Guide to Use AppLens to find long running apps](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
 - Check that Functions do not have errors.
