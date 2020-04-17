@@ -62,5 +62,6 @@ _Details to come_
 - Check that ASA can connect to Function App in the Output Configuration
 - If Function App Code is creating a new connection every time it connects to a external resource, it will exhaust the connections.
 - [Known Product Issues](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#known-issues)
-- Can create a collaboration if the customer needs help optimizing or fixing errors in Function App
+- Create a collaboration if the customer needs help optimizing or fixing errors in Function App
+
 _More Details to come_
