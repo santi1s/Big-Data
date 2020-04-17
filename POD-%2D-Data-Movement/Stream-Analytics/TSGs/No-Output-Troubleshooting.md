@@ -52,7 +52,7 @@ _Details to come_
 - Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
    - [Guide to Use AppLens to find long running apps](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
 - Check that Functions do not have errors.
-   - [Guide to Use AppLens to find function app errors]
+   - [Guide to Use AppLens to find function app errors](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
 - Check for Function App Configuration limitations when reading in JSON as array
 - Check that ASA can connect to Function App in the Output Configuration
 - If Function App Code is creating a new connection every time it connects to a external resource, it will exhaust the connections.
