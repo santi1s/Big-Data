@@ -2,6 +2,8 @@
 
 # First Steps
 
+## Things to Look At First
+
 ## Information You Will Need
 1. Job URL for the failing job and/or the job that is running unexpectedly. You can find the job URL here in the portal:
 ![image.png](/.attachments/image-0b1b5fb5-ab2c-4c6c-9c75-7531fd6f96a4.png)
