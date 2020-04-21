@@ -6,6 +6,11 @@
 _This guide that covers best practices on the Big Data team for requesting/logging Vacation and Sick Days.
 Please do refer to our benefits site (//benefits) and our Human Resources site (//hrweb) or reach out to your manager for additional questions, or conversations about specific scenarios._
 
+##MSFT Official Holidays
+You should be able to search for "holidays" in hrweb but here is the direct link
+https://microsoft.sharepoint.com/sites/hrw/Pages/globalholidays.aspx  
+
+
 ##MSFT Official Holidays in Big Data
 Microsoft has a number of yearly holidays where you do not need to spend vacation hours.
 
