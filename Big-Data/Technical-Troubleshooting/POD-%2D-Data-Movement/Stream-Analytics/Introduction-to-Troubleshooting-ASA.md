@@ -16,4 +16,4 @@ ____________________________
 -  Discuss with PG for TSG and possibly creating an IcM
 
 **5) Open an IcM** 
--  Review` the guide for opening an IcM
+-  Review the guide for opening an IcM
