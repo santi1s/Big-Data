@@ -1,1 +1,1 @@
-[Daily Review Meeting ADLS & ADLA](/POD-%2D-Data-Movement/Data-Lake-Store/Daily-Review-Meeting-ADLS-&-ADLA)
+[Daily Review Meeting ADLS & ADLA](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Daily-Review-Meeting-ADLS-&-ADLA)
