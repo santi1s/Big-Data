@@ -69,7 +69,7 @@ Microsoft gives its engineers access to a wide variety of learning resources if 
 [LinkedIn Learning](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Flynda.com%2F&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800177591&sdata=X5s37X3MuRSR15y0kcecaOS3FbcKwkKJfvquza58NgM%3D&reserved=0)
 [Pluralsight](https://aka.ms/pluralsight)
 [O’Reilly Online Learning](http://aka.ms/safari)
-[ASA Overview & Troubleshooting Readiness Session](/POD-%2D-Data-Movement/Stream-Analytics/ASA-%2D-Azure-Stream-Analytics-%2DTraining) *new*
+[ASA Overview & Troubleshooting Readiness Session](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Stream-Analytics/ASA-%2D-Azure-Stream-Analytics-%2DTraining) *new*
 
 #Troubleshooting Introduction:
 
@@ -79,7 +79,7 @@ Do up to "MSSolve Tracking your case and logging your time. MSSolve has been dep
 >*The above training course was retired by the learn team for low consumption. We are working with the PG to determine if another course should be created. In the meantime please review the other content on this page.*
 
 
-Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
+Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FAzure%20Outages%20%26%20Service%20Impacting%20Events%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
 
 
 [Casework Basics Video](https://msit.microsoftstream.com/video/72e5a0f5-8dd9-471d-b346-8403a9eeef7c?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
