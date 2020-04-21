@@ -1,1 +1,0 @@
-Processes for Big Data that are agnostic of product.
