@@ -1,7 +1,0 @@
-Global - Kenji Hamada (kenjih)
-- US - Todd DeDecker (toddde), Lee Pauling (lepaulin)
-- Japan - Takashi Sato (taksato)
-- APAC - Sonic Tang (haitang), Alan Yao (alanyao)
-- IGTSC - Mohamed Sathik U (samohame)
-- EMEA - Daniela Falcusan (dafalcus), Telmo Batista (tebatist), Jamilu Abubakar (jamilua)
-- MT - Vinod Kakarparhi (vikakarp)
