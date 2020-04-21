@@ -4,7 +4,7 @@ For the most up to date information, please refer to our official, public-facing
 [ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
 [ADLS Gen 1 Security Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)_
 
-_For Troubleshooting, please see our TSG([Troubleshooting Access](/POD-%2D-Data-Movement/Data-Lake-Store/TSGs/Troubleshooting-Access))_
+_For Troubleshooting, please see our TSG([Troubleshooting Access](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/TSGs/Troubleshooting-Access))_
 
 
 [[_TOC_]]
@@ -60,7 +60,7 @@ Get-AzProviderOperation Microsoft.DataLakeStore/*
 Microsoft.DataLakeStore/accounts/Superuser/action
 Microsoft.Authorization/roleAssignments/write
 
-If these two actions are assigned together, they grant the role effective [Superuser](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FPOD%20%252D%20Data%20Movement%2FData%20Lake%20Store%2FAccess%20Control%20Overview&pageId=280882&anchor=superusers-vs-owning-users-vs-owning-groups) permissions.
+If these two actions are assigned together, they grant the role effective [Superuser](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FAzure%20Outages%20%26%20Service%20Impacting%20Events%2FPOD%20%252D%20Data%20Movement%2FData%20Lake%20Store%2FAccess%20Control%20Overview&pageId=280882&anchor=superusers-vs-owning-users-vs-owning-groups) permissions.
 
 #ACL Permissions
 [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
