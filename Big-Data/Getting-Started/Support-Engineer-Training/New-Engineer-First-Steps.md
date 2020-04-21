@@ -1,0 +1,1 @@
+Guidelines to Technical Training including links to Microsoft Employee Information and Hygeene Guides, Support Eningeer LIfe Cycle and Best Practices, and Brief guidance on getting started with product specific training.
