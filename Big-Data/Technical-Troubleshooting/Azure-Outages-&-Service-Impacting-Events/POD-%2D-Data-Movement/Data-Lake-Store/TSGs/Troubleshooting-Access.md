@@ -5,7 +5,7 @@
 
 For almost all permissions cases, having a strong understanding of how permissions in ADLS Gen 1 work will help guide you on what settings to check, and how to achieve the functionality the customer needs.
 
-Please be very familiar with our [Access Control Overview Guide](/POD-%2D-Data-Movement/Data-Lake-Store/Access-Control-Overview)
+Please be very familiar with our [Access Control Overview Guide](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Access-Control-Overview)
 
 # First Contact on a Permissions Case
 
@@ -58,7 +58,7 @@ Using 'Get-AzDataLakeStoreChildItem' we printed a file that had the creation dat
 
 ## Using Jarvis to Troubleshoot Permissions
 
-For a full guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+For a full guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
 
 For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
 
@@ -71,7 +71,7 @@ When a certain action is failing for a customer, gather this information:
 With this information, you will be able to search Jarvis and find the specific action they are taking as well as the error message. If you only have some subset of this information, you can use what information you do have to discover the rest of the information.
 
 ### Troubleshoot Error Messages with Jarvis
-For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
 
 For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
 
@@ -86,12 +86,12 @@ To confirm if the user is able to successfully access other parts of the data la
 
 Follow the quick reference guide to get started with Jarvis, and set the filtering condition to look for your user name.
 
-For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
+For a guide on Jarvis basics for ALDS, please refer to our [Jarvis Guide](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Jarvis-for-ADLS-Gen-1)
 
 For a quick-reference on using Jarvis for ADLS, refer to our quick-reference: [Quick Reference](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor=quick-reference-for-getting-started-with-jarvis-for-adls)
 
 ## Opening an ICM for Permissions
-For more information about opening ICMs for ADLS in general please refer to: [ICMs for ADLS Gen 1](/POD-%2D-Data-Movement/Data-Lake-Store/ICMs-for-ADLS-Gen-1)
+For more information about opening ICMs for ADLS in general please refer to: [ICMs for ADLS Gen 1](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/ICMs-for-ADLS-Gen-1)
 
 
 Many ADLS permissions cases can be resolved WITHOUT the assistance of the product team, as most of them are user error/misunderstanding. However, if after searching all logs, checking permissions settings, and checking expected behavior expectations you have found an issue or unable to explain the behavior, create an ICM.
