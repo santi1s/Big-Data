@@ -1,6 +1,7 @@
 Welcome to Azure Stream Analytics Troubleshooting guide!  
 
 # General TSG Process
+
 **1) Research**
 - [ ] Researches issue and gathers any log errors or exceptions
 
