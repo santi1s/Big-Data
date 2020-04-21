@@ -1,6 +1,6 @@
 **First review all the great learning / training content on the main [Stream Analytics page here]**(https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/143905/Stream-Analytics) on the wiki.
 
-**Scroll down to amy of the following:**
+**Scroll down to any of the following:**
 Azure Bootcamp
 ASA Learning Courses
 Other Learning Resources
