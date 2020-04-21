@@ -1,4 +1,12 @@
+[[_TOC_]]
 
+#Best Practices
+
+##Scorecard (Customer) Labor
+
+##Non-Scorecard (Non-Customer) Labor
+
+### Non-Scorecard Labor Page
 To get access to Non-Scorecard Labor Page. Please follow these steps bellow:
 
 1.	Check if you have access to the Non-scorecard Labor Page bellow
