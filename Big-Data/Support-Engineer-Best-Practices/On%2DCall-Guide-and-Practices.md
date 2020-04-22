@@ -58,12 +58,13 @@ https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/
 
 
 **High Level Process:**
-. Review the http://aka.ms/bigdataoncall periodically to see when your on the rotation* (this will change 
+. Review the http://aka.ms/bigdataoncall  periodically to see when your on the rotation (this will change )
 . 2 weeks prior engineers who are 2 weeks out are CCed on on-call email
-. Weds, of week of a heads up email to on call "hive" notification of on call and basic info 
-. Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
-- 
-1. case requires call out on Saturday, between 9AM and 6PM PST
+. week of - Mon-Tues, FROM DUTY MANAGER TEAM, well send out a separate email to everyone whos on call for the following week. email subject "Data and AI After Hours Support Schedules for DATE"
+. week of - Weds, of week of a heads up email to on call "hive" notification of on call and basic info 
+. on call start - Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
+. HOPEFULLY - DM reviews WFM and RAT to see if Americas has an engineer working that shift before engaging the on-call. 
+1. case requires call out anytime Friday we don't have an engineer to support a case, which is typically Saturday/Sunday, between 9AM and 6PM PST
 2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI), 1-800-242-7001, option 86 and approves call out to which team. 
 3. Duty Manager looks at http://aka.ms/bigdataoncall (well email generated off it a few days before Friday) and calls 1-800-242-7001, and based on which POD / Service puts in either 881, 882, 883, or 884. which call forwards to the mobile number based on Friday date and POD, and which engineer is listed. 
 FYI - Fridays your number is put into one of the following Freedom Voice mailmox (call forward)
