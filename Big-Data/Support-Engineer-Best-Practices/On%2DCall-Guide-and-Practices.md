@@ -47,8 +47,9 @@ FYI here's how it rolls up for all Data and AI: https://msit.powerbi.com/groups/
  (GL code for Cell Phone should be 742001)
  (default will be like 10175153. 10175331, 10175360. 10213160. 10177173. ARRs 10194032
 4. amount $75
-- Only for the month your on call- if your on call 3 times in a year in different months, we would expect 3 expense reports. 
+. Only for the month your on call- if your on call 3 times in a year in different months, we would expect 3 expense reports. 
 
+    
 
 
 **More info / FAQ:** 
@@ -57,10 +58,10 @@ https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/
 
 
 **High Level Process:**
-- review the http://aka.ms/bigdataoncall periodically to see when your on the rotation* (this will change 
-- 2 weeks prior engineers who are 2 weeks out are CCed on on-call email
--  Weds, of week of a heads up email to on call "hive" notificaiton of on call and basic info 
-- Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
+. Review the http://aka.ms/bigdataoncall periodically to see when your on the rotation* (this will change 
+. 2 weeks prior engineers who are 2 weeks out are CCed on on-call email
+. Weds, of week of a heads up email to on call "hive" notification of on call and basic info 
+. Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
 - 
 1. case requires call out on Saturday, between 9AM and 6PM PST
 2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI), 1-800-242-7001, option 86 and approves call out to which team. 
