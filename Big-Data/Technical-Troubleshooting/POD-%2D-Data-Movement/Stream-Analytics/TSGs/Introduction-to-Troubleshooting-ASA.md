@@ -17,3 +17,7 @@ ____________________________
 
 **5) Open an IcM** 
 -  Review the guide for opening an IcM
+   - [Open using ASC](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs)
+   - Add a Summary
+   - Include link to ticket in SD
+   - After the ticket is created, include the Region to the IcM 
