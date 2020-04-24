@@ -19,7 +19,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 -  Discuss with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
 
 **4) TSG In Daily IcM Meeting** 
--  Discuss with PG for TSG and possibly creating an IcM
+-  Discuss with PG for possibly creating an IcM
 
 **5) Open an IcM** 
 -  Review the guides for opening an IcM
