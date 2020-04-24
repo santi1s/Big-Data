@@ -4,7 +4,7 @@ Welcome to Azure Stream Analytics Troubleshooting guide!
 ____________________________
 
 **1) Research**
--  Research issue and gather any log errors or exceptions and can you reproduce the issue and add notes to the ticket.
+-  [Research issue](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181135/Basic-Troubleshooting) and gather any log errors or exceptions and can you reproduce the issue and add notes to the ticket.
 
    All notes should follow this template
 i. Last Action:
