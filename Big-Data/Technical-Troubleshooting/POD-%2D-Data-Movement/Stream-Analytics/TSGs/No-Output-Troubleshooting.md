@@ -9,7 +9,9 @@ You'll need the resource ID, region, and investigation timeframe.
 
 3. Ensure there is input, if there is no input there will be no output. If there is no input and the customer is unsure why please see No Input Troubleshooting
 
-4. 
+4. [Online Documentation to General Troubleshooting No Output](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output)
+   - [Output not Produced by Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#output-not-produced-by-job)
+   - Output is delayed (https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed) 
 
 # By Input Adapter 
 
@@ -24,6 +26,10 @@ After completing the general troubleshooting if you're still unable to see input
 - Ensure that the customer can connect to the SQL Database.
 - Ensure that the SQL Database DTU Quota has not been reached.
 - Check logs for connection, Data Conversion, Column does not exist, Duplicate Primary Key, and other errors.
+   - [Output Data Errors](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
+   - [Key Violation Warning](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
+   - [Column names are case sensitive](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
+
 _More Details to come_
 
 ##Blob Storage
