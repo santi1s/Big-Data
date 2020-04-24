@@ -4,7 +4,13 @@ Welcome to Azure Stream Analytics Troubleshooting guide!
 ____________________________
 
 **1) Research**
--  Research issue and gather any log errors or exceptions and can you reproduce the issue
+-  Research issue and gather any log errors or exceptions and can you reproduce the issue and add notes to the ticket.
+
+   All notes should follow this template
+i. Last Action:
+ii. Current Status:
+iii. Next Action:
+iv. Troubleshooting Performed (if you have logs to share)
 
 **2) ASA SME/SE Huddle** 
 -  Discuss in ASA Daily Case Triage with SMEs and SEs
