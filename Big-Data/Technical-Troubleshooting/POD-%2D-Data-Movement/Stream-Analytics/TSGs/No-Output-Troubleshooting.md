@@ -49,19 +49,21 @@ _Details to come_
 _Details to come_
 
 ##Azure Functions
-- [Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
-- Gather Preliminary Information
-   - Function app resource name (ask customer; not available in logs)
-   - Issue time frame (when events are output or errors occur)
-- Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
+1. [Intro to Function Apps in ASA - Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
+2. [Known Product Issues](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#known-issues)
+3.  Gather Preliminary Information
+    - Function app resource name (ask customer; not available in logs)
+    - Issue time frame (when events are output or errors occur)
+4. Check that ASA can connect to Function App in the Output Configuration
+5. Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
    - [Guide to Use AppLens to find long running apps](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
-- Check that Functions do not have errors.
+6. Check that Functions do not have errors.
    - [Guide to Use AppLens to find function app errors](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
    - [Error Handling Retries](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#error-handling-and-retries) 
-- Check for Function App Configuration limitations when reading in JSON as array
-- Check that ASA can connect to Function App in the Output Configuration
-- If Function App Code is creating a new connection every time it connects to a external resource, it will exhaust the connections.
-- [Known Product Issues](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#known-issues)
-- Create a collaboration if the customer needs help optimizing or fixing errors in Function App
+7. Check for Function App Configuration limitations when reading in JSON as array
+   - ASA Sends JSON as an array to the Function App
+8. If Function App Code is creating a new connection every time it connects to a external resource, it will exhaust the connections.
+9. Create a collaboration if the customer needs help optimizing or fixing errors in Function App
+   - Get the App code from the customer to have available for the Function App SE
 
 _More Details to come_
