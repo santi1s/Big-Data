@@ -13,13 +13,13 @@ iii. Next Action:
 iv. Troubleshooting Performed (if you have logs to share)
 
 **2) ASA SME/SE Huddle** 
--  Discuss in ASA Daily Case Triage with SMEs and SEs for Troubleshooting guidence
+-  Discuss in ASA Daily Case Triage with SMEs and SEs for _Troubleshooting_ guidence
 
 **3) Ask Questions in ASA Teams** 
--  Discuss questions with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
+-  Discuss _questions_ with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
 
 **4) TSG In Daily IcM Meeting** 
--  Discuss with PG for possibly creating an IcM
+-  Discuss with PG for possibly _creating an IcM_
 
 **5) Open an IcM** 
 -  Review the guides for opening an IcM
