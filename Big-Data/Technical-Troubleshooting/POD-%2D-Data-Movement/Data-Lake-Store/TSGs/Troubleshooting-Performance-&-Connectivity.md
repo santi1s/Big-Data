@@ -1,7 +1,7 @@
 --WIP--
 
-Scoping questions to ask when troubleshooting connectivity issues:
-======================================================
+**Scoping questions to ask when troubleshooting connectivity issues:**
+
 
 - What is the error message you are receiving? 
 - Have you had this issue before, or are you suddenly seeing it now for the first time?
