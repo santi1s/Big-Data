@@ -5,5 +5,5 @@ The wiki will be the onestop for all TSGs, processes and tools etc. in ADF & ADM
 
 [ADF Team Wiki](https://supportability.visualstudio.com/AzureDataFactory/_wiki/wikis/AzureDataFactory/286282/Getting-Started)
 
-Which is part of the overall Azure Data Factory DevOps Project page: https://supportability.visualstudio.com/AzureDataFactory
+[ADF Team Wiki TSGs](https://supportability.visualstudio.com/AzureDataFactory/_wiki/wikis/AzureDataFactory/286281/Azure-Data-Factory-TSGs-(CSS))
 
