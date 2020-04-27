@@ -1,10 +1,18 @@
-**NOTE**
-**These Templates are intended to be starting places. Please do personalize/update them to suit your customers and your cases.**
+
 
 [[_TOC_]]
 
+# Best Practices
 
-#Initial Email 
+## Dos
+
+## Don'ts
+
+# Templates
+**NOTE**
+**These Templates are intended to be starting places. Please do personalize/update them to suit your customers and your cases.**
+
+##Initial Email 
 
 ```
 
