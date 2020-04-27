@@ -12,13 +12,14 @@ If the answer to all these questions is 'yes' and you still need assistance, ope
 
 # How to Open an ICM to ADLS
 
-Use the Azure Service Center (ASC)!
+Use the ICM page, which the ADLS team has created nice templates for adding information based on issue type.
 
-1. Open ASC and then Select "Escalate Ticket" in the top, left hand corner
-![image.png](/.attachments/image-fb2ca5fe-09da-4829-bb21-d3ebfbd5f055.png)
+1. Go to: icm.ad.msft.net
+2. Click 'Incidents' and then 'Create'
+![image.png](/.attachments/image-34ac4e05-3323-441a-995a-aba216112883.png)
+3. Choose 'I'll search for the team to own this incident' then search "Azure Data Lake Store" and choose the 'Store' Team
+![image.png](/.attachments/image-622c19f5-4629-49ed-a992-17764e356fe1.png)
 
-2. Choose Azure Data Lake Store as the Service, and Store as the team.
-![image.png](/.attachments/image-2df81bde-3f30-4bd0-a326-c47058005693.png)
 
 3. Set your title using this format: [Case Number][Severity][Premier/Pro/ARR]Short, Descriptive Title
 
