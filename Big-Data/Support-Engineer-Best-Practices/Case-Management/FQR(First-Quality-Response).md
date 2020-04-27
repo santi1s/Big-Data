@@ -1,3 +1,15 @@
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> This page has an open work item! </b>
+If you would like to contribute, please follow up here:
+#5394
+</td>
+</tr>
+</table>
+
 **First Quality Response (FQR) is a new behavior for delivering initial response to the customer for CSS.** The focus is to ensure the first engagement with the customer is done by an Engineer that is prepared, personalizes a response, and intends to make progress towards resolving the customer’s issue. (We call this the **3 P's: Prepared, Personalized, Progress**).
 
 Time to initial contact may be slightly longer, but customer satisfaction is higher because the issue gets resolved or progress toward resolution is made in the first contact. 
