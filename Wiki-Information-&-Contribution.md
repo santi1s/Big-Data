@@ -19,34 +19,18 @@ Want to contribute? Check out our open Wiki Work Items to know what pages we're 
 
 If you add a work item for a specific page, please add this flag to the top of the page, so others can see the work item.
 
+```
 <table border="1";bgcolor="#ffa7a7";>
 <tr>
-  <td style='border-style:solid;border-color:#A3A3A3;background-color:#e4f7db;border-width:1pt; 
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
-Hello [Customer Name],
-
-Thank you again for using Microsoft Products and for reaching out to Microsoft Support regarding _[Recap of the issue reported]_
-
-Cause _[if applicable]_: _[summary of root cause]_.
-**Resolution: _[Summary of the resolution]_.**
- 
-We are so glad we were able to assist you in resolving your issue and we will continue forward with closing this case.
- 
-Should you have any further questions you may reach me using the information in my signature. Additionally, should the issue reoccur, please feel free to reopen the associated incident.
- 
-You may receive an invitation from Microsoft to complete a brief web survey about your support experience. We would appreciate it if you can take a few minutes to complete the survey. Any feedback you can provide will be greatly appreciated. We use your response to continually improve our service.
- 
-Sincerely,
-
-_**[Support Engineer Name]**_
-Title | Team
-Phone: xxx-xxx-xxxx
-Email: xxxxx@microsoft.com
-Working Hours:
-
+<b> This page has an open work item! </b>
+If you would like to contribute, please follow up here:
+#<number of your work item>
 </td>
 </tr>
 </table>
+```
 
 
