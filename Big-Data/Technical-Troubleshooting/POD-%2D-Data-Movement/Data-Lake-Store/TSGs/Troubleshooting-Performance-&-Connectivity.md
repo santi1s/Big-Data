@@ -38,3 +38,6 @@ Scoping questions to ask when troubleshooting connectivity issues:
  
 
 Note: Once we are completed with troubleshooting please uninstall this application from your computer.  
+
+
+F12 Browser Trace: https://docs.microsoft.com/en-us/azure/azure-portal/capture-browser-trace
