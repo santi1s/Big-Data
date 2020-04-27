@@ -1,4 +1,5 @@
 **Please provide feedback on our Wiki Feedback Teams Channel:** [Teams Link](https://teams.microsoft.com/l/channel/19%3a5485372086bc4848b6cb913d975dc904%40thread.skype/Big%2520Data%2520Wiki%2520Feedback?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+
 **Use @whhender for urgent or general requests, or @ any page owners for updates to those specific pages.**
 
 The Big Data Wiki is in process! 
