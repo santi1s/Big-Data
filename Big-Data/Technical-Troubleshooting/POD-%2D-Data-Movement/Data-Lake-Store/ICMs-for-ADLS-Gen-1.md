@@ -1,6 +1,14 @@
 [[_TOC_]]
 
 # When to Open an ICM for ADLS Gen 1
+1. Have you checked the logs and documentation to confirm expected behavior?
+2. Have you checked Data Lake TSGs to see if your issue is covered by any pre-existing TSGs?
+3. Have you checked if there is any Azure Outage?
+4. Have you searched ICMs for the affected time, to see if there was any ongoing issue?
+5. Have you followed up on the ADLS Teams Channel?
+6. Have you attended the daily ADLS/ADLA call and/or is the daily call outside of a reasonable time for case resolution? 
+
+If the answer to all these questions is 'yes' and you still need assistance, open an ICM!
 
 # How to Open an ICM to ADLS
 
