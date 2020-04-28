@@ -1,3 +1,7 @@
+
+[[_TOC_]]
+
+# Feedback
 **Please provide feedback on our Wiki Feedback Teams Channel:** [Teams Link](https://teams.microsoft.com/l/channel/19%3a5485372086bc4848b6cb913d975dc904%40thread.skype/Big%2520Data%2520Wiki%2520Feedback?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 **Use @whhender for urgent or general requests, or @ any page owners for updates to those specific pages.**
@@ -29,6 +33,22 @@ vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 <b> This page has an open work item! </b>
 If you would like to contribute, please follow up here:
 #<number of your work item>
+</td>
+</tr>
+</table>
+```
+
+# Author Tag and Date Updated
+When you make any major changes to a page, please add/update the Author Tag at the bottom of the page, so people know when the page was updated and who to contact.
+
+```
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#bfbfbf;background-color:#f4f4f4;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> Author: </b>
+<b> Date of Last Update: </b>
 </td>
 </tr>
 </table>
