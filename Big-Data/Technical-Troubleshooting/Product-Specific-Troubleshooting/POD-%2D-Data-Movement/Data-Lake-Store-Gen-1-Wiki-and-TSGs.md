@@ -1,0 +1,5 @@
+[Data Lake Store Wiki](https://supportability.visualstudio.com/AzureDataLakeStoreGen1/_wiki/wikis/AzureDataLakeStoreGen1/316359/Azure-Data-Lake-Store-Gen-1)
+
+[Data Lake Store CSS TSGs](https://supportability.visualstudio.com/AzureDataLakeStoreGen1/_wiki/wikis/AzureDataLakeStoreGen1/318362/TSGs)
+
+[Data Lake PG TSG OneNote](https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29)
