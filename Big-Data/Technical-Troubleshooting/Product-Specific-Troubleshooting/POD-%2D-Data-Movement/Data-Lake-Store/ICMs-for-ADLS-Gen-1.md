@@ -21,7 +21,28 @@ Use the ICM page, which the ADLS team has created nice templates for adding info
 ![image.png](/.attachments/image-622c19f5-4629-49ed-a992-17764e356fe1.png)
 
 
-3. Set your title using this format: [Case Number][Severity][Premier/Pro/ARR]Short, Descriptive Title
+4. Set your title using this format: [Case Number][Severity][Premier/Pro/ARR]Short, Descriptive Title
+![image.png](/.attachments/image-7215e01d-611e-4059-837f-c9c63dbfe843.png)
+
+5. Choose the correct category for 'Type of Issue'. Please put effort into choosing the correct category.
+![image.png](/.attachments/image-23de9746-ea8d-4c72-9c1a-ad4be9d353fd.png)
+
+6. Many categories also have a Sub-Category to choose from. Please choose from that category and be as accurate as possible.
+![image.png](/.attachments/image-51a3956a-8ca1-4000-ad16-7a3ef7a04ac8.png)
+
+7. Fill out all required case details (as marked by a red * next to the detail name).
+![image.png](/.attachments/image-68841d55-5a35-49f4-8a53-bea3fad7cf55.png)
+
+8. In 'Case Description' provide a succinct and specific description of the issue, all [Critical Information](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FProduct%20Specific%20Troubleshooting%2FPOD%20%252D%20Data%20Movement%2FData%20Lake%20Store%2FICMs%20for%20ADLS%20Gen%201&pageId=286303&_a=edit&anchor=critical-information), and as much [Helpful Information](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FProduct%20Specific%20Troubleshooting%2FPOD%20%252D%20Data%20Movement%2FData%20Lake%20Store%2FICMs%20for%20ADLS%20Gen%201&pageId=286303&_a=edit&anchor=helpful-information) as possible. Be sure not to include any [unwanted information](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FProduct%20Specific%20Troubleshooting%2FPOD%20%252D%20Data%20Movement%2FData%20Lake%20Store%2FICMs%20for%20ADLS%20Gen%201&pageId=286303&_a=edit&anchor=information-to-leave-out).
+
+9. At the bottom of the form, please include Support Ticket Id and Subscription Id.
+![image.png](/.attachments/image-ee5afc4b-4421-46ad-8e6b-d0e296c182b7.png)
+
+10. Select 'Submit'
+![image.png](/.attachments/image-9bb6020f-2c62-4608-af33-84aa137bac3c.png)
+
+11. After you have created your ICM be sure to take your ICM number and include it in your case notes/case description.
+![image.png](/.attachments/image-2f6c1a16-9e3d-4b8d-b037-807a7f20e472.png)
 
 ## What Information to Add to ICM
 
@@ -47,6 +68,22 @@ An ICM should cover only one error or issue. If your case has multiple errors or
 2. Information about other issues or errors -- unless they are relevant. Again, only one issue should be handled per ICM.
 
 # How to Follow Up with an ICM
+
+Once you have created your ICM, there are several ways to follow up if you need further information:
+1. Attend the daily ADLS/ADLA Triage call and bring up your case/ICM for discussion.
+2. If your case has not yet been assigned, you can reach out to the on-call engineer for the team by mousing over the envelope next to the owning team name and waiting for the on-call to populate.
+![image.png](/.attachments/image-16adb239-6571-4d0c-a251-c198b5304fb5.png)
+You can reach out to them directly over teams, send an email that includes the ICM number, or @ them in a case note to bring their attention to the case.
+![image.png](/.attachments/image-6ba1b6f2-0ba2-40b8-b99c-e444a395db03.png)
+![image.png](/.attachments/image-4d352897-96f1-433e-9c9f-d10a27420916.png)
+If you follow up using an email, please make sure any additional troubleshooting conversation is added to the ICM notes so it can be tracked later.
+
+3. If your case has been assigned, you can follow up directly with the case owner. You can find the case owner by looking in the title box.
+![image.png](/.attachments/image-dd6dbbee-365b-4ef4-a53d-7f16e9449d5e.png)
+You can reach out to them directly over teams, send an email that includes the ICM number, or @ them in a case note to bring their attention to the case.
+![image.png](/.attachments/image-6ba1b6f2-0ba2-40b8-b99c-e444a395db03.png)
+![image.png](/.attachments/image-4d352897-96f1-433e-9c9f-d10a27420916.png)
+If you follow up using an email, please make sure any additional troubleshooting conversation is added to the ICM notes so it can be tracked later.
 
 # What you can Share with Your Customer
 
