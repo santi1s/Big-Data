@@ -67,6 +67,30 @@ An ICM should cover only one error or issue. If your case has multiple errors or
 
 2. Information about other issues or errors -- unless they are relevant. Again, only one issue should be handled per ICM.
 
+# What You Can Share with Your Customer
+
+What kind of information you share with your customer, and how you share it, are important!
+
+All the below are guidelines rather than hard rules, so use your best judgement to determine what is most helpful to your customer.
+
+If you feel uncertain, or if a situation is unclear, ask your peers, SME, Technical Advisor, or even your Product Group colleague for their thoughts about what is appropriate to be shared.
+
+## When You Escalate to the Product Group
+**Do Not Use:** "I need the product team's help." or "I'm waiting on the product team."
+
+**Use Instead:** "I am escalating to the product team to address the issue alongside me." or "I am bringing in the product team to look into the issue with me."
+
+**Why:** You need to be the authority for your customer. We want them to trust that you know best and will give them the information they need. Use language that makes it clear you are working with the product team, not waiting for them to give you an answer so the customer trusts that you are still engaged.
+
+## Technical Information
+1. Do not share full logs from the Azure backend! Looking through logs is our job. You can tell the customer you found the information in the logs, but provide them a summary of your conclusions. Only share full logs if they are logs the customer has shared from their side. Also, sharing full log structure is an Azure security risk!
+
+## Bugs and Fix Timelines
+
+## Instructions/Steps from Product Group or TSG
+
+
+
 # How to Follow Up with an ICM
 
 Once you have created your ICM, there are several ways to follow up if you need further information:
@@ -85,9 +109,18 @@ You can reach out to them directly over teams, send an email that includes the I
 ![image.png](/.attachments/image-4d352897-96f1-433e-9c9f-d10a27420916.png)
 If you follow up using an email, please make sure any additional troubleshooting conversation is added to the ICM notes so it can be tracked later.
 
-# What You Can Share with Your Customer
 
 #Quick Reference
+1. Create ICM by going to icm.ad.msft.net, going to Incidents, and Create. 
+2. Search for the Azure Data Lake Store product and select the 'Store' team.
+3. Set your title using this format: [Case Number][Severity][Premier/Pro/ARR]Short, Descriptive Title
+4. Choose most specific/accurate problem category and sub category, and fill in all required data. Also fill in 'Subscription Id' and 'Support Ticket Id' at the bottom of the form.
+5. 'Submit' and include your ICM number in your Service Desk case.
+
+<br>
+<br>
+<br>
+<br>
 
 <table border="1";bgcolor="#ffa7a7";>
 <tr>
