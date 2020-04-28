@@ -82,10 +82,29 @@ If you feel uncertain, or if a situation is unclear, ask your peers, SME, Techni
 
 **Why:** You need to be the authority for your customer. We want them to trust that you know best and will give them the information they need. Use language that makes it clear you are working with the product team, not waiting for them to give you an answer so the customer trusts that you are still engaged.
 
+
 ## Technical Information
-1. Do not share full logs from the Azure backend! Looking through logs is our job. You can tell the customer you found the information in the logs, but provide them a summary of your conclusions. Only share full logs if they are logs the customer has shared from their side. Also, sharing full log structure is an Azure security risk!
+1. **Do not share full logs from the Azure backend!** Looking through logs is our job. Also, sharing full log structure is an Azure security risk!
+**Instead** tell the customer you found the information in the logs, but provide them a summary of your conclusions. Only share full logs if they are logs the customer has shared from their side. 
+
+2. **Do not share ICM Number, ICM Link, word "ICM" or ICM verbatim!** None of this means anything to your customer and they don't have access. 
+**Instead** you can let them know you're working with the product team to resolve the issue.
+
+3. **Do not share information about how Data Lake Store backend processes.** The product team may discuss technical details about backend processes that caused an issue for your customer. It is likely you do not need to give all this information to the customer.
+**Instead** you can tell your customer there was an issue on the backend.
+**If** the customer has more questions, or requests an RCA, request an RCA from the product team or ask them what details are appropriate to share.
 
 ## Bugs and Fix Timelines
+
+Sometimes there is an issue on the product side that needs to be resolved, and it can take some time to move that fix into deployment. Here are some guidelines.
+
+1. **Avoid the word 'bug'.** Some customers can get sensitive over this word. 
+**Instead** say there is an issue on the product side that caused the problem, or that we will be deploying a fix to resolve this issue.
+
+2. **Do not give hard dates for deployment timelines** unless you are specifically advised by a member of the product team. Deployment dates are flexible depending on testing, other features being added to the deployment, and the rollout schedule.
+*Instead* give your customer an expected date with a 1-2 week buffer. Something like "We expect a deployment for this fix by <estimate number of weeks>, however I will keep you up to date." If the deployment is earlier than that, so much the better.
+
+If the proposed timeline does not work for your customer, feel free to speak with the product team about your customer's needs, and if there are any workarounds in the mean time.
 
 ## Instructions/Steps from Product Group or TSG
 
