@@ -51,3 +51,14 @@ An ICM should cover only one error or issue. If your case has multiple errors or
 # What you can Share with Your Customer
 
 #Quick Reference
+
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#bfbfbf;background-color:#f4f4f4;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> Author: </b> whhender
+<b> Date of Last Update: </b> 04/28/2020
+</td>
+</tr>
+</table>
