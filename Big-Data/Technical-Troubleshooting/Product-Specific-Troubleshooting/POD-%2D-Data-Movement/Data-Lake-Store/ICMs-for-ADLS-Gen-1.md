@@ -108,7 +108,13 @@ If the proposed timeline does not work for your customer, feel free to speak wit
 
 ## Instructions/Steps from Product Group or TSG
 
+If the product team has any steps for resolution, or any questions, or if you are providing steps to your customer from a TSG, follow these guidelines:
 
+1. Read over all steps from TSG or product team and **remove any references to 'customer' and change it to make it more personal to the customer.**
+Example:
+"Customer should provide client side logs." -> "Please provide us your logs from the client side."
+
+2. Go through steps that the product team or TSG provides to make sure you can understand them and that they will be clear for your customer. If anything is unclear, please ask the product team or your teammates for clarification.
 
 # How to Follow Up with an ICM
 
