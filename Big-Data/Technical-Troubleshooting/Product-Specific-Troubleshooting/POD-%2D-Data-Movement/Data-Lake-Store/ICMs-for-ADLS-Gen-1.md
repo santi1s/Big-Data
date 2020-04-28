@@ -85,7 +85,7 @@ You can reach out to them directly over teams, send an email that includes the I
 ![image.png](/.attachments/image-4d352897-96f1-433e-9c9f-d10a27420916.png)
 If you follow up using an email, please make sure any additional troubleshooting conversation is added to the ICM notes so it can be tracked later.
 
-# What you can Share with Your Customer
+# What You Can Share with Your Customer
 
 #Quick Reference
 
