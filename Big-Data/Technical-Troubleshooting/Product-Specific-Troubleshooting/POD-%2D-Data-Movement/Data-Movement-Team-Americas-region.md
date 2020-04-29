@@ -1,24 +1,24 @@
 _Updated 4/23/2020_
 
-**Sundar Easwaran
-Whitney Henderson
-Dianna Flood
-Alex Blaine
-Karan Arora
-Simmi Pastakia
-Azith Ganti
-Edward Opoku
-Tiffany Fischer
-Aravind Nuthalapati
-Derek Yang
-Shashidhar Gopathi
-Benazir Abbasi
-Ronmia Bess
-Azeez Oladejo
-Lee Pauling
-TYLER CAPEL
-VICTOR  AGUILAR
-CODY BUSA**
+**Sundar Easwaran - seaswara
+Whitney Henderson - whhender
+Dianna Flood - diflood
+Alex Blaine - alexbla
+Karan Arora - kaaro
+Simmi Pastakia - sipastak
+Azith Ganti - azganti
+Edward Opoku - v-edopok
+Tiffany Fischer - tifische
+Aravind Nuthalapati - arnuthal
+Derek Yang - deya
+Shashidhar Gopathi - shgopath
+Benazir Abbasi - v-beabba
+Ronmia Bess - robess
+Azeez Oladejo - azoladej
+Lee Pauling - lepaulin
+TYLER CAPEL - tycapel
+VICTOR  AGUILAR - viaguila
+CODY BUSA - cobusa**
 
 
 
