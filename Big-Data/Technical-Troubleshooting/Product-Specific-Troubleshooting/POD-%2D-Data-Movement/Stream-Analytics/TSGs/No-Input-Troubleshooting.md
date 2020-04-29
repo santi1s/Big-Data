@@ -1,6 +1,14 @@
 # General Troubleshooting 
-_Details to come_
- 
+
+When testing using the ASA Query Portal a user might see an error:
+"No data was found for preview from '[inputname]'. Make sure the input has recently received data and the correct format of those events has been selected."  Example below is seen for an EventHub input.
+![no-data-error.PNG](/.attachments/no-data-error-605af6d9-2422-4af6-a055-d5b005f0674a.PNG)
+
+1) Verify form the input resource that the input has metrics coming in during the time the Azure Stream Analytics was tested in the Query Portal.
+2) Verify that the input serialization format matched the selected format in the input configuration and the ASA Query Test portal.
+3) Validate the input as properly formatted and there are no serialization errors.  
+
+_More details to come_
 
 # By Input Adapter 
 
@@ -9,6 +17,8 @@ After completing the general troubleshooting if you're still unable to see input
  
 
 ## Event Hub 
+
+
 _Details to come_
  
 
