@@ -55,10 +55,22 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 2. You can also check for any Flex/Lieu Days on WFM (see section below for Flex/Lieu Days), by going to Personal Accounts, entering the date, and checking your current balance.
 ![image.png](/.attachments/image-bde547ef-30f7-47fd-be0c-c2af60327193.png)
 
-## Request Vacation
+## Request Vacation (_updated 4/29/2020_)
 
 _**Note that the earlier you request vacation time, the better!**_
 
+*UPDATE*  2 ways to do this:  the Normal way and the quick way.
+QUICK WAY
+1. Validate the team has proper coverage for the time your taking off
+     goto WFM and our skills roster 
+2. Send email to WFM scheduling, CCing Manager , TA/ PTA's and SEs 
+     Subject "Your alias TIME OFF START/END DATE"
+     Body: suggested
+      Hi WFM,  please mark me OOF for the following days
+3.  if your manager doesn't approve within 2 days please ping them in chat
+4. follow process below in updating Out Of Office in Outlook and tar
+
+NORMAL WAY 
 1. Go to WFM and select "Schedule Editor"
 ![image.png](/.attachments/image-69aea1dc-5ba4-4870-a819-717d41f47742.png)
 
@@ -85,6 +97,8 @@ For a vacation of two weeks, request one pre-oof day. For a longer vacation, ple
 
 
 7. Send an email to your manager indicating that you have submitted a request for the specified day/days, and cc the WFM scheduling team (wfms@microsoft.com).
+
+8. if no response from Manager within 48 hours ping them in Teams chat. 
 
 ## Check if Vacation Was Approved
 1. When vacation is approved and your schedule is updated, you will receive an email telling you what dates have been updated.
