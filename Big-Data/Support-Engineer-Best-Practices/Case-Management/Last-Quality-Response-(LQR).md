@@ -2,7 +2,7 @@
 
 Last Quality Response (LQR) gives you an opportunity to leave the customer with a good last impression. Set the expectation that a closing email will be sent that captures the issue and resolution. This is something customer can always use if the issue happens again.
 
-# Best practices
+# Outline for email
 
 The following outline comprises the major components of a standard LQR email. You should strive to apply it _in full_ with every LQR email you write. However, you should also use your best judgement and adapt this outline on a case-by-case basis. Don't blindly follow templates--_personalize your emails!_
 
@@ -27,9 +27,17 @@ The following outline comprises the major components of a standard LQR email. Yo
 1. Insert your full Microsoft email signature.
    * Include contact information for you and your manager.
 
-# Worst practices
+# Good practices
 
-Do **not** do any of the following:
+You SHOULD do all of the following:
+
+* Always personalize emails.
+* Adapt messaging templates to the specific context.
+* Include your manager's contact information in your email signature.
+
+# Bad practices
+
+You SHOULD NOT do any of the following:
 
 * Contact the customer and/or close their case on holidays, weekends, after working hours, etc.
 * Close a case without receiving explicit customer approval to do so. _(except in the case of chronically unresponsive customers; see below)_
@@ -105,9 +113,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 3. Final attempt (Unresponsive customer)
 4. Closure Email
 
-## Unresponsive Customers
-
-### Unresponsive Customer First Email (1st Follow-up)
+## Unresponsive customer: 1st follow-up
 
 > Hello [Customer Name]
 >
@@ -124,7 +130,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 > Email: xxxxx@microsoft.com
 > Working Hours: 9-6pm CDT (14:00-23:00 UTC) Mon-Fri
 
-### Unresponsive Customer Second Email (2nd Attempt)
+## Unresponsive customer: 2nd follow-up
 
 > Hello [Customer Name],
 >
@@ -144,7 +150,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 > Email: xxxxx@microsoft.com
 > Working Hours: 9-6pm CDT (14:00-23:00 UTC) Mon-Fri
 
-### Unresponsive Customer Third Email (Final attempt)
+## Unresponsive customer: 3rd follow-up
 
 > Hello [Customer Name],
 >
@@ -166,7 +172,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 > Email: xxxxx@microsoft.com
 > Working Hours: 9-6pm CDT (14:00-23:00 UTC) Mon-Fri
 
-### Unresponsive Customer Final Email (Closure)
+## Unresponsive customer: Closure
 
 > Hello [Customer Name],
 >
