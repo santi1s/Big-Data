@@ -1,4 +1,16 @@
 
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> This page has an open work item! </b>
+If you would like to contribute, please follow up here:
+#5788
+</td>
+</tr>
+</table>
+
 [[_TOC_]]
 
 # Feedback
@@ -16,10 +28,14 @@ We would love any feedback you'd like to provide:
 -Guides/Pages You Would Like to See
 
 #How to Contribute
+
+Want to contribute? Check out our open Wiki Work Items to know what pages we're working on! Feel Free to add to any of them! Or open up a new work item. If you pick up a task, assign it to yourself and change the status to let others know you are working on it!
+
+## Making Changes
 If you are changing anything larger than a typo on a page, adding a page, removing a page, or changing any structure, please create a work item and add all details so the change can be tracked.
 
-##Work Items
-Want to contribute? Check out our open Wiki Work Items to know what pages we're working on! Feel Free to add to any of them! Or open up a new work item. If you pick up a task, assign it to yourself and change the status to let others know you are working on it!
+## Work Items
+You can check existing work items, or add other work items below.
 
 [Work Items](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)
 
