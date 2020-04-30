@@ -15,12 +15,15 @@ We would love any feedback you'd like to provide:
 -Additional Information/Clarity for Existing Guides
 -Guides/Pages You Would Like to See
 
-#Work Items
+#How to Contribute
+If you are changing anything larger than a typo on a page, adding a page, removing a page, or changing any structure, please create a work item and add all details so the change can be tracked.
+
+##Work Items
 Want to contribute? Check out our open Wiki Work Items to know what pages we're working on! Feel Free to add to any of them! Or open up a new work item. If you pick up a task, assign it to yourself and change the status to let others know you are working on it!
 
 [Work Items](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)
 
-#Add Work Item for a Page
+###Add Work Item for a Page
 
 If you add a work item for a specific page, please add this flag to the top of the page, so others can see the work item.
 
@@ -52,6 +55,7 @@ When you make any major changes to a page, please add/update the Author Tag at t
   <td style='border-style:solid;border-color:#bfbfbf;background-color:#f4f4f4;border-width:3pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
+
 <b> Author: </b> whhender
 <b> Date of Last Update: </b> 04/28/2020
 </td>
@@ -59,4 +63,4 @@ vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 </table>
 ```
 
-
+# Wiki Updates over Last Week (Updated Fridays)
