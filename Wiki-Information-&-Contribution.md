@@ -10,9 +10,12 @@
 
 #How to Contribute
 
+<center>
 
 ![image.png](/.attachments/image-d1b3de25-a23a-4ec1-bc6e-2c63d0922cd6.png)
 ![Other Scenarios.jpg](/.attachments/Other%20Scenarios-bc666a66-efc4-4d3d-9f69-d0005fec6122.jpg)
+
+</center>
 
 
 If you are adding a page, removing a page, changing major information, fundamentally updating a process, need a change to be made but cannot make it yourself, or if you want feedback on your changes before you make them, please create a work item and add all details so the change can be tracked.
