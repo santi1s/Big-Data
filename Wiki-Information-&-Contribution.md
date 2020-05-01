@@ -24,8 +24,12 @@ Then edit the page as needed and complete the work item.
 To make a change to any page, simply choose 'Edit' in the top, right hand corner of any page and make your edits!
 ![image.png](/.attachments/image-e31ec768-a73d-46ed-9e76-9f8590a8e72b.png)
 
+## What Needs Doing?
+
+Want to know what we need help working on, check our [work items](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/) and feel free to pick up any unassigned tasks.
+
 ## Work Items
-You can check existing work items, or add other work items [here](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)!
+You can check existing work items or add other work items [here](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)!
 
 ### Add Work Item to a Page
 
