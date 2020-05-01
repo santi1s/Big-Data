@@ -9,3 +9,21 @@ If you would like to contribute, please follow up here:
 </td>
 </tr>
 </table>
+
+# What is a Collaboration
+
+# When to Open a Collaboration
+
+# How to Write a Successful Collaboration Task
+
+1. State what Team/What Expert you are looking for.
+2. State a description of the issue you need this collaboration to address.
+3. State the specific questions/information you need provided or answered from the collaboration.
+4. Provide any relevant Notes/Logs/Research information that will help the collaboration Engineer Complete their task.
+
+5. After submitting the collaboration task, copy and paste all this collaboration information into case notes titled "Collaboration Task for <Team/Product>"
+
+## Collaboration Task Template
+
+
+# Interacting with Collaborating Engineers
