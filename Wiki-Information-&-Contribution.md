@@ -10,9 +10,6 @@
 
 #How to Contribute
 
-To make a change to any page, simply choose 'Edit' in the top, right hand corner of any page and make your edits!
-![image.png](/.attachments/image-e31ec768-a73d-46ed-9e76-9f8590a8e72b.png)
-
 ## Big Changes
 
 ![image.png](/.attachments/image-d1b3de25-a23a-4ec1-bc6e-2c63d0922cd6.png)
@@ -20,9 +17,12 @@ To make a change to any page, simply choose 'Edit' in the top, right hand corner
 
 If you are adding a page, removing a page, changing major information, fundamentally updating a process, need a change to be made but cannot make it yourself, or if you want feedback on your changes before you make them, please create a work item and add all details so the change can be tracked.
 
+Then edit the page as needed and complete the work item.
+
 ## All Other Changes
 
-Just make your changes directly to the page! No process needed.
+To make a change to any page, simply choose 'Edit' in the top, right hand corner of any page and make your edits!
+![image.png](/.attachments/image-e31ec768-a73d-46ed-9e76-9f8590a8e72b.png)
 
 ## Work Items
 You can check existing work items, or add other work items [here](https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlyupdated/)!
