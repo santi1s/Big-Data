@@ -14,6 +14,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 
 **2) ASA SME/SE Huddle** 
 -  Discuss in ASA Daily Case Triage with SMEs and SEs for _Troubleshooting_ guidence
+-  Reach out to SME via email or chat
 
 **3) Ask Questions in ASA Teams** 
 -  Discuss _questions_ with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
