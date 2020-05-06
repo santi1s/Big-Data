@@ -17,9 +17,9 @@ Questions
 
 Support Engineer needs to confirm the following information when creating a request for a refund, since Product Group must attach this confirmation to their documentation. This documentation is important if an audit is to take place in the future. 
 
-STEP 1: GET APPROVAL FROM TECHNOLOGY
+**STEP 1: GET APPROVAL FROM TECHNOLOGY**
 
-STEP 2: GATHER INFOMRATION
+**STEP 2: GATHER INFOMRATION**
 
 For this reason, I would like to ask you to answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to our ticket when we order the refund request. 
 
@@ -38,7 +38,7 @@ For this reason, I would like to ask you to answer the following questions as co
 
 -	What services were impacted? Please provide us a list of all impacted resources.
 
-STEP 3: OPEN COLLABORATION WITH BILLING TEAM AND PROVIDE DETAILS ABOVE
+**STEP 3: OPEN COLLABORATION WITH BILLING TEAM AND PROVIDE DETAILS ABOVE**
 
 
  
