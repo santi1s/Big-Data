@@ -4,6 +4,14 @@ Note: this process is **only** for <u>in-depth</u> queue (Not for ARR queue)
 
 [[_TOC_]]
 
+<center>
+
+![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg)
+
+</center>
+
+
+
 #Hand Off Process for Critical/ 24*7 Cases
 
 Hand over workflow for the **24*7** case to next region:
