@@ -23,7 +23,7 @@ Support Engineer needs to confirm the following information when creating a requ
 
 **STEP 2: GATHER INFOMRATION**
 
-For this reason, I would like to ask you to answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to our ticket when we order the refund request. 
+Please answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to our ticket when we order the refund request. 
 
 
 -	Which Subscription GUIDs were impacted?
