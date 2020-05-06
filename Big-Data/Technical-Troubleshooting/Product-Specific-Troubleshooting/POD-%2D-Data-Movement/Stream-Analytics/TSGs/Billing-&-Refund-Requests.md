@@ -15,6 +15,8 @@ Questions
   - Yes - Contact Azure Billing and Subscription team to determine if customer's agreement has recently changed.
   - No  - Gather time range and charged amount with product group via the Escalation teams channel to determine if there has been an error.
 
+# Create a Request
+
 Support Engineer needs to confirm the following information when creating a request for a refund, since Product Group must attach this confirmation to their documentation. This documentation is important if an audit is to take place in the future. 
 
 **STEP 1: GET APPROVAL FROM TECHNOLOGY**
