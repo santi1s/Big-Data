@@ -4,6 +4,7 @@ Note: this process is **only** for <u>in-depth</u> queue (Not for ARR queue)
 
 [[_TOC_]]
 
+# Hand Off Between Regions
 <center>
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg)
@@ -12,7 +13,9 @@ Note: this process is **only** for <u>in-depth</u> queue (Not for ARR queue)
 
 
 
-#Hand Off Process for Critical/ 24*7 Cases
+## Process for Critical / 24*7 Cases
+
+![How to Hand Off No Title.jpg](/.attachments/How%20to%20Hand%20Off%20No%20Title-c627ac78-852b-4b82-9220-8f45778d26dc.jpg)
 
 Hand over workflow for the **24*7** case to next region:
 1. Log your hand over note well in the case before handover call.  (Generate the case note referring to [Handover tool](http://bigdatapod.azurewebsites.net/))
