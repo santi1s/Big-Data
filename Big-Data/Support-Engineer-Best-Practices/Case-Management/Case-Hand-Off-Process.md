@@ -9,13 +9,21 @@ Note: this process is **only** for <u>in-depth</u> queue (Not for ARR queue)
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg)
 
+![How to Hand Off Img.jpg](/.attachments/How%20to%20Hand%20Off%20Img-32d3236b-a500-496a-b697-4bc75b6a82c7.jpg)
+
+[![Good Case Notes Button.jpg](/.attachments/Good%20Case%20Notes%20Button-15b03d7d-c85c-4891-a360-2b4a76a7577f.jpg)](http://bigdatapod.azurewebsites.net/)
+
+[![Case Transfer List Button.jpg](/.attachments/Case%20Transfer%20List%20Button-792fe186-f6e6-48a4-97dd-c664f8d68570.jpg)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0)
+
+[![Region Handoff Call Button.jpg](/.attachments/Region%20Handoff%20Call%20Button-ef0bc618-80f7-4f7d-80c2-c020555d1590.jpg)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0)
+
+![Teammate Handoff Button.jpg](/.attachments/Teammate%20Handoff%20Button-038e6e16-3f93-43a4-b612-d4829f1ac205.jpg)
+
 </center>
 
 
 
 ## Process for Critical / 24*7 Cases
-
-![How to Hand Off No Title.jpg](/.attachments/How%20to%20Hand%20Off%20No%20Title-c627ac78-852b-4b82-9220-8f45778d26dc.jpg)
 
 Hand over workflow for the **24*7** case to next region:
 1. Log your hand over note well in the case before handover call.  (Generate the case note referring to [Handover tool](http://bigdatapod.azurewebsites.net/))
@@ -27,6 +35,7 @@ Hand over workflow for the **24*7** case to next region:
 
 a. Regional HO SME: [ APAC: Tracy Zhang / IGTSC: Shyam Simha / EMEA : Ryszard Gawron / US: Prashanth Madi ]
 
+## Region Hand Off Meetings
 b. Meeting link(no meeting at weekend):
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
