@@ -38,7 +38,7 @@ The Mentee will take a case and the mentor will monitor how the mentee is going 
 Mentor will help identify suitable cases for Mentee to take that will challenge them to grow in the role. 
  
 • After week 5: 
-Setup (at least biweekly) meeting that suits Mentor/Mentee, during this meeting the mentor will review cases with the mentee and discuss difficulties. 
+Setup (at least weekly) meeting that suits Mentor/Mentee, during this meeting the mentor will review cases with the mentee and discuss difficulties. 
  
  
 Tips for the first 2 months 
