@@ -19,7 +19,7 @@ First Weeks Agenda:
 
 Getting to know each other.
 Follow the onboarding Plan.
-Go through the regional OneNote/ global Big Data repository (work in progress) together so that the mentee is aware of existing resources and knows where to find them: For EMEA,  BigData Newcomer handbook
+Go through the global Big Data repository together so that the mentee is aware of existing resources and knows where to find them.
 The mentee will reach to the mentor to explain and help him with anything that is unclear on the onboarding plan.
 The mentor will follow the mentee's progress using the checkpoints of the technical ramp-up. In case that the learning path is not designed this way - he will agree with the mentee to create some checkpoints, in order to be easier for the mentee to know what to study, and also for the mentor to keep track of the progress.
 Introducing the Mentee to Microsoft culture  (Terminology, tools) 
