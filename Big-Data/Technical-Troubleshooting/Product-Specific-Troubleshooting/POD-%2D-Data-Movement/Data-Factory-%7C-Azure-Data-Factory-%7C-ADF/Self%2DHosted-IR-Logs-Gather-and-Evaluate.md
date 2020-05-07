@@ -10,6 +10,8 @@
 ![image.png](/.attachments/image-0ecd17c2-808c-448c-9c54-959c8bb9b5e0.png)
 
 # Evaluate 
+
+## Jarvis
 1. Go to the Jarvis site https://jarvis-west.dc.ad.msft.net/
 2. Set Namespace to HdisAgentMgmt and Table to TraceGatewayLocalEventLog
 
@@ -19,3 +21,8 @@
 a. The report ID that the user copy/pasted eg. UserReportId == "76cbbead-ed12-42c3-af02-f51c70d4e304"
 b. The subscriptionId for that user eg. SubscriptionId=="3fd66c55-f695-41d4-a9bb-d9c926641998"
 c. The GatewayID if you know it from ADF side, eg. GatewayId=="abd041f4-3c5b-4461-85ae-9bdee49938b3" 
+
+## Kusto
+TraceGatewayLocalEventLog | where UserReportId == "<user report ID>"
+
+
