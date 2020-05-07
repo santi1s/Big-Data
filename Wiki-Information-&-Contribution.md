@@ -33,6 +33,25 @@ If you add a work item for a page, please link it using the Ellipsis button in t
 
 ![image.png](/.attachments/image-99f7eeb6-4b24-4a57-a42a-fc34f17d0e35.png)
 
+
+###Add Work Item for a Page
+
+If you add a work item for a specific page, please add this flag to the top of the page, so others can see the work item.
+
+```
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> This page has an open work item! </b>
+If you would like to contribute, please follow up here:
+#<number of your work item>
+</td>
+</tr>
+</table>
+```
+
 # Wiki Updates over Last Week (Updated Fridays)
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Date</th>
