@@ -15,19 +15,19 @@ Please watch the training video here: https://msit.microsoftstream.com/video/743
 _These are just basic templates to help you structure your notes. If there is additional information that you need to provide, or a structure that works better for your team, please use that!_
 <br> </br>
 Issue
-+++++++++++++++++++++++++
+\============================
 _<Short description that outlines the full issue at a glance. This will probably be the same across all your notes.>_
 
 Current Status
-+++++++++++++++++++++++++
+\============================
 _<Brief outline of what you and/or the customer have just done and your current conclusions.>_
 
 ICM
-+++++++++++++++++++++++++
+\============================
 _<If you have an ICM or product team ticket, add it here! If not, you can leave this section out.>_
 
 Next Steps:
-+++++++++++++++++++++++++
+\============================
 
 Cx:
 1. _<List of next steps that the customer will take.>_
@@ -36,7 +36,7 @@ MSFT:
 1. _<List of next steps that case owners or collaborators will take.>_
 
 Research:
-+++++++++++++++++++++++++
+\============================
 
 _<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
 <br> </br>
