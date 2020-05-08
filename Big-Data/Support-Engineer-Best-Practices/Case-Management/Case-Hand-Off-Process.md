@@ -91,7 +91,7 @@ Next Customer's Action
 \=============
 ......
 
-Partner Ticket
+ICM or Partner Ticket
 \=============
 ......
 
