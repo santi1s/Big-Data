@@ -52,26 +52,9 @@ b. If you cannot find a teammate who can handle the case, reach out to your regi
 **APAC:** Tracy Zhang
 **IGTSC:** Shyam Simha
 **EMEA :** Ryszard Gawron
-**US:** Prashanth Madi
+**US:** Prashanth Madi or Whitney Henderson
 
-b. Meeting link(no meeting at weekend):
-
-- [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
--  [US->APAC HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWIyNzU2MmYtOTkxYy00NTY3LWEyNjAtNmY1YTgwNzc5MzBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2218d7429d-917b-4bba-881a-b254f61f0976%22%7d) Time: 4:30pm PST
--  [EMEA->US HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQyZDliMTUtYzlmNi00YTc4LWI5NGQtOTY0NjgxNjZhYzU0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2292be5ebc-4e43-4ea3-a98d-34ff4061dc92%22%7d) Time: 8:30am PST
-
-*If the handoff call is outside your shift:
-
-Find a teammate whose hours extend to the handoff call, and transfer the case to them as a Point of Contact for your customer and to take the case to the handoff call. 
--OR-
-Remain with your case until the handoff call and join the handoff call yourself.
-
-5. Transfer the case back to queue if it's aligned with respective region SME.
-6. Send email to sqldmmdt@microsoft.com to ask for reassignment.
-Reference Email Subject:
-Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
-7. Once case is assigned, discuss details with colleague who takes your case if necessary/available.
-
+6. Follow instructions provided by handoff SME on regional call. If necessary/available, discuss case with next owning engineer. 
 ### Region Hand Off Meetings
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
@@ -81,22 +64,22 @@ Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EM
 
 ## Hand Over Process for Non-24*7 
 
-1. Log your hand over note well in the case. (Generate the case note referring to [Handover tool](http://bigdatapod.azurewebsites.net/))
-2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request in the case internal title.
-3.  Go to [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) to new an entry for case transfer. Add it to the Transfer page, using the link at the top.
+1. Log good case notes before beginning hand off process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
+3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
-4. Transfer the case back to queue.
+4. **Transfer the case back to queue.**
 5. Send email to sqldmmdt@microsoft.com to ask for reassignment.
-	Reference Email Subject:
+	**Reference Email Subject:**
 	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <IST/EMEA/US SE> - Skill: <product skill>
 
 ## Hand Over Notes Template
 
 ### Notes Tool
-You can Generate Case notes based on [Handover tool](http://bigdatapod.azurewebsites.net/)
+You can generate notes based on [Handover Tool](http://bigdatapod.azurewebsites.net/)
 
 ### General Template
-Summary (What’s the progress so far)
+Summary (Issue Summary and Current Status)
 \=============
 ......
 
@@ -130,15 +113,28 @@ IcM ID?:
 #Dos and Dont's of Case Transfer
 
 ##Do
- 
-- Put yourself as the case owner once the case be assigned to you, take full accountability to meet SLA and provide quality responses.
-- Log clear case notes in Service Desk for every cases, especially for the case needed to transfer.
+
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#A2E1A2;border-width:0pt; 
+vertical-align:top;white-space: nowrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+- Accept ownership of cases assigned to you. Take full accountability to meet SLA and provide quality responses.
+- Log clear case notes in Service Desk for every case, but especially cases to transfer.
 - Change the case internal title to show the clear reason, if you want to transfer the case back to the queue. e.g. NEED US SE
 - Double check with customer whether customer really needs to continue the troubleshooting with next shift engineer, if not, reduce the severity and unflag the 24x7 option, and keep the case in your own bin.
 - Try best to reduce the severity from A to B, if there is no real business impact from customer, to reduce the unnecessary case handover between each regions
 - Transfer the case back to queue at earliest stage if customer prefer to work with other region engineer, or any other reason, ensure there is no idle before you transfer the case to others
+</td>
+</tr>
+</table>
 
 ## Don't
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:0pt; 
+vertical-align:top;white-space: nowrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
 - Don’t transfer your cases back to queue when you take leave, ask your team (in the same region) internally to back up you for hot cases, and set correct OOF auto-reply.
 - Don’t transfer the case back to queue, if the solution has been delivered or the issue was resolved, and just pending customer’s confirmation for case closure
 - Don’t be an IcM engineer, try to do some research and investigation before you create the ICM
@@ -146,6 +142,12 @@ IcM ID?:
 - Don’t leave the IR case in the queue until last minute, send the IR as early as possible
 - Don’t suggest customer to raise the case severity only for quick resource allocation purpose
 - Don’t use long backlog as an excuse to make your case idle for long time, you should reach your TA/Manager for backup or escalation
+
+</td>
+</tr>
+</table>
+
+
 
 ----
 
