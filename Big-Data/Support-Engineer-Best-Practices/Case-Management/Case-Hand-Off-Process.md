@@ -109,6 +109,16 @@ Now the issue is pending on?: PG/CSS/Customer
 IcM ID?:
 <Reason for Critsit:>
 
+
+# Hand Off During On Call
+
+# Hand Off on Weekends
+
+# Hand Off for Planned OOF
+
+# Hand Off for Unexpected OOF
+
+
 ----
 #Dos and Dont's of Case Transfer
 
@@ -149,5 +159,4 @@ vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 
 
 ----
-
 
