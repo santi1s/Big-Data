@@ -121,10 +121,9 @@ vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 
 - Accept ownership of cases assigned to you. Take full accountability to meet SLA and provide quality responses.
 - Log clear case notes in Service Desk for every case, but especially cases to transfer.
-- Change the case internal title to show the clear reason, if you want to transfer the case back to the queue. e.g. NEED US SE
-- Double check with customer whether customer really needs to continue the troubleshooting with next shift engineer, if not, reduce the severity and unflag the 24x7 option, and keep the case in your own bin.
-- Try best to reduce the severity from A to B, if there is no real business impact from customer, to reduce the unnecessary case handover between each regions
-- Transfer the case back to queue at earliest stage if customer prefer to work with other region engineer, or any other reason, ensure there is no idle before you transfer the case to others
+- Change the case internal title to show the clear reason for transfer if you will move the case back to the queue.
+- Double check with customer whether customer really needs to continue the troubleshooting with next shift engineer. As them if they want to proceed with another engineer, or would prefer to pick up during your next working hours. 
+- If a customer would prefer to work in a different region, transfer to that region as soon as possible.
 </td>
 </tr>
 </table>
@@ -137,11 +136,11 @@ vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 
 - Don’t transfer your cases back to queue when you take leave, ask your team (in the same region) internally to back up you for hot cases, and set correct OOF auto-reply.
 - Don’t transfer the case back to queue, if the solution has been delivered or the issue was resolved, and just pending customer’s confirmation for case closure
-- Don’t be an IcM engineer, try to do some research and investigation before you create the ICM
+
 - Don’t reject case assignment without your TA or manager’s approval
-- Don’t leave the IR case in the queue until last minute, send the IR as early as possible
+
 - Don’t suggest customer to raise the case severity only for quick resource allocation purpose
-- Don’t use long backlog as an excuse to make your case idle for long time, you should reach your TA/Manager for backup or escalation
+
 
 </td>
 </tr>
