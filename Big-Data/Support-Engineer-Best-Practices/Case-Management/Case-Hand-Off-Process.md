@@ -79,25 +79,30 @@ b. If you cannot find a teammate who can handle the case, reach out to your regi
 You can generate notes based on [Handover Tool](http://bigdatapod.azurewebsites.net/)
 
 ### General Template
-Summary (Issue Summary and Current Status)
-\=============
-......
 
-Next MSFT Action
-\=============
-......
+<br>
 
-Next Customer's Action
+Summary 
 \=============
-......
+_<Short description that outlines the full issue at a glance. And a brief outline of what you and/or the customer have just done and your current conclusions.>_
+
+Next Steps:
+\=============
+
+Cx:
+1. _<List of next steps that the customer will take.>_
+
+MSFT:
+1. _<List of next steps that case owners or collaborators will take.>_
 
 ICM or Partner Ticket
 \=============
-......
+_<If you have an ICM or product team ticket or a ticket with a partner team, add it here! If not, you can leave this section out.>_
 
-Handoff Notes
+Research:
 \=============
-......
+
+_<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
 
 Ticket's checklist
 \=============
@@ -108,7 +113,7 @@ Customer accept English Support?: Yes/No
 Now the issue is pending on?: PG/CSS/Customer
 IcM ID?:
 <Reason for Critsit:>
-
+</br>
 
 # Hand Off During On Call
 
