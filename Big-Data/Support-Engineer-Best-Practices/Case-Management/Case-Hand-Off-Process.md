@@ -52,7 +52,7 @@ b. If you cannot find a teammate who can handle the case, reach out to your regi
 **EMEA :** Ryszard Gawron
 **US:** Prashanth Madi or Whitney Henderson
 
-5. Transfer the case in queue for visibility and reassignment **after you aligned with regional hand off SME.** If necessary/available, discuss case with next owning engineer. 
+5. **Transfer the case in queue** for visibility and reassignment **<u>only after</u> you aligned with regional hand off SME.** If necessary/available, discuss case with next owning engineer. 
 ### Region Hand Off Meetings
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
