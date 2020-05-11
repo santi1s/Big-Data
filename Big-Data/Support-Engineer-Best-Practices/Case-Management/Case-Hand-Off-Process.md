@@ -45,7 +45,7 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 
 4. Attend the [handoff meeting for your region on weekday](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings).
-a. If transferring the case on a Friday or weekend when there is no handoff meeting, align with your current region's handoff SME to discuss transfer. <span style="color:#DF0101;"><u> If appropriate, the case should be added to the queue at the end of your region's hours.</u> </span>
+a. If transferring the case on a Friday or weekend when there is no handoff meeting, align with your current region's handoff SME to discuss transfer. <span style="color:#DF0101;"><u> If appropriate, the case should be added to the queue at the end of your region's hours</u> </span> and the DMs notified for reassignment: sqldmmdt@microsoft.com
 b. If you cannot attend the handoff meeting (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
 c. If you cannot find a teammate who can handle the case, reach out to your regional hand off SME:
 **APAC:** Tracy Zhang
