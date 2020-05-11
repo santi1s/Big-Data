@@ -33,6 +33,7 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 [![Region Handoff Call Button.jpg](/.attachments/Region%20Handoff%20Call%20Button-ef0bc618-80f7-4f7d-80c2-c020555d1590.jpg)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=region-hand-off-meetings)
 
 ![Teammate Handoff Button.jpg](/.attachments/Teammate%20Handoff%20Button-038e6e16-3f93-43a4-b612-d4829f1ac205.jpg)
+![Move to Queue Button.jpg](/.attachments/Move%20to%20Queue%20Button-e3162893-f293-4b98-88fe-2709f49dd982.jpg)
 
 </center>
 
