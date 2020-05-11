@@ -45,14 +45,15 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 
 4. Attend the [handoff meeting for your region on weekday](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings).
-a. If you cannot attend the handoff meeting (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your stead.
-b. If you cannot find a teammate who can handle the case, reach out to your regional hand off SME:
+a. If transferring the case on a Friday or weekend when there is no handoff meeting, align with your current region's handoff SME to discuss transfer. <u> If appropriate, the case should be added to the queue at the end of your region's hours.</u>
+b. If you cannot attend the handoff meeting (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
+c. If you cannot find a teammate who can handle the case, reach out to your regional hand off SME:
 **APAC:** Tracy Zhang
 **IGTSC:** Shyam Simha
 **EMEA :** Ryszard Gawron
 **US:** Prashanth Madi or Whitney Henderson
 
-5. **Transfer the case in queue** for visibility and reassignment **<u>only after</u> you have aligned with regional hand off SME.** If necessary/available, discuss case with next owning engineer. 
+5. **<u>Only after</u> you have aligned with regional hand off SME** <span style="color:#DF0101;">**transfer the case to the queue** </span>for visibility and reassignment.  If necessary/available, discuss case with next owning engineer. 
 ### Region Hand Off Meetings
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
