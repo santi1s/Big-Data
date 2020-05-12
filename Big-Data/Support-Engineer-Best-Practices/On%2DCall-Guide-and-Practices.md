@@ -8,10 +8,10 @@ Each region has a spreadsheet (rotation) which is pulled every 3 hours that gene
 
 **Why:**  CSS Big Data needs to have an on call per POD for times during our NA (North American) region's timeslot and we don't have scheduled engineers.   This is also our "backup" in the event we need SE's to stay late or come in early. 
 
-**When:**   On call rotation starts every Friday and runs to Thursday.   However since the majority of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun, **9:00 AM PST to 5:59 PM PST**. 
+**When:**   On call rotation starts every Friday and runs to Thursday.   However since the majority of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun, **9:00 AM PST to 4:59 PM PST**.  (updated 5/12/2020 - typo)
 
 America's Region (NA / ATZ / AMER) Time block is:
-**9:00 AM PST to 5:59 PM PST**
+**9:00 AM PST to 4:59 PM PST**
 
 **On call schedule here:**  http://aka.ms/bigdataoncall 
  NA (orange) blocks is us. 
