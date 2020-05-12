@@ -32,6 +32,15 @@ All of these questions can be answered by your colleagues or the Subject Matter 
 From Azure Support Center:
 From ICM Site:
 
+# How Do I Escalate the IcM to CSAT
+Support engineers will tag IcM incidents for SRs that is trending towards bad CSAT (Customer Survey Score) with **[CSAT Impacting]**. **Please provide regular and detailed updates for such incidents and ask to be included in email with customer for faster progress.** This is a new process that is being adopted all teams in Azure Data. 
+
+The customer should not be left waiting without knowing the progress. It happens  when Support Engineers transfer tickets to other teams ad context is lost during case transfer, or PG team is working on the fix that takes a long time. In these circumstances, a standard template should be used when customers are expected to wait: 
+
+- Describe the exact plans to be taken to address the issue  
+- Provide the current status of the case 
+- Promise to notify the customer as soon as we have more information or the issue is solved  
+
 # Can I include the PG in emails and conversations?
 Product group members should not be involved in customer communications unless:
 
