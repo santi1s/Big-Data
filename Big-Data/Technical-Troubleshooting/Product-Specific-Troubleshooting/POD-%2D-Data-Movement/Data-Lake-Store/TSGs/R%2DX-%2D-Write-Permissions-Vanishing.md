@@ -43,3 +43,13 @@ spark.hadoop.fs.permissions.umask-mode 000
 If your customer has write permissions mysteriously disappearing, ask if they're using Databricks or HDI and if yes, have them change the umask on the cluster to 000.
 
 # Additional Reading
+
+## Hadoop Permissions
+(search UMask to find the info about it)
+https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsPermissionsGuide.html
+
+##Posix Permissions Documentation
+https://www.linux.com/news/posix-acls-linux/
+
+## Posix Permissions Calculator/Translator
+http://permissions-calculator.org/
