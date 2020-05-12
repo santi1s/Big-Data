@@ -21,7 +21,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 
 **4) Daily IcM Meeting** 
 -  Discuss with PG for possibly _creating an IcM_
--  Discuss Open IcMs
+-  Discuss _Open_ IcMs
 
 **5) Open an IcM** 
 -  Review the [guides here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs) for opening an IcM
