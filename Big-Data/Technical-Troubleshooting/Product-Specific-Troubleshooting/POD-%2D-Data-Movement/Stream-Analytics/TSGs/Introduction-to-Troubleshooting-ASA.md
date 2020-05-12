@@ -23,8 +23,8 @@ iv. Troubleshooting Performed (if you have logs to share)
 -  Discuss with PG for possibly _creating an IcM_
 
 **5) Open an IcM** 
--  Review the guides for opening an IcM
-   - [Open using ASC](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs)
+-  Review the [guides here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs) for opening an IcM
+   - Open IcM using ASC
    - Assign Severity (1, 2, 3, 4) [Link to Severity Reference Guide Here](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/3791/Guidance-for-CRI-ICM-severity-for-ASA)
    - Add a Title 
       - SD ticket number
@@ -37,5 +37,5 @@ iv. Troubleshooting Performed (if you have logs to share)
       - Troubleshooting
       - What is needed from PG
       - Include Jarvis links
-   - Does the IcM Require CSAT
+   - [Review Guidelines for CSAT Here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs?anchor=how-do-i-escalate-the-icm-to-csat)
    - After the ticket is created, update the IcM to include the Region of the resource 
