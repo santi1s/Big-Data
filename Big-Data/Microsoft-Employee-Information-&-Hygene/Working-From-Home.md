@@ -1,7 +1,9 @@
 # **WFM / remote = work from home**
 
-##Guideline / how to - Ad Hoc _(Not scheduled or pre-approved arrangement)_
-_We are using this for simple guidelines for keeping our teams safe while supporting our customers during the COVID-19 Situation_
+**Guideline / how to - Ad Hoc _(Not scheduled or pre-approved arrangement)_**
+*We are using this for simple guidelines for keeping our teams safe while supporting our customers during the COVID-19 Situation*
+
+_This guidelines should be in harmony with the overall Microsoft direction.  Please review these regularly as the situation evolves:_ https://microsoft.sharepoint.com/sites/COVID-19Response/SitePages/Employee-updates-and-resources.aspx
 
 1. Please Use **Teams** to give your LOCAL team and mgr a heads up. 
 1a.  Please use "availability status" for good. 
