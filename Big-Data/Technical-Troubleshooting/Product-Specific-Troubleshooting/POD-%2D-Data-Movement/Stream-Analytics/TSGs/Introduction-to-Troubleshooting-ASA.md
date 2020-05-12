@@ -37,4 +37,5 @@ iv. Troubleshooting Performed (if you have logs to share)
       - Troubleshooting
       - What is needed from PG
       - Include Jarvis links
+   - Does the IcM Require CSAT
    - After the ticket is created, update the IcM to include the Region of the resource 
