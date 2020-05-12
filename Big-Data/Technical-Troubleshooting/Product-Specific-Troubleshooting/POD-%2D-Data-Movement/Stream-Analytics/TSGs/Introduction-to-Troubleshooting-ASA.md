@@ -12,15 +12,16 @@ ii. Current Status:
 iii. Next Action:
 iv. Troubleshooting Performed (if you have logs to share)
 
-**2) ASA SME/SE Huddle** 
+**2) ASA SME/SE Huddle for FRD case review and TSG ** 
 -  Discuss in ASA Daily Case Triage with SMEs and SEs for _Troubleshooting_ guidence
--  Reach out to SME via email or chat
+-  Reach out to SME via Email or Teams
 
-**3) Ask Questions in ASA Teams** 
--  Discuss _questions_ with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
+**3) Ask Questions for TSG in ASA Teams** 
+-  Discuss _questions_ to help Troubleshoot the issue with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
 
-**4) TSG In Daily IcM Meeting** 
+**4) Daily IcM Meeting** 
 -  Discuss with PG for possibly _creating an IcM_
+-  Discuss Open IcMs
 
 **5) Open an IcM** 
 -  Review the [guides here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs) for opening an IcM
