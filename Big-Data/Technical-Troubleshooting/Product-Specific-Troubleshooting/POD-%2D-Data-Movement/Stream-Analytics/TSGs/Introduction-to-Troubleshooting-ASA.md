@@ -12,7 +12,7 @@ ii. Current Status:
 iii. Next Action:
 iv. Troubleshooting Performed (if you have logs to share)
 
-**2) ASA SME/SE Huddle for FRD case review and TSG ** 
+**2) ASA SME/SE Huddle for FRD case review and TSG** 
 -  Discuss in ASA Daily Case Triage with SMEs and SEs for _Troubleshooting_ guidence
 -  Reach out to SME via Email or Teams
 
