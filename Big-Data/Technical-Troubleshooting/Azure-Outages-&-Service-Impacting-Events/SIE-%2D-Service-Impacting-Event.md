@@ -27,8 +27,9 @@ Historically there have been three methods whereby a service impacting event has
 
 Depending on their job title, each stakeholder will play a different role during the event. Here are the highlights for each one.
 
+### Manager 
 <details>
-  <summary> Manager (Click to expand!)</summary>
+  <summary>Click here to expand or collapse this section</summary>
 
 During a SIE the manager responsibilities will be:
 
@@ -71,8 +72,9 @@ cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWit
 
 </details>
 
+### Technical Advisor (TA)
 <details>
-  <summary> Technical Advisor (TA)</summary>
+  <summary>Click here to expand or collapse this section</summary>
 
 The TAs selected by the acting manager will do the following:
 
@@ -138,10 +140,11 @@ The TAs selected by the acting manager will do the following:
 13. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
 </details>
 
+### SIE Transfer Between Regions
+
 <details>
-  <summary> 
-SIE Transfer Between Regions
-</summary>
+  <summary>Click here to expand or collapse this section</summary>
+
 
 - TA/Managers will actively reach out to next available region Manager and identify TA/SE in that region.
 
@@ -152,10 +155,9 @@ SIE Transfer Between Regions
 - Next region TA/SE would continue to execute process as listed in this doc as per their role.
 </details>
 
+### Support Engineer (SE)
 <details>
-  <summary> 
-Support Engineer (SE)
-</summary>
+  <summary>Click here to expand or collapse this section</summary>
 
 1. For Sev A Critsits, call customers and update them about automatic communications from there after
 
