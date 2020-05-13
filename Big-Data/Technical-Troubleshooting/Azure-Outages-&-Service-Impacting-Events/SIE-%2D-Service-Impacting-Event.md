@@ -1,4 +1,6 @@
-Short URL : http://aka.ms/bigdatasie 
+---
+shortURL: https://aka.ms/bigdatasie
+--- 
 
 ## Summary
 
@@ -11,7 +13,7 @@ This playbook is a guideline for engineers, leads and managers to execute consis
 Historically there have been three methods whereby a service impacting event has been discovered. The time spent in discovery should be short.
 
 1. Existing ICM
-   - Engineer files a Sev 2 ICM and while on the bridge discovers their ICM is due to an ongoing Service Impacting Event - Check Azure Status Page and Iridias
+   - Engineer files a Sev 2 ICM and while on the bridge discovers their ICM is due to an ongoing Service Impacting Event - Check the [Azure Status Page] and [Iridias].
 
 2. Increase in cases
    - An engineer notices a sudden and dramatic increase in cases in their queue, all of which seem to be reporting similar symptoms
@@ -21,20 +23,20 @@ Historically there have been three methods whereby a service impacting event has
 
 3. In rare cases, PG will contact CSS TA’s and/or manager reporting a potential outage
 
-
-
 ## Process
 
 Depending on their job title, each stakeholder will play a different role during the event. Here are the highlights for each one.
 
-### Manager 
+### Manager
+
 <details>
   <summary>Click here to expand or collapse this section</summary>
 
 During a SIE the manager responsibilities will be:
 
 - Acknowledge SIE
-  - Manager is on point to make the determination whether an event should be considered an SIE or standard operations - Run SIE tool if number of support cases > 8
+  - Manager is on point to make the determination whether an event should be considered an SIE or standard operations
+    - Run SIE tool if number of support cases > 8
 
 - Initiate this Playbook
 
@@ -51,7 +53,8 @@ During a SIE the manager responsibilities will be:
 - TA/manager to create teams channel for communication
 
 - Use Below kusto query to find unassigned cases and make sure all of them have AgentAlias (else we would miss SLA)
-```
+
+```kusto
 let icm_no = "186961759";
 cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWithReferenceModel')
 | where InternalTitle  contains icm_no or RelatedICM_IDs contains icm_no
@@ -61,7 +64,8 @@ cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWit
 Note : replace icm_no with your associated SIE no.
 
 - Below query might be helpful for reporting purpose
-```
+
+```kusto
 let icm_no = "186961759";
 cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWithReferenceModel')
 | where InternalTitle  contains icm_no or RelatedICM_IDs contains icm_no
@@ -69,10 +73,10 @@ cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWit
 | summarize count() by Servicelevel,ServiceOfferingLevel1,ServiceOfferingLevel2
 ```
 
-
 </details>
 
 ### Technical Advisor (TA)
+
 <details>
   <summary>Click here to expand or collapse this section</summary>
 
@@ -91,7 +95,7 @@ The TAs selected by the acting manager will do the following:
 
    - Optional if manager did not create: Create a chat in Teams and invite all relevant stakeholders, e.g., Mgrs., TAs, SEs, EEEs, IMs, etc.
 
-   - [Email template](/.attachments/Outage_template-34ec6f94-fc08-4d2e-b97f-01febfcc0773.msg)
+   - [Email template]
 
 3. TA or designated CSS engineer will continue to be on Partner controlled bridge and/or Technical controlled bridge to get latest information on the SIE
 
@@ -138,13 +142,13 @@ The TAs selected by the acting manager will do the following:
 12. Continue checking the SIE list for incoming emails from CX and reply accordingly
 
 13. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
+
 </details>
 
 ### SIE Transfer Between Regions
 
 <details>
   <summary>Click here to expand or collapse this section</summary>
-
 
 - TA/Managers will actively reach out to next available region Manager and identify TA/SE in that region.
 
@@ -156,6 +160,7 @@ The TAs selected by the acting manager will do the following:
 </details>
 
 ### Support Engineer (SE)
+
 <details>
   <summary>Click here to expand or collapse this section</summary>
 
@@ -176,29 +181,44 @@ The TAs selected by the acting manager will do the following:
 3. If you are not part of the team who are working on SIE's and got an SIE case, please tag the case, call customer, update them and then follow the instructions received in the communication sent to the Pod about the SIE, so the Task Team can take care of the case and also you can move on to the next case to unblock yourself
 
 4. Scan the SIE tagged cases for any customer responses post mitigation which needs further assistance
-</details>
 
+</details>
 
 ## Q&A
 
-**Q: I got a case before SIE is declared and I'm not part of the task team. What should I do now?**
-A: Please update customer about the outage and the next communications are going to be via automated emails. If they insist on having an engineer engaged, then continue with the case. If not, reach out to TA from the task team shared via emails
+### I got a case before SIE is declared and I'm not part of the task team
 
-**Q: My customer issue is not resolved even though the SIE is called mitigated**
-A: Please reach out to engineering team immediately to verify the issue. If they confirm its not related, then please uncheck the SIE checkbox and continue to work with PG.
+Please update customer about the outage and the next communications are going to be via automated emails. If they insist on having an engineer engaged, then continue with the case. If not, reach out to TA from the task team shared via emails
 
-**Q: My customer is requesting RCA**
-A: SIE RCA's typically take around a week and customers will be sent bulk communication once it ready
+### My customer issue is not resolved even though the SIE is called mitigated
 
-**Q: My customer is requesting refund for the downtime**
-A: Please create task to ASMS team for refund and they will create a case on behalf of customer to process the refund. Once a case is created, close the technical ticket. ASMS – Handling Credit Requests and Refunds
+Please reach out to engineering team immediately to verify the issue. If they confirm its not related, then please uncheck the SIE checkbox and continue to work with PG.
 
-**Q: Where can I find RCA for outage?**
-A: Got to aka.ms/iridias and search for the SIE number to find the RCA that’s posted Public / Portal (Not internal) (Does it all go to Iridias? RCA should be in the ICM, as well)
+### My customer is requesting RCA
 
-**Q: For Pro / Broad commercial customers should I own the case?**
-A: No. For ALL cases, Premier, Broad commercial / Pro customers, just check the SIE checkbox and update the ICM Incident number to the case. They will receive bulk communications via SIE tool
+SIE RCA's typically take around a week and customers will be sent bulk communication once it ready
+
+### My customer is requesting refund for the downtime
+
+Please create task to ASMS team for refund and they will create a case on behalf of customer to process the refund. Once a case is created, close the technical ticket. ASMS – Handling Credit Requests and Refunds
+
+### Where can I find RCA for outage?
+
+Go to [Iridias] and search for the SIE number to find the RCA that’s posted Public / Portal (Not internal) (Does it all go to Iridias? RCA should be in the ICM, as well)
+
+### For Pro / Broad commercial customers should I own the case?
+
+No. For ALL cases, Premier, Broad commercial / Pro customers, just check the SIE checkbox and update the ICM Incident number to the case. They will receive bulk communications via SIE tool
+
+## Resources
+
+   - [Email template]
 
 
-## Resources :
-   - [Email template](/.attachments/Outage_template-34ec6f94-fc08-4d2e-b97f-01febfcc0773.msg)
+<!--region LINK REFERENCE DEFINITIONS -->
+
+[Azure Status Page]: <https://aka.ms/azurestatus>
+[Email template]: </.attachments/Outage_template-34ec6f94-fc08-4d2e-b97f-01febfcc0773.msg>
+[Iridias]: <https://aka.ms/iridias>
+
+<!--endregion LINK REFERENCE DEFINITIONS -->
