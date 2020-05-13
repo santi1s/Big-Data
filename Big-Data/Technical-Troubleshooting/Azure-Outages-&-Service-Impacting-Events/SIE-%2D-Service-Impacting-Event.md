@@ -2,9 +2,9 @@
 shortURL: https://aka.ms/bigdatasie
 --- 
 
-## Summary
-
 This playbook is a guideline for engineers, leads and managers to execute consistently on process for handling a Service Impacting Event outlining specific actions that need to occur at each of the following time intervals and organizational levels. It is designed for both Premier and Broad Commercial cases.
+
+[[_TOC_]]
 
 ## Playbook for Handling Service Impacting Event Outages
 
