@@ -36,4 +36,8 @@ Enter this filter ID: 2336
 
 Click 'Add'
 
+You can then find it under "My Cases" and "Shared Filters"
+![image.png](/.attachments/image-e8ce8973-90f2-4dfb-9b84-7c101b9f66d6.png)
+
+
 This report will generate a list of cases that were still awaiting FDR as of 00:00 UTC. Review all these cases in the daily meeting and add any FDR guidance to the case notes under the title "Technical FDR Review"
