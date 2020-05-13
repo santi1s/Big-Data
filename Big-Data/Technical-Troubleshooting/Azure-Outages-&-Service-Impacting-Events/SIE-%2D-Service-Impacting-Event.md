@@ -28,7 +28,7 @@ Historically there have been three methods whereby a service impacting event has
 Depending on their job title, each stakeholder will play a different role during the event. Here are the highlights for each one.
 
 <details>
-  <summary> Manager </summary>
+  <summary> Manager (Click to expand!)</summary>
 
 During a SIE the manager responsibilities will be:
 
@@ -56,74 +56,19 @@ During a SIE the manager responsibilities will be:
 The TAs selected by the acting manager will do the following:
 
 1. Identify SIE number
-
-o Create a new ICM for specific product if it doesn’t exist and tag parent ICM.
-
-o Use existing ICM
+   - Create a new ICM for specific product if it doesn’t exist and tag parent ICM.
+   - Use existing ICM
 
 2. Update Manager about the outage and send out communication to the team every time that a communication is sent to the customers
 
-o Email to Global Technology DL
+   - Email to Global Technology DL
+     - Big Data: Open Source: bdopensource@microsoft.com
+     - Big Data: Data Movement: bddatamovement@microsoft.com
+     - Big Data: Databases: bddatabase@microsoft.com
 
-§ Big Data: Open Source: bdopensource@microsoft.com
+   - Optional if manager did not create: Create a chat in Teams and invite all relevant stakeholders, e.g., Mgrs., TAs, SEs, EEEs, IMs, etc.
 
-§ Big Data: Data Movement: bddatamovement@microsoft.com
-
-§ Big Data: Databases: bddatabase@microsoft.com
-
-o Optional if manager did not create: Create a chat in Teams and invite all relevant stakeholders, e.g., Mgrs., TAs, SEs, EEEs, IMs, etc.
-
-o Email template:
-
-Big Data Analytics
-
-Outage Notification: Azure Cosmos DB
-
-Title: Customers are unable to connect Cosmos DB
-
-SIE No : xxxxxxxxx
-
-Status: Active
-
-Symptoms:
-
-Example: Customers would get “SocketException” while trying to connect their DB
-
-Affected Regions include WestUS, Central US
-
-Next Steps:
-
-Example: Our Product group engineers are actively working on steps to resolve this issue.
-
-We will keep you posted on any new updates
-
-Task Team :
-
-- TA:
-
-- SE:
-
-Actions for CSS engineers:
-
-· Example: Above Engineers will be handling incoming cases related to this issue. Please
-
-ping them if you see new incoming cases or cases that need a handover resource.
-
-· If you see a case related to this issue, please tag the case with:
-
-o xxxxxxxxx and mark it as SIE
-
-Example:
-
-Bridge Info:
-
-Technical Controlled Bridge Dial: +1 323-849-4874 Conf.Id: 629613320 *some active users may still be on bridge Join Technical Bridge Partner Controlled Bridge Dial: +1 323-849-4874 Conf.Id: 629613320 *some active users may still be on bridge Join Partner Controlled Bridge
-
-Big Data Analytics
-
-ensuring customer success in Azure
-
-NOTE: If you have not been designated as part of the SIE Task Team and own a related case, please reach out to the TA for receiving instructions about how to handle it. TA or designated CSS engineer will continue to be on Partner controlled bridge and/or Technical controlled bridge
+   - [Email template](/.attachments/Outage_template-34ec6f94-fc08-4d2e-b97f-01febfcc0773.msg)
 
 3. TA or designated CSS engineer will continue to be on Partner controlled bridge and/or Technical controlled bridge to get latest information on the SIE
 
@@ -131,37 +76,37 @@ NOTE: If you have not been designated as part of the SIE Task Team and own a rel
 
 5. For ALL cases:
 
-o Update the IcM incident # field in Service Desk to include the SIE number appending
+   - Update the IcM incident # field in Service Desk to include the SIE number appending
 
-o Change case Status to Troubleshooting.
+   - Change case Status to Troubleshooting.
 
-o Mark non-SIE related cases "NOT SIE" in the internal title
+   - Mark non-SIE related cases "NOT SIE" in the internal title
 
-o Make sure the "Service Impacting Event (SIE)" checkbox is marked
+   - Make sure the "Service Impacting Event (SIE)" checkbox is marked
 
 6. Start sending communication to cases marked as SIE from the SIE mailer tool, using message taken from Iridias . Only use latest public message, do not include internal communications
 
-o The SIE communication message should include this statement:
+   - The SIE communication message should include this statement:
 
 § "Stay informed about Azure service issues by creating custom service health alerts: https://aka.ms/ash-videos for video tutorials and https://aka.ms/ash-alerts for how-to documentation."
 
-o TA's should ensure customer communication happens without fail on regular basis (hourly), unless otherwise communicated by AzComm / PG
+   - TA's should ensure customer communication happens without fail on regular basis (hourly), unless otherwise communicated by AzComm / PG
 
-o Send the same updates to the team as detailed in step 2
+   - Send the same updates to the team as detailed in step 2
 
 7. Designate one TA/SME to scan the SIE cases list which has "Inbound Email" column "Yes", and if specific assistance is required, uncheck the SIE box, change the title to "SIE # SPECIAL ATTENTION NEEDED" and send the case back to the queue
 
-o For a scenario where a different TZ is monitoring the SIE cases and doesn’t own them, when the “Inbound email” column says “yes”, the case must be yanked in order for action to be properly reflected on Service Desk, i.e., SIE “Inbound Email” to change status
+   - For a scenario where a different TZ is monitoring the SIE cases and doesn’t own them, when the “Inbound email” column says “yes”, the case must be yanked in order for action to be properly reflected on Service Desk, i.e., SIE “Inbound Email” to change status
 
 8. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
 
 9. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
 
-o If customer is still impacted, check with PG immediately and uncheck the SIE checkbox so that it appears in queue (Push it back to queue if it needs a new engineer).
+   - If customer is still impacted, check with PG immediately and uncheck the SIE checkbox so that it appears in queue (Push it back to queue if it needs a new engineer).
 
-o If a customer verified mitigation and asked to close the case no need to wait for RCA, just close it.
+   - If a customer verified mitigation and asked to close the case no need to wait for RCA, just close it.
 
-o If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
+   - If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
 
 10. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
 
