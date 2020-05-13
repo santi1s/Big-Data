@@ -49,7 +49,7 @@ During a SIE the manager responsibilities will be:
 
 - TA/manager to create teams channel for communication
 
-- Use Below kusto query to find unassigned cases
+- Use Below kusto query to find unassigned cases and make sure all of them have case owner(else we would miss SLA)
 ```
 let icm_no = "186961759";
 cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWithReferenceModel')
