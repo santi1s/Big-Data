@@ -1,4 +1,4 @@
-Short URL http://aka.ms/daisiepb (does not work yet)
+Short URL : http://aka.ms/bigdatasie 
 
 ## Summary
 
