@@ -198,3 +198,7 @@ A: Got to aka.ms/iridias and search for the SIE number to find the RCA that’s 
 
 **Q: For Pro / Broad commercial customers should I own the case?**
 A: No. For ALL cases, Premier, Broad commercial / Pro customers, just check the SIE checkbox and update the ICM Incident number to the case. They will receive bulk communications via SIE tool
+
+
+## Resources :
+   - [Email template](/.attachments/Outage_template-34ec6f94-fc08-4d2e-b97f-01febfcc0773.msg)
