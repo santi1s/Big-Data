@@ -48,6 +48,27 @@ During a SIE the manager responsibilities will be:
   - Depending on the SIE case load may be necessary temporarily suspending auto-assignment to have enough time for marking the related cases
 
 - TA/manager to create teams channel for communication
+
+- Use Below kusto query to find unassigned cases
+```
+let icm_no = "186961759";
+cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWithReferenceModel')
+| where InternalTitle  contains icm_no or RelatedICM_IDs contains icm_no
+| where CreatedDateTime > ago(20d)
+| project IncidentId, AgentAlias,Status
+```
+Note : replace icm_no with your associated SIE no.
+
+- Below query might be helpful for reporting purpose
+```
+let icm_no = "186961759";
+cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWithReferenceModel')
+| where InternalTitle  contains icm_no or RelatedICM_IDs contains icm_no
+| where CreatedDateTime > ago(20d)
+| summarize count() by Servicelevel,ServiceOfferingLevel1,ServiceOfferingLevel2
+```
+
+
 </details>
 
 <details>
