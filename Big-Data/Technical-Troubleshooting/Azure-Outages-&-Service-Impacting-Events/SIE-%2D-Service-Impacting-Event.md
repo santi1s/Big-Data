@@ -212,26 +212,20 @@ o Make sure the "Service Impacting Event (SIE)" checkbox is marked
 
 ## Q&A
 
-Q: I got a case before SIE is declared and I'm not part of the task team. What should I do now?
-
+**Q: I got a case before SIE is declared and I'm not part of the task team. What should I do now?**
 A: Please update customer about the outage and the next communications are going to be via automated emails. If they insist on having an engineer engaged, then continue with the case. If not, reach out to TA from the task team shared via emails
 
-Q: My customer issue is not resolved even though the SIE is called mitigated
-
+**Q: My customer issue is not resolved even though the SIE is called mitigated**
 A: Please reach out to engineering team immediately to verify the issue. If they confirm its not related, then please uncheck the SIE checkbox and continue to work with PG.
 
-Q: My customer is requesting RCA
-
+**Q: My customer is requesting RCA**
 A: SIE RCA's typically take around a week and customers will be sent bulk communication once it ready
 
-Q: My customer is requesting refund for the downtime
-
+**Q: My customer is requesting refund for the downtime**
 A: Please create task to ASMS team for refund and they will create a case on behalf of customer to process the refund. Once a case is created, close the technical ticket. ASMS – Handling Credit Requests and Refunds
 
-Q: Where can I find RCA for outage?
-
+**Q: Where can I find RCA for outage?**
 A: Got to aka.ms/iridias and search for the SIE number to find the RCA that’s posted Public / Portal (Not internal) (Does it all go to Iridias? RCA should be in the ICM, as well)
 
-Q: For Pro / Broad commercial customers should I own the case?
-
+**Q: For Pro / Broad commercial customers should I own the case?**
 A: No. For ALL cases, Premier, Broad commercial / Pro customers, just check the SIE checkbox and update the ICM Incident number to the case. They will receive bulk communications via SIE tool
