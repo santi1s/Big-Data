@@ -88,7 +88,7 @@ The TAs selected by the acting manager will do the following:
 
    - The SIE communication message should include this statement:
 
-§ "Stay informed about Azure service issues by creating custom service health alerts: https://aka.ms/ash-videos for video tutorials and https://aka.ms/ash-alerts for how-to documentation."
+     - "Stay informed about Azure service issues by creating custom service health alerts: https://aka.ms/ash-videos for video tutorials and https://aka.ms/ash-alerts for how-to documentation."
 
    - TA's should ensure customer communication happens without fail on regular basis (hourly), unless otherwise communicated by AzComm / PG
 
@@ -121,6 +121,7 @@ The TAs selected by the acting manager will do the following:
   <summary> 
 SIE Transfer Between Regions
 </summary>
+
 - TA/Managers will actively reach out to next available region Manager and identify TA/SE in that region.
 
 - For cases that needs attention, they will be transferred to newly identified TA/SE.
@@ -137,17 +138,17 @@ Support Engineer (SE)
 
 1. For Sev A Critsits, call customers and update them about automatic communications from there after
 
-o Note: If customer specifically requests for an engineer to be assigned, uncheck the SIE check box and continue working with them
+   - Note: If customer specifically requests for an engineer to be assigned, uncheck the SIE check box and continue working with them
 
 2. Scan the queue and tag any cases that are related to SIE.
 
-o Update the IcM incident # field in Service Desk to include the SIE number
+   - Update the IcM incident # field in Service Desk to include the SIE number
 
-o Change case Status to Troubleshooting.
+   - Change case Status to Troubleshooting.
 
-o Mark non-SIE related cases "NOT SIE" in the internal title
+   - Mark non-SIE related cases "NOT SIE" in the internal title
 
-o Make sure the "Service Impacting Event (SIE)" checkbox is marked
+   - Make sure the "Service Impacting Event (SIE)" checkbox is marked
 
 3. If you are not part of the team who are working on SIE's and got an SIE case, please tag the case, call customer, update them and then follow the instructions received in the communication sent to the Pod about the SIE, so the Task Team can take care of the case and also you can move on to the next case to unblock yourself
 
