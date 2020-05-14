@@ -59,7 +59,7 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 
 _**Note that the earlier you request vacation time, the better!**_
 
-*UPDATE*  2 ways to do this:  the Normal way and the quick way.
+
 QUICK WAY
 1. Validate the team has proper coverage for the time your taking off
      by checking the [Schedule View](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD) in WFM. Follow this link to get access to that Schedule View: [Link](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD)
@@ -67,8 +67,8 @@ QUICK WAY
      Subject "Your alias TIME OFF START/END DATE"
      Body: suggested
       Hi WFM,  please mark me OOF for the following days
-3.  if your manager doesn't approve within 2 days please ping them in chat
-4. follow process below in updating Out Of Office in Outlook and tar
+3. If your manager doesn't approve within 2 days please ping them in chat.
+4. Follow process below in updating Out Of Office in Outlook and TAR
 
 NORMAL WAY 
 1. Go to WFM and select "Schedule Editor"
