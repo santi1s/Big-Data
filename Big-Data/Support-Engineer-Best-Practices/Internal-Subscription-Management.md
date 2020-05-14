@@ -2,6 +2,8 @@
 
 #How to Request Internal Subscription
 
+https://microsoft.sharepoint.com/teams/azureinternal/CSSMgmt/SitePages/Home.aspx
+
 # Internal Subscription Best Practices
 
 Don't leave Cx reproductions running.
