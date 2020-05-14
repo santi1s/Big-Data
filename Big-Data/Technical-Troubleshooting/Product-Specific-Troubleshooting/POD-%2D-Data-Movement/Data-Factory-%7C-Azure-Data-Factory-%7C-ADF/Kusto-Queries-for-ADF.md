@@ -150,5 +150,37 @@ CPUUtilization - how much of the CPU is being run at any one time.
 We're checking these values for the full runtime of the job. If CPU is high, or if Used Capacity is within 1 or 2 jobs of Max capacity, that's a problem.
 
 # Azure Data Factory V1 Queries
+Under adfcus(us) or adfneu(europe)
 
-(Coming soon!)
+Using Subscription ID:
+(use this to find pipeline name or RunID if you only have a timestamp)
+ExecutionEvents
+| where TIMESTAMP > datetime(2018-02-23 12:00) 
+| where TIMESTAMP <= datetime(2018-02-23 13:30) 
+| where subscriptionId=="<SUBSCRIPTION ID>"
+| order by TIMESTAMP 
+
+Using Pipeline Name:
+(use this to find RunID if you still don't have it)
+ExecutionEvents
+| where TIMESTAMP > datetime(2018-02-23 20:00) 
+| where TIMESTAMP <= datetime(2018-02-23 21:30) 
+| where pipelineName=="<NAME>"
+| where subscriptionId=="<Subscription ID>"
+| order by TIMESTAMP 
+
+Using RunID:
+(Use this to find errors, and activity IDs)
+ExecutionEvents
+| where runId =="<RUN ID>"
+| order by TIMESTAMP 
+
+Using ActivityID:
+TraceLogV2
+| where ActivityId =="<Activity ID>"
+| order by TIMESTAMP 
+
+Under Azuredmprod (Data movement)
+
+Using ActivityID:
+CustomLogEvent | where * contains
