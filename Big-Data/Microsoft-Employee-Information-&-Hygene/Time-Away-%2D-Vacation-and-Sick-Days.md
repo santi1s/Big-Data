@@ -55,14 +55,14 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 2. You can also check for any Flex/Lieu Days on WFM (see section below for Flex/Lieu Days), by going to Personal Accounts, entering the date, and checking your current balance.
 ![image.png](/.attachments/image-bde547ef-30f7-47fd-be0c-c2af60327193.png)
 
-## Request Vacation (_updated 4/29/2020_)
+## Request Vacation
 
 _**Note that the earlier you request vacation time, the better!**_
 
 *UPDATE*  2 ways to do this:  the Normal way and the quick way.
 QUICK WAY
 1. Validate the team has proper coverage for the time your taking off
-     goto WFM and our skills roster 
+     by checking the [Schedule View](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD) in WFM. Follow this link to get access to that Schedule View: [Link](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD)
 2. Send email to WFM scheduling, CCing Manager , TA/ PTA's and SEs 
      Subject "Your alias TIME OFF START/END DATE"
      Body: suggested
