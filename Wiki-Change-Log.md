@@ -9,6 +9,71 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 </tr></thead>
 <tbody>
 <tr>
+<td>5/14/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>5/14/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Internal Subscription Management</td>
+</tr>
+<tr>
+<td>5/14/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>5/13/2020</td>
+<td>Alex Blaine</td>
+<td>Added View Schedule Per POD</td>
+</tr>
+<tr>
+<td>5/12/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Working From Home</td>
+</tr>
+<tr>
+<td>5/12/2020</td>
+<td>Lee Pauling</td>
+<td>Updated On-Call Guide and Practices</td>
+</tr>
+<tr>
+<td>5/12/2020</td>
+<td>Jeremy Li &amp; Whitney Henderson</td>
+<td>Updated Case Hand Off Process</td>
+</tr>
+<tr>
+<td>5/12/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Introduction to Troubleshooting ASA</td>
+</tr>
+<tr>
+<td>5/12/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Escalations | Creating ICMs</td>
+</tr>
+<tr>
+<td>5/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>5/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>5/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Product Specific Troubleshooting</td>
+</tr>
+<tr>
+<td>5/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Page &#39;Buddy Engineers&#39; moved from parent &#39;/Big Data/Getting Started/Support Engineer Training&#39; to &#39;/Big Data/Getting Started/Support Engineer Training/Mentoring Guidelines&#39;</td>
+</tr>
+<tr>
 <td>5/7/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Self-Hosted IR Logs Gather and Evaluate</td>
