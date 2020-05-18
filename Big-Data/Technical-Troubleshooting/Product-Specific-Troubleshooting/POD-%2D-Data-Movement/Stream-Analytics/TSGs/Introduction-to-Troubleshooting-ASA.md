@@ -40,3 +40,12 @@ iv. Troubleshooting Performed (if you have logs to share)
       - Include Jarvis links
    - [Review Guidelines for CSAT Here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/181132/Escalations-Creating-ICMs?anchor=how-do-i-escalate-the-icm-to-csat)
    - After the ticket is created, update the IcM to include the Region of the resource 
+
+**6) Is your SD or IcM ticket lagging in progress?**
+Here are some suggestions if your ticket has been open for more than a week:
+
+Swarm!  You may recall Swarmming disussed in CSS training.  
+1) Find an expert (collaborator or SME to get on a call with the customer)
+2) Join on Wed the Backlogged ticket meeting during the ASA Triage Morning Meeting 
+3) Ask PG if you can loop them in on a email thread if questions are still not answered and you rely on the expertise of PG.
+3) As a last resort, ask a PG if they can get on a call with you and the customer.
