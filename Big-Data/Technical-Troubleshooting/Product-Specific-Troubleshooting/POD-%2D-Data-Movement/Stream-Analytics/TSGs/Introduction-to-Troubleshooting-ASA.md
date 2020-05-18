@@ -42,7 +42,7 @@ iv. Troubleshooting Performed (if you have logs to share)
    - After the ticket is created, update the IcM to include the Region of the resource 
 
 **6) Is your SD or IcM ticket lagging in progress?**
-Here are some suggestions if your ticket has been open for more than a week:
+Here are some suggestions if your ticket has been open for 4+ days:
 
 Swarm!  You may recall Swarmming disussed in CSS training.  
 - Find an expert (collaborator or SME to get on a call with the customer)
