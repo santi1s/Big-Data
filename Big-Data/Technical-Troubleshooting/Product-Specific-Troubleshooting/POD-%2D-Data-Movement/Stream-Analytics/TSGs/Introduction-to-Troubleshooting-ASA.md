@@ -44,7 +44,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 **6) Is your SD or IcM ticket lagging in progress?**
 Here are some suggestions if your ticket has been open for 4+ days:
 
-Swarm!  You may recall Swarmming disussed in CSS training.  
+Swarm!  You may recall Swarming discussed in CSS training.  
 - Find an expert (collaborator or SME to get on a call with the customer)
 - Join on Wed the Backlogged ticket meeting during the ASA Triage Morning Meeting 
 - Ask PG if you can loop them in on a email thread if questions are still not answered and you rely on the expertise of PG.
