@@ -48,4 +48,4 @@ Swarm!  You may recall Swarmming disussed in CSS training.
 1) Find an expert (collaborator or SME to get on a call with the customer)
 2) Join on Wed the Backlogged ticket meeting during the ASA Triage Morning Meeting 
 3) Ask PG if you can loop them in on a email thread if questions are still not answered and you rely on the expertise of PG.
-3) As a last resort, ask a PG if they can get on a call with you and the customer.
+4) As a last resort, ask a PG if they can get on a call with you and the customer.
