@@ -128,15 +128,99 @@ IcM ID?:
 </br>
 </details>
 
+# Hand Off on Weekends
+
+## Critical 24*7 Cases
+1. Log good case notes before beginning hand off process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
+3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
+![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
+4. **Transfer the case back to queue.**
+5. Send email to sqldmmdt@microsoft.com to ask for reassignment.
+	**Reference Email Subject:**
+	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
+
+5. <span style="color:#DF0101;">**Remain with the case until hand off to next engineer can occur.** </span>
+
+## Non-Critical Cases
+
+1. Log good case notes before beginning hand off process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
+3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
+![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
+4. **Transfer the case back to queue.**
+5. Send email to sqldmmdt@microsoft.com to ask for reassignment.
+	**Reference Email Subject:**
+	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
+
 # Hand Off During On Call
 
-# Hand Off on Weekends
+Hand Off for On-Call can follow normal case handoff proceedures on the weekend or a normal business days.
+
+Hand off case at the end of your shift.
+
+Shift times by region are as follows:
+
+**EMEA** - 01:00 - 08:59 PST
+**NA** - 09:00 - 16:59 PST
+**APAC** - 17:00 - 00:59 PST
+
 
 # Hand Off for Planned OOF
 
+## One Week or Less
+
+Hand off is only necessary for critical or active cases, or cases where customers would like to meet during your time away. If you need to hand off cases for this time.
+1. Log good case notes before handoff. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+2. Reach out to teammates to see if they are able to pick up any of the cases and perform a warm hand off.
+3. If you are unable to find teammates to assist you, reach out to a TA to inform them of any cases that will need help during your absence.
+4. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assitance in your absence. 
+
+## Longer than a Week
+
+For longer vacations, please close what cases you can and make sure all your customers are aware of your absence.
+
+1. For critical or very active cases, let your customers know you will be away and that you will be handing their case to a teammate. If at all possible, find a teammate who will be able to take the case, and provide a warm handoff.
+
+2. For slower cases where you are waiting on the customer or product team, and don't expect any update will be needed until after your return, please let the customer know of your absence and confirm if they are alright to have an update on your return, or if they would prefer to be handed off to another engineer in the meantime. If any of these cases need handoff, find a teammate who will be able to take the case and provide a warm handoff.
+
+3. If you are not able to find a case owner for cases any that need handoff during your time away, please reach out to your TA with a list of cases, and for each case including number, product, brief description, and brief status.
+
+4. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assistance in your absence. 
+
+##Phone Numbers for Immediate Support By Region
+For your away messages, feel free to include any/all numbers for our supported regions so any of your customers can get support while you are out.
+
+India
+Premier : 1800-425-5666/080-6000-5666
+Professional : 1800-419-5666
+
+US
+Premier : +1 800 936 3100
+Professional : +1 800 936 5800 / +1-800-936-4900
+
+EMEA
+Premier : +44-844-800-8338
+Professional : +44-844-800-2400
+
+
+
 # Hand Off for Unexpected OOF
 
+## Short-Term Unexpected OOF
+1. For critical cases, reach out to a teammate for hand-off or inform a TA of your sudden absence and let them know what critical cases will need hand off. If unable to contact teammates or TA **send the case back to the queue**. 
+If unable to access case to send it back to the queue, please inform your manager or TA of your sudden absence and that there is a critical case that needs to be transitioned.
 
+2. For non-critical cases that need hand off, please reach out to your teammates or TA with a list of the cases that will need assistance in your absence.
+
+3. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assistance in your absence. 
+
+## Long-Term Unexpected OOF
+
+1. Contact your manager to let them know you will be unexpectedly oof.
+2. Contact your TA to let them know you will be unexpectedly oof so they can redistribute cases to your teammates.
+3. If possible, provide TA with a prioritization of cases, or a list of which cases are critical/very active, so the TA can prioritize ownership.
+4.  Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assistance in your absence. 
 ----
 #Dos and Dont's of Case Transfer
 
