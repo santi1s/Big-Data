@@ -45,7 +45,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 Here are some suggestions if your ticket has been open for more than a week:
 
 Swarm!  You may recall Swarmming disussed in CSS training.  
-1) Find an expert (collaborator or SME to get on a call with the customer)
-2) Join on Wed the Backlogged ticket meeting during the ASA Triage Morning Meeting 
-3) Ask PG if you can loop them in on a email thread if questions are still not answered and you rely on the expertise of PG.
-4) As a last resort, ask a PG if they can get on a call with you and the customer.
+- Find an expert (collaborator or SME to get on a call with the customer)
+- Join on Wed the Backlogged ticket meeting during the ASA Triage Morning Meeting 
+- Ask PG if you can loop them in on a email thread if questions are still not answered and you rely on the expertise of PG.
+- As a last resort, ask a PG if they can get on a call with you and the customer.
