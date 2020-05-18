@@ -188,13 +188,7 @@ Professional : +44-844-800-2400
 
 ## Case Handoff for Vacation
 
-For short vacations, handoff is only necessary for critical or active cases, or cases where customers would like to meet during your time away.
-
-For longer vacations, please close what cases you can. For critical or very active cases, let your customers know you will be away and that you will be handing their case to a teammate. If at all possible, find a teammate in your POD who will be able to take the case, and provide a warm handoff.
-
-For slower cases where you are waiting on the customer or product team, and don't expect any update will be needed until after your return, please let the customer know of your absence and confirm if they are alright to have an update on your return, or if they would prefer to be handed off to another engineer in the meantime. 
-
-If you are not able to find a case owner for cases that need handoff during your time away, please reach out to your TA with a list of cases, for each case including number, product, brief description, brief status.
+Please follow the Expected OOF Case Handoff guidelines to hand off cases for vacation: [Expected OOF Case Hand Off](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=hand-off-for-planned-oof)
 
 ## Record Vacation Hours
 
@@ -281,8 +275,7 @@ Professional : +44-844-800-2400
 
 ## Case Handling for Sick Days
 
-For any **critical cases**, please update case notes for hand off and find a case owner.
-If you are unable to find a case owner, reach out to a teammate or your TA with an email that contains the case number, a brief description, a brief status, and then place the case back in the queue.
+Please follow the Unexpected OOF guidelines for handing off cases on sick days: [Unexpected OOF Case Handoff](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=hand-off-for-unexpected-oof)
 
 For any **scheduled meetings** with customers, please reschedule, or arrange for a teammate to join the meeting instead.
 
