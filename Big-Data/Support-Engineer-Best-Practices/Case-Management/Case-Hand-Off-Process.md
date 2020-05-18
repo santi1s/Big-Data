@@ -51,10 +51,18 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
 **b. If you cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
 **c. If you cannot find a teammate who can handle the case**, reach out to your regional hand off SME:
-**APAC:** Tracy Zhang
-**IGTSC:** Shyam Simha
-**EMEA :** Ryszard Gawron
-**US:** Prashanth Madi or Whitney Henderson
+<details>
+  <summary>Regional SMEs</summary>
+<b>APAC:</b> Tracy Zhang
+<br>
+<b>IGTSC:</b> Shyam Simha
+<br>
+<b>EMEA :</b>Ryszard Gawron
+<br>
+<b>US:</b> Prashanth Madi or Whitney Henderson
+
+
+</details>
 
 5. **<u>Only after</u> you have aligned with regional hand off SME** <span style="color:#DF0101;">**transfer the case to the queue** </span>for visibility and reassignment.  If necessary/available, discuss case with next owning engineer. 
 ### Region Hand Off Meetings
