@@ -1,6 +1,6 @@
 Welcome to Azure Stream Analytics Troubleshooting guide!  
 # General TSG Process
-![Capture.PNG](/.attachments/Capture-c5e999b2-4068-4384-b49f-b0fcafada207.PNG)
+![Capture.PNG](/.attachments/Capture-13f96a42-68de-4473-a9e4-2cad72ea74d9.PNG)
 ____________________________
 
 **1) Research**
