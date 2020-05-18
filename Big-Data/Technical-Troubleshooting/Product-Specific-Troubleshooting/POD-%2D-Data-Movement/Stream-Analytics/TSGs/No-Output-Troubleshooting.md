@@ -13,6 +13,8 @@ You'll need the resource ID, region, and investigation timeframe.
    - [Output not Produced by Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#output-not-produced-by-job)
    - Output is delayed (https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed) 
 
+5. Query is filtering contraints are too high such that it is filtering out all the data.
+
 # By Input Adapter 
 
 After completing the general troubleshooting if you're still unable to see input please review the input adapter specific troubleshooting options below: 
