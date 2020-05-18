@@ -90,6 +90,8 @@ You can generate notes based on [Handover Tool](http://bigdatapod.azurewebsites.
 
 ### General Template
 
+<details>
+  <summary>Click Here to Expand Notes Template</summary>
 <br>
 
 Summary 
@@ -124,6 +126,7 @@ Now the issue is pending on?: PG/CSS/Customer
 IcM ID?:
 <Reason for Critsit:>
 </br>
+</details>
 
 # Hand Off During On Call
 
