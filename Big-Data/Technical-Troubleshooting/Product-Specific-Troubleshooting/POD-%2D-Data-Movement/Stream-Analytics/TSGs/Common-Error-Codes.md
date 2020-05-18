@@ -48,6 +48,11 @@ Data errors occur when there is bad data in the stream, such as an unexpected re
 
 [External Availability Erorrs](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-availability-error-codes?branch=release-build-stream-analytics)
  External availability errors occur when a dependent service is unavailable.
+|Code|Cause|Resolution|
+|--|--|--|
+|ExternalServiceUnavailable|Cause: A service is temporarily unavailable.|Recommendation: Stream Analytics will continue to attempt to reach the service.|
+|KafkaServerNotAvailable|Cause: The Kafka server is not available.|
+|EventHubMessagingError|Cause: Stream Analytics encountered error when communicating with EventHub.|
 
 [External Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-error-codes?branch=release-build-stream-analytics)
 External errors are generic errors thrown by an upstream or downstream service that Stream Analytics can't distinguish as a data error, configuration error, or external availability error.
