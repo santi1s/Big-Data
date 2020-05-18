@@ -7,13 +7,15 @@ Review insights, if insights are not helpful provide feedback then proceed to st
 2. Check the Logs using ASA Wizard
 You'll need the resource ID, region, and investigation timeframe.
 
-3. Ensure there is input, if there is no input there will be no output. If there is no input and the customer is unsure why please see No Input Troubleshooting
+3. If you find errors, review the [documentation for the cause](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326779/Common-Error-Codes)
 
-4. [Online Documentation to General Troubleshooting No Output](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output)
+4. Ensure there is input, if there is no input there will be no output. If there is no input and the customer is unsure why please see No Input Troubleshooting
+
+5. [Online Documentation to General Troubleshooting No Output](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output)
    - [Output not Produced by Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#output-not-produced-by-job)
    - Output is delayed (https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed) 
 
-5. Query is filtering contraints are too high such that it is filtering out all the data.
+6. Query is filtering contraints are too high such that it is filtering out all the data.
 
 # By Input Adapter 
 
