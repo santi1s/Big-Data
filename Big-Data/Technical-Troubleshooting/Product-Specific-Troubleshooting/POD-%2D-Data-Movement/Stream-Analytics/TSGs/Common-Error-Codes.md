@@ -81,3 +81,8 @@ External errors are generic errors thrown by an upstream or downstream service t
 
 [Internal Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/internal-error-codes?branch=release-build-stream-analytics)
 Internal errors are generic errors that are thrown within the Stream Analytics platform when Stream Analytics can't distinguish if the error is an Internal Availability error or a bug in the system.
+|Code|Cause|Resolution|
+|--|--|--|
+|KafkaInvalidRequest|Cause: The request sent to the Kafka server is invalid.|
+|KafkaInputError|Cause: Kafka input encountered an issue.|
+|CosmosDBOutputBatchSizeTooLarge|Cause: The batch size used to write to Cosmos DB is too large.|Recommendation: Retry with a smaller batch size.|
