@@ -28,6 +28,23 @@ You can use activity logs and resource logs to help debug unexpected behaviors f
 
 [Data Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/data-error-codes?branch=release-build-stream-analytics)
 Data errors occur when there is bad data in the stream, such as an unexpected record schema.
+|Code|Cause |Resolution|
+|--|--|--|
+|InputDeserializationError|Cause: There was an error while deserializing input data.|
+|InputEventTimestampNotFound|Cause: Stream Analytics is unable to get a timestamp for resource.|
+|InputEventTimestampByOverValueNotFound|Cause: Stream Analytics is unable to get value of TIMESTAMP BY OVER COLUMN.|
+|InputEventLateBeyondThreshold|Cause: An input event was sent later than configured tolerance.|
+|InputEventEarlyBeyondThreshold|Cause: An input event arrival time is earlier than the input event application timestamp threshold.|
+|AzureFunctionMessageSizeExceeded|Cause: The message output to Azure Functions exceeds the size limit.|
+|EventHubOutputRecordExceedsSizeLimit|Cause: An output record exceeds the maximum size limit when writing to Event Hub.|
+|CosmosDBOutputInvalidId|Cause: The value or the type of a particular column is invalid.|Recommendation: Provide unique non-empty strings that are no longer than 255 characters.|
+|CosmosDBOutputInvalidIdCharacter|Cause: The output record's Document ID contains an invalid character.|
+|CosmosDBOutputMissingId|Cause: The output record doesn't contain the column [id] to use as the primary key property.|
+|CosmosDBOutputMissingIdColumn|Cause: The output record doesn't contain the Document ID property.|Recommendation: Ensure the query output contains the column with a unique non-empty string less than '255' characters.|
+|CosmosDBOutputMissingPartitionKey|Cause: The output record is missing the a column to use as the partition key property.|
+|CosmosDBOutputSingleRecordTooLarge|Cause: A single record write to Cosmos DB is too large.|
+|SQLDatabaseOutputDataError|Cause: Stream Analytics can't write event(s) to SQL Database due to issues in the data.|
+
 
 [External Availability Erorrs](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-availability-error-codes?branch=release-build-stream-analytics)
  External availability errors occur when a dependent service is unavailable.
