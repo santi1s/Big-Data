@@ -1,5 +1,13 @@
 You can use activity logs and resource logs to help debug unexpected behaviors from your Azure Stream Analytics job. This article lists the description for every internal error code. 
 
+I. Azure Stream Analytics configuration error codes
+II. Data Errors 
+III. External Availability Erorrs
+IV. External Errors
+V. Internal Errors
+
+___________________________________
+
 [Azure Stream Analytics configuration error codes](https://review.docs.microsoft.com/en-us/azure/stream-analytics/configuration-error-codes?branch=release-build-stream-analytics)
  Configuration errors are related to your job configuration, or input and output configurations.
 |Code|Cause|Resolution|
@@ -27,7 +35,8 @@ You can use activity logs and resource logs to help debug unexpected behaviors f
 
 
 [Data Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/data-error-codes?branch=release-build-stream-analytics)
-Data errors occur when there is bad data in the stream, such as an unexpected record schema.
+Data errors occur when there is bad data in the stream, such as an unexpected record schema.  More information about Data Errors can be found here:
+https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors
 |Code|Cause |Resolution|
 |--|--|--|
 |InputDeserializationError|Cause: There was an error while deserializing input data.|
