@@ -1,14 +1,11 @@
 You can use activity logs and resource logs to help debug unexpected behaviors from your Azure Stream Analytics job. This article lists the description for every internal error code. 
 
-I. Azure Stream Analytics configuration error codes
-II. Data Errors 
-III. External Availability Erorrs
-IV. External Errors
-V. Internal Errors
+[[_TOC_]]
+
 
 ___________________________________
 
-[Azure Stream Analytics configuration error codes](https://review.docs.microsoft.com/en-us/azure/stream-analytics/configuration-error-codes?branch=release-build-stream-analytics)
+##[Azure Stream Analytics configuration error codes](https://review.docs.microsoft.com/en-us/azure/stream-analytics/configuration-error-codes?branch=release-build-stream-analytics)
  Configuration errors are related to your job configuration, or input and output configurations.
 |Code|Cause|Resolution|
 |--|--|--|
@@ -34,7 +31,7 @@ ___________________________________
 |SQLDWOutputInvalidServiceEdition|Cause: SQL Database is not supported.|Recommendation: Use Synapse SQL pool.|
 
 
-[Data Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/data-error-codes?branch=release-build-stream-analytics)
+##[Data Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/data-error-codes?branch=release-build-stream-analytics)
 Data errors occur when there is bad data in the stream, such as an unexpected record schema.  More information about Data Errors can be found here:
 https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors
 |Code|Cause |Resolution|
@@ -55,7 +52,7 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors
 |SQLDatabaseOutputDataError|Cause: Stream Analytics can't write event(s) to SQL Database due to issues in the data.|
 
 
-[External Availability Erorrs](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-availability-error-codes?branch=release-build-stream-analytics)
+##[External Availability Erorrs](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-availability-error-codes?branch=release-build-stream-analytics)
  External availability errors occur when a dependent service is unavailable.
 |Code|Cause|Resolution|
 |--|--|--|
@@ -63,7 +60,7 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors
 |KafkaServerNotAvailable|Cause: The Kafka server is not available.|
 |EventHubMessagingError|Cause: Stream Analytics encountered error when communicating with EventHub.|
 
-[External Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-error-codes?branch=release-build-stream-analytics)
+##[External Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/external-error-codes?branch=release-build-stream-analytics)
 External errors are generic errors thrown by an upstream or downstream service that Stream Analytics can't distinguish as a data error, configuration error, or external availability error.
 
 |Code|Cause|Resolution|
@@ -88,7 +85,7 @@ External errors are generic errors thrown by an upstream or downstream service t
 |SQLDWOutputInitializationError|Cause: An error occurred when initializing a Synapse SQL pool output.|
 |SQLDWOutputWriteError|Cause: An error occurred when writing output to a Synapse SQL pool.|
 
-[Internal Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/internal-error-codes?branch=release-build-stream-analytics)
+##[Internal Errors](https://review.docs.microsoft.com/en-us/azure/stream-analytics/internal-error-codes?branch=release-build-stream-analytics)
 Internal errors are generic errors that are thrown within the Stream Analytics platform when Stream Analytics can't distinguish if the error is an Internal Availability error or a bug in the system.
 |Code|Cause|Resolution|
 |--|--|--|
