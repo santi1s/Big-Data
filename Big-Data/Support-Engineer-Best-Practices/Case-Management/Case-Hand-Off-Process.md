@@ -22,7 +22,7 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 ## Hand Off Between Regions
 <center>
 
-![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =700x400)
+![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =800x500)
 
 ![How to Hand Off Img.jpg](/.attachments/How%20to%20Hand%20Off%20Img-32d3236b-a500-496a-b697-4bc75b6a82c7.jpg =250x100)
 
