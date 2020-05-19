@@ -161,9 +161,9 @@ Hand off case at the end of your shift.
 
 Shift times by region are as follows:
 
-**EMEA** - 01:00 - 08:59 PST
-**NA** - 09:00 - 16:59 PST
-**APAC** - 17:00 - 00:59 PST
+**EMEA** - 01:00 - 08:59 PST (8:00 - 15:59 UTC)
+**NA** - 09:00 - 16:59 PST (16:00 - 23:59 UTC)
+**APAC** - 7:00 - 16:00 UTC+8 (23:00 - 8:00 UTC)
 
 
 # Hand Off for Planned OOF
