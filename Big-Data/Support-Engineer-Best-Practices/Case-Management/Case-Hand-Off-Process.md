@@ -172,21 +172,28 @@ Shift times by region are as follows:
 
 Hand off is only necessary for critical or active cases, or cases where customers would like to meet during your time away. If you need to hand off cases for this time.
 1. Log good case notes before handoff. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+
 2. Reach out to teammates to see if they are able to pick up any of the cases and perform a warm hand off.
-3. If you are unable to find teammates to assist you, reach out to a TA to inform them of any cases that will need help during your absence.
-4. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assitance in your absence. 
+
+3. Please **do not** just push batches of your case back to queue even if you are unable to find teammates to assist you. In this case, please reach out to your TA to inform them of any cases that will need help during your absence.
+
+4. You need to take back your own case after your OOF.
+
+5. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assitance in your absence. 
 
 ## Longer than a Week
 
 For longer vacations, please close what cases you can and make sure all your customers are aware of your absence.
 
-1. For critical or very active cases, let your customers know you will be away and that you will be handing their case to a teammate. If at all possible, find a teammate who will be able to take the case, and provide a warm handoff.
+1. For critical or very active cases, let your customers know you will be away and that you will be handing their case to a teammate. If at all possible, find a teammate who will be able to take over the case, and provide a warm handoff.
 
 2. For slower cases where you are waiting on the customer or product team, and don't expect any update will be needed until after your return, please let the customer know of your absence and confirm if they are alright to have an update on your return, or if they would prefer to be handed off to another engineer in the meantime. If any of these cases need handoff, find a teammate who will be able to take the case and provide a warm handoff.
 
-3. If you are not able to find a case owner for cases any that need handoff during your time away, please reach out to your TA with a list of cases, and for each case including number, product, brief description, and brief status.
+3. Please **do not** just push batches of your case back to queue even if you are unable to find teammates to assist you. In this case, please reach out to your TA with a list of cases, and for each case including number, product, brief description, and brief status.
 
-4. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assistance in your absence. 
+4. You need to take back your own case after your OOF.
+
+5. Make sure your [automatic replies](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies) are set so other teammates and customers can get assistance in your absence. 
 
 ##Phone Numbers for Immediate Support By Region
 For your away messages, feel free to include any/all numbers for our supported regions so any of your customers can get support while you are out.
@@ -208,7 +215,7 @@ Professional : +44-844-800-2400
 # Hand Off for Unexpected OOF
 
 ## Short-Term Unexpected OOF
-1. For critical cases, reach out to a teammate for hand-off or inform a TA of your sudden absence and let them know what critical cases will need hand off. If unable to contact teammates or TA **send the case back to the queue**. 
+1. For critical cases, reach out to a teammate for hand-off or inform a TA of your sudden absence and let them know what critical cases will need hand off. If unable to contact teammates or TA, **send the case back to the queue**. 
 If unable to access case to send it back to the queue, please inform your manager or TA of your sudden absence and that there is a critical case that needs to be transitioned.
 
 2. For non-critical cases that need hand off, please reach out to your teammates or TA with a list of the cases that will need assistance in your absence.
