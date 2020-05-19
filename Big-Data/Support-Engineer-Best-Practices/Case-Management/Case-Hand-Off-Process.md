@@ -24,15 +24,10 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =900x500)
 
-![How to Hand Off Img.jpg](/.attachments/How%20to%20Hand%20Off%20Img-32d3236b-a500-496a-b697-4bc75b6a82c7.jpg =250x100)
+![How to Hand Off Img.jpg](/.attachments/How%20to%20Hand%20Off%20Img-32d3236b-a500-496a-b697-4bc75b6a82c7.jpg =250x100) 
+[![Good Case Notes Button.jpg](/.attachments/Good%20Case%20Notes%20Button-15b03d7d-c85c-4891-a360-2b4a76a7577f.jpg =300x80) ](http://bigdatapod.azurewebsites.net/)[![Case Transfer List Button.jpg](/.attachments/Case%20Transfer%20List%20Button-792fe186-f6e6-48a4-97dd-c664f8d68570.jpg =350x80)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0)
 
-[![Good Case Notes Button.jpg](/.attachments/Good%20Case%20Notes%20Button-15b03d7d-c85c-4891-a360-2b4a76a7577f.jpg =300x80) ](http://bigdatapod.azurewebsites.net/)
-
-[![Case Transfer List Button.jpg](/.attachments/Case%20Transfer%20List%20Button-792fe186-f6e6-48a4-97dd-c664f8d68570.jpg =350x80)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0)
-
-[![Region Handoff Call Button.jpg](/.attachments/Region%20Handoff%20Call%20Button-ef0bc618-80f7-4f7d-80c2-c020555d1590.jpg =400x80)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=region-hand-off-meetings)
-
-![Teammate Handoff Button.jpg](/.attachments/Teammate%20Handoff%20Button-038e6e16-3f93-43a4-b612-d4829f1ac205.jpg =350x80)
+[![Region Handoff Call Button.jpg](/.attachments/Region%20Handoff%20Call%20Button-ef0bc618-80f7-4f7d-80c2-c020555d1590.jpg =400x80)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=region-hand-off-meetings)![Teammate Handoff Button.jpg](/.attachments/Teammate%20Handoff%20Button-038e6e16-3f93-43a4-b612-d4829f1ac205.jpg =350x80)
 ![Move to Queue Button.jpg](/.attachments/Move%20to%20Queue%20Button-26552c5f-3431-40dc-b7ee-d9b93a049432.jpg =400x80)
 
 </center>
