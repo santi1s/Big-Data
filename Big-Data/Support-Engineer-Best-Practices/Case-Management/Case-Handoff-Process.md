@@ -35,12 +35,12 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 
 ### Process for Critical / 24*7 Cases
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
 3. Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 
-4. Attend the [handoff meeting for your region on weekday](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings).
+4. Attend the [handoff meeting for your region on weekday](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings).
 **a. If transferring the case at the weekend <u>of the receiving region</u>** when there is no handoff meeting, <span style="color:#DF0101;"><u> the case should be added to the queue at the end of your region's hours</u> </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
 **Reference Email Subject:**
 Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
@@ -69,7 +69,7 @@ Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EM
 
 ## Hand Over Process for Non-24*7 
 1. Confirm this is a good candidate for handover. Has the customer specifically requested a handoff? If not, does it really need to be transferred?
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
 3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
@@ -126,7 +126,7 @@ IcM ID?:
 # Handoff on Weekends
 
 ## Critical 24*7 Cases
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
 3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
@@ -139,7 +139,7 @@ IcM ID?:
 
 ## Non-Critical Cases
 
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
 3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
@@ -166,7 +166,7 @@ Shift times by region are as follows:
 ## One Week or Less
 
 Handoff is only necessary for critical or active cases, or cases where customers would like to meet during your time away. If you need to handoff cases for this time.
-1. Log good case notes before handoff. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Hand%20Off%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
+1. Log good case notes before handoff. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 
 2. Reach out to teammates to see if they are able to pick up any of the cases and perform a warm handoff.
 
