@@ -230,7 +230,7 @@ If unable to access case to send it back to the queue, please inform your manage
 
 <table border="1";bgcolor="#ffa7a7";>
 <tr>
-  <td style='border-style:solid;border-color:#A2E1A2;border-width:5pt; 
+  <td style='border-style:solid;border-color:#088A08;border-width:5pt; 
 vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
 - Accept ownership of cases assigned to you. Take full accountability to meet SLA and provide quality responses.
@@ -245,7 +245,7 @@ vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 ## Don't
 <table border="1";border-color:#A2E1A2;border-width:5pt>
 <tr>
-  <td style='border-style:solid;border-color:#f9cccc;border-width:5pt; 
+  <td style='border-style:solid;border-color:#B40404;border-width:5pt; 
 vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
 - Don’t transfer your cases back to queue when you take leave, ask your team (in the same region) internally to back up you for hot cases, and set correct OOF auto-reply.
