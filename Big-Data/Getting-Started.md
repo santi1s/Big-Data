@@ -29,3 +29,5 @@ If you would like to contribute, please follow up here:
 - [ ] [Key Deliverables](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218258/Key-Deliverables) 
 
 - [ ] [Required & Recommended Trainings](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/218259/Required-and-Recommended-Training) 
+
+Help! So many acronyms: https://microsoft.sharepoint.com/SitePages/Glossary.aspx
