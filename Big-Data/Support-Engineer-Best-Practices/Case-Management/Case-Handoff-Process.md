@@ -243,9 +243,9 @@ vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>
 </table>
 
 ## Don't
-<table border="1";bgcolor="#ffa7a7";>
+<table border="1";border-color:#A2E1A2;border-width:5pt>
 <tr>
-  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:0pt; 
+  <td style='border-style:solid;border-color:#f9cccc;border-width:5pt; 
 vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
 - Don’t transfer your cases back to queue when you take leave, ask your team (in the same region) internally to back up you for hot cases, and set correct OOF auto-reply.
