@@ -66,6 +66,40 @@ Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EM
 -  [US->APAC HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWIyNzU2MmYtOTkxYy00NTY3LWEyNjAtNmY1YTgwNzc5MzBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2218d7429d-917b-4bba-881a-b254f61f0976%22%7d) Time: 4:30pm PST
 -  [EMEA->US HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQyZDliMTUtYzlmNi00YTc4LWI5NGQtOTY0NjgxNjZhYzU0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2292be5ebc-4e43-4ea3-a98d-34ff4061dc92%22%7d) Time: 8:30am PST
 
+## Long-Running 24*7 Cases
+
+For cases that are going around and around the globe, there is a big risk of loss of information and good communication, as well as an increased workload across engineers.
+
+**If possible, limit the number of engineers that work on the case to streamline troubleshooting and communication, by following the below process.**
+### Do you have a Long-Running 24*7?
+
+A Long-Running Case is any Sev A and B 24x7 case(Premier, Professional, Unified) - that need to be transferred between the regions and have traveled fully around the globe and come back to their original region.
+
+OR
+
+A customer has requested to work in 2 different timezones, rather than 24*7, but transfers are ongoing.
+
+### Process
+1. Talk with your customer to determine if they would like to continue with global engineers, or if it makes more sense for the case to remain at high-severity, but remain with a single regional engineer who can work with the customer during their business hours.
+
+1. If the customer wants to continue working globally, determine a single owner from each region - it is a better experience for the customer to work with the same contact person rather than work with a new engineer every day, and reduces review work since all engineers are familiar with the case.
+If the case has already moved around the globe, these can been the engineers that have already owned the case, or escalation engineers depending on need/severity.
+
+2. Current/original owning engineer create a Teams Chat with each regional case owner to streamline communications.
+
+3. Owning engineer should directly discuss direct handoff with next region to confirm engineer in next region is available. (ie - EMEA->NA, NA->APAC, APAC->EMEA)
+
+4. At the end of shift, current owning engineer will:
+**a.** Update [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template)
+**b.** Write in Teams chat that shift is ending and include a short summary of any critical updates.
+**c.** If possible, perform a warm handoff to the next engineer.
+**d.** If not possible, transfer directly to next engineer or move to queue and email DMs to indicate who the case should be transferred to.
+	
+**For the Weekend/Outside of Normal Transfer Engineer Shifts:**	
+1. Discuss with your customer if they need a Point of Contact/Continued support over the weekend/shift, or if they are able to pick up again at the next earliest shift.
+2. If a point of contact is needed, follow normal weekend handoff procedures for first weekend, and if it continues to another weekend, use the same engineers the following weekend if at all possible.
+
+		
 
 ## Hand Over Process for Non-24*7 
 1. Confirm this is a good candidate for handover. Has the customer specifically requested a handoff? If not, does it really need to be transferred? 
