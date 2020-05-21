@@ -74,6 +74,11 @@ Let it help guide your 'Moving Forward' Section.
 
 # Going Forward
 
+1. Key Deliverables - Consider your 'Core Priorities', your team's needs, and your own goals to fill out the key deliverables section.
+Consider a few key deliverables that will be actionable in the next quarter. Things that you can implement/accomplish/focus on for the next few months.
+
+2. Learning and Growing - This is a place to start a conversation with your manager about your goals. Both goals in your current role, and in your career. What kinds of things would you like to try? What kind of training do you want/need? How do you want to grow?
+
 #Peer Reviews
 
 Peer Reviews are Microsoft's feedback process between teammates that allow you to request formal feedback from your colleagues.
@@ -81,6 +86,10 @@ Peer Reviews are Microsoft's feedback process between teammates that allow you t
 This feedback is not anonymous, but is guided to provide straightforward, and actionable perspectives.
 ##Requesting
 ##Receiving Requests
+
+When a teammate has requested feedback from you, you will receive and email notifying you of the request and can use the link in the email to fill out the Feedback Form.
+
+You can also go to the [Perspectives Page](https://msconnect.microsoft.com/perspective/provide) to see who has requested feedback.
 ##How to Give and Receive Good Feedback
 For Microsoft's guidance on how to giving and receiving feedback, go [here.](https://microsoft.sharepoint.com/sites/hrw/Pages/perspectivesoverview.aspx)
 ##How to Receive Feedback
