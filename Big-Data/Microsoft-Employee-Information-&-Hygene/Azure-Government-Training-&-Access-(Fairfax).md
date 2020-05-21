@@ -42,7 +42,7 @@ https://microsoft.sharepoint.com/teams/USGovCloudSupport
  
 ##III. Azure Government Case Access
 
-The process could take a week or more depending on your circumstances.  Please read through the instructions before beginning. 
+The process could take a week or more depending on your circumstances.  Please read through the instructions before beginning. The entire process could take 3 weeks to months depending on your individual circumstance.  Temporary emergency access may be granted in some cases.
 
 _For emergency temporary accesses contact "Temporary Special Access Case Provisioning" (tspecialaccess@microsoft.com) alias for short term/single instance access._
 
