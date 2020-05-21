@@ -57,7 +57,8 @@ Your manager will schedule your Connect meetings with you. Here in the Big Data 
 **f.** Collaboration with Teammates to Resolve Issues
 **g.** Interactions with product team to improve supportability.
 **h.** Processes Implemented/Efficiency Increases
-**i.** etc...
+**i.** Any Kudos or Customer Champion Feedback
+**j.** etc...
 
 2. **What Could Have Been Done Differently** - This is a section for you to self-reflect on how you are learning and growning. It is not a section to make you feel badly about your performance, but is a place where you can essentially provide feedback for yourself and consider how you would like to grow.
 Let it help guide your 'Moving Forward' Section.
