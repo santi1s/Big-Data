@@ -7,11 +7,9 @@
 
 </center>
 
-
 #How to Contribute
 
 ![Wiki Changes Chart.jpg](/.attachments/Wiki%20Changes%20Chart-d442b53f-8911-41d8-a119-5a70da74c648.jpg)
-
 
 If you are adding a page, removing a page, changing major information, fundamentally updating a process, need a change to be made but cannot make it yourself, or if you want feedback on your changes before you make them, please create a work item and add all details so the change can be tracked.
 
@@ -34,7 +32,7 @@ If you add a work item for a page, please link it using the Ellipsis button in t
 ![image.png](/.attachments/image-99f7eeb6-4b24-4a57-a42a-fc34f17d0e35.png)
 
 
-###Add Work Item for a Page
+### Add Work Item for a Page
 
 If you add a work item for a specific page, please add this flag to the top of the page, so others can see the work item.
 
@@ -51,6 +49,51 @@ If you would like to contribute, please follow up here:
 </tr>
 </table>
 ```
+
+## Icons
+
+Use [Markdown emoji syntax](https://docs.microsoft.com/azure/devops/project/wiki/markdown-guidance?view=azure-devops#emoji) to display icons in the wiki. Some examples include:
+
+:white_check_mark: `:white_check_mark:`
+:large_orange_diamond: `:large_orange_diamond:`
+:red_circle: `:red_circle:`
+
+:x: `:x:`
+:exclamation: `:exclamation:`
+:question: `:question:`
+
+:warning: `:warning:`
+:no_entry: `:no_entry:`
+:no_entry_sign: `:no_entry_sign:`
+
+:+1: `:+1:`
+:-1: `:-1:`
+
+:small_red_triangle: `:small_red_triangle:`
+:small_red_triangle_down: `:small_red_triangle_down:`
+
+:star: `:star:`
+:bulb: `:bulb:`
+:key: `:key:`
+:mag: `:mag:`
+
+:zap: `:zap:`
+:collision: `:collision:`
+:fire: `:fire:`
+
+:email: `:email:`
+:phone: `:phone:`
+:calendar: `:calendar:`
+:link: `:link:`
+:book: `:book:`
+
+:construction: `:construction:`
+:beginner: `:beginner:`
+
+:uk: `:uk:`
+:us: `:us:`
+:jp: `:jp:`
+:cn: `:cn:`
 
 # Wiki Updates over Last Week (Updated Fridays)
 
