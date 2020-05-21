@@ -1,14 +1,4 @@
-<table border="1";bgcolor="#ffa7a7";>
-<tr>
-  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
-vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
-<b> This page has an open work item! </b>
-If you would like to contribute, please follow up here:
-#5718
-</td>
-</tr>
-</table>
 
 [[_TOC_]]
 #What is a Connect
@@ -85,6 +75,13 @@ Peer Reviews are Microsoft's feedback process between teammates that allow you t
 
 This feedback is not anonymous, but is guided to provide straightforward, and actionable perspectives.
 ##Requesting
+
+To request feedback go to the //connect page and select 'My Feedback' and 'Request Feedback'.
+
+Search for colleagues or select providers from the suggested list to add at least two feedback providers to your list of feedback requests.
+
+Select 'Send' to send out feedback requests to your list of colleagues.
+
 ##Receiving Requests
 
 When a teammate has requested feedback from you, you will receive and email notifying you of the request and can use the link in the email to fill out the Feedback Form.
@@ -92,4 +89,3 @@ When a teammate has requested feedback from you, you will receive and email noti
 You can also go to the [Perspectives Page](https://msconnect.microsoft.com/perspective/provide) to see who has requested feedback.
 ##How to Give and Receive Good Feedback
 For Microsoft's guidance on how to giving and receiving feedback, go [here.](https://microsoft.sharepoint.com/sites/hrw/Pages/perspectivesoverview.aspx)
-##How to Receive Feedback
