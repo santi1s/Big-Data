@@ -55,19 +55,19 @@ Please follow these steps and let your manager know if you have any questions/is
 3. A new blade will open on the right.  Please select “Proof of citizenship” and in the Country Code select “US”.  Click Request. 
 
 4. Gather the necessary documents shown in [US Citizenship attestation for FTEs](https://microsoft.sharepoint.com/:w:/t/USGovCloudSupport/EanFB2HkMZpFsglChGgSDGYBy_DkKNc_kbl6dFeuSFIVuQ?e=QZ1Nmb).  If you do not have a passport and your name has changed from what your birth certificate says, then you would need to obtain documentation of the name change.   
-_The process for obtaining a passport or proof of name change could take weeks._ 
+_TIME: The process for obtaining a passport or proof of name change could take weeks._ 
 
 5. Set up a meeting in Teams with the Citizenship Delegate for your area (Ex. Las Colinas, TX is Cindi S., CindiSa in HR) to bring the necessary documents shown in [US Citizenship attestation for FTEs](https://microsoft.sharepoint.com/:w:/t/USGovCloudSupport/EanFB2HkMZpFsglChGgSDGYBy_DkKNc_kbl6dFeuSFIVuQ?e=QZ1Nmb).  HR will verify the documentation in order to complete the first part of the process.   
-_This verification process may take up to 48 business hours._ 
+_TIME: This verification process may take up to 48 business hours._ 
 
 6. Visit https://osp.office.net/idm/identity/access/Clearances and once you see "Citizenship = US" under "Granted", you are all set to proceed to the next step in the process.   
-_If this takes longer than 5-7 business days, let me or Todd know._ 
+_TIME: If this takes longer than 5-7 business days, let me or Todd know._ 
 
 7. The next step in the process is to follow the instructions on the [Microsoft US Government Support page](https://microsoft.sharepoint.com/teams/USGovCloudSupport/SitePages/How.aspx?web=1).  Following these instructions gets you access to Azure government cases in Service Desk.  Once your request has been received and your information is being validated against the HR systems (ECS) you will receive an email. You can also see the [latest status on your request from here](https://microsoft.sharepoint.com/teams/USGovCloudSupport/Lists/Standing%20Access%20Requests/Public.aspx).   
-_This step may take up to 48 business hours to complete._ 
+_TIME: This step may take up to 48 business hours to complete._ 
 
 8. The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That [process is located here](https://ageaccounts.azurewebsites.us/).   
-_This step may take a week or more._ 
+_TIME: This step may take a week or more._ 
 
 ##IV. Azure Government URLs and ports
 
