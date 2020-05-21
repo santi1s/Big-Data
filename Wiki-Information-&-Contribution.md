@@ -52,7 +52,7 @@ If you would like to contribute, please follow up here:
 
 ## Icons
 
-Use [Markdown emoji syntax](https://docs.microsoft.com/azure/devops/project/wiki/markdown-guidance?view=azure-devops#emoji) to display icons in the wiki. Some examples include:
+Use [emoji syntax](https://docs.microsoft.com/azure/devops/project/wiki/markdown-guidance?view=azure-devops#emoji) to display icons. Some examples include:
 
 :white_check_mark: `:white_check_mark:`
 :large_orange_diamond: `:large_orange_diamond:`
@@ -94,6 +94,94 @@ Use [Markdown emoji syntax](https://docs.microsoft.com/azure/devops/project/wiki
 :us: `:us:`
 :jp: `:jp:`
 :cn: `:cn:`
+
+## Diagrams
+
+Use [Mermaid syntax](https://docs.microsoft.com/azure/devops/project/wiki/wiki-markdown-guidance?view=azure-devops#add-mermaid-diagrams-to-a-wiki-page) to create diagrams, such as [flowcharts](https://mermaid-js.github.io/mermaid/#/flowchart) and [sequences](https://mermaid-js.github.io/mermaid/#/sequenceDiagram).
+
+### Flowcharts
+
+This is an example of [flowchart diagram syntax](https://mermaid-js.github.io/mermaid/#/flowchart):
+
+```markdown
+::: mermaid
+graph TD
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+    style D fill:#f9f,stroke:#333,stroke-width:4px
+    style E fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
+:::
+```
+
+It creates the following diagram:
+
+::: mermaid
+graph TD
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+    style D fill:#f9f,stroke:#333,stroke-width:4px
+    style E fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
+:::
+
+### Sequences
+
+This is an example of [sequence diagram syntax](https://mermaid-js.github.io/mermaid/#/sequenceDiagram):
+
+```markdown
+::: mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: John is addicted<br/>to WebMD...
+    alt rational thoughts prevail
+        John-->>Alice: Great!
+        John->>+Bob: How about you?
+        Bob-->>-John: Jolly good!
+    else channel Adrian Monk
+        John->>Bob: I need a wipe.
+        Bob->>+Alice: Do you have a wipe?
+        Alice-->>-Bob: Why?
+        John-->>Alice: Because there's a lot of gravity out there!
+    end
+    opt Alice gives John a wipe
+        John-->>Alice: Thank you!
+    end
+:::
+```
+
+It creates the following diagram:
+
+::: mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: John is addicted<br/>to WebMD...
+    alt rational thoughts prevail
+        John-->>Alice: Great!
+        John->>+Bob: How about you?
+        Bob-->>-John: Jolly good!
+    else channel Adrian Monk
+        John->>Bob: I need a wipe.
+        Bob->>+Alice: Do you have a wipe?
+        Alice-->>-Bob: Why?
+        John-->>Alice: Because there's a lot of gravity out there!
+    end
+    opt Alice gives John a wipe
+        John-->>Alice: Thank you!
+    end
+:::
 
 # Wiki Updates over Last Week (Updated Fridays)
 
