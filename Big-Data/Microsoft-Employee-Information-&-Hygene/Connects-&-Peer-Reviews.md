@@ -39,13 +39,7 @@ Go to //connects or https://msconnect.microsoft.com/
 
 Your manager will schedule your Connect meetings with you. Here in the Big Data Team, connects are quarterly. 
 
-#Peer Reviews
-##Requesting
-##Receiving Requests
-##How to Give Feedback
-##How to Receive Feedback
-
-# How to Fill Out a Connect in Big Data
+# How to Fill Out a Connect for Big Data
 
 1. Go to //connects
 2. Select 'Send a Request for Perspective' to visit the [Feedback Page](https://msconnect.microsoft.com/perspective/request)
@@ -60,3 +54,33 @@ Your manager will schedule your Connect meetings with you. Here in the Big Data 
 10. Fill out 'Going Forward' segments as guided by form.
 11. If you need to finish the form at a later time, select 'Save' at the bottom of the screen to save your progress and come back later.
 12. Once you have completed the form, select 'Submit' for your Manager's review.
+
+# Things to Consider for Your Connect
+
+# Looking Back
+1. Don't list only your cases or workload accomplishments, but also consider your overall impact on the team:
+**a.** Training/Presentation Delivered
+**b.** Trainings Taken/New Skills Learned
+**c.** High-Impact Customer Relationship Interactions
+**d.** Mentoring New Teammates
+**e.** Documentation/TSG Created
+**f.** Collaboration with Teammates to Resolve Issues
+**g.** Interactions with product team to improve supportability.
+**h.** Processes Implemented/Efficiency Increases
+**i.** etc...
+
+2. **What Could Have Been Done Differently** - This is a section for you to self-reflect on how you are learning and growning. It is not a section to make you feel badly about your performance, but is a place where you can essentially provide feedback for yourself and consider how you would like to grow.
+Let it help guide your 'Moving Forward' Section.
+
+# Going Forward
+
+#Peer Reviews
+
+Peer Reviews are Microsoft's feedback process between teammates that allow you to request formal feedback from your colleagues.
+
+This feedback is not anonymous, but is guided to provide straightforward, and actionable perspectives.
+##Requesting
+##Receiving Requests
+##How to Give and Receive Good Feedback
+For Microsoft's guidance on how to giving and receiving feedback, go [here.](https://microsoft.sharepoint.com/sites/hrw/Pages/perspectivesoverview.aspx)
+##How to Receive Feedback
