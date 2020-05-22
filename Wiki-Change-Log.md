@@ -9,6 +9,106 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 </tr></thead>
 <tbody>
 <tr>
+<td>5/21/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Getting Started</td>
+</tr>
+<tr>
+<td>5/21/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Connects &amp; Peer Reviews</td>
+</tr>
+<tr>
+<td>5/21/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>5/21/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Azure Government Training &amp; Access (Fairfax)</td>
+</tr>
+<tr>
+<td>5/21/2020</td>
+<td>Travis LaGrone</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>5/20/2020</td>
+<td>Alex Blaine</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>5/20/2020</td>
+<td>Derek Yang</td>
+<td>Updated Daily Review Meeting ADLS &amp; ADLA</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated TSGs</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Fixed broken link on page rename</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Case Hand Off Process&#39; to &#39;Case Handoff Process&#39;</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Common Error Codes</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Hand Off Process</td>
+</tr>
+<tr>
+<td>5/19/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Hand Off Process</td>
+</tr>
+<tr>
+<td>5/18/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>5/18/2020</td>
+<td>Alex Blaine</td>
+<td>Adding Live Site Issue and LSI to make document more discoverable</td>
+</tr>
+<tr>
+<td>5/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Introduction to ASA TSG Process</td>
+</tr>
+<tr>
+<td>5/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated content and renamed page &#39;Introduction to Troubleshooting ASA&#39; to &#39;Introduction to ASA TSG Process&#39;</td>
+</tr>
+<tr>
+<td>5/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Introduction to Troubleshooting ASA</td>
+</tr>
+<tr>
+<td>5/15/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>5/15/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
 <td>5/14/2020</td>
 <td>Prashanth Madi</td>
 <td>Updated SIE - Service Impacting Event</td>
