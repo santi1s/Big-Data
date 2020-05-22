@@ -29,7 +29,7 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 ::: mermaid
 graph TD
-    A(Add Good Case Notes <br> & <br> Update Internal Title) --> B(Add Case to Transfer List)
+    A(Add Good Case Notes <br> & <br> Update Internal Title) --> B(Add Case to Transfer List <br>Transfer List is not the queue!<br>See below sections for transfer list.)
     B --> C{Is there a <br> handoff call?}
     C -->|Yes| D{Can you attend?}
 D -->|Yes| F(Attend Handoff Call <br> and Follow Instruction There)
