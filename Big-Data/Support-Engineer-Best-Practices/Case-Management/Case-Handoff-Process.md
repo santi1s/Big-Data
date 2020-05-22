@@ -29,16 +29,16 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 ::: mermaid
 graph TD
-    A(Add Good Case Notes & Update Internal Title) --> B(Add Case to Transfer List)
-    B --> C{Is there a handoff call?}
+    A(Add Good Case Notes <br> & <br> Update Internal Title) --> B(Add Case to Transfer List)
+    B --> C{Is there a <br> handoff call?}
     C -->|Yes| D{Can you attend?}
-D -->|Yes| F(Attend Handoff Call and Follow Instruction There)
-D -->|No| I{Can a teammate take until handoff call?}
-    C -->|No| E(Transfer to Queue, Notify DMs)
-E -->|Critical Case| H(Stay with case until there is a new case owner.)
+D -->|Yes| F(Attend Handoff Call <br> and Follow Instruction There)
+D -->|No| I{Can a teammate <br> take until handoff call?}
+    C -->|No| E(Transfer to Queue <br> Notify DMs)
+E -->|Critical Case| H(Stay with case until <br> there is a new case owner.)
 I-->|Yes| J(Transfer to Teammate)
 I --> |No| K(Contact Transfer SME)
-K --> L(You may need to remain with an active/critical case until an owner can be found.)
+K --> L(You may need to remain with an <br> active/critical case until an <br> owner can be found.)
     style D fill:#f9f,stroke:#333,stroke-width:4px
  style C fill:#f9f,stroke:#333,stroke-width:4px
  style I fill:#f9f,stroke:#333,stroke-width:4px
