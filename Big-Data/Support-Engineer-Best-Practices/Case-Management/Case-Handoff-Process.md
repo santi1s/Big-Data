@@ -37,7 +37,7 @@ D -->|No| I{Can a <br> teammate take <br> until handoff call?}
     C -->|No| E(Transfer to Queue <br> Notify DMs)
 E -->|Critical Case| H(Stay with case until <br> there is a new case owner.)
 I-->|Yes| J(Transfer to Teammate)
-I --> |No| K(Contact Transfer SME)
+I --> |No| K(Contact Handoff SME)
 K --> L(You may need to remain with an <br> active/critical case until an <br> owner can be found.)
     style D fill:#f9f,stroke:#333,stroke-width:4px
  style C fill:#f9f,stroke:#333,stroke-width:4px
