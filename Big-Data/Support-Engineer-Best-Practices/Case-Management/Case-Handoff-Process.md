@@ -17,7 +17,7 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 [[_TOC_]]
 
-# Handoff During Normal Business Hours
+# Handoff Process
 
 ## Handoff Between Regions
 <center>
@@ -54,31 +54,31 @@ K --> L(You may need to remain with an active/critical case until an owner can b
 3. Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 
-4. Attend the [handoff meeting for your region on weekday](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings).
-**a. If transferring the case at the weekend <u>of the receiving region</u>** when there is no handoff meeting, <span style="color:#DF0101;"><u> the case should be added to the queue at the end of your region's hours</u> </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
+4. Attend the [handoff meeting for your region](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings) and follow instructions.
+**a. If there is no handoff meeting** proceed to step d.
+**b. If you cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
+**c. If you cannot find a teammate who can handle the case**, reach out to your [regional handoff SME.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=region-handoff-smes)
+**d. <u>Only after</u> you have aligned with regional handoff SME, or if the regional SME is off hours** when there is no handoff meeting, <span style="color:#DF0101;"><u> the case should be added to the queue at the end of your region's hours</u> </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
 **Reference Email Subject:**
 Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
-**b. If you cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
-**c. If you cannot find a teammate who can handle the case**, reach out to your regional handoff SME:
-<details>
-  <summary>Regional SMEs</summary>
-<b>APAC:</b> Tracy Zhang
-<br>
-<b>IGTSC:</b> Shyam Simha
-<br>
-<b>EMEA :</b>Ryszard Gawron
-<br>
-<b>US:</b> Prashanth Madi or Whitney Henderson
 
 
-</details>
 
-5. **<u>Only after</u> you have aligned with regional handoff SME** <span style="color:#DF0101;">**transfer the case to the queue** </span>for visibility and reassignment.  If necessary/available, discuss case with next owning engineer. 
+5. <span style="color:#DF0101;">**Remain with the case until handoff to another engineer can occur.** </span>
+
 ### Region Handoff Meetings
 
 - [APAC->IST/EMEA HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzljMWRjOGEtN2Q1OC00YzM2LTk2YWYtN2E1ZWM5ZTkwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223ce641ba-81bc-490f-9eb5-c82eff08c178%22%7d) 7:30am UTC(15:30 UTC+8)
 -  [US->APAC HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWIyNzU2MmYtOTkxYy00NTY3LWEyNjAtNmY1YTgwNzc5MzBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2218d7429d-917b-4bba-881a-b254f61f0976%22%7d) Time: 4:30pm PST
 -  [EMEA->US HO meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQyZDliMTUtYzlmNi00YTc4LWI5NGQtOTY0NjgxNjZhYzU0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2292be5ebc-4e43-4ea3-a98d-34ff4061dc92%22%7d) Time: 8:30am PST
+
+### Region Handoff SMEs
+
+<b>APAC:</b> Tracy Zhang
+<b>IGTSC:</b> Shyam Simha
+<b>EMEA :</b>Ryszard Gawron
+<b>US:</b> Prashanth Madi or Whitney Henderson
+
 
 ## Long-Running 24*7 Cases
 
@@ -171,30 +171,6 @@ IcM ID?:
 </br>
 </details>
 
-# Handoff on Weekends
-
-## Critical 24*7 Cases
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
-2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
-3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
-![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
-4. **Transfer the case back to queue.**
-5. Send email to sqldmmdt@microsoft.com to ask for reassignment.
-	**Reference Email Subject:**
-	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
-
-5. <span style="color:#DF0101;">**Remain with the case until handoff to next engineer can occur.** </span>
-
-## Non-Critical Cases
-
-1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
-2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
-3.  Add the case to the [Case Transfer](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a9ccd3c2acbbd4e729c66270c4383bf4b%2540thread.skype%2FCase%252520Transfer%3FgroupId%3Dd6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=02%7C01%7CShijie.Li%40microsoft.com%7C4ad1ddc4752f41cedf5008d6e8a6bab4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636952200400824869&sdata=J%2FyTlcWqA30oBgiwx0D74TByJGxQ69D%2FuYgrFTTvaf0%3D&reserved=0) list. You can find the link to the list at the top of the page:
-![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
-4. **Transfer the case back to queue.**
-5. Send email to sqldmmdt@microsoft.com to ask for reassignment.
-	**Reference Email Subject:**
-	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
 
 # Handoff During On Call
 
