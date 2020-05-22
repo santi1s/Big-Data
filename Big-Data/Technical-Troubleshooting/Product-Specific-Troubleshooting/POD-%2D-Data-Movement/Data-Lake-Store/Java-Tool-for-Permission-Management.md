@@ -4,5 +4,5 @@ https://azure.github.io/data-lake-adlstool/doc/
 
 Video Tutorial (ADLS Tool Setup)
 ::: video
-https://web.microsoftstream.com/video/2044a1ff-0400-96d0-9b3d-f1ea9c461a6f
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/2044a1ff-0400-96d0-9b3d-f1ea9c461a6f?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
