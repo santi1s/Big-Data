@@ -55,10 +55,11 @@ K --> L(You may need to remain with an <br> active/critical case until an <br> o
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 
 4. Attend the [handoff meeting for your region](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&_a=edit&anchor=region-hand-off-meetings) and follow instructions.
-**a. If there is no handoff meeting** proceed to step d.
-**b. If you cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
-**c. If you cannot find a teammate who can handle the case before the handoff meeting**, reach out to your [regional handoff SME.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=region-handoff-smes)
-**d. <u>Only after</u> you have aligned with regional handoff SME, or if the regional SME is off hours** when there is no handoff meeting, <span style="color:#DF0101;"><u> the case should be added to the queue at the end of your region's hours</u> </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
+a. If there is **<u>no</u> handoff meeting** (when SME in **<u>receiving</u> regions are on weekends**), jump to step e.
+b. If you **cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
+c. If you **cannot find a teammate who can handle the case before the handoff meeting**, reach out to your [regional handoff SME.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=region-handoff-smes)
+d. **<u>Only after</u> you have aligned with regional handoff SME**, perform step e:
+e. <span style="color:#DF0101;">At the end of your region's hours, **transfer back** the case to queue, </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
 **Reference Email Subject:**
 Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
 
