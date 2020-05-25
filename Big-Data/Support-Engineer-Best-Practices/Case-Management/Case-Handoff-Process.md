@@ -80,7 +80,7 @@ Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EM
 <b>EMEA :</b>Ryszard Gawron
 <b>US:</b> Prashanth Madi or Whitney Henderson
 
-## Hand Over Process for Non-24*7 
+## Process for Non-24*7 
 1. Confirm this case is a good candidate for handover. Has the customer specifically requested a handoff? If not, does it really need to be transferred? 
 2. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 3. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
