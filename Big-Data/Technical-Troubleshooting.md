@@ -15,4 +15,4 @@ If you would like to contribute, please follow up here:
 # Troubleshooting Basics
 
 ## Troubleshooting Flow 
-![image.png](/.attachments/image-82c1e6d5-798a-4a98-ba95-8820510432bc.png)
+![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
