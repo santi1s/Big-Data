@@ -209,9 +209,8 @@ After your vacation has been approved, or on the first day back from your vacati
 If you need more time than your current sick leave balance allows, please reach out to your manager. Microsoft has a lot of options to work with you through medical absences. 
 ## Who to Reach Out to When You Are Sick
 
-If you are ill and need to take a sick day, please send an email to wfms@microsoft.com and your manager, requesting that you be marked as unexpected oof/sick.
+If you are ill and need to take a sick day, please send an email to bidpsick@microsoft.com and your manager, requesting that you be marked as unexpected oof/sick.
 
-The WFM team will update the schedule.
 
 ## Automatic Replies
 
