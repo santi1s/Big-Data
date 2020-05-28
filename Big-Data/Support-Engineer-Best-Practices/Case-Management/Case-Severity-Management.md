@@ -18,7 +18,7 @@ It can be divided to **three parts** overall:
 - HDInsight/Databricks production cluster is suddenly down and can't be accessible; Analytical jobs on HDInsight/Databricks cluster can't run anymore due to server side issue; 
 - Can't access Production Cosmos DB database/Azure Data Lake Storage Gen1, or can't read/write data in them; 
 - Suddenly fail to run the ADF daily production pipeline somehow;
-- Data Explorer/Stream Analytics production cluster can't process ingesting data, etc.
+- Data Explorer/Stream Analytics production cluster can't process data, etc.
 The most importantly, it has <u>**no**</u> any workaround <u>for above scenarios</u> and customer is <u>being blocked on production</u> system.
 ---
 
