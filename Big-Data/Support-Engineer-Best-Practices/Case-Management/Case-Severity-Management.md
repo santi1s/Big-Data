@@ -32,7 +32,7 @@ Microsoft may downgrade the severity level if the customer is not able to provid
 
 ---
 ##When to downgrade the severity from A to B,or uncheck 24x7?
-Given the above definition of severity A, we can summarize that a qualified Severity A case means 1. There is some ongoing critical issues for customer's  production system **AND** 2. Customer is reachable and online for 24x7.
+Given the above [definition of severity A](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/331739/Case-Severity-Management?anchor=what-is-the-severity-a%3F), we can summarize that a qualified Severity A case means 1. There is some ongoing critical issues for customer's  production system **AND** 2. Customer is reachable and online for 24x7.
 
 So when you find for one of below cases:
 1). **Not qualified as the urgency or business impact of Severity A:** Using your technical sense, you judge the issue is not that urgent actually. If you are not clear from the case verbatim, you can ask customer or CSM what is the business impact for them. 
