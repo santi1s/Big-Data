@@ -7,11 +7,11 @@ A good classification and management of severity is crucial and beneficial to al
 ---
 ##What is the Severity A?
 From document [Support scope and responsiveness](https://azure.microsoft.com/en-us/support/plans/response/):
-Customer’s business has significant loss or degradation of services, and requires immediate attention.
+Sev A is used for situation that customer’s business has significant loss or degradation of services, and requires immediate attention.
 It can be divided to **three parts** overall:  
-	1. Function of product aspect: Customer's core or production environment has been affected severely and can't function properly anymore.
-	2. Financial aspect: Causing customer financial loss.  
-	3. User aspect: affecting quite a lot end users.
+1. Function of product aspect: Customer's core or production environment has been affected severely and can't function properly anymore.
+2. Financial aspect: Causing customer financial loss.  
+3. User aspect: affecting quite a lot end users.
 
 ---
 **Concrete examples of Severity A for Big Data products:** 
