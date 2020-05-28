@@ -1,7 +1,7 @@
 
 [[_TOC_]]
 
-##Goal:
+##Goal
 A good classification and management of severity is crucial and beneficial to all parties - Customer, CSS, CSM, TAM and PG. We need to work together and try our best to adhere to an aligned protocol to reduce the number of 'fake' severity A cases, so we can put our efforts on the real severity A cases to resolve customer's urgent issues. 
 
 ---
