@@ -11,7 +11,7 @@ Sev A is used for situation that customer’s business has significant loss or d
 It can be divided to **three parts** overall:  
 1. Function of product aspect: Customer's core or production environment has been affected severely and can't function properly anymore.
 2. Financial aspect: Causing customer financial loss.  
-3. User aspect: affecting quite a lot end users.
+3. User aspect: affecting quite a lot of end users.
 
 ---
 **Concrete examples of Severity A for Big Data products:** 
