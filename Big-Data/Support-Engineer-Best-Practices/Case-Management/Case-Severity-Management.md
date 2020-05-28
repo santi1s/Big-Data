@@ -24,7 +24,7 @@ The most importantly, it has <u>**no**</u> any workaround <u>for above scenarios
 
 ##Expected customer's response for Severity A:
 From document [Support scope and responsiveness](https://azure.microsoft.com/en-us/support/plans/response/):
-Customer **confirms** that the issue has critical business impact, with severe loss and degradation of services.
+Customer **confirms** that the issue has **critical business impact**, with severe loss and degradation of services.
 Customer **needs to commit to continuous, 24x7 operation, every day** with the Microsoft team until resolution, **otherwise**, Microsoft may at its discretion decrease the Severity to level B.
 
 From the 3rd footnote in the [document](https://azure.microsoft.com/en-us/support/plans/response/):
