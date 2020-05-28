@@ -55,7 +55,7 @@ Part of customers <u>might have misunderstanding</u> of severity A or 24x7 suppo
 **Rule 1:**
 IF (1 == true | 2 == true | 3 == true | 4 == true), downgrade the severity to B. 
 **Rule 2:**
-IF [(1 == true | 3 == true | 4 == true) **&** (2 == true)], downgrade severity to B and uncheck 7*24. And if customer is not in your region, [transfer to local region](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=process-for-non-24*7) to follow up if needed.
+IF [(1 == true | 3 == true | 4 == true) **&** (2 == true)], downgrade severity to B and uncheck 24x7. And if customer is not in your region, [transfer to local region](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=process-for-non-24*7) to follow up if needed.
 **Rule 3:**
 IF (1 == false & 2 == false & 3 == false & 4 == false), please keep the severity as A, then [transfer to the next region.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=process-for-critical-%2F-24*7-cases)
 <span style="color:#DF0101;">**Exception:** </span> Political/special reason stated by customer or TAM to keep the case as Severity A. 
