@@ -4,7 +4,7 @@
 
 ## OL Helper
 
-[OL Helper](https://toolbox/OLHelper) is an Outlook tool that you can install to create case-specific inboxes in your outlook.
+[OL Helper](http://toolbox/OLHelper) is an Outlook tool that you can install to create case-specific inboxes in your outlook.
 
 ![image.png](/.attachments/image-45d9cba3-f116-46e0-bf06-b29a88058cba.png)
 
