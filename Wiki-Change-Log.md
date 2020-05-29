@@ -9,6 +9,186 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 </tr></thead>
 <tbody>
 <tr>
+<td>5/29/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Updated CSS New Hire Onboarding Template</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Updated Intro: Azure DevOps Supportability</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Updated ADS microservice and ASC introduction</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Big Data</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Updated From SQL On Prem SSIS  DQS  MDS</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Updated SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;SQL Server Integration Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;SQL Server Integration Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS/Master Data Services&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;SQL Server Integration Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS/Master Data Services&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;Master Data Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;Data Quality Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem SSIS  DQS  MDS&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Added Data Quality Services</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Added Master Data Services</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Renamed page &#39;From SQL On Prem&#39; to &#39;From SQL On Prem SSIS  DQS  MDS&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;SQL Server Integration Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/From SQL On Prem&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;From SQL On Prem&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Added From SQL On Prem</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;SQL Server Integration Services&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39;</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Added SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Deleted page &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/From On Prem&#39;.</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Lee Pauling</td>
+<td>Added From On Prem</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Jeremy Li</td>
+<td>Reordered page &#39;/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Handoff-Process&#39; to order &#39;5&#39;.</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Jeremy Li</td>
+<td>Reordered page &#39;/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Severity-Management&#39; to order &#39;4&#39;.</td>
+</tr>
+<tr>
+<td>5/28/2020</td>
+<td>Jeremy Li</td>
+<td>Added Case Severity Management</td>
+</tr>
+<tr>
+<td>5/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>5/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Teams and Aliases for Distribution Lists</td>
+</tr>
+<tr>
+<td>5/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>5/25/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>5/22/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Certification</td>
+</tr>
+<tr>
+<td>5/22/2020</td>
+<td>Ronmia Bess</td>
+<td>Updated Java Tool for Permission Management</td>
+</tr>
+<tr>
+<td>5/22/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>5/22/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>5/22/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
 <td>5/21/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Getting Started</td>
