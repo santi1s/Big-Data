@@ -2,7 +2,9 @@
 
 # How to Get Pluralsight
 
-aka.ms/getpluralsight - Request Pluralsight 
+aka.ms/getpluralsight 
+
+# How to Access Pluralsight After You Have Access
 
 aka.ms/pluralsight
 
