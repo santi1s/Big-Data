@@ -38,7 +38,8 @@ Given the above [definition of severity A](https://dev.azure.com/Supportability/
 
 So when you find for one of below cases:
 1). **Not qualified as the urgency or business impact of Severity A:** Using your technical sense, you judge the issue is not that urgent actually. If you are not clear from the case verbatim, you can ask customer or CSM what is the business impact for them. 
-	E.g. Customer is doing a testing in the QAS environment instead of production one; customer is asking some how-to questions; That has never worked before and customer is doing the first time deployment/configuration; Customer is creating severity A for whatever issue and only wants to get faster response.
+
+E.g. Customer is doing a testing in the QAS environment instead of production one; Customer is asking some how-to questions; That has never worked before and customer is doing the first time deployment/configuration; Customer is asking for a RCA for previous mitigated issue; Customer is creating severity A for whatever issue and only wants to get faster response.
 
 2). **Customer is not available 24x7:** Customer is not reachable for quite some period of time / for multiple times. (Very likely for night in customer's TZ). Or, customer explicitly mentions he/she will go to sleep and not online 7*24. 
 	
