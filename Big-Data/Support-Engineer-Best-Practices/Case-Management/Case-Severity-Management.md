@@ -63,7 +63,7 @@ IF (1 == false & 2 == false & 3 == false & 4 == false), please keep the severity
 
 ---
 **Additional Info:**
-When you judge IF (1 == true | 2 == true) , we are **NOT asking** that, once you find the issue is not that qualified as severity A or find customer is not responding your very first email, then you can go ahead to directly downgrade the severity or uncheck 24x7 in a seemingly 'rude' manner.
+When you are judging situation 1) or 2) , we are **NOT asking** that, once you find the issue is not that qualified as severity A or find customer is not responding your very first email, then you can go ahead to directly downgrade the severity or uncheck 24x7 in a seemingly 'rude' manner.
 
 Instead, you need to do it **in a flexible and professional way**:
 Like, **when it comes to 1),** you need to use good communication skill to help customer understand what severity A really means, and show empathy that you understand the issue is critical, so you will try your best to troubleshoot it during business hour under Sev B though. And handing over 24x7 is not always beneficial to them - hand over may cause unnecessary overhead and gap in communication even it's minor. 
