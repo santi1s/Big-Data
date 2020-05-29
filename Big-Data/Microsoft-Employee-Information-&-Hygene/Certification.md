@@ -9,3 +9,6 @@ https://www.microsoft.com/en-us/learning/exam-list.aspx
 
 **Practice Tests for Certifications**
 https://mslibrary.measureup.com/
+
+**Linux certification**
+https://microsoft.sharepoint.com/sites/infopedia_g04/pages/the-linux-foundation.aspx
