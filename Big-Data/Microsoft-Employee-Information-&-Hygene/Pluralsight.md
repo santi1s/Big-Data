@@ -3,6 +3,7 @@
 # How to Get Pluralsight
 
 aka.ms/getpluralsight 
+https://microsoft.sharepoint.com/sites/infopedia/engineering/Pages/PluralsightRegistration.aspx
 
 # How to Access Pluralsight After You Have Access
 
