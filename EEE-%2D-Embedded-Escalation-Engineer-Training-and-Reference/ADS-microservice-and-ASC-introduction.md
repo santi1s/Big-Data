@@ -2,7 +2,7 @@
 
 The session is useful across all Big Data services as a first introduction to ADS microservice and ASC.
 
-## Topics discussed:
+##Topics discussed:
 - ADS microservice
 - ASC
 - ADS microservie and ASC deployment
