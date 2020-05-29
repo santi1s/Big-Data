@@ -2,7 +2,7 @@
 
 You will find in the below meeting recording suggestions and tips about Azure DevOps, useful Power BI dashboards and how to create ICM filters to help on your day-to-day.
 </br>
-
+ 
 ##**Meeting recording:**
 •	https://msit.microsoftstream.com/video/e868a1ff-0400-aa76-1bc8-f1ea69c987bc
 
