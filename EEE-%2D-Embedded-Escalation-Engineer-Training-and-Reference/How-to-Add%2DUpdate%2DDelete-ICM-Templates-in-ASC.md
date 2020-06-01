@@ -7,7 +7,9 @@
 **Prerequisites**
 
 - To use Jarvis operations, make sure you apply for [19401](https://myaccess/identityiq/accessRequest/accessRequest.jsf#/accessRequest/review?role=Azure+Diagnostic+Partner+-+19401&autoSubmit=true) project access. It might take up to 1 day for your request to get approved. Drop a mail to ASC team if your request doesn't get approved.
-- Make sure to set the correct support topic mapping (*L1\L2\L3*) from [here](https://msaas.support.microsoft.com/sap/manage;sap=).
+- Make sure to set the correct support topic mapping (L1\L2\L3) from [here](https://msaas.support.microsoft.com/sap/manage;sap=).
+- Follow this [document](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/310960/How-to-create-an-ICM-Template) to create your IcM template.
+- If you want to customize the IcM template fields, please contact your tenant admin. If further customization is needed, please check with IcM team.
 
 <p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
 <p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
