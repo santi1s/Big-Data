@@ -31,7 +31,29 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 </center>
 
+## Handoff Flow Chart
 
+<center>
+
+
+::: mermaid
+graph TD
+    A(Add Good Case Notes <br> & <br> Update Internal Title) --> B(Add Case to Transfer List <br>Transfer List is not the queue!<br>See below sections for transfer list.)
+    B --> C{Is there a <br> handoff call?}
+    C -->|Yes| D{Can you attend?}
+D -->|Yes| F(Attend Handoff Call <br> and Follow Instruction There)
+D -->|No| I{Can a <br> teammate take <br> until handoff call?}
+    C -->|No| E(Transfer to Queue <br> Notify DMs)
+E -->|Critical Case| H(Stay with case until <br> there is a new case owner.)
+I-->|Yes| J(Transfer to Teammate)
+I --> |No| K(Contact Handoff SME)
+K --> L(You may need to remain with an <br> active/critical case until an <br> owner can be found.)
+    style D fill:#f9f,stroke:#333,stroke-width:4px
+ style C fill:#f9f,stroke:#333,stroke-width:4px
+ style I fill:#f9f,stroke:#333,stroke-width:4px
+:::
+
+</center>
 
 ## Process for Critical / 24*7 Cases
 1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
@@ -77,30 +99,6 @@ If it is not within your hours, <span style="color:#DF0101;">**transfer the case
 6. Send email to sqldmmdt@microsoft.com to ask for reassignment.
 	**Reference Email Subject:**
 	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
-
-## Flow Chart
-
-<center>
-
-
-::: mermaid
-graph TD
-    A(Add Good Case Notes <br> & <br> Update Internal Title) --> B(Add Case to Transfer List <br>Transfer List is not the queue!<br>See below sections for transfer list.)
-    B --> C{Is there a <br> handoff call?}
-    C -->|Yes| D{Can you attend?}
-D -->|Yes| F(Attend Handoff Call <br> and Follow Instruction There)
-D -->|No| I{Can a <br> teammate take <br> until handoff call?}
-    C -->|No| E(Transfer to Queue <br> Notify DMs)
-E -->|Critical Case| H(Stay with case until <br> there is a new case owner.)
-I-->|Yes| J(Transfer to Teammate)
-I --> |No| K(Contact Handoff SME)
-K --> L(You may need to remain with an <br> active/critical case until an <br> owner can be found.)
-    style D fill:#f9f,stroke:#333,stroke-width:4px
- style C fill:#f9f,stroke:#333,stroke-width:4px
- style I fill:#f9f,stroke:#333,stroke-width:4px
-:::
-
-</center>
 
 ## Collaboration Handoff
 1. Talk to your case owner about whether they need continued input from your team.
