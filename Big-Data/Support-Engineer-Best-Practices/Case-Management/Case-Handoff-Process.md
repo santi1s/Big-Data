@@ -66,6 +66,15 @@ K --> L(You may need to remain with an <br> active/critical case until an <br> o
 
 </center>
 
+**Timestamps:**
+03:03 - When to Hand Off
+04:03 - How to Talk to A Customer About Hand Off
+11:31 - How to Hand Off a Case
+26:53 - Long-Running Handoff Cases
+32:42 - Handoff for Vacation
+37:23 - Key Points
+39:13 - Questions and Clarifications
+
 ## Process for Critical / 24*7 Cases
 1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
  Follow [Case Severity Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/331739/Case-Severity-Management?anchor=when-to-downgrade-the-severity-from-a-to-b%2Cor-uncheck-24x7%3F) to verify if the case is qualified as Sev A and customer is available to continue working 24*7.
