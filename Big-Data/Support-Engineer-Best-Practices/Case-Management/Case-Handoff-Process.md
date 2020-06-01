@@ -24,7 +24,10 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =900x500)
 
-![How to Hand Off Img.jpg](/.attachments/How%20to%20Hand%20Off%20Img-32d3236b-a500-496a-b697-4bc75b6a82c7.jpg =250x100) 
+![image.png](/.attachments/image-c4daa0d7-455f-4625-bfaa-552dd1e6c787.png)
+![image.png](/.attachments/image-b776ef3b-b7ee-439f-a767-e39b181d6429.png)
+
+[![image.png](/.attachments/image-d7244b2b-c639-4657-a9db-58d1438f5e2a.png =250x100)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/331739/Case-Severity-Management) [![image.png](/.attachments/image-edc4d915-936d-4bbc-8230-c838d481a8fd.png =250x100)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?_a=edit&anchor=process-for-critical-%2F-24*7-cases)
 
 
 ::: mermaid
@@ -93,6 +96,9 @@ If it is not within your hours, <span style="color:#DF0101;">**transfer the case
 	**Reference Email Subject:**
 	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
 
+## Collaboration Handoff
+1. Talk to your case owner about whether they need continued input from your team.
+If they do, follow the [non 24x7 process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?_a=edit&anchor=process-for-non-24*7)  or the [24x7](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?_a=edit&anchor=process-for-critical-%2F-24*7-cases) process based on case criticality.
 
 ## Long-Running 24*7 Cases
 
