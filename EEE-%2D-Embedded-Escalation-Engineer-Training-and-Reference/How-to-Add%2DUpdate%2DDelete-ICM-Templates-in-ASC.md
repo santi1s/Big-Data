@@ -3,6 +3,17 @@
 <p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
 <p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
 
+
+**Prerequisites**
+
+- To use Jarvis operations, make sure you apply for [19401](https://myaccess/identityiq/accessRequest/accessRequest.jsf#/accessRequest/review?role=Azure+Diagnostic+Partner+-+19401&autoSubmit=true) project access. It might take up to 1 day for your request to get approved. Drop a mail to ASC team if your request doesn't get approved.
+- Make sure to set the correct support topic mapping (*L1\L2\L3*) from [here](https://msaas.support.microsoft.com/sap/manage;sap=).
+
+<p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
+<p style='margin:0in;margin-left:.375in;font-family:Calibri;font-size:12.0pt'>&nbsp;</p>
+
+**Steps**
+
 1. Go to Jarvis actions  https://jarvis-west.dc.ad.msft.net/actions and under **Get Started Now**, Select Environment as **Test** from the drop-down and click on **Go to Geneva Actions** button.
  
    ![getstartednow.png](/.attachments/getstartednow-2ec4113e-9f6a-40e6-a116-4e5e0d47a601.png)
