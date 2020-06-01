@@ -24,8 +24,8 @@ This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#D
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =900x500)
 
-![image.png](/.attachments/image-c4daa0d7-455f-4625-bfaa-552dd1e6c787.png =900x300)
-![image.png](/.attachments/image-b776ef3b-b7ee-439f-a767-e39b181d6429.png =900x100)
+![image.png](/.attachments/image-c4daa0d7-455f-4625-bfaa-552dd1e6c787.png =900x275)
+![image.png](/.attachments/image-b776ef3b-b7ee-439f-a767-e39b181d6429.png =900x150)
 
 [![image.png](/.attachments/image-d7244b2b-c639-4657-a9db-58d1438f5e2a.png =250x100)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/331739/Case-Severity-Management) [![image.png](/.attachments/image-edc4d915-936d-4bbc-8230-c838d481a8fd.png =250x100)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?_a=edit&anchor=process-for-critical-%2F-24*7-cases)
 
