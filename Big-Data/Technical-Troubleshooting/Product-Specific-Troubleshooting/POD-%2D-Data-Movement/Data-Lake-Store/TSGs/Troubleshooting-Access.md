@@ -5,7 +5,56 @@
 
 For almost all permissions cases, having a strong understanding of how permissions in ADLS Gen 1 work will help guide you on what settings to check, and how to achieve the functionality the customer needs.
 
-Please be very familiar with our [Access Control Overview Guide](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/Access-Control-Overview)
+Please be very familiar with our [Access Control Overview Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280882/Access-Control-Overview)
+
+# Troubleshooting Permissions Flow
+
+<center>
+
+
+::: mermaid
+graph TD
+A(Seeing the error <br> in the portal<br> or through a script?) -->|Portal| C(Does the user/group have <br> at least Read Execute <br> permission the full path?)
+C -->|Yes| G(Is the ADL firewall blocking the user?)
+G -->|No| D(Does the mask have <br> at least Read Execute<br> permission on the full path?)
+D -->|Yes| E(Is the user/group correctly <br> added as a user/group?)
+E -->|Yes| F(Do Jarvis logs show <br> the same user failing <br> as you have been adding <br> permissions for?)
+
+A -->|Script| H(What is the user trying to do?)
+
+H -->|Create file/folder| I(Does the group/user <br> have at least Write Execute <br> permission on <br> parent folder?)
+H -->|Write to file/folder| M(Does the group/user <br> have at least Write Execute <br> permission on <br> the file/folder?)
+H -->|Read from file/folder| K(Does the group/user <br> have at least Read <br> permission on <br> the file and/or Read Execute on folder?)
+H -->|Delete file/folder| I
+
+I -->|Yes| J(Does the group/user <br> have at least Execute permission <br> on the root and <br> all folders leading to parent?)
+
+I -->|Yes| N(Does the Mask <br> have at least Write Execute <br> permission on <br> parent folder?)
+M -->|Yes| O (Does the Mask <br> have at least Write Execute <br> permission on <br> the file/folder?)
+K -->|Yes| P (Does the Mask <br> have at least Read <br> permission on <br> the file and/or Read Execute on folder?)
+
+C -->|No| Z
+G -->|Yes| Z
+D -->|No| Z
+E -->|No| Z
+F -->|Yes| Y
+F -->|No| Z
+H -->|No| Z
+I -->|No| Z
+J --> |No| Z
+M --> |No| Z
+K --> |No| Z
+
+Y(Fully Document and Create ICM)
+Z(Add permission and re-test.)
+
+    style D fill:#f9f,stroke:#333,stroke-width:4px
+ style C fill:#f9f,stroke:#333,stroke-width:4px
+ style I fill:#f9f,stroke:#333,stroke-width:4px
+:::
+
+</center>
+
 
 # First Contact on a Permissions Case
 
