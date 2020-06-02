@@ -5,7 +5,8 @@
 
    - Monitoring logs available using Activity Log and Diagnostic logs 
 
-   - Activity Logs 
+   - Activity Logs. Provides insight into the operations on each Azure resource in the subscription from the outside (the management plane) in addition to updates on Service Health events. Use the Activity Log, to determine the what, who, and when for any write operations (PUT, POST, DELETE) taken on the resources in your subscription. You can also understand the status of the operation and other relevant properties. There is a single Activity log for each Azure subscription.
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log-view
 
    - Example of Data seen in logs 
 
