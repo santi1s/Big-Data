@@ -31,6 +31,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log-view
      - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
 
    - Go to Logs in ASA Monitor and select what you want to monitor (query against the logs) 
+      - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
 
    - Setup Alerting. This article describes how to set up alerts for common scenarios that should be monitored. 
 
