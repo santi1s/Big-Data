@@ -1,7 +1,7 @@
 **ASA Monitoring and Alerting** 
 
 [[_TOC_]]
-**I. Overview** 
+##**I. Overview** 
 
    - Monitoring logs available using Activity Log and Diagnostic logs 
 
@@ -17,9 +17,9 @@
 
    - Walkthrough Video to Setup Diagnostic Monitoring and Alerts (10 min max) 
 
-**II. Monitor Activity log** 
+##**II. Monitor Activity log** 
 
-**III. Setup and Monitor Diagnostic logs and Alert**  
+##**III. Setup and Monitor Diagnostic logs and Alert**  
 
    - Create Log Analytics resource (in same region as ASA job) 
 
