@@ -16,7 +16,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log-view
 
    - Setup Alerting. It's important to monitor your Azure Stream Analytics job to ensure the job is running continuously without any problems. 
 
-   - Walkthrough Video to Setup Diagnostic Monitoring and Alerts (10 min max) 
+   - Walkthrough Video to Setup Diagnostic Monitoring and Alerts [details comming soon] 
 
 ##**II. Monitor Activity log** 
 
