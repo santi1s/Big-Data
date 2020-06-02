@@ -20,21 +20,18 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log-view
 
 ##**II. Monitor Activity log** 
 
-##**III. Setup and Monitor Diagnostic logs and Alert**  
+##**III. STEPS: Setup and Monitor Diagnostic logs and Alert**  
 
-   - Create Log Analytics resource (in same region as ASA job) 
+   1. Create Log Analytics resource (in same region as ASA job) 
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/resource-logs-collect-workspace 
 
-     - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/resource-logs-collect-workspace 
+   2. Create Diagnostic Log. To turn them on, complete these steps: 
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
 
-   - Create Diagnostic Log. To turn them on, complete these steps: 
+   3. Go to Logs in ASA Monitor and select what you want to monitor (query against the logs)
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
 
-     - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
-
-   - Go to Logs in ASA Monitor and select what you want to monitor (query against the logs) 
-      - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
-
-   - Setup Alerting. This article describes how to set up alerts for common scenarios that should be monitored. 
-
-     - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-set-up-alerts#set-up-alerts-in-the-azure-portal 
+   4. Setup Alerting. This article describes how to set up alerts for common scenarios that should be monitored. 
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-set-up-alerts#set-up-alerts-in-the-azure-portal 
 
 [[_TOC_]]
