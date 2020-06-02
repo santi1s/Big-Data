@@ -59,6 +59,13 @@ P --> |No| Z
 Y(Fully Document and Create ICM)
 Z(Add permission and re-test.)
 
+Z -->|We did, and it worked for a little while <br> but then it failed again?| AA(Does this file/folder get deleted/recreated/overwritten?) 
+
+AA -->|Yes| BB(Add needed permissions as 'default' <br> permission on parent folder)
+AA -->|No| CC(Are other permissions operations <br> happening that could be overwriting <br> permissions?)
+CC -->|No| DD(Double-Confirm with Jarvis.)
+DD --> Y
+
 :::
 
 **This Chart Is a Work In Progress**
