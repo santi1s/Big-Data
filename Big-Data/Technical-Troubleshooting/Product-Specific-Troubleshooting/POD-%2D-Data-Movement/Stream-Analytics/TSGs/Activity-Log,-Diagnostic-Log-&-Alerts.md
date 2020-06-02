@@ -11,11 +11,11 @@
 
    - Diagnostic Logs. Stream Analytics writes detailed information and example events to the resource logs. In some cases, summary of this information is also provided through portal notifications.  Turning on resource logs and sending them to Azure Monitor logs is highly recommended. They are off by default.  Q. What is the Pricing associated with using Diagnostic log Monitoring and Alerting? 
 
-   - Example of Error detail seen in logs [detials comming soon]
+   - Example of Error detail seen in logs _[detials comming soon]_
 
    - Setup Alerting. It's important to monitor your Azure Stream Analytics job to ensure the job is running continuously without any problems. 
 
-   - Walkthrough Video to Setup Diagnostic Monitoring and Alerts [details comming soon] 
+   - Walkthrough Video to Setup Diagnostic Monitoring and Alerts _[details comming soon]_ 
 
 ##**II. Monitor Activity log**
    1. The Azure Activity Log provides insight into subscription-level events that have occurred in Azure. This article provides details on different methods for viewing and retrieving Activity Log events. 
