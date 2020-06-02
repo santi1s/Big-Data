@@ -58,9 +58,6 @@ P --> |No| Z
 Y(Fully Document and Create ICM)
 Z(Add permission and re-test.)
 
-    style D fill:#f9f,stroke:#333,stroke-width:4px
- style C fill:#f9f,stroke:#333,stroke-width:4px
- style I fill:#f9f,stroke:#333,stroke-width:4px
 :::
 
 </center>
