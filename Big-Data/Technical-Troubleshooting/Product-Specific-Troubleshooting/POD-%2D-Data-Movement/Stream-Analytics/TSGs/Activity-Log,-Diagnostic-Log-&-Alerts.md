@@ -1,6 +1,6 @@
 **ASA Monitoring and Alerting** 
-[[_TOC_]]
 
+[[_TOC_]]
 **I. Overview** 
 
    - Monitoring logs available using Activity Log and Diagnostic logs 
@@ -35,3 +35,4 @@
 
      - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-set-up-alerts#set-up-alerts-in-the-azure-portal 
 
+[[_TOC_]]
