@@ -9,6 +9,8 @@ Please be very familiar with our [Access Control Overview Guide](https://dev.azu
 
 # Troubleshooting Permissions Flow
 
+**WIP**
+
 <center>
 
 
@@ -30,8 +32,12 @@ H -->|Delete file/folder| I
 I -->|Yes| J(Does the group/user <br> have at least Execute permission <br> on the root and <br> all folders leading to parent?)
 
 I -->|Yes| N(Does the Mask <br> have at least Write Execute <br> permission on <br> parent folder?)
-M -->|Yes| O (Does the Mask <br> have at least Write Execute <br> permission on <br> the file/folder?)
-K -->|Yes| P (Does the Mask <br> have at least Read <br> permission on <br> the file and/or Read Execute on folder?)
+M -->|Yes| O(Does the Mask <br> have at least Write Execute <br> permission on <br> the file/folder?)
+K -->|Yes| P(Does the Mask <br> have at least Read <br> permission on <br> the file and/or Read Execute on folder?)
+
+N--> |Yes| E
+O --> |Yes| E
+P --> |Yes| E
 
 C -->|No| Z
 G -->|Yes| Z
@@ -44,6 +50,10 @@ I -->|No| Z
 J --> |No| Z
 M --> |No| Z
 K --> |No| Z
+N--> |No| Z
+O --> |No| Z
+P --> |No| Z
+
 
 Y(Fully Document and Create ICM)
 Z(Add permission and re-test.)
