@@ -69,7 +69,7 @@ IF (1 == false & 2 == false & 3 == false & 4 == false), please keep the severity
 When you are judging situation 1) or 2) , we are **NOT asking** that, once you find the issue is not that qualified as severity A or find customer is not responding your very first email, then you can go ahead to directly downgrade the severity or uncheck 24x7 in a seemingly 'rude' manner.
 
 Instead, you need to do it **in a flexible and professional way**:
-Like, **when it comes to 1),** you need to use good communication skill to help customer understand what severity A really means, and show empathy that you understand the issue is critical, so you will try your best to troubleshoot it during business hour under Sev B though. And handing over 24x7 is not always beneficial to them - hand over may cause unnecessary overhead and gap in communication even it's minor. 
+Like, **when it comes to 1),** you need to use good communication skill to help customer understand what severity A really means, and show empathy that you understand the issue is critical, so you will try your best to troubleshoot it during business hour under Sev B though. And handing over case globally is not always beneficial to them - handover may cause unnecessary overhead and gap in communication even it's minor. 
 And **an important talking point** with customers is that they can raise the severity back to A when they encounter any emergency at any time, let them aware that downgrading to B never means we will relax and don't care about their issue. 
 Anyway, the goal here is that you should try to change situation 1) to situation 3).
 
