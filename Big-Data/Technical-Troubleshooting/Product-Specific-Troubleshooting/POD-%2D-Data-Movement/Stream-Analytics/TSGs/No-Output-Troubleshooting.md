@@ -33,6 +33,7 @@ After completing the general troubleshooting if you're still unable to see input
    - [Output Data Errors](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
    - [Key Violation Warning](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
    - [Column names are case sensitive](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed)
+   - [Performance](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-sql-output-perf#avoiding-performance-pitfalls)
 
 _More Details to come_
 
