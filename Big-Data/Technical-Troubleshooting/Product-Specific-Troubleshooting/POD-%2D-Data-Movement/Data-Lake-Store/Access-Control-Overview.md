@@ -4,7 +4,7 @@ For the most up to date information, please refer to our official, public-facing
 [ADLS Gen 1 Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control)
 [ADLS Gen 1 Security Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)_
 
-_For Troubleshooting, please see our TSG([Troubleshooting Access](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Lake-Store/TSGs/Troubleshooting-Access))_
+_For Troubleshooting, please see our TSG([Troubleshooting Access](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Lake-Store/TSGs/Troubleshooting-Access))_
 
 
 [[_TOC_]]
