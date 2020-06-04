@@ -16,8 +16,14 @@ If you would like to contribute, please follow up here:
 
 ## Dos
 
+1. If you are working with the product team, and they have provided some technical information that you don't understand/aren't sure you can communicate to the customer, ask questions until you understand what they're asking!
+2. Rephrase product group communications to be customer facing. Provide steps where possible.
+3. Confirm with the product team if specific technical information/product limitations can be communicated with the customer. Especially for bigger customers, sometimes a project manager should be involved to make sure we're communicating limitations correctly.
+
 ## Don'ts
 
+1. Don't just copy and paste what the product team tells you for a customer. Rephrase it to make it more personal/useful to the customer.
+2. Don't ask the product team to give you a verbatim for your customer. The product team can provide technical information, but it is up to CSS to make that technical information relevant to the customer.
 # Templates
 **NOTE**
 **These Templates are intended to be starting places. Please do personalize/update them to suit your customers and your cases.**
