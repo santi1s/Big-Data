@@ -7,6 +7,74 @@ _First [download Kusto](https://dev.azure.com/Supportability/Big%20Data/_wiki/wi
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/9738a4ff-0400-a936-bb52-f1eaa762b22e?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
+<details>
+  <summary>Video Timestamps</summary>
+
+_ActivityRuns - 01:58_ - Basics/Columns
+**Work in Progress -- Still Adding Timestamps**
+
+</details>
+
+<details>
+  <summary>Queries Used in Video</summary>
+
+```
+//Run ID
+//c2a53c40-687a-4306-b637-4dcab92b0a3c
+
+//Activity Runs
+ActivityRuns
+| where * == "f011459a-4e1f-4f9f-9fdc-fcee7a0159a5"
+
+ActivityRuns
+| where * == "f011459a-4e1f-4f9f-9fdc-fcee7a0159a5"
+| where status != "InProgress" and status != "Queued"
+
+ActivityRuns
+| where subscriptionId =~ "ECED600C-1185-4AE6-8B70-868D11F0E810"
+| where dataFactoryName =~ "DFTRAININGADFWHHENDER"
+| where pipelineName =~ "s0pipelinewhhender"
+| where activityName =~ "Copy data1"
+| where status != "InProgress" and status != "Queued"
+| order by TIMESTAMP asc
+
+
+// Search by TimeFrame
+ActivityRuns
+| where subscriptionId =~ "ECED600C-1185-4AE6-8B70-868D11F0E810"
+| where dataFactoryName =~ "DFTRAININGADFWHHENDER"
+| where status != "InProgress" and status != "Queued"
+| where TIMESTAMP >= datetime(2020-06-04 00:00:00) and TIMESTAMP <= datetime(2020-06-05 07:00:00)
+
+
+//Recent Successful Run ID: c2a53c40-687a-4306-b637-4dcab92b0a3c
+//Failed Run ID: 54981508-d97b-419e-bd93-500c37e5ca20
+
+CustomLogEvent
+| where ActivityId == "c2a53c40-687a-4306-b637-4dcab92b0a3c"
+| order by TIMESTAMP asc
+
+CustomLogEvent
+| where ActivityId == "54981508-d97b-419e-bd93-500c37e5ca20"
+| order by TIMESTAMP asc
+
+
+//Activity ID: c2a53c40-687a-4306-b637-4dcab92b0a3c
+//Start Time: datetime(2020-06-05 16:02:23.1802710)
+//End Time : datetime(2020-06-05 16:02:48.0436446)
+//Agent ID: 611ed2fb-5b29-4671-8e90-f0a76fbadf9f
+
+JobInfo
+| where ActivityId == "c2a53c40-687a-4306-b637-4dcab92b0a3c"
+
+Heartbeats 
+| where AgentGroupId == "611ed2fb-5b29-4671-8e90-f0a76fbadf9f" 
+and TIMESTAMP >= datetime(2020-06-03 16:02:23.1802710) and TIMESTAMP <= datetime(2020-06-05 16:02:48.0436446)
+|where AgentInstanceName == "Node_1"
+```
+
+</details>
+   
 #Kusto Basics for ADF
 
 There are four connections that we can use in Kusto to find logs regarding data factory.
