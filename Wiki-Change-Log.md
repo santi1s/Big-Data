@@ -8,6 +8,127 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <th title="Field #3">Change</th>
 </tr></thead>
 <tbody>
+
+<tr>
+<td>6/4/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Weekend coverage</td>
+</tr>
+<tr>
+<td>6/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Communication Best Practices</td>
+</tr>
+<tr>
+<td>6/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Troubleshooting Access</td>
+</tr>
+<tr>
+<td>6/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Access Control Overview</td>
+</tr>
+<tr>
+<td>6/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated No Output Troubleshooting</td>
+</tr>
+<tr>
+<td>6/3/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>6/3/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>6/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Troubleshooting Access</td>
+</tr>
+<tr>
+<td>6/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Activity Log</td>
+</tr>
+<tr>
+<td>6/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/Activity-Log</td>
+</tr>
+<tr>
+<td>6/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Activity Log</td>
+</tr>
+<tr>
+<td>6/1/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>6/1/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Escalations | Creating ICMs</td>
+</tr>
+<tr>
+<td>6/1/2020</td>
+<td>Laila Haddad</td>
+<td>Updated How to Add-Update-Delete ICM Templates in ASC</td>
+</tr>
+<tr>
+<td>6/1/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>5/30/2020</td>
+<td>Kamal Thapa</td>
+<td>Updated O&#39;Reilly Learning</td>
+</tr>
+<tr>
+<td>5/30/2020</td>
+<td>Kamal Thapa</td>
+<td>Added O&#39;Reilly Learning</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Increasing Limits &amp; Throttling</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Kamal Thapa</td>
+<td>Updated Certification</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Pluralsight</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Kamal Thapa</td>
+<td>Updated Pluralsight</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Pluralsight</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>5/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
 <tr>
 <td>5/29/2020</td>
 <td>Jeremy Li</td>
