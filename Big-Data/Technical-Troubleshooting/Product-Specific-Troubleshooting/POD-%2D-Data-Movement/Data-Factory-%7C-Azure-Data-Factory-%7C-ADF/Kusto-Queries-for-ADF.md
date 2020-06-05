@@ -1,4 +1,4 @@
-_First [download Kusto](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Data-Factory-|-Azure-Data-Factory-|-ADF/Tools-and-Teams)_
+_First [download Kusto](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/275631/Tools-and-Teams), and make sure you have successfully added all connections listed in [Tools and Teams](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/275631/Tools-and-Teams)_
 
 [[_TOC_]]
 
