@@ -2,6 +2,10 @@ _First [download Kusto](https://dev.azure.com/Supportability/Big%20Data/_wiki/wi
 
 [[_TOC_]]
 
+::: video
+#Kusto Basics Viceo
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/9738a4ff-0400-a936-bb52-f1eaa762b22e?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
 
 #Kusto Basics for ADF
 
