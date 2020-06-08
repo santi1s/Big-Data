@@ -10,8 +10,39 @@ _First [download Kusto](https://dev.azure.com/Supportability/Big%20Data/_wiki/wi
 <details>
   <summary>Video Timestamps</summary>
 
-_ActivityRuns - 01:58_ - Basics/Columns
-**Work in Progress -- Still Adding Timestamps**
+**_ActivityRuns_**
+
+_ActivityRuns - **01:58**_ - Basics
+_ActivityRuns - **03:35**_ - Pipeline Run ID or Activity Run ID
+_ActivityRuns - **04:30**_ - Useful Columns in Activity Runs
+_ActivityRuns - **08:20**_ - Historical Pipeline Data
+_ActivityRuns - **11:55**_ - Debug/Sandbox Runs
+_ActivityRuns - **13:50**_ - Effective Integration Runtime
+_ActivityRuns - **15:10**_ - Comparing Historical Runs
+_ActivityRuns - **17:07**_ - Historical Runs by Timestamp
+
+**_CustomLogEvent_**
+
+_CustomLogEvent - **19:53**_ - Basics
+_CustomLogEvent - **22:07**_ - Timestamps
+_CustomLogEvent - **22:34**_ - Message Column
+_CustomLogEvent - **23:30**_ - Source and Activity Messages (Pipeline Information)
+_CustomLogEvent - **29:00**_ - Azure Resource Names
+_CustomLogEvent - **31:00**_ - Warnings/Region Warnings/Region Detection
+_CustomLogEvent - **33:53**_ - Run Messages
+_CustomLogEvent - **35:40**_ - Status Output (Completed Pipeline Run Information)
+_CustomLogEvent - **40:58**_ - Pipeline Failures
+_CustomLogEvent - **44:24**_ - Warnings/Failures for Failed Pipeline
+
+**_JobInfo/Heartbeats_**
+
+_Job Info_ - **46:56** - Finding Self-Hosted IR Information
+_Job Info_ - **48:28** - IR information from Job Info (Agent ID/Gateway Version)
+_Heartbeats_ - **49:40** - What is the Heartbeats Table?
+_Heartbeats_ - **51:36** - Useful Heartbeats Information (Agent Instance/Telemetries)
+_Heartbeats_ - **52:35** - Specify a Node
+_Heartbeats_ - **53:12** - Reading Telemetries
+
 
 </details>
 
@@ -66,6 +97,10 @@ CustomLogEvent
 
 JobInfo
 | where ActivityId == "c2a53c40-687a-4306-b637-4dcab92b0a3c"
+
+//aka.ms/bigdata
+//Search: Kusto
+//Select "Heartbeats" from Table of Contents
 
 Heartbeats 
 | where AgentGroupId == "611ed2fb-5b29-4671-8e90-f0a76fbadf9f" 
