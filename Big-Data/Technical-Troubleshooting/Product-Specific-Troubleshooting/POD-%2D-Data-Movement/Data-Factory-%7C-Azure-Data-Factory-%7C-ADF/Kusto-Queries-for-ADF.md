@@ -109,6 +109,25 @@ and TIMESTAMP >= datetime(2020-06-03 16:02:23.1802710) and TIMESTAMP <= datetime
 ```
 
 </details>
+
+::: video
+#Kusto Extra Searches Video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/d14da1ff-0400-a936-2899-f1eaaa5a805e?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+<details>
+  <summary>Video Timestamps</summary>
+
+_Connections - **00:18**_ - Basics
+_Connections - **01:04**_ - List of Tables
+_Connections - **02:48**_ - List of Columns
+_Connections - **03:30**_ - Auto-Populate Queries
+
+_Search ++ - **04:00**_ - Basics
+_Search ++ - **05:46**_ - Reading Search++ Data
+
+</details>
+
    
 #Kusto Basics for ADF
 
