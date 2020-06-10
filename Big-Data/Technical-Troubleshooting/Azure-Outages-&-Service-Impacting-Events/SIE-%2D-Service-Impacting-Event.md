@@ -128,13 +128,15 @@ The TAs selected by the acting manager will do the following:
 
    - Send the same updates to the team as detailed in step 2
 
-7. Designate one TA/SME to scan the SIE cases list which has "Inbound Email" column "Yes", and if specific assistance is required, uncheck the SIE box, change the title to "SIE # SPECIAL ATTENTION NEEDED" and send the case back to the queue
+7. Update Internal title on all Outage cases to show SIE number(that would be used for reporting purpose in Case Triage Tool) and short description of issue that would help TAM/Incident Manager/other's
+
+8. Designate one TA/SME to scan the SIE cases list which has "Inbound Email" column "Yes", and if specific assistance is required, uncheck the SIE box, change the title to "SIE # SPECIAL ATTENTION NEEDED" and send the case back to the queue
 
    - For a scenario where a different TZ is monitoring the SIE cases and doesn’t own them, when the “Inbound email” column says “yes”, the case must be yanked in order for action to be properly reflected on Service Desk, i.e., SIE “Inbound Email” to change status
 
-8. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
+9. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
 
-9. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
+10. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
 
    - If customer is still impacted, check with PG immediately and uncheck the SIE checkbox so that it appears in queue (Push it back to queue if it needs a new engineer).
 
@@ -142,13 +144,13 @@ The TAs selected by the acting manager will do the following:
 
    - If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
 
-10. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
+11. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
 
-11. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
+12. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
 
-12. Continue checking the SIE list for incoming emails from CX and reply accordingly
+13. Continue checking the SIE list for incoming emails from CX and reply accordingly
 
-13. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
+14. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
 
 </details>
 
