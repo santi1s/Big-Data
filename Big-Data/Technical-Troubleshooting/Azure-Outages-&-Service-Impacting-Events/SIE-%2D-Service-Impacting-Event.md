@@ -74,7 +74,7 @@ cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWit
 | summarize count() by Servicelevel,ServiceOfferingLevel1,ServiceOfferingLevel2
 ```
 
-- Create a temporary SIE report in [Case triage tool](https://casetriage.azurewebsites.net/) to keep track of Case Assignment(We have seen zombie cases that hasn't MET SLA if there is no Case owner assigned after marking it as SIE) 
+- Create a temporary SIE report in [Case triage tool](https://casetriage.azurewebsites.net/) to keep track of Case Assignment(We have seen zombie cases that hasn't MET SLA if there is no Case owner assigned after marking it as SIE). It gets updated every 4 hours so keep checking it periodically. 
 
 Ex:
 
