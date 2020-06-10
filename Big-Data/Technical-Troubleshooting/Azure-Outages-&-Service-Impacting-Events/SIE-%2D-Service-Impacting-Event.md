@@ -74,6 +74,12 @@ cluster('U360sec').database('KPISupportData').table('AllCloudsSupportIncidentWit
 | summarize count() by Servicelevel,ServiceOfferingLevel1,ServiceOfferingLevel2
 ```
 
+- Create a temporary SIE report in [Case triage tool](https://casetriage.azurewebsites.net/) to keep track of Case Assignment(We have seen zombie cases that hasn't MET SLA if there is no Case owner assigned after marking it as SIE) 
+
+Ex:
+
+![image.png](/.attachments/image-31cc553c-77c4-4459-a318-5c99e0353072.png)
+
 </details>
 
 ### Technical Advisor (TA)
