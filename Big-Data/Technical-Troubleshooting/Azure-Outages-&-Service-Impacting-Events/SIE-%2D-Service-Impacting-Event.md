@@ -185,6 +185,18 @@ The TAs selected by the acting manager will do the following:
 
 </details>
 
+
+### Duty Manager's (DM's)
+<details>
+  <summary>Click here to expand or collapse this section</summary>
+
+During a SIE the Duty Manager responsibilities will:
+- Reach out to Support Manager and mention about possible outage if they see increase in number of support cases.
+- If Support Manager decides to suspend auto-assignment, Assign only case with internal title as "NOT SIE"
+- Reach out to Support Engineer/TA regarding any support case that is about to miss SLA < 5mins.
+
+</details>
+
 ## Q&A
 
 ### I got a case before SIE is declared and I'm not part of the task team
