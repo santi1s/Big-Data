@@ -186,9 +186,11 @@ sequenceDiagram
 # Wiki Updates over Last Week (Updated Fridays)
 
 ## Work Items Completed in Last Week
+Updated June 5th, 2020
 None.
 
 ## All Other Non-Product Changes
+Updated June 5th, 2020
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Date</th>
