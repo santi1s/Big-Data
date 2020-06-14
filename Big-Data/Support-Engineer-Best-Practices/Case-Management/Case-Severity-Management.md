@@ -19,11 +19,11 @@ It can be divided to **three parts** overall:
 - Can't access Production Cosmos DB database/Azure Data Lake Storage Gen1, or can't read/write data in them; 
 - Suddenly fail to run the ADF daily production pipeline somehow;
 - Data Explorer/Stream Analytics production cluster can't process data, etc.
-The most importantly, it has <u>**no**</u> any workaround <u>for above scenarios</u> and customer is <u>being blocked on production</u> system.
 - The solution/configuration was tested and work properly on the QAS system, but after deployment to the PRD, it does not work. (QAS and PRD have the exactly same configuration).
 
----
+The most importantly, it has <u>**no**</u> any workaround <u>for above scenarios</u> and customer is <u>being blocked on production</u> system.
 
+---
 ##Expected customer's response for Severity A
 From document [Support scope and responsiveness](https://azure.microsoft.com/en-us/support/plans/response/):
 Customer **confirms** that the issue has **critical business impact**, with severe loss and degradation of services.
