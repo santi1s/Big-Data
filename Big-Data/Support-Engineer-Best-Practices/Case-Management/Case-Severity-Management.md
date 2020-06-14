@@ -24,7 +24,7 @@ The most importantly, it has <u>**no**</u> any workaround <u>for above scenarios
 
 ---
 
-##Expected customer's response for Severity A:
+##Expected customer's response for Severity A
 From document [Support scope and responsiveness](https://azure.microsoft.com/en-us/support/plans/response/):
 Customer **confirms** that the issue has **critical business impact**, with severe loss and degradation of services.
 Customer **needs to commit to continuous, 24x7 operation, every day** with the Microsoft team until resolution, **otherwise**, Microsoft may at its discretion decrease the Severity to level B.
@@ -41,9 +41,9 @@ So when you find for one of below cases:
 
 E.g. Customer is doing a testing in the QAS environment instead of production one; Customer is asking some how-to questions; That has never worked before and customer is doing the first time deployment/configuration; Customer is asking for a RCA for previous mitigated issue; Customer is creating severity A for whatever issue and only wants to get faster response.
 
-2). **Customer is not available 24x7:** Customer is not reachable for quite some period of time / for multiple times. (Very likely for night in customer's TZ). Or, customer explicitly mentions he/she will go to sleep and not online 7*24. 
+2). **Customer is not available 24x7:** Customer is not reachable for quite some period of time / for multiple times. (Very likely for night in customer's TZ). Or, customer explicitly mentions he/she will go to sleep and not online 24x7. 
 	
-**Note:** Please do **NOT** just check customer is active in your own region, especially when you are in a closer time zone with customer, but please double check if they **will really be** <u>available 24x7</u>, **after their business hours** (in your next shift).
+**Note:** Please do **NOT just** check customer is active in your own region, especially when you are in a closer time zone with customer, but please double check if they **will really be** <u>available 24x7</u>, **after their business hours** (in your next shift).
 
 i.e. We can see some engineers just see 24x7 flag, then he/she doesn’t ask or confirm with customer, and **assume** customer is available 24x7 so transfer the case to the next region. 
 Then engineers of the next regions can't reach out to customers as who have been out of working hours or gone for rest already. (But one resource has been already occupied for this. Further follow-up and hand-over across region takes unnecessary time)
@@ -63,6 +63,7 @@ Otherwise, IF (2 == false), which means customer is really 24x7 available and re
 **Rule 3(Fail to run both Rule 1 and 2):**
 IF (1 == false & 2 == false & 3 == false & 4 == false), please keep the severity as A, then [transfer to the next region.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=process-for-critical-%2F-24*7-cases)
 <span style="color:#DF0101;">**Exception:** </span> Political/special reason stated by customer or TAM to keep the case as Severity A. 
+(Any exceptional reason to keep Sev A, please specify it clearly in 'Reason for CritSit' in [Handover Note](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=general-template) so next engineer can understand the special situation.)
 
 ---
 **Additional Info:**
