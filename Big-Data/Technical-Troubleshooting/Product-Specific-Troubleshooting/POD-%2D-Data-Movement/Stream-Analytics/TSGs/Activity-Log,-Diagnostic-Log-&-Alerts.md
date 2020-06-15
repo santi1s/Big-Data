@@ -9,7 +9,7 @@ Activity Logs. Provides insight into the operations on each Azure resource in th
      https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log-view
 
 ##**II. STEPS: Setup and Monitor Diagnostic logs and Alert**  
-Diagnostic Logs. Stream Analytics writes detailed information and example events to the resource logs. In some cases, summary of this information is also provided through portal notifications.  Turning on resource logs and sending them to Azure Monitor logs is highly recommended. They are off by default.  You can use services like Azure Storage, Azure Event Hubs, and Azure Monitor logs to analyze nonconforming data. You are charged based on the pricing model for those services.
+Diagnostic Logs. Stream Analytics writes detailed information and example events to the resource logs. In some cases, summary of this information is also provided through portal notifications.  Turning on resource logs and sending them to Azure Monitor logs is highly recommended. They are off by default.  You can use Azure Monitor logs as a service to analyze nonconforming data. You are charged based on the pricing model for the service.
 -  Example of Error detail seen in logs : <span style="color:#0000FF"> : Cannot set column 'title'. The value violates the MaxLength limit of this column. By default, Azure Stream Analytics retries writing the event indefinitely until the write succeeds. Consider choosing Drop Output Error Policy to skip such errors, so an error wouldn't block the job progress.</span>
 
    1. Create Log Analytics resource (in same region as ASA job) 
