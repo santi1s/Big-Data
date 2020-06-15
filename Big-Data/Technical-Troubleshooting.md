@@ -14,5 +14,50 @@ If you would like to contribute, please follow up here:
 
 # Troubleshooting Basics
 
-## Troubleshooting Flow 
+## Think Through a Problem
+
+### 1. Define the Problem
+
+<details>
+<summary>Click here to expand or collapse this section</summary>
+
+1. **Who** is affected by the problem?
+2. **What** are the symptoms?
+3. **When** does the problem occur?
+4. **Where** does the problem occur?
+(What components are involved?)
+5. **Why** is this important to solve the problem? 
+(Are there workarounds?)
+
+</details>
+
+### 2. Summarize/Describe
+<details>
+<summary>Click here to expand or collapse this section</summary>
+
+</details>
+
+### 3.  Create Hypothesis
+<details>
+<summary>Click here to expand or collapse this section</summary>
+
+
+</details>
+
+### 4. Test Hypothesis
+<details>
+<summary>Click here to expand or collapse this section</summary>
+
+
+</details>
+
+### 5. Verify Root Cause
+<details>
+<summary>Click here to expand or collapse this section</summary>
+
+
+</details>
+
+
+## Troubleshooting Resources Flow 
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
