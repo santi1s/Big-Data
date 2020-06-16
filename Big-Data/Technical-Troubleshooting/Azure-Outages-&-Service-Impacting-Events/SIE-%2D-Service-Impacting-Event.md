@@ -233,6 +233,11 @@ Go to [Iridias] and search for the SIE number to find the RCA that’s posted Pu
 
 No. For ALL cases, Premier, Broad commercial / Pro customers, just check the SIE checkbox and update the ICM Incident number to the case. They will receive bulk communications via SIE tool
 
+## Service Desk Roleset for SIE
+
+![image.png](/.attachments/image-456c406f-55fe-41ef-a930-81ef0d4c433e.png)
+
+
 ## Resources
 
    - [Email template]
