@@ -34,22 +34,41 @@ If you would like to contribute, please follow up here:
 
 # Troubleshooting a Break/Fix Case
 
-## Think Through a Problem
+Break/Fix Cases are the majority of the cases you will see as a support engineer. **A break/fix issue is an issue where the product is not behaving as expected and is throwing an error, not operating as anticipated, or producing unexpected results.**
+
+For Example:
+1. _When running my script, I am getting a 403 Forbidden error…_
+2. _The portal should do X, but instead I am seeing Y behavior._
+3. _My job used to work, but is now failing with this error…_
+
+Even if you aren't sure how to understand or get started troubleshooting an issue, you can use the below steps to troubleshoot **any** case.
+
+<center> <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Use this process even when you have lots of cases and are feeling rushed.</span>
+
+**Maybe especially when you are feeling rushed/overwhelmed.**
+This process will help you solve your cases more quickly. Though it seems like a lot of steps, you will get faster with experience and this process will make next steps clearer for all your cases.
+</center>
+
+
+
+## Think Through the Problem
 
 ### 1. Define the Problem
 
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
-1. <span style="color:#DF0101;text-decoration: underline;"> **Who** </span> is affected by the problem?
+When you first begin to troubleshoot a case, first you should fully define the issue by considering the <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">5 W Questions</span> for each individual issue:
+
+1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> **is affected by the problem?**
 _Think about which users/groups/identities are affected and which are not._
-2. **What** are the symptoms?
+2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">What</span> **are the symptoms?**
 _What is the full error message, or what is the full behavior that is being seen in your customer's environment?_
-3. **When** does the problem occur?
+3. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">When</span> **does the problem occur?**
 _What is the timestamp of the latest occurrence? Has there always been an issue, or did this scenario work as expected before? When did the issue first occur? When did it last occur?_
-4. **Where** does the problem occur?
+4. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Where</span> **does the problem occur?**
 _Are only specific machines affected by the problem? What components/resources are involved? Storage? Azure Network? Custom Scripts? Third Party Tools?_
-5. **Why** is this important to solve the problem? 
+5. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why</span> **is this important to solve the problem?** 
 _If you understand how a problem is affecting your customer and what a problem is preventing your customer from doing, you may be able to think of workarounds-- other ways they can perform their needed tasks while you troubleshoot the issue._
 
 </details>
