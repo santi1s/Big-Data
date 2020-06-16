@@ -80,6 +80,7 @@ _If you understand how a problem is affecting your customer and what a problem i
 <center>
 <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Write a Statement</span> 
 </center>
+
 Using the answers from your **5 W Questions** in the section above, write a 1-3 sentence summary of your issue. This statement should be brief as possible, but describe the entire issue.
 
 Either send this summary to your customer, or discuss it with them on a call to make sure that your understanding of the problem is complete and correct.
@@ -93,6 +94,10 @@ This way everyone will be on the same page about what issue you are troubleshoot
 Mostly using the **Where** and **Who** questions of the **5 W Questions** in the section above, draw a flow chart/diagram showing flow of data, or who is interacting with what, and what could be between them.
 
 You'll use this chart to identify all the technologies/resources/possible break points in the full process that your customer is following. You can then think through how each of these pieces could fail, and how you can check for the health of each of these pieces. This will help you to identify **where** the issue is occurring.
+
+<center> For Example: </center>
+
+![image.png](/.attachments/image-c109b363-6960-4ed9-801e-29ceea07cef7.png)
 
 </details>
 
