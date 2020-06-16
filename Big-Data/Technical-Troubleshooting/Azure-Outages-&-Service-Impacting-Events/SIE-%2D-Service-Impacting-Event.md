@@ -239,10 +239,18 @@ Once you have found your specific SIE Number, you can select all cases under tha
 3. From here you can update the state, status, internal title, product family, product version, and Root Cause for **ALL** selected cases simultaneously. 
 ![image.png](/.attachments/image-cc34e89f-885b-44c1-8826-febe700d718a.png)
 
-### Closing SIE Cases
-1. Make sure you have send out the 'Case Resolved'
-
 ### Update SIE Communications 
+
+### Closing SIE Cases
+1. Make sure you have sent out the 'Case Resolved' communication for all SIE cases. This communication should contain this information:
+"Please confirm that the issue is resolved by updating your case. If your issue is not resolved, please re-open your case and send any further information about the issue you are experiencing."
+2. If there are a low number of cases, wait for all customers to confirm resolution and close cases out individually.
+3. If there are a high number of cases, wait for confirmation from several customers that the issue is resolved, and follow close process at your EoD.
+4. To close, select all cases associated with your SIE, and select 'Update SIE Cases'
+5. Change Case State to 'Closed' and status to 'Resolved' as well as updating any routing information and root cause appropriately.
+6. Submit changes.
+
+
 
 ## Q&A
 
