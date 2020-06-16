@@ -1,8 +1,6 @@
-<center>
-
-shortURL for this page: https://aka.ms/bigdatasie
-
-</center>
+---
+shortUrl: "[aka.ms/bigdatasie](https://aka.ms/bigdatasie)"
+---
 
 
 This playbook is a guideline for engineers, leads and managers to execute consistently on process for handling a Service Impacting Event (also referred to as a Live Site Issue, or LSI) outlining specific actions that need to occur at each of the following time intervals and organizational levels. It is designed for both Premier and Broad Commercial cases.
