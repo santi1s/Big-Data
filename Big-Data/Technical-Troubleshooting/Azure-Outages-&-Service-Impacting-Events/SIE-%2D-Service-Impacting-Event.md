@@ -219,12 +219,24 @@ Add your SIE number at the end of the URL to search it specifically. For example
 2. You can go to https://servicedesk.microsoft.com/#/home and under the 'Search' pane, change the 'Case Id' drop down to 'SIE ID' and search for the current SIE number.
 ![image.png](/.attachments/image-36b1e0b3-a02d-4313-aa7c-a81f8bbfecef.png)
 
-### SIE Tools
+### Navigate the SIE Tool
 
-Once you have found your specific SIE Number, you can select all cases under that number by pressing the 
+To view all cases associated with an SIE, you can select the + button next to the SIE ID.
+![image.png](/.attachments/image-d30be884-d5cb-4529-a802-88637540a3a3.png)
+
+Any case with an unread inbound communication will show a mail icon next to the case number.
+![image.png](/.attachments/image-9125da07-b3ce-4e62-9aa3-1506d94817e9.png)
+
+Once you have found your specific SIE Number, you can select all cases under that number by pressing the :white_check_mark: check next to the SIE Number
+![image.png](/.attachments/image-e4a857cb-e960-426e-a0d9-6351d45e6b44.png)
 
 
+### Update SIE Cases
+1. Select all cases associated with your SIE by selecting the check mark next to the SIE Number.
+2. Select the 'Update SIE Cases' Link at the top of the query pane.
+![image.png](/.attachments/image-5402ac07-c26a-417f-8504-a7f23d615b6b.png)
 
+### Update SIE Communications 
 
 ## Q&A
 
