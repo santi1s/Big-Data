@@ -214,6 +214,11 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 <details>
   <summary>Click here to expand or collapse this section</summary>
 
+1. 
+1. For any currently owned cases not marked for SIE, make sure they are appropriately added to the SIE tool by:
+- Adding the product-specific SIE/ICM number to the case under the 'ICM' box in service desk, and checking the 'Service Impacting Event' box.
+![image.png](/.attachments/image-7a17ff14-45fb-4f4d-ba73-4d56d484e1b8.png)
+
 1. For Sev A Critsits, call customers and update them about automatic communications from there after
 
    - Note: If customer specifically requests for an engineer to be assigned, uncheck the SIE check box and continue working with them
