@@ -42,12 +42,15 @@ If you would like to contribute, please follow up here:
 <summary>Click here to expand or collapse this section</summary>
 
 1. **Who** is affected by the problem?
+_Think about which users/groups/identities are affected and which are not._
 2. **What** are the symptoms?
+_What is the full error message, or what is the full behavior that is being seen in your customer's environment?_
 3. **When** does the problem occur?
+_What is the timestamp of the latest occurrence? Has there always been an issue, or did this scenario work as expected before? When did the issue first occur? When did it last occur?_
 4. **Where** does the problem occur?
-(What components are involved?)
+_Are only specific machines affected by the problem? What components/resources are involved? Storage? Azure Network? Custom Scripts? Third Party Tools?_
 5. **Why** is this important to solve the problem? 
-(Are there workarounds?)
+_If you understand how a problem is affecting your customer and what a problem is preventing your customer from doing, you may be able to think of workarounds-- other ways they can perform their needed tasks while you troubleshoot the issue._
 
 </details>
 
