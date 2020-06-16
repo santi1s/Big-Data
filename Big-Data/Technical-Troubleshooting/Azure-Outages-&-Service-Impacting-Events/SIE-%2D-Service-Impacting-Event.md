@@ -108,9 +108,10 @@ The TAs selected by the acting manager will do the following:
 2. Update Manager about the outage and send out communication to the team every time that a communication is sent to the customers
 
    - Email to Global Technology DL
-     - Big Data: Open Source: bdopensource@microsoft.com
-     - Big Data: Data Movement: bddatamovement@microsoft.com
-     - Big Data: Databases: bddatabase@microsoft.com
+     - Data Movement: bddatamovement@microsoft.com
+     - Databases: bddatabase@microsoft.com
+     - HDInsight: csshdi@microsoft.com
+     - Spark: cssspark@microsoft.com
 
    - Optional if manager did not create: Create a chat in Teams and invite all relevant stakeholders, e.g., Mgrs., TAs, SEs, EEEs, IMs, etc.
 
