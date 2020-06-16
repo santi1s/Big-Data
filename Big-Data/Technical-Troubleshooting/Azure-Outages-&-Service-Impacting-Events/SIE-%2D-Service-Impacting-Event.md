@@ -244,6 +244,8 @@ Once you have found your specific SIE Number, you can select all cases under tha
 1. Select all cases associated with an SIE by clicking the check mark next to the top SIE ID.
 2. Select 'Create SIE Communications' link at the top of the query pane.
 ![image.png](/.attachments/image-6254316f-5268-47c3-91c8-cd9da52917ce.png)
+3. Select the email template appropriate to the stage of the case.
+![image.png](/.attachments/image-792ef892-a131-42c7-8b26-fb77d6d8caab.png)
 
 ### Closing SIE Cases
 1. Make sure you have sent out the 'Case Resolved' communication for all SIE cases. This communication should contain this information:
