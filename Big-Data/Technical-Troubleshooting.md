@@ -41,7 +41,7 @@ If you would like to contribute, please follow up here:
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
-1. **Who** is affected by the problem?
+1. <span style="color:#DF0101;text-decoration: underline;"> **Who** </span> is affected by the problem?
 _Think about which users/groups/identities are affected and which are not._
 2. **What** are the symptoms?
 _What is the full error message, or what is the full behavior that is being seen in your customer's environment?_
