@@ -236,7 +236,7 @@ Once you have found your specific SIE Number, you can select all cases under tha
 2. Select the 'Update SIE Cases' Link at the top of the query pane.
 ![image.png](/.attachments/image-5402ac07-c26a-417f-8504-a7f23d615b6b.png)
 
-3. From here you can update the state, status, internal title, product family, product version, and Root Cause for **ALL** selected cases.
+3. From here you can update the state, status, internal title, product family, product version, and Root Cause for **ALL** selected cases simultaneously. 
 ![image.png](/.attachments/image-cc34e89f-885b-44c1-8826-febe700d718a.png)
 
 ### Update SIE Communications 
