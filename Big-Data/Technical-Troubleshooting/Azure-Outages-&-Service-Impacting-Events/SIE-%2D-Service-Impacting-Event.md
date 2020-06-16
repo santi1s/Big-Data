@@ -207,6 +207,25 @@ During a SIE the Duty Manager responsibilities will be:
 
 </details>
 
+## How to Use the SIE Tool
+
+### Where to Find the SIE Tool
+
+There are two ways to find the SIE Tool:
+
+1. Go directly to https://servicedesk.microsoft.com/#/mycases/siecases/
+Add your SIE number at the end of the URL to search it specifically. For example: https://servicedesk.microsoft.com/#/mycases/siecases/0000000
+
+2. You can go to https://servicedesk.microsoft.com/#/home and under the 'Search' pane, change the 'Case Id' drop down to 'SIE ID' and search for the current SIE number.
+![image.png](/.attachments/image-36b1e0b3-a02d-4313-aa7c-a81f8bbfecef.png)
+
+### SIE Tools
+
+Once you have found your specific SIE Number, you can select all cases under that number by pressing the 
+
+
+
+
 ## Q&A
 
 ### I got a case before SIE is declared and I'm not part of the task team
