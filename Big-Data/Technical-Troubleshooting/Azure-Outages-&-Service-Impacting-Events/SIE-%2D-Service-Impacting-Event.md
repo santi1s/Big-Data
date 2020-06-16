@@ -120,7 +120,11 @@ The TAs selected by the acting manager will do the following:
 
 3. TA or designated CSS engineer will continue to be on Partner controlled bridge and/or Technical controlled bridge to get latest information on the SIE
 
-4. Continue to scan the queue for any new incoming cases and update them accordingly
+4. Continue to scan the queue for any new incoming cases and update them either as "NOT SIE" in the internal title or add them to the pool of SIE cases by:
+- Taking ownership of the case.
+- Adding the Product-Specific SIE ICM Number into the 'ICM' space in the case. 
+- Selecting the 'SIE' check box next to the ICM.
+The latest update from the SIE tool will be automatically sent to the customer, and the case status will be updated to reflect the latest status change as mandated from the SIE tool.
 
 5. For ALL cases:
 
