@@ -64,14 +64,14 @@ If you would like to contribute, please follow up here:
 
 </details>
 
-### 4. Test Hypothesis
+### 4. Choose Next Steps
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
 
 </details>
 
-### 5. Verify Root Cause
+### 5. Test Solutions/Execute Next Steps
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
