@@ -109,6 +109,20 @@ If you would like to contribute, please follow up here:
 
 ## Who to Contact When You Need Help
 
+| **Team Role** | **Technical/Troubleshooting Help Needed** | **Case Handling/Customer Management Help Needed** | 
+|-------------------------------|------------------------------------|--------------------------------------------|
+| **Peer**  |                :white_check_mark:                    |   :white_check_mark:                                         |
+|**Technical Advisor (TA)** |:white_check_mark:|:white_check_mark:|
+| **Subject Matter Expert (SME)**|:white_check_mark:||
+|**Escalation Engineer (EE)**|:white_check_mark:|:white_check_mark:|
+|**Triage Meeting**|:white_check_mark:||
+|**AVA**|:white_check_mark:||
+|**Product Group Teams Chat**|:white_check_mark:||
+|**Technical Account Manager (TAM)**||:white_check_mark:|
+|**Manager**||:white_check_mark:|
+
+
+
 ## Troubleshooting with a Customer
 
 ## Quick Reference
