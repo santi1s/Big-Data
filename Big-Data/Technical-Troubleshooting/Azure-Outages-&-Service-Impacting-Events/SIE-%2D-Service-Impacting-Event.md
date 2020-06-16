@@ -241,6 +241,10 @@ Once you have found your specific SIE Number, you can select all cases under tha
 
 ### Update SIE Communications 
 
+1. Select all cases associated with an SIE by clicking the check mark next to the top SIE ID.
+2. Select 'Create SIE Communications' link at the top of the query pane.
+![image.png](/.attachments/image-6254316f-5268-47c3-91c8-cd9da52917ce.png)
+
 ### Closing SIE Cases
 1. Make sure you have sent out the 'Case Resolved' communication for all SIE cases. This communication should contain this information:
 "Please confirm that the issue is resolved by updating your case. If your issue is not resolved, please re-open your case and send any further information about the issue you are experiencing."
