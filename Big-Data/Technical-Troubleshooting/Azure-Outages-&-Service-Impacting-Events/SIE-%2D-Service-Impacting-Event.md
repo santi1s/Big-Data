@@ -164,29 +164,34 @@ Example:
 
 SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failure for all resources in East US 2
 
-8. Use Case Buddy to meet SLA on all Outage cases.
 
-9. Designate one TA/SME to scan the SIE cases list which has "Inbound Email" column "Yes", and if specific assistance is required, uncheck the SIE box, change the title to "SIE # SPECIAL ATTENTION NEEDED" and send the case back to the queue
+8. Designate one TA/SME to scan the SIE cases list which has "Inbound Email" column "Yes", and if specific assistance is required, uncheck the SIE box, change the title to "SIE # SPECIAL ATTENTION NEEDED" and send the case back to the queue
 
    - For a scenario where a different TZ is monitoring the SIE cases and doesn’t own them, when the “Inbound email” column says “yes”, the case must be yanked in order for action to be properly reflected on Service Desk, i.e., SIE “Inbound Email” to change status
 
-10. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
+9. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
 
-11. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
+10. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
 
-   - If customer is still impacted, check with PG immediately and uncheck the SIE checkbox so that it appears in queue (Push it back to queue if it needs a new engineer).
 
-   - If a customer verified mitigation and asked to close the case no need to wait for RCA, just close it.
 
-   - If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
+- Confirm if a customer is still impacted by checking current symptoms and confirm if it is related to the outage, or if they are experiencing some other problem.
 
-12. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
+- If experiencing some other issue, uncheck SIE box, remove SIE ICM number, and update internal title to "NON SIE - NEEDS REASSIGNMENT" then move the case back to the queue.
 
-13. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
+- If customer is still impacted, check with PG immediately and uncheck the SIE checkbox so that it appears in queue (Push it back to queue if it needs a new engineer).
 
-14. Continue checking the SIE list for incoming emails from CX and reply accordingly
+- If a customer verified mitigation and asked to close the case no need to wait for RCA, just close it.
 
-15. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
+- If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
+
+11. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
+
+12. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
+
+13. Continue checking the SIE list for incoming emails from CX and reply accordingly
+
+14. After 24 hours or more (confirm with manager) close all the cases that either are unresponsive after previous communication or accepted close
 
 </details>
 
