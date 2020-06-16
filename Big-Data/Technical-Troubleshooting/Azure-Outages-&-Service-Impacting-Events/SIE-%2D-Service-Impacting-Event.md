@@ -146,7 +146,23 @@ The latest update from the SIE tool will be automatically sent to the customer, 
 
    - Send the same updates to the team as detailed in step 2
 
-7. Update Internal title on all Outage cases to show SIE number(that would be used for reporting purpose in Case Triage Tool) and short description of issue that would help TAM/Incident Manager/other's
+7. Update Internal title on all Outage cases to show SIE number(that would be used for reporting purpose in Case Triage Tool), current status, current SIE managing user alias, and short description of issue that would help TAM/Incident Manager/other's identify issue.
+
+
+
+Template:
+
+
+
+SIE <product specific SIE Number> - Current Owner: <alias> - Status: <status>  - Outage: <1 sentence description of outage>
+
+
+
+Example:
+
+
+
+SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failure for all resources in East US 2
 
 8. Use Case Buddy to meet SLA on all Outage cases.
 
