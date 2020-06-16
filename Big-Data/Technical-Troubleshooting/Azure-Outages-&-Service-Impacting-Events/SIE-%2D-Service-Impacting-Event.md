@@ -214,16 +214,15 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 <details>
   <summary>Click here to expand or collapse this section</summary>
 
-1. 
 1. For any currently owned cases not marked for SIE, make sure they are appropriately added to the SIE tool by:
 - Adding the product-specific SIE/ICM number to the case under the 'ICM' box in service desk, and checking the 'Service Impacting Event' box.
 ![image.png](/.attachments/image-7a17ff14-45fb-4f4d-ba73-4d56d484e1b8.png)
 
-1. For Sev A Critsits, call customers and update them about automatic communications from there after
+2. For Sev A Critsits, call customers and update them about automatic communications from there after
 
    - Note: If customer specifically requests for an engineer to be assigned, uncheck the SIE check box and continue working with them
 
-2. Scan the queue and tag any cases that are related to SIE.
+3. Scan the queue and tag any cases that are related to SIE.
 
    - Update the IcM incident # field in Service Desk to include the SIE number
 
@@ -233,9 +232,9 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 
    - Make sure the "Service Impacting Event (SIE)" checkbox is marked
 
-3. If you are not part of the team who are working on SIE's and got an SIE case, please tag the case, call customer, update them and then follow the instructions received in the communication sent to the Pod about the SIE, so the Task Team can take care of the case and also you can move on to the next case to unblock yourself
+4. If you are not part of the team who are working on SIE's and got an SIE case, please tag the case, call customer, update them and then follow the instructions received in the communication sent to the Pod about the SIE, so the Task Team can take care of the case and also you can move on to the next case to unblock yourself
 
-4. Scan the SIE tagged cases for any customer responses post mitigation which needs further assistance
+5. Scan the SIE tagged cases for any customer responses post mitigation which needs further assistance
 
 </details>
 
