@@ -12,7 +12,14 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
-# Troubleshooting Basics
+::: video
+# Troubleshooting Training Video
+
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/a7eba3ff-0400-a936-d9af-f1eaaf4c64a6?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+:::
+
+# Break/Fix Troubleshooting Basics
 
 ## Think Through a Problem
 
