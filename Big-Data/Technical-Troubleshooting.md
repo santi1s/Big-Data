@@ -78,6 +78,7 @@ If you would like to contribute, please follow up here:
 
 </details>
 
+## Example Problem
 
 ## Where to Go When You Don't Know Where to Look Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
