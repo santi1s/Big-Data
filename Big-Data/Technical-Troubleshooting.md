@@ -27,6 +27,7 @@ If you would like to contribute, please follow up here:
 **02:09** - Kinds of Issues
 **04:15** - How to Think Through a Break/Fix Problem
 **05:06** - Define the Problem
+**09:44** - Summarize/Describe the Problem
 
 </details>
 
@@ -123,6 +124,26 @@ You'll use this chart to identify all the technologies/resources/possible break 
 </details>
 
 ## Example Problem
+
+<details>
+<summary>Click here to expand or collapse the example problem.</summary>
+
+**Problem Description:** “I am getting an access error trying to access my data through the portal…”
+
+**1. Define the Problem using the 5 W Questions**
+
+1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> **is affected by the problem?**
+_Think about which users/groups/identities are affected and which are not._
+2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">What</span> **are the symptoms?**
+_What is the full error message, or what is the full behavior that is being seen in your customer's environment?_
+3. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">When</span> **does the problem occur?**
+_What is the timestamp of the latest occurrence? Has there always been an issue, or did this scenario work as expected before? When did the issue first occur? When did it last occur?_
+4. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Where</span> **does the problem occur?**
+_Are only specific machines affected by the problem? What components/resources are involved? Storage? Azure Network? Custom Scripts? Third Party Tools?_
+5. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why</span> **is this important to solve the problem?** 
+_If you understand how a problem is affecting your customer and what a problem is preventing your customer from doing, you may be able to think of workarounds-- other ways they can perform their needed tasks while you troubleshoot the issue._
+
+</details>
 
 ## Where to Go When You Don't Know Where to Look Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
