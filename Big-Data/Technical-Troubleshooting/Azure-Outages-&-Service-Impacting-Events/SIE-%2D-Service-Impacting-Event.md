@@ -241,11 +241,28 @@ Once you have found your specific SIE Number, you can select all cases under tha
 
 ### Update SIE Communications 
 
+<center>
+
+**For all case communications, where possible please use official communications for the issue-- these will be produced by an AzComm team member (who will be in an SIE bridge) and you can obtain communications directly from them, or obtain them from the Azure Status page once they are published.**
+
+
+
+https://status.azure.com/
+
+
+
+**For any other communications you've written, confirm with Product Group for accuracy before sending.**
+
+</center>
+
 1. Select all cases associated with an SIE by clicking the check mark next to the top SIE ID.
 2. Select 'Create SIE Communications' link at the top of the query pane.
 ![image.png](/.attachments/image-6254316f-5268-47c3-91c8-cd9da52917ce.png)
 3. Select the email template appropriate to the stage of the case.
 ![image.png](/.attachments/image-792ef892-a131-42c7-8b26-fb77d6d8caab.png)
+4. In these templates, anything in the [[ ]] will be automatically populated by the SIE tool, so you need not update these pieces of text for each case.
+5. _For Initial Emails and Update Emails_ - Update the **Summary of Impact** and **Next Steps** sections with information relevant to your outage.  **Summary of Impact** should cover behaviors/symptoms that users might see and the context they might see it in, be it a specific Azure Resource or Region. **Next Steps** should cover Microsoft's currently published status, when your customer will receive the next communication and any potential workarounds that are available to your customer to get around the problem while we resolve the case.
+6. _For Resolved Emails_ - Update the **Summary of Impact** section with behaviors/symptoms that users might have seen and the context they might have seen them in be ithey a specific Azure Resource or Region. If available, include root cause information -- or include that root cause information will be provided and where it can be found. (This will usually be on the Azure Status History Page (https://status.azure.com/en-us/status/history/) but if not, ask your product team where it can be found.) **Also include** a request for confirmation that the issue is resolved, and let them know that if the issue is not resolved they should re-open the case and contact us through the case tool. This way if any case has been inappropriately marked we will still be able to follow up with the customer.
 
 ### Closing SIE Cases
 1. Make sure you have sent out the 'Case Resolved' communication for all SIE cases. This communication should contain this information:
