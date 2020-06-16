@@ -20,6 +20,16 @@ If you would like to contribute, please follow up here:
 
 :::
 
+<details>
+<summary>Click here for Video Timestamps</summary>
+
+**00:00** - Introduction
+**02:09** - Kinds of Issues
+**04:15** - How to Think Through a Break/Fix Problem
+**05:06** - Define the Problem
+
+</details>
+
 </center>
 
 # Break/Fix Troubleshooting Basics
