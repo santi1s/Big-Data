@@ -156,7 +156,11 @@ _Customer Responses to these 5 W Questions_
 
 </i>
 
-**2. Describe/Summarize the Problem **
+**2. Describe/Summarize the Problem**
+
+1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Write a Statement</span>
+
+2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Draw It Out</span>
 
 </details>
 
