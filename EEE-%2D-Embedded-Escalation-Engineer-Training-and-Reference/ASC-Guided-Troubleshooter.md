@@ -31,7 +31,7 @@ Content is authored using Markdown and stored in the Azure Self-help Github.
 
 #Prerequisites
 The following are the main stuff you need to do before starting with your guided troubleshooter: 
-- Join the [ASC and ADS Repos](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fazuresupportcenterdocs.azurewebsites.net%2Fdevelopers%2FOnboarding%2FGettingAccess.html&data=02%7C01%7CVimal.Sharma%40microsoft.com%7C1304d0f1ad3446e8e6f308d7e76a5737%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637232316238892210&sdata=xSa0WBDd8F2A6M6U50i9kGiiSUC4104yXE5%2FenWJRs4%3D&reserved=0) - ASC and ADS Repos – In MyAccess, please request for groups **19126** and **19401**. 
+- Join the [ASC and ADS Repos](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fazuresupportcenterdocs.azurewebsites.net%2Fdevelopers%2FOnboarding%2FGettingAccess.html&data=02%7C01%7CVimal.Sharma%40microsoft.com%7C1304d0f1ad3446e8e6f308d7e76a5737%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637232316238892210&sdata=xSa0WBDd8F2A6M6U50i9kGiiSUC4104yXE5%2FenWJRs4%3D&reserved=0) – In MyAccess, please request for groups **19126** and **19401**. 
 - Email [Saranga Goswami](mailto:sarangag@microsoft.com) and ask him to add you to Geneva Automation in PPE.
 
 
