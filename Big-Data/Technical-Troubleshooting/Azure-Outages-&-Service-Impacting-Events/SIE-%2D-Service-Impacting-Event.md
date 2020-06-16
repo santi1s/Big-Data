@@ -239,6 +239,9 @@ Once you have found your specific SIE Number, you can select all cases under tha
 3. From here you can update the state, status, internal title, product family, product version, and Root Cause for **ALL** selected cases simultaneously. 
 ![image.png](/.attachments/image-cc34e89f-885b-44c1-8826-febe700d718a.png)
 
+### Closing SIE Cases
+1. Make sure you have send out the 'Case Resolved'
+
 ### Update SIE Communications 
 
 ## Q&A
