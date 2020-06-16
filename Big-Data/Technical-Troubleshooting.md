@@ -28,6 +28,7 @@ If you would like to contribute, please follow up here:
 **04:15** - How to Think Through a Break/Fix Problem
 **05:06** - Define the Problem
 **09:44** - Summarize/Describe the Problem
+**18:19** - Consider Possible Root Causes
 
 </details>
 
@@ -82,7 +83,10 @@ _If you understand how a problem is affecting your customer and what a problem i
 <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Write a Statement</span> 
 </center>
 
-Using the answers from your **5 W Questions** in the section above, write a 1-3 sentence summary of your issue. This statement should be brief as possible, but describe the entire issue.
+Using the answers from your **5 W Questions** in the section above, write a 1-3 sentence summary of your issue. This statement should be brief as possible, but describe the entire issue. Focus on what **is** the problem as well as what **is not** the problem.
+
+For example, only one user is affected by this issue and other users are not seeing a problem.
+This issue only occurs intermittently and is not consistant.
 
 Either send this summary to your customer, or discuss it with them on a call to make sure that your understanding of the problem is complete and correct.
 
@@ -130,18 +134,29 @@ You'll use this chart to identify all the technologies/resources/possible break 
 
 **Problem Description:** “I am getting an access error trying to access my data through the portal…”
 
-**1. Define the Problem using the 5 W Questions**
+**1. Define the Problem using the 5 W Questions** - Here are some example W questions to help resolve the above issue.
 
-1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> **is affected by the problem?**
-_Think about which users/groups/identities are affected and which are not._
-2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">What</span> **are the symptoms?**
-_What is the full error message, or what is the full behavior that is being seen in your customer's environment?_
-3. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">When</span> **does the problem occur?**
-_What is the timestamp of the latest occurrence? Has there always been an issue, or did this scenario work as expected before? When did the issue first occur? When did it last occur?_
-4. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Where</span> **does the problem occur?**
-_Are only specific machines affected by the problem? What components/resources are involved? Storage? Azure Network? Custom Scripts? Third Party Tools?_
-5. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why</span> **is this important to solve the problem?** 
-_If you understand how a problem is affecting your customer and what a problem is preventing your customer from doing, you may be able to think of workarounds-- other ways they can perform their needed tasks while you troubleshoot the issue._
+1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> - Do all users see this error, a subset, or just you?
+2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">What</span> - What is the full error message?
+3. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">When</span> - Do you see this error every time you attempt to access the data? When was the last time you saw this error? Did this work in the past? When did it stop?
+4. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Where</span> Do you only see this error through the portal? Have you tried with a script or another tool?
+Do you see the same error if you use InPrivate browsing?
+5. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why</span> - What do you need to access the data for? What is this error preventing you from doing?
+
+_Customer Responses to these 5 W Questions_
+
+<i>
+
+1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> - Only one user is seeing this error.
+2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">What</span> - “You do not have access. An authorization failure occurred.  This request is not authorized to perform this operation. RequestId:43cca8bf-f01e-0027-7315-431f99000000”
+3. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">When</span> Yes, I see this error every time I attempt to access the data through the portal. Last time: Time:2020-06-15T13:04:15.8727806Z. This used to work. Error started in Mid-March.
+4. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Where</span> Only see error through the portal. ADF and Databricks work fine. I see the same error using InPrivate Browsing
+5. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why</span> - I manage the data through the portal. It is easier to click through than list the data using a script.
+
+
+</i>
+
+**2. Describe/Summarize the Problem **
 
 </details>
 
