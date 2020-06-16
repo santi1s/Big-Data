@@ -159,6 +159,9 @@ _Customer Responses to these 5 W Questions_
 **2. Describe/Summarize the Problem**
 
 1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Write a Statement</span>
+_Using your problem definition questions, write out a brief statement that covers what the issue IS and what it IS NOT_
+**“Since mid-March, <span style="color:#DF0101;">one customer</span> is having consistent trouble attempting to access the data through the portal. Accessing the data through a script works just fine, and other users are also able to access the data as expected.”**
+
 
 2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Draw It Out</span>
 
