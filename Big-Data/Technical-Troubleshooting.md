@@ -32,7 +32,7 @@ If you would like to contribute, please follow up here:
 
 </center>
 
-# Break/Fix Troubleshooting Basics
+# Troubleshooting a Break/Fix Case
 
 ## Think Through a Problem
 
@@ -79,5 +79,51 @@ If you would like to contribute, please follow up here:
 </details>
 
 
-## Troubleshooting Resources Flow 
+## Where to Go When You Don't Know Where to Look Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
+
+### Read Case Description/Error Message
+
+### ASC (Azure Support Center)
+
+### Internal Logs
+
+### Documentation
+
+### Triage Calls/Emails
+
+### TSGs (Troubleshooting Guides)
+
+### Check the Internet
+
+### Draw It Out
+
+### Reproduce in Your Environment
+
+### AVA for Case Assistance
+
+### Request a Case Review
+
+### ICM - Product Team Case
+
+## Who to Contact When You Need Help
+
+## Troubleshooting with a Customer
+
+## Quick Reference
+
+# Troubleshooting an Advisory Case
+
+## What Information We Can Provide
+
+## What to Tell Your Customer
+
+## Where to Get Help 
+
+### Premier Customers
+
+### Professional Customers
+
+### What's a Microsoft Partner?
+
+## Quick Reference
