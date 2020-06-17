@@ -383,8 +383,6 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 ## Where to Go When You Don't Know What to Do Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
 
-</center>
-
 <details>
 <summary>Read Case Description/Error Message</summary>
 
