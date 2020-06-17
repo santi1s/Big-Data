@@ -37,6 +37,7 @@ If you would like to contribute, please follow up here:
 **27:59** - Azure Support Center (ASC)
 **33:10** - Troubleshooting Guides (TSGs)
 **35:04** - Azure Documentation
+**37:21** - Internal Logs
 
 </details>
 
@@ -124,6 +125,9 @@ Were any changes made between when it was working and when it began failing?
 
 **What do you mean by COULD BE and <span style="color:#347C17;">IS</span> and <span style="color:#DF0101;">IS NOT</span>?**
 
+<span style="color:#347C17;">**COULD BE**</span> 
+
+<span style="color:#347C17;">IS</span>
 
 </details>
 
