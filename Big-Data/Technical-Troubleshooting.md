@@ -91,6 +91,8 @@ This process will help you solve your cases more quickly. Though it seems like a
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
+<br>
+
 When you first begin to troubleshoot a case, first you should fully define the issue by considering the <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">5 W Questions</span> for each individual issue:
 
 1. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Who</span> **is affected by the problem?**
@@ -109,6 +111,8 @@ _If you understand how a problem is affecting your customer and what a problem i
 ### 2. Summarize/Describe
 <details>
 <summary>Click here to expand or collapse this section</summary>
+
+<br>
 
 <center>
 <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Write a Statement</span> 
@@ -140,6 +144,8 @@ You'll use this chart to identify all the technologies/resources/possible break 
 ### 3.  Create Hypothesis
 <details>
 <summary>Click here to expand or collapse this section</summary>
+
+<br>
 
 To start hypothesizing about the root cause, think about <span style="color:#347C17;">**COULD BE**</span> affected, but <span style="color:#DF0101;">**IS NOT**</span> 
 Then compare the <span style="color:#DF0101;">**COULD BE but IS NOT**</span> scenario with the <span style="color:#347C17;">**COULD BE and IS**</span>.
@@ -184,6 +190,7 @@ Take your <span style="color:#347C17;">**COULD BE and IS**</span> and <span styl
 ### 4. Choose Next Steps
 <details>
 <summary>Click here to expand or collapse this section</summary>
+<br>
 
 To choose what data to gather next, or which potential solution to pursue, we'll go through four evaluation steps:
 
@@ -214,8 +221,10 @@ Start with those most likely, easiest, and least dangerous steps. These will eli
 ### 5. Test Solutions/Execute Next Steps
 <details>
 <summary>Click here to expand or collapse this section</summary>
+<br>
+Once you have chosen 
 
-
+![image.png](/.attachments/image-12856a5d-a5d9-4222-9366-f5dc4bab3488.png)
 </details>
 
 ## Example Problem
