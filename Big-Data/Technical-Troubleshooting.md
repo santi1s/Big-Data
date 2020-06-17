@@ -57,6 +57,11 @@ If you would like to contribute, please follow up here:
 **1:19:06** - Break/Fix Troubleshooting Summary
 **1:21:00** - Advisory Cases
 **1:24:40** - Steps for Advisory Cases
+**1:26:06** - Advisory Cases for Premier Customers
+**1:27:58** - Advisory Cases for Premier Customers
+**1:29:19** - Microsoft Partners
+**1:30:56** - Microsoft Partners
+**1:31:34** - Troubleshooting Case Summary
 
 </details>
 
@@ -197,10 +202,12 @@ To determine 'ease' consider:
 **4. How Dangerous Is It To Gather Data?**
 For each of the above steps, also evaluate how **dangerous** it is to a customer's environment to gather a piece of data or execute next steps.
 
-Will a step expose private data? Could a step cause further issues in the customer's environment?
+Will a step expose private data? Could a step cause further issues in the customer's environment? 
 
 **5. Evaluate and Choose**
+If you're not sure which steps to take next, take your ratings from steps 1-4 and write them side by side to determine which most likely/easiest to confirm root cause.
 
+Start with those most likely, easiest, and least dangerous steps. These will eliminate possibilities more quickly and leave you with a solution, or more clear next steps.
 
 </details>
 
