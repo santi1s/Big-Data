@@ -246,6 +246,7 @@ While testing a below solution, follow the below flow every time you see an erro
 
 <details>
 <summary>Click here to expand or collapse the example problem.</summary>
+<br>
 
 **Problem Description:** “I am getting an access error trying to access my data through the portal…”
 
