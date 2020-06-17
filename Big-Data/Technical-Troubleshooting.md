@@ -129,6 +129,8 @@ Were any changes made between when it was working and when it began failing?
 
 <span style="color:#347C17;">IS</span>
 
+<span style="color:#DF0101;">IS NOT</span>
+
 </details>
 
 ### 4. Choose Next Steps
