@@ -13,7 +13,7 @@ This playbook is a guideline for engineers, leads and managers to execute consis
 
 ## Demo Video
 
-<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/3e53aebc-853e-421e-8141-137061905b60?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/95e9a3ff-0400-a936-468f-f1eab0419653?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 :::
 
