@@ -51,6 +51,9 @@ During a SIE the manager responsibilities will be:
   - Manager is on point to make the determination whether an event should be considered an SIE or standard operations
     - Run SIE tool if number of support cases > 8
 
+- Create a talent guide that can help with step-by-step process. Dynamics365 Talent template is available at below link
+  - https://onboard.talent.dynamics.com/project/024637
+
 - Initiate this Playbook
 
 - Organize roles
