@@ -375,7 +375,7 @@ _If there was a bug in the portal, other users would also probably see the issue
 
 </details>
 
-## Where to Go When You Don't Know Where to Look Next
+## Where to Go When You Don't Know What to Do Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
 
 ### Read Case Description/Error Message
