@@ -293,11 +293,85 @@ _Think about what **COULD BE** the issue, and **IS**, and what **COULD BE but IS
 <span style="color:#DF0101;">COULD BE and IS NOT</span> - Script is also able to access data
 <span style="color:#DF0101;">COULD BE and IS NOT</span> - Intermittent Issue
 
+**WHEN is the problem happening?**
+This used to work, but stopped working Mid-March.
+This now fails every time.
+
+**What changed between now and mid-March?**
+No official permissions changes.
+Started working from home.
+
 **Differences in Scenarios Between IS and IS NOT:**
 - Location of Access (Different Machines)
 - Different Networks
 - Different Users Authenticating
 - Different Command Used in Portal and Script
+
+**Possible Root Causes Based on Differences, IS, and IS NOT**
+- Firewall blocking some Locations
+- Incorrect User Permissions
+- Network Latency/Timeout
+- Bug with command used in the Portal
+
+**4. Choose Next Steps**
+
+_To choose next steps, consider how likely each root cause is, what information you need to verify root causes, how easy it is to gather this data, how dangerous it is to gather this data._
+
+**Likelihood of Each Root Cause**
+_To choose likelihood of each potential root cause, determine how well each root cause fits your IS, IS NOT, and WHEN statements._
+
+<span style="color:#347C17;text-decoration: underline;font-weight: bold; ">- Firewall blocking some Locations</span> - Likely 
+_This potential root cause fits all our statements well._
+<span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">- Incorrect User Permissions</span> - Somewhat Likely 
+_This root cause fits all our statements except that the customer claims no changes have been made and their permissions used to work. Also, the script may also be using this user's token._
+<span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">- Network Latency/Timeout</span> - Not Likely 
+_Network Latency Issues are often intermittent, and resolve on occasion. Our issue is consistent._
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">- Bug with command used in the Portal</span> - Very Unlikely 
+_If there was a bug in the portal, other users would also probably see the issue. As would many other customers._
+
+**Information Needed to Verify**
+
+- Firewall blocking some Locations
+  - Check Firewall Settings In Portal
+  - Add User IP Address
+- Incorrect User Permissions
+  - Check User Permission in Portal, Compare with Successful User
+  - Check permissions script is using to authenticate. 
+- Network Latency/Timeout
+  - Network Trace
+- Bug with command used in the Portal
+  - What Command is Used in Script vs Portal?
+  - Product Team Input Needed
+
+**Ease of Gathering Information**
+
+- Firewall blocking some Locations
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Add User IP Address </span>
+- Incorrect User Permissions
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span>
+- Network Latency/Timeout
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Network Trace</span>
+- Bug with command used in the Portal
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span>
+  - <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span>
+
+**Danger of Gathering Information**
+
+- Firewall blocking some Locations
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span>
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Add User IP Address </span>
+- Incorrect User Permissions
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span>
+- Network Latency/Timeout
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Network Trace</span>
+- Bug with command used in the Portal
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span>
+
+**Most Likely/Easiest to Execute Next Steps**
 
 </details>
 
