@@ -55,7 +55,8 @@ If you would like to contribute, please follow up here:
 **1:14:13** - Test Your Solution
 **1:15:47** - Testing with a Customer
 **1:19:06** - Break/Fix Troubleshooting Summary
-**1:21:00** - Advisory Issues
+**1:21:00** - Advisory Cases
+**1:24:40** - Steps for Advisory Cases
 
 </details>
 
@@ -194,7 +195,9 @@ To determine 'ease' consider:
 3. What kinds of technical skills, if any, are needed to execute the step.
 
 **4. How Dangerous Is It To Gather Data?**
-For each of the above steps, also evaluate how **dangerous** it is to a customer's environment to gather a 
+For each of the above steps, also evaluate how **dangerous** it is to a customer's environment to gather a piece of data or execute next steps.
+
+Will a step expose private data? Could a step cause further issues in the customer's environment?
 
 **5. Evaluate and Choose**
 
@@ -319,7 +322,9 @@ To troubleshoot a Break/Fix Case:
 2. Summarize/Describe the Problem for Understanding
 3. Create a Hypothesis for Root Cause
 4. Use the ‘Where to Go’ flow chart to find resources
-5. Test Hypothesis
+5. Evaluate Most Likely Root Cause, and Ease of Data Gathering
+6. Summarize Information from Step 5 to Choose Next Steps
+7. Execute Next Steps/Test Solution
 6. Start Process Again for New Errors
 
 
