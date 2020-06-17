@@ -244,7 +244,7 @@ While testing a below solution, follow the below flow every time you see an erro
 
 ## Example Problem
 
-<details>
+<details style="background-color:#f2f2f2;">
 <summary>Click here to expand or collapse the example problem.</summary>
 <br>
 
