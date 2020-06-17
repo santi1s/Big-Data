@@ -17,7 +17,6 @@ https://teams.microsoft.com/l/team/19%3a768c7b4fcda64cd3acc29bc91eb98bfc%40threa
 
 3. Get permissions for Kusto, ASC, SAW, and Make sure you can access our TSG Notebook
 a. ADF Kusto permission: go to https://myaccess/, request access for ADF Viewers Azure StdAccess - (15703)
-b. ADMS Kusto Permissions:  http://idwebelements/GroupManagement.aspx?Group=hdismdsusers&Operation=join
 c. SAW access for JIT: go to https://myaccess/, request access for BG-CSS-SAW-Exception
 d. ADF product OneNote: [DM CSS Handbook](onenote:#base-path=https://microsoft.sharepoint.com/teams/datamovement2/Shared%20Documents/LiveSite/DM%20CSS%20Handbook)
 
