@@ -383,7 +383,25 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 ## Where to Go When You Don't Know What to Do Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
 
+</center>
+
+<details>
+<summary>Read Case Description/Error Message</summary>
+
 ### Read Case Description/Error Message
+
+1. Read **full** Case Description and Error Message, as customer may tell you everything you need to know to resolve the case and may not have read the error message themselves.
+
+2. Validate against current information - Validate what they've told you against any information you already have about the customer's environment.
+
+3. Verify what your customer tells you against the customer's environment using screenshots or while on a call.
+
+4. Verify what your customer tells you against current documentation as they might not be following current best recommended practices.
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+**Trust** what your customers tell you, but **verify** against all other information. Your customer might have incorrect information, and to troubleshoot, your information needs to be accurate.
+
+</details>
 
 ### ASC (Azure Support Center)
 
