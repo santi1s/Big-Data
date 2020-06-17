@@ -47,6 +47,15 @@ If you would like to contribute, please follow up here:
 **53:34** - ICM/Product Team
 **56:37** - Troubleshooting Flow Review
 **57:50** - Who to Go to for Help
+**58:58** - Finish Hypothesizing Root Cause
+**1:03:00** - Most Likely Root Cause
+**1:07:14** - Evaluating Difficulty
+**1:10:13** - Evaluating Danger
+**1:11:33** - Choose Next Steps
+**1:14:13** - Test Your Solution
+**1:15:47** - Testing with a Customer
+**1:19:06** - Break/Fix Troubleshooting Summary
+**1:21:00** - Advisory Issues
 
 </details>
 
@@ -170,6 +179,25 @@ Take your <span style="color:#347C17;">**COULD BE and IS**</span> and <span styl
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
+To choose what data to gather next, or which potential solution to pursue, we'll go through four evaluation steps:
+
+**1. Evaluate Most Likely Root Cause**
+Look at all the possible root causes you created in the last step and consider your **IS** and **IS NOT** statements. For each root cause consider how well it explains both **IS** and **IS NOT** and rank it based on how well it does. Your best fitting are your **MOST LIKELY** your least fitting are your **LEAST LIKELY**
+
+**2. How Easy Is It To Gather Data?**
+If you need further information to create a IS or IS NOT statement, or if there is information you need to confirm if a possible root cause is your true root cause, list out each piece of information or step you would need to take to confirm.
+
+Then rate each of these steps or pieces of information for how **easy** they are to execute.
+To determine 'ease' consider:
+1. If you and your customer know how to execute the step or gather the data.
+2. How long it will take to execute the step or gather the data.
+3. What kinds of technical skills, if any, are needed to execute the step.
+
+**4. How Dangerous Is It To Gather Data?**
+For each of the above steps, also evaluate how **dangerous** it is to a customer's environment to gather a 
+
+**5. Evaluate and Choose**
+
 
 </details>
 
@@ -221,6 +249,22 @@ _Think about where your data/users are starting, where it is going to, what path
 
 ![image.png](/.attachments/image-3d5b6d85-d51b-46ed-9106-e02f21c51580.png)
 
+**3. Hypothesize about Root Cause*
+_Think about what **COULD BE** the issue, and **IS**, and what **COULD BE but IS NOT** then compare the differences between these scenarios. Then think about what root causes fit those differences._
+
+<span style="color:#347C17;">COULD BE and IS</span> - Single User Having Trouble Accessing Data from Home
+<span style="color:#347C17;">COULD BE and IS</span> - Trouble Accessing Data Through Portal
+<span style="color:#347C17;">COULD BE and IS</span> - Consistent Issue
+<span style="color:#DF0101;">COULD BE and IS NOT</span> - Other Users Can Access Data
+<span style="color:#DF0101;">COULD BE and IS NOT</span> - Script is also able to access data
+<span style="color:#DF0101;">COULD BE and IS NOT</span> - Intermittent Issue
+
+**Differences in Scenarios Between IS and IS NOT:**
+- Location of Access (Different Machines)
+- Different Networks
+- Different Users Authenticating
+- Different Command Used in Portal and Script
+
 </details>
 
 ## Where to Go When You Don't Know Where to Look Next
@@ -269,6 +313,15 @@ _Think about where your data/users are starting, where it is going to, what path
 ## Troubleshooting with a Customer
 
 ## Quick Reference
+To troubleshoot a Break/Fix Case:
+
+1. Define the Problem
+2. Summarize/Describe the Problem for Understanding
+3. Create a Hypothesis for Root Cause
+4. Use the ‘Where to Go’ flow chart to find resources
+5. Test Hypothesis
+6. Start Process Again for New Errors
+
 
 # Troubleshooting an Advisory Case
 
