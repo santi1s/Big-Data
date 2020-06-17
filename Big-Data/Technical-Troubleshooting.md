@@ -29,6 +29,10 @@ If you would like to contribute, please follow up here:
 **05:06** - Define the Problem
 **09:44** - Summarize/Describe the Problem
 **18:19** - Consider Possible Root Causes
+**23:34** - Where to Go When You Don't Know
+**24:15** - Flow Chart of Information and Help!
+**25:00** - Case Description and Error Message
+**27:59** - Azure Support Center (ASC)
 
 </details>
 
@@ -110,6 +114,11 @@ You'll use this chart to identify all the technologies/resources/possible break 
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
+To start hypothesizing about the root cause, think about COULD BE affected, but IS NOT
+Then compare the COULD BE but IS NOT scenario with the COULD BE and IS.
+
+Also think about **when** the issue occurred. 
+Were any changes made between when it was working and when it began failing?
 
 </details>
 
@@ -164,6 +173,9 @@ _Using your problem definition questions, write out a brief statement that cover
 
 
 2. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Draw It Out</span>
+_Think about where your data/users are starting, where it is going to, what path they are using to do that, what pieces are in between them, and what is supposed to happen._
+
+![image.png](/.attachments/image-3d5b6d85-d51b-46ed-9106-e02f21c51580.png)
 
 </details>
 
