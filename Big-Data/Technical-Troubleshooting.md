@@ -33,6 +33,7 @@ If you would like to contribute, please follow up here:
 **24:15** - Flow Chart of Information and Help!
 **25:00** - Case Description and Error Message
 **27:59** - Azure Support Center (ASC)
+**33:10** - Troubleshooting Guides (TSGs)
 
 </details>
 
@@ -114,11 +115,13 @@ You'll use this chart to identify all the technologies/resources/possible break 
 <details>
 <summary>Click here to expand or collapse this section</summary>
 
-To start hypothesizing about the root cause, think about COULD BE affected, but IS NOT
+To start hypothesizing about the root cause, think about <span style="color:#347C17;">**could be**</span> affected, but <span style="color:#DF0101;">**IS NOT**</span> 
 Then compare the COULD BE but IS NOT scenario with the COULD BE and IS.
 
 Also think about **when** the issue occurred. 
 Were any changes made between when it was working and when it began failing?
+
+ <span style="color:#347C17;">through the Portal</span>. Accessing the data through a <span style="color:#DF0101;">script</span> 
 
 </details>
 
