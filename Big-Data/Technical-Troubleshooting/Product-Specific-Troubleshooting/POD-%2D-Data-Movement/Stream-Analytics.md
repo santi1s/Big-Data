@@ -31,7 +31,7 @@ Team Code: 1zdqpfa
 #Meetings to attend:
 Daily ASA FDR triage
 Weekly Education series
-Daily ASA PG Triage
+Daily ASA PG IcM Triage
 
 #[MyAccess](https://myaccess/identityiq/home.jsf):
 In order to access the correct Jarvis logs, and Azure Support Center, request access to the following projects:
