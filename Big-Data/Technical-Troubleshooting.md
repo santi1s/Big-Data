@@ -349,6 +349,17 @@ To troubleshoot a Break/Fix Case:
 
 ### What's a Microsoft Partner?
 
+Microsoft Partners are companies that have a relationship with Microsoft and deliver Microsoft product- based solutions to our customers!
+
+Some partners build out and manage customer environments.
+
+Some partners can come alongside to help develop business architectures.
+
+They can provide more assistance/development than resource support can.
+
+You and your customers can find partners here:
+**https://partner.microsoft.com**
+
 ## Quick Reference
 To Troubleshoot an Advisory Case:
 1. Confirm with your customer what information they need.
