@@ -383,10 +383,9 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 ## Where to Go When You Don't Know What to Do Next
 ![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
 
-<details>
-<summary>Read Case Description/Error Message</summary>
-
 ### Read Case Description/Error Message
+<details>
+<summary>Tips and Best Practices</summary>
 
 1. Read **full** Case Description and Error Message, as customer may tell you everything you need to know to resolve the case and may not have read the error message themselves.
 
