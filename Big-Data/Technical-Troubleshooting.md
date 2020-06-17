@@ -345,7 +345,21 @@ To troubleshoot a Break/Fix Case:
 
 ### Premier Customers
 
+**Reach out to Technical Account Manager (TAM) for assistance.**
+
+Tell them what kind of information your customer is requesting that is outside your ability to provide, or what kind of assistance the customer needs.
+
+Ask if there is a **Cloud Solution Architect (CSA)** or &&PFE (Premier Field Engineer)** already working with the customer who can help address their questions.
+
+
 ### Professional Customers
+Be clear about what information you can provide. Involve other teams where possible. Let your customer know when you feel uncomfortable answering their questions and where they can go next.
+
+**So where can they go next?**
+1. Our Azure Documentation to Learn What Tools Work Best for Their Environments
+2. Best Practices - Azure Documentation has Best Practices and Example Architectures to Help Make Decisions
+3. Testing - Testing Tools Out in a Demo Environment Will Help Confirm if Azure Meets Customer Benchmarks
+4. Microsoft Partners - If They Need More Assistance Building Out an Environment
 
 ### What's a Microsoft Partner?
 
