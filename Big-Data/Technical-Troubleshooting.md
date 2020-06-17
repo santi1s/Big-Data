@@ -350,3 +350,8 @@ To troubleshoot a Break/Fix Case:
 ### What's a Microsoft Partner?
 
 ## Quick Reference
+To Troubleshoot an Advisory Case:
+1. Confirm with your customer what information they need.
+2. Be clear about what information you can provide.
+3. Involve other resources/teams to answer questions outside your expertise.
+4. When you can’t provide information, tell your customer where they can go.
