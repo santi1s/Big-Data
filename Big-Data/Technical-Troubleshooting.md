@@ -373,6 +373,10 @@ _If there was a bug in the portal, other users would also probably see the issue
 
 **Most Likely/Easiest to Execute Next Steps**
 
+_Summarize most likely, easiest, and least dangerous, and start there._
+
+Blocking Firewall and User Permissions are the most likely and easiest things to check next! We'll start there.
+
 </details>
 
 ## Where to Go When You Don't Know What to Do Next
