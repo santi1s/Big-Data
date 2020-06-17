@@ -284,7 +284,7 @@ _Think about where your data/users are starting, where it is going to, what path
 
 ![image.png](/.attachments/image-3d5b6d85-d51b-46ed-9106-e02f21c51580.png)
 
-**3. Hypothesize about Root Cause*
+**3. Hypothesize about Root Cause**
 _Think about what **COULD BE** the issue, and **IS**, and what **COULD BE but IS NOT** then compare the differences between these scenarios. Then think about what root causes fit those differences._
 
 <span style="color:#347C17;">COULD BE and IS</span> - Single User Having Trouble Accessing Data from Home
@@ -347,36 +347,36 @@ _If there was a bug in the portal, other users would also probably see the issue
 **Ease of Gathering Information**
 
 - Firewall blocking some Locations
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span>
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Add User IP Address </span>
-- Incorrect User Permissions
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span>
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span> - Easy - _Can be Done In Portal_
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Add User IP Address </span> - Easy - _Can be Done In Portal_
+- Incorrect User Permissions 
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span> - Easy - _Can be Done In Portal_
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span> - Easy - _Can be Done In Portal_
 - Network Latency/Timeout
-  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Network Trace</span>
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Network Trace</span> - Takes a Long Time - _Instructions to gather need to be provided, it's easy to mess up and it will need to be reviewed once its gathered._
 - Bug with command used in the Portal
-  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span>
-  - <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span>
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span> - Will Need Input - _Will need to read script and ask product team what commands are used._
+  - <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span> - Takes a Long Time - _Product team is helpful, but involving another party definitely slows down the process. Want to be sure before we involve PG._
 
 **Danger of Gathering Information**
 
 - Firewall blocking some Locations
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span>
-  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Add User IP Address </span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check Firewall Settings In Portal</span> - Not Dangerous- _No Changes to Environment_
+  - <span style="color:#FBB117;text-decoration: underline;font-weight: bold; ">Add User IP Address </span> -Mild Danger - _Would open up IP Address to User's Personal Computer_
 - Incorrect User Permissions
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span>
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check User Permission in Portal, Compare with Successful User </span> - Not Dangerous- _No Changes to Environment_
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Check permissions script is using to authenticate. </span> - Not Dangerous- _No Changes to Environment_
 - Network Latency/Timeout
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Network Trace</span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Network Trace</span> - Not Dangerous- _No Changes to Environment_
 - Bug with command used in the Portal
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span>
-  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span>
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">What Command is Used in Script vs Portal?</span> - Not Dangerous- _No Changes to Environment_
+  - <span style="color:#347C17;text-decoration: underline;font-weight: bold; ">Product Team Input Needed</span> - Not Dangerous- _No Changes to Environment_
 
 **Most Likely/Easiest to Execute Next Steps**
 
 _Summarize most likely, easiest, and least dangerous, and start there._
 
-Blocking Firewall and User Permissions are the most likely and easiest things to check next! We'll start there.
+**Blocking Firewall** and **User Permissions** are the most likely and easiest things to check next! We'll start there.
 
 </details>
 
