@@ -360,6 +360,8 @@ They can provide more assistance/development than resource support can.
 You and your customers can find partners here:
 **https://partner.microsoft.com**
 
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember</span>: Legally, we can't recommend a specific partner. Customers need to choose and Review for themselves.
+
 ## Quick Reference
 To Troubleshoot an Advisory Case:
 1. Confirm with your customer what information they need.
