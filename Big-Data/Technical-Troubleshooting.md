@@ -39,6 +39,14 @@ If you would like to contribute, please follow up here:
 **35:04** - Azure Documentation
 **37:21** - Internal Logs
 **40:00** - The Internet!
+**42:29** - Triage Calls/Emails
+**44:24** - Draw it out!
+**45:20** - Reproducing the Error
+**49:20** - AVA
+**51:50** - TA/SME Review
+**53:34** - ICM/Product Team
+**56:37** - Troubleshooting Flow Review
+**57:50** - Who to Go to for Help
 
 </details>
 
@@ -126,11 +134,35 @@ Were any changes made between when it was working and when it began failing?
 
 **What do you mean by COULD BE and <span style="color:#347C17;">IS</span> and <span style="color:#DF0101;">IS NOT</span>?**
 
-<span style="color:#347C17;">**COULD BE**</span> 
+<span style="color:#347C17;">**COULD BE**</span>
+If one problem is occurring, think about what other symptoms your user might be seeing. These symptoms your user might be seeing are your COULD BE symptoms. You'll need to verify these COULD BEs with your customer.
 
-<span style="color:#347C17;">IS</span>
+For example: If one user is having a problem accessing data other users COULD BE having the same problem.
+Verify with your customer if they are!
 
-<span style="color:#DF0101;">IS NOT</span>
+<span style="color:#347C17;">**IS**</span>
+Take your COULD BEs and verify them with your customer, and any of these symptoms that ARE occurring are your IS symptoms.
+
+_**For example:** If one user is having a problem accessing data other users COULD BE having the same problem, if your customer tells you that YES, another user IS having a problem accessing the data, then this other user is a COULD BE AND IS._
+
+<span style="color:#DF0101;">**IS NOT**</span>
+Take your COULD BEs and verify them with your customer, and any of these symptoms that ARE NOT occurring are your IS NOT symptoms.
+
+_**For example:** If one user is having a problem accessing data other users COULD BE having the same problem, if your customer tells you that NO, another user IS NOT having a problem accessing the data, then this other user is a COULD BE AND IS NOT._
+
+**So you have your COULD BEs, IS, and IS NOT statements. What's next?**
+
+Take your <span style="color:#347C17;">**COULD BE and IS**</span> and <span style="color:#DF0101;">**COULD BE and IS NOT**</span> statements and think about what's different between these scenarios. These differences are the places or settings where the issue is likely occurring.
+
+<center>
+
+**Next, take your COULD BEs and your differences and think about what issues or settings could possibly be causing these problems.**
+
+**These are your possible root causes.**
+
+**Don't limit yourself here, write down anything you think might cause the issue. We'll narrow it down in the next steps.**
+
+</center>
 
 </details>
 
