@@ -58,9 +58,9 @@ If you would like to contribute, please follow up here:
 **1:21:00** - Advisory Cases
 **1:24:40** - Steps for Advisory Cases
 **1:26:06** - Advisory Cases for Premier Customers
-**1:27:58** - Advisory Cases for Premier Customers
+**1:27:58** - Advisory Cases for Professional Customers
 **1:29:19** - Microsoft Partners
-**1:30:56** - Microsoft Partners
+**1:30:56** - Advisory Case Summary
 **1:31:34** - Troubleshooting Case Summary
 
 </details>
