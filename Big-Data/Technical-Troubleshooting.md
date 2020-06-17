@@ -244,7 +244,7 @@ While testing a below solution, follow the below flow every time you see an erro
 
 ## Example Problem
 
-<details style="background-color:#f2f2f2;">
+<details style="border: solid; border-color:#e6e6e6;">
 <summary>Click here to expand or collapse the example problem.</summary>
 <br>
 
