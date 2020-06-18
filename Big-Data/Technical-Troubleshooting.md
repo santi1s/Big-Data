@@ -709,9 +709,40 @@ To troubleshoot a Break/Fix Case:
 
 # Troubleshooting an Advisory Case
 
+An advisory issue is an issue that covers architecture, best practices, usage, and development questions not related to any error or problem with the product.
+
+For Example:
+
+1. What’s the difference between Azure Data Lake Gen 1 and Gen 2?
+2. I’m new to Azure and need help developing a pipeline that does X.
+3. I’ve developed an architecture that does X and need MSFT to review.
+
+We do support these kinds of cases, but especially for scenario 3 we can't provide all the information your customer might want, as we primarily support break/fix cases. Use the below sections and steps to troubleshoot your Advisory Cases.
+
+## Steps to Troulbeshoot an Advisory Case
+1. Gather all questions/gist of direction from customer.
+2. Be clear **from the beginning** about what information you will be able to provide.
+3. Provide what information you already can.
+4. Be clear about what information you need to confirm, and when you will provide an update/response.
+5. Open collaboration tasks/bring in other teams to answer questions about other products.
+6. Reach out to your SME, TA, or Product team for questions on your product that you don’t know.
+
+
 ## What Information We Can Provide
 
+1. We are deep in specific technologies, and we can provide information or answer specific questions about those.
+
+2. For questions on products outside our expertise we may need to involve other teams. 
+
+3. We can provide information on any best practices/known issues that are relevant to the customer's current scenario.
+
 ## What to Tell Your Customer
+
+1. Support Primarily covers break/fix scenarios or product issues. We are capable of answering questions or providing information about our specific products.
+
+2. We are not architectural developers, so we may not be able to speak to your full scenario, but we can answer questions about our products.
+
+3. For questions on products outside our expertise, we may need to involve other teams.
 
 ## Where to Get Help 
 
