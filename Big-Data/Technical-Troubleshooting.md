@@ -480,6 +480,26 @@ For solutions involving multiple products, remember to check documentation for a
 
 ### Internal Logs
 
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Internal logs are product-specific, as is level of access and what kinds of information you can find in these logs.
+
+Check your product training/wiki to find out how what kinds of logs you can access for your product and how to use them.
+
+If you have questions reach out to peers, SMEs, and TAs.
+
+And if the product team uses logs that you didn’t know about, **ask them if you have access and how to use them!**
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+Internal logs are for internal use and shouldn’t be shared directly with your customer unless specifically mandated.
+
+**Share what the logs mean, not the logs themselves!**
+
+</details>
+
+
 ### Check the Internet
 
 ### Triage Calls/Emails
