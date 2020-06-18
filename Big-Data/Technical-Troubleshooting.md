@@ -501,8 +501,39 @@ Internal logs are for internal use and shouldn’t be shared directly with your 
 
 
 ### Check the Internet
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+Search any error messages or customer issues using your favorite internet search engine.
+
+Tips to Find Azure Information on The Internet:
+1. Avoid Acronyms and Abbreviations like ADF or ADLS. Instead use full names.
+2. Put double quotes around full error messages to search for that text specifically.
+3. Check the date on solutions! Azure changes quickly, so old problems might have already been resolved.
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+You can provide your customer information you find on the internet but use discretion. We want our customers to be confident in Microsoft Support, so test solutions first and use Microsoft official links where possible.
+
+</details>
 
 ### Triage Calls/Emails
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Many teams and products have weekly or even daily triage calls, chats or email threads to review current cases! 
+Check for a review of your case or bring your case to a call to have it reviewed for next steps.
+
+These are usually run by SMEs, Escalation Engineers, or the Product Team.
+
+**Check with your TA, SME, or your product’s training documentation to see when your triage call is!**
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+Some issues look similar, and Azure changes quickly. Before providing a solution to your customer, make sure the solution and steps are relevant to your customer’s situation.
+
+</details>
 
 ### Draw It Out
 
