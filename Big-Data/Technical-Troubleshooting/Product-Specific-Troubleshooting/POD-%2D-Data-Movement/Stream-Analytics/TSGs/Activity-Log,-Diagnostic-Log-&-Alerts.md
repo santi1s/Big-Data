@@ -13,7 +13,7 @@ Diagnostic Logs. Stream Analytics writes detailed information and example events
 -  Example of Error detail seen in logs : <span style="color:#0000FF"> : Cannot set column 'title'. The value violates the MaxLength limit of this column. By default, Azure Stream Analytics retries writing the event indefinitely until the write succeeds. Consider choosing Drop Output Error Policy to skip such errors, so an error wouldn't block the job progress.</span>
 
    1. Create Log Analytics resource (in same region as ASA job) 
-https://docs.microsoft.com/en-us/azure/azure-monitor/platform/resource-logs-collect-workspace 
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-create-workspace 
 
    2. Create Diagnostic Log. To turn them on, complete these steps: 
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs 
