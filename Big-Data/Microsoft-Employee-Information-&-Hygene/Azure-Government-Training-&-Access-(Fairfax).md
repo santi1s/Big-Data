@@ -44,7 +44,7 @@ https://microsoft.sharepoint.com/teams/USGovCloudSupport
 
 ### The process could take a week or more depending on your circumstances.  Please read through the instructions before beginning. The entire process could take 3 weeks to months depending on your individual circumstance.  Temporary emergency access may be granted in some cases.
 
-_For emergency temporary accesses contact "Temporary Special Access Case Provisioning" (tspecialaccess@microsoft.com) alias for short term/single instance access._
+_<span style="color:red"> For emergency temporary accesses</span> contact "Temporary Special Access Case Provisioning" (tspecialaccess@microsoft.com) alias for short term/single instance access._
 
 Please follow these steps and let your manager know if you have any questions/issues:  
 
