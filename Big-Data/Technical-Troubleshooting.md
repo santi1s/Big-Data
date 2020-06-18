@@ -676,6 +676,24 @@ For questions about a product, reach out to SME or Product Teams Channel.
 
 ## Troubleshooting with a Customer
 
+Once you have chosen your next steps, you will be working with your customer to execute these next steps.
+
+**In an Email**
+Send very clear next steps/questions/information about what you need from the customer. Where possible provide numbered lists. Make it clear what steps need to be performed by the customer.
+
+**In a Call**
+1. Don’t test too many solutions in one session. If possible, take time to test/re-strategize outside a call.
+2. Be prepared with other potential solutions, questions, or next steps if your most likely scenario does not resolve the issue.
+3. At the end of the call, review next steps.
+What **YOU** are going to do and **WHEN.**
+What you are waiting for **FROM YOUR CUSTOMER**.
+4. Make Sure you have Agreement/Confirmation for these steps.
+5. After a call, send a follow up email outlining all these expected next steps.
+
+While testing a below solution, follow the below flow every time you see an error. Your customer may have more than one blocking error!
+![image.png](/.attachments/image-12856a5d-a5d9-4222-9366-f5dc4bab3488.png)
+
+
 ## Quick Reference
 To troubleshoot a Break/Fix Case:
 
