@@ -381,11 +381,12 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 </details>
 
 ## Where to Go When You Don't Know What to Do Next
-![image.png](/.attachments/image-6c139cb9-e882-468c-90c9-cd6579767e1b.png)
+![image.png](/.attachments/image-33f99909-bb05-466a-ae12-5613bfdf6602.png)
 
 ### Read Case Description/Error Message
 <details>
 <summary>Tips and Best Practices</summary>
+<br>
 
 1. Read **full** Case Description and Error Message, as customer may tell you everything you need to know to resolve the case and may not have read the error message themselves.
 
@@ -402,15 +403,86 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 
 ### ASC (Azure Support Center)
 
-### Internal Logs
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
 
-### Documentation
+You can find ASC one of three ways:
+1. //azuresupportcenter.msftcloudes.com
+2. By selecting Launch ASC from inside any of your Service Desk Cases
+![image.png](/.attachments/image-ff6343cb-331c-423b-a428-ceb89ba1dad5.png)
+3. If you use Case Buddy, right click any of your case numbers and select "Open in Azure Support Center"
+![image.png](/.attachments/image-d2f2bc59-04af-47c2-aeef-23d023cde1b6.png)
 
-### Triage Calls/Emails
+Once you have opened ASC there are many uses for ASC!
+1. Use ASC to search documentation, old cases, even the internet! Put your error message or key words in the search bar in the top, right hand corner to pull results!
+![image.png](/.attachments/image-e3d1a5c5-e9a1-4bfb-ab59-5795778e943c.png)
+2. Use ASC to check current health alerts for Azure and for your specific resource, using the middle 'Health' tab. If there are any identified problems occurring in Azure, they should show up here. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Read this information critically.</span> It is developed programmatically and may not be relevant. 
+![image.png](/.attachments/image-c743adbb-5635-4fd2-ad55-fec70035a116.png)
+
+3. Use ASC to check for insights using the 'Insights' tab on the left. Related TSGs, warnings, and other information may be listed here for your case. <span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Read this information critically.</span> It is developed programmatically and may not be relevant. 
+![image.png](/.attachments/image-2eda30d2-69cb-480f-bd76-7033b523d5b6.png)
+
+4. Use ASC to troubleshoot your cases! 
+Most products have tools in ASC to help you find logs, diagnose issues, and take next steps.
+Check ASC even for products you don’t support to see what kind of tools are at your disposal. Go to the Resource Explorer and search for resource provider or individual resources, and check all available properties for troubleshooting tools.
+![image.png](/.attachments/image-0caaf1c0-f5e4-4163-9eba-84ef65553562.png)
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+Check product wikis for any available guides on how to use their ASC tools! Even for products you don't support!
+
+</details>
+
 
 ### TSGs (Troubleshooting Guides)
 
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Most products have Troubleshooting Guides available to provide steps to tackle known/reoccurring problems.
+
+Find these guides by searching **TSG** or **Troubleshooting** here on the wiki!
+
+If you can’t find them, reach out to a peer, SME, TA, or to a product team member to ask if they are available and where.
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+TSGs are usually written for YOU, not your customer. So if you need to provide your customer steps, modify/rewrite the steps to make sure they are relevant and customer focused.
+
+
+</details>
+
+### Documentation
+
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Always check our Azure Public Documentation!
+
+This documentation covers all the basics of how to use our tools and is completely available to the customer.
+
+To find Azure Documentation go to:
+**docs.microsoft.com**
+and select ‘Azure’
+
+Link any of these documentation pages to your customer as well!
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+For solutions involving multiple products, remember to check documentation for all products to make sure you understand all settings and cover any potential issues.
+
+**And always recheck!** Even if you know a product well, products and documentation change regularly.
+
+</details>
+
+### Internal Logs
+
 ### Check the Internet
+
+### Triage Calls/Emails
 
 ### Draw It Out
 
