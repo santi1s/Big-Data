@@ -630,6 +630,34 @@ Your TA or Escalation Engineer is following all these same troubleshooting steps
 
 ### ICM - Product Team Case
 
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+When there is an issue occurring with the product, you can create an ICM – essentially a case with the product team.
+You can do this through ASC by clicking ‘Escalate Ticket’
+
+![image.png](/.attachments/image-db36e2d3-7ab7-42b0-acdd-faa22d1e8ae7.png)
+
+You can also go to **http://icm.ad.msft.net/** and select "Incidents" and "Create"
+![image.png](/.attachments/image-8c6a3257-7490-4ac2-9718-4314c61d9df5.png)
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+We’re here so that the product team can focus on the product! Customer support is our role.
+
+There is a reason this is the last step in our flow.
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+**The product team isn’t troubleshooting for you!**
+Provide them as much, specific information as possible to outline the product issue you are seeing.
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+ICMs are not for questions.
+For questions about a product, reach out to SME or Product Teams Channel.
+
+
+</details>
+
 ## Who to Contact When You Need Help
 
 | **Team Role** | **Technical/Troubleshooting Help Needed** | **Case Handling/Customer Management Help Needed** | 
