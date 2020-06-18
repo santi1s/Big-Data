@@ -66,7 +66,15 @@ _TIME: If this takes longer than 5-7 business days, let me or Todd know._
 7. The next step in the process is to follow the instructions on the [Microsoft US Government Support page](https://microsoft.sharepoint.com/teams/USGovCloudSupport/SitePages/How.aspx?web=1).  Following these instructions gets you access to Azure government cases in Service Desk.  Once your request has been received and your information is being validated against the HR systems (ECS) you will receive an email. You can also see the [latest status on your request from here](https://microsoft.sharepoint.com/teams/USGovCloudSupport/Lists/Standing%20Access%20Requests/Public.aspx).   
 _TIME: This step may take up to 48 business hours to complete._ 
 
-8. The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That [process is located here](https://ageaccounts.azurewebsites.us/).   
+8. Request Premier USNAT (SD)
+    - Click on ![submit.png](/.attachments/submit-3e55d453-b9aa-4d84-8e67-e6b43dbe3230.png)
+    - Populate with your alias, CSS SE, US citizen,  select Premier USNAT (SD) for Restricted Program, example below.![new-item.png](/.attachments/new-item-8de77030-3e30-410e-b49e-fdbe297a78e9.png)
+    - Confirm email from US Gov and follow instructions. 
+
+   You can see the latest status on your [request from here](https://microsoft.sharepoint.com/teams/USGovCloudSupport/Lists/Standing%20Access%20Requests/Public.aspx)
+_TIME: it could take up to 48 hours for access to become active._
+
+9. The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That [process is located here](https://ageaccounts.azurewebsites.us/).   
 _TIME: This step may take a week or more._ 
 
 ##IV. Azure Government URLs and ports
