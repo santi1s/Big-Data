@@ -14,7 +14,32 @@ If you would like to contribute, please follow up here:
 
 #Best Practices
 
+Mandatory training FY20:
+https://learn.microsoft.com/activity/S3670183/launch/#/
+ 
+For your quick reference, here’s a summary of “DOs” and “DON’Ts”:
+ 
+![labor do.jpg](/.attachments/labor%20do-b861bbb1-11f4-421a-b41e-299da11a9936.jpg)
+![labor dont.jpg](/.attachments/labor%20dont-4826269c-0a66-495d-adca-08a9c2b98bcc.jpg)
+ 
+
+
 ##Scorecard (Customer) Labor
+
+Most labor tracking will occur when working with customers and researching issues. The labor will be captured in Service Desk.
+Any time you will perform any type of work on a case, you will need to track the time spent. This is **mandatory** and extremely important, so please try to be as accurate as possible in tracking and describing the performed work.
+
+The labor is classified in following categories, which are self explanatory: Communications, Recovery & Billing, Research, Admin Review, Tech Review, Troubleshooting. If you are not sure which category to choose, please reach your mentor/TA/SME.
+
+You can add the labor entry by opening the case in Service Desk, scroll down to "Labor" section and select "+Labor":
+
+ ![sdlabor.JPG](/.attachments/sdlabor-e0d20039-bcfd-483a-82ff-e527b260ef36.JPG)
+
+You will need to chose a labor category, the date, duration, and to describe the activity performed.
+
+![addlabor.JPG](/.attachments/addlabor-ba4e9a21-713c-4267-aeca-4d700d3f748e.JPG)
+
+
 
 ##Non-Scorecard (Non-Customer) Labor
 
