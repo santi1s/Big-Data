@@ -69,7 +69,7 @@ _TIME: This step may take up to 48 business hours to complete._
 8. The final step in this process is to request a subscription in the Azure Government (Fairfax) environment for any testing or repro work you will need to do.  That [process is located here](https://ageaccounts.azurewebsites.us/).   
 _TIME: This step may take a week or more._ 
 
-##IV. Azure Government | Request Premier USNAT (SD)
+##IV. Request Premier USNAT (SD)
 These steps are additional to the Government Access in section III.  If you have recently completed Government Access in section III of this wiki page, then you should be able to skip step 1 for pre-requisites.
 
 1.	Complete pre-requites ( if you don’t have US Citizenship and Background on file) here http://aka.ms/USGovSupportAccess 
