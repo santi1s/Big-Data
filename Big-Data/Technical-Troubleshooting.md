@@ -537,11 +537,96 @@ Some issues look similar, and Azure changes quickly. Before providing a solution
 
 ### Draw It Out
 
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+This should already be a part of your initial process, but if you haven't done it yet, or if you are feeling lost, draw the architecture/scenario out to help you think through the situation!
+
+
+Mostly using the **Where** and **Who** questions of the **5 W Questions** in the section above, draw a flow chart/diagram showing flow of data, or who is interacting with what, and what could be between them.
+
+You'll use this chart to identify all the technologies/resources/possible break points in the full process that your customer is following. You can then think through how each of these pieces could fail, and how you can check for the health of each of these pieces. This will help you to identify **where** the issue is occurring.
+
+<center> For Example: </center>
+
+![image.png](/.attachments/image-c109b363-6960-4ed9-801e-29ceea07cef7.png)
+
+</details>
+
 ### Reproduce in Your Environment
+
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+You should have an azure environment you can use as a sandbox to reproduce customer errors!
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">How to Reproduce:</span>
+
+1. Break issue/scenario down into only the pieces that are failing or causing a failure and recreate that part.
+2. If data error, approximate the kind of data that would cause the failure, or obtain sample data from customer.
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Make sure the sample data contains no passwords or identifiable information to protect customer security.</span>
+3. If you cannot repro, consider the differences between your environment and the customer environment. That may be where the issue is!
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Why Reproduce?</span>
+1. Respect Your Customer’s Time
+2. Better Issue/Mitigation Understanding
+3. You can gather your own logs rather than relying on the customer’s logs.
+4. Issue may only occur in customer environment and comparing differences between your environment and theirs may help you to identify the root cause.
+
+</details>
 
 ### AVA for Case Assistance
 
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Ava is a support chat bot used by most product groups on product team channels to help you find help!
+
+Use Ava on enabled Teams channels by typing: **@Ava**
+
+You can also use Ava to ask for help on a case. Type:
+**@Ava 120050521002456 - <your question>**
+
+Different Channels have different Ava commands enabled use @Ava help to learn more!
+**Documentation: https://azureava.microsoft.com**
+
+
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+**Ava is pinging relevant team members like SMEs, and product team members to help with your case.
+Don’t just add your case number!
+For better, faster help, ask a specific question!**
+
+
+</details>
+
 ### Request a Case Review
+
+<details>
+<summary>Tips and Best Practices</summary>
+<br>
+
+Feeling stuck on a case?
+Is a customer getting out of hand?
+Has communication with the product group gone awry?
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Request a case review!</span>
+
+Your TAs and Escalation Engineers are here to help you with tough cases when you don’t know where to go next.
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">However:</span>
+**Please first add thorough case notes that detail the situation as you understand it and ask specific questions if you have them. Our review will be better this way.**
+
+<span style="color:#DF0101;text-decoration: underline;font-weight: bold; ">Remember:</span>
+Your TA or Escalation Engineer is following all these same troubleshooting steps! If you’ve done them, add it to your case notes or we’re going to ask about it. **The only difference between your processes and SME/TA process is experience.**
+
+
+
+</details>
 
 ### ICM - Product Team Case
 
