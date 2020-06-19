@@ -186,8 +186,10 @@ sequenceDiagram
 # Wiki Updates over Last Week (Updated Fridays)
 
 ## Work Items Completed in Last Week
-Updated June 5th, 2020
-None.
+#5884
+#5889
+#6122
+#5724
 
 ## All Other Non-Product Changes
 Updated June 5th, 2020
@@ -320,4 +322,4 @@ Updated June 5th, 2020
 <td>Updated Wiki Change Log</td>
 </tr>
 
-</tbody></table>
+</tbody></table>5
