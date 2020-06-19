@@ -11,6 +11,191 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>6/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Activity Log</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Azure Government Training &amp; Access (Fairfax)</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Derek Yang</td>
+<td>Page &#39;SAW - Not able to access the Data Lake or Data Lake Analytics resources&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Lake Store/TSGs&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Lake Analytics/TSGs&#39;</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Derek Yang</td>
+<td>Added SAW - Not able to access the Data Lake or Data Lake Analytics resources</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated SSIS - SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Silvia Cimpurean</td>
+<td>Updated Labor Tracking</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>6/18/2020</td>
+<td>Silvia Cimpurean</td>
+<td>Updated Regular Meetings</td>
+</tr>
+<tr>
+<td>6/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Tools and Teams</td>
+</tr>
+<tr>
+<td>6/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>6/17/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>6/17/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Travis LaGrone</td>
+<td>Added CaseTriage V2</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Travis LaGrone</td>
+<td>Reordered page &#39;/Resources&#39; to order &#39;3&#39;.</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Travis LaGrone</td>
+<td>Added Resources</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Todd DeDecker</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Travis LaGrone</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Laila Haddad</td>
+<td>Updated ASC Guided Troubleshooter</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Laila Haddad</td>
+<td>Added ASC Guided Troubleshooter</td>
+</tr>
+<tr>
+<td>6/16/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/15/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Activity Log</td>
+</tr>
+<tr>
+<td>6/15/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>6/14/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>6/11/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated Big Data</td>
+</tr>
+<tr>
+<td>6/11/2020</td>
+<td>Sundar Easwaran</td>
+<td>Renamed page &#39;View Schedule Per POD&#39; to &#39;View WFM Schedule Per POD&#39;</td>
+</tr>
+<tr>
+<td>6/10/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated SIE - Service Impacting Event</td>
+</tr>
+<tr>
+<td>6/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated SSIS - SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>6/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Added SSIS - SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>6/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>6/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>6/9/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Kusto Queries for ADF</td>
+</tr>
+<tr>
+<td>6/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Training</td>
+</tr>
+<tr>
+<td>6/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Kusto Queries for ADF</td>
+</tr>
+<tr>
+<td>6/5/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Kusto Queries for ADF</td>
+</tr>
+<tr>
 <td>6/4/2020</td>
 <td>Jeremy Li</td>
 <td>Updated Weekend coverage</td>
