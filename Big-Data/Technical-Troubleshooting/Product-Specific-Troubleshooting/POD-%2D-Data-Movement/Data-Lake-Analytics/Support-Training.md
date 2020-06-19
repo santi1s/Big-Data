@@ -15,7 +15,7 @@ This takes a little while to install. The "Initializing" will spin for about 7 m
 	
 4. Get Started with your first U-SQL Script: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-get-started-portal
 
-4. After running this script, grab the job url on the lower, left-hand side of the page. Open Visual Studio. Go to tools, data lake, Job View and enter your job URL. You should be able to see your job details here! This is how we look at customer jobs too.Your job URL should look like this: https://whhenderintadla.azuredatalakeanalytics.net/Jobs/0387eec5-ae6f-4a1e-ada6-77d03f246d6a?api-version=2015-10-01-previewIf you're having an issue with "invalid job url" make sure you have Jobs and the api version on your URL:https://whhenderintadla.azuredatalakeanalytics.net/Jobs/0387eec5-ae6f-4a1e-ada6-77d03f246d6a?api-version=2015-10-01-preview
+4. After running this script, grab the job url on the lower, left-hand side of the page. Open Visual Studio. Go to tools, data lake, Job View and enter your job URL. You should be able to see your job details here! This is how we look at customer jobs too.
 
 5. Check all the jobs in your ADLA account by opening Visual Studio, going to "Server Explorer" Clicking Data Lake Analytics, and clicking your account, then 'Jobs'
 You can do the same for a customer account by right-clicking "Data Lake Analytics" and selecting "Add Account for DRI"
