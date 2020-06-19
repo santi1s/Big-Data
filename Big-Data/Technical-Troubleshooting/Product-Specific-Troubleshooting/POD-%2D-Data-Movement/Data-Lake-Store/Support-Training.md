@@ -9,7 +9,9 @@
     https://learn.microsoft.com/activity/S1791005/launch 
 
 2. Watch this ADLS Gen 1 Troubleshooting Training video to understand the basics of troubleshooting:
-https://msit.microsoftstream.com/video/7fa6730b-ef4f-4793-9e9c-2cfcb2f2ae6a
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/7fa6730b-ef4f-4793-9e9c-2cfcb2f2ae6a?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
 
 3. Permissions Understanding:
    https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280901/Troubleshooting-Access
