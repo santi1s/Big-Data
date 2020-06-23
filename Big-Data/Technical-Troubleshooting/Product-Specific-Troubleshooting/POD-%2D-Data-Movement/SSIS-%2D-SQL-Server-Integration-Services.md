@@ -1,8 +1,12 @@
-# SSIS Wiki
+# SQL Wiki
 
 https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Home.aspx
 
 SSIS link https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/SSIS%20Wiki%20-%20New.aspx
+
+MDS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master%20Data%20Services.aspx
+
+DQS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx
 
 # SSIS Trainings
 
