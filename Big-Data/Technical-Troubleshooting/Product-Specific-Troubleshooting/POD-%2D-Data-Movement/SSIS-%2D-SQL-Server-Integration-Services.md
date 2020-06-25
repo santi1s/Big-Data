@@ -8,7 +8,7 @@ MDS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master%20Data%20Ser
 
 DQS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx
 
-Join the SSIS/MDS/DQS Case Assignment Team Chat
+**Join the SSIS/MDS/DQS Case Assignment Team Chat**
 
 # SSIS Trainings
 
