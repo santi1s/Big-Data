@@ -18,7 +18,7 @@ We want the customer to come away from their initial interaction feeling they ar
 
 A First Quality Response is more than a “handshake”, a repetition of the customer’s problem description, or a list of things we won’t do. The more progress that is made towards resolution, the higher the ‘Quality’ of the customer interaction. 
 
-Find the [FQR Template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/305777/FQR-Template).
+Find the [FQR Template](https://internal.support.services.microsoft.com/en-us/help/4464166).
 
 ## Supporting material
 
