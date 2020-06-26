@@ -186,13 +186,9 @@ sequenceDiagram
 # Wiki Updates over Last Week (Updated Fridays)
 
 ## Work Items Completed in Last Week
-#5884
-#5889
-#6122
-#5724
+None
 
 ## All Other Non-Product Changes
-Updated June 5th, 2020
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Date</th>
@@ -201,6 +197,56 @@ Updated June 5th, 2020
 </tr></thead>
 <tbody>
 
+<tr>
+<td>6/26/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Regional Subject Matter Experts (SMEs)</td>
+</tr>
+<tr>
+<td>6/25/2020</td>
+<td>Sundar Easwaran</td>
+<td>Updated SSIS - SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>6/25/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated First Quality Response (FQR)</td>
+</tr>
+<tr>
+<td>6/24/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>6/23/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Activity Log</td>
+</tr>
+<tr>
+<td>6/21/2020</td>
+<td>Laila Haddad</td>
+<td>Updated How to Add-Update-Delete ICM Templates in ASC</td>
+</tr>
+<tr>
+<td>6/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Training</td>
+</tr>
+<tr>
+<td>6/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Troubleshooting Access</td>
+</tr>
+<tr>
+<td>6/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>6/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
 <tr>
 <td>6/19/2020</td>
 <td>Whitney Henderson</td>
