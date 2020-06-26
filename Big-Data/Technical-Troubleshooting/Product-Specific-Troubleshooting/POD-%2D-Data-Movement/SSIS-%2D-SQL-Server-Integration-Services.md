@@ -10,6 +10,9 @@ DQS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Se
 
 **Join the SSIS/MDS/DQS Case Assignment Team Chat**
 
+[SSIS / DQS / MDS Playbook](https://microsoft.sharepoint.com/:f:/t/SSISHandoffPlanningDiscussion/EpDBixxeBplIhuajwV0gXKoB9w0IWCG8kubjevRCQ4V5AA?e=PF7JAf)
+
+
 # SSIS Trainings
 
 The L100 that is completed and published is for SQL Server Connectivity. L200 work for Connectivity is in progress. The available L100 and L200 trainings for SQL Server is available in the learning path -> https://ready.azurewebsites.net/csslearning/2206
