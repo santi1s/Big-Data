@@ -2,7 +2,6 @@
 https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 
 # Non-Product Related Git Change Log 
-(Updated June 5th, 2020)
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Date</th>
 <th title="Field #2">Author</th>
