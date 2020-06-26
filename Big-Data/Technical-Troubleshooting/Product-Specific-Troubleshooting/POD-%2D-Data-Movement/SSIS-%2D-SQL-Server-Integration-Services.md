@@ -12,6 +12,8 @@ DQS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Se
 
 [SSIS / DQS / MDS Playbook](https://microsoft.sharepoint.com/:f:/t/SSISHandoffPlanningDiscussion/EpDBixxeBplIhuajwV0gXKoB9w0IWCG8kubjevRCQ4V5AA?e=PF7JAf)
 
+[SSIS/MDS/DQS Transition Project](https://teams.microsoft.com/l/team/19%3a3da2a86b14034154bab6ff73245f4a17%40thread.tacv2/conversations?groupId=8fccbd1e-44fb-4f3c-ab1d-881f5bb5e2a4&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
+
 
 # SSIS Trainings
 
