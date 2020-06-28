@@ -46,7 +46,7 @@ E.g. Customer is doing a testing in the QAS environment instead of production on
 **Note:** Please do **NOT just** check customer is active in your own region, especially when you are in a closer time zone with customer, but please double check if they **will really be** <u>available 24x7</u>, **after their business hours** (in your next shift).
 
 i.e. We can see some engineers just see 24x7 flag, then he/she doesn’t ask or confirm with customer, and **assume** customer is available 24x7 so transfer the case to the next region. 
-Then engineers of the next regions can't reach out to customers as who have been out of working hours or gone for rest already. (But one resource has been already occupied for this. Further follow-up and hand-over across region takes unnecessary time)
+Then engineers of the next regions can't reach out to customers as who have been out of working hours or gone for rest already. (But one resource has been already occupied for this. Further follow-up and handover across regions takes unnecessary time)
 Part of customers <u>might have misunderstanding</u> of severity A or 24x7 support - they think it **ONLY** requires Microsoft 24x7, so their issue can be looked into 24x7 continuously, which is leading that they will intend to flag 24x7 on or keep the severity as A, since they want to speed up the handling process.
 
 3). Customer or TAM in any way **agrees** it can downgrade the severity.
