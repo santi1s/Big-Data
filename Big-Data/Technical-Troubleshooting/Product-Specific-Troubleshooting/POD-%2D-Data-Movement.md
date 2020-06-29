@@ -37,9 +37,12 @@ Query: Query Azure Data Movement Cases for Assignment
 [Add a link to the Case Assignment leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=MJbugN)
 
 **Communication** 
-Teams: [WW Data Movement](https://teams.microsoft.com/l/team/19%3ab2778d321edf4189baae4b7bb779fb85%40thread.tacv2/conversations?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
+Teams: [WW Data Movement](https://teams.microsoft.com/l/team/19%3ab2778d321edf4189baae4b7bb779fb85%40thread.tacv2/conversations?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)   
+Case / Collaboration Chat: Teams Chat **SSIS/MDS/DQS Case Assignment** 
+
+
 **Contacts** 
-M2: Sai Kavitha KrishnaIyengar 
+M2/ Line of Business Leader:  **Sai Kavitha KrishnaIyengar** 
 M1's: 
      APAC: Sonic Tang  / Takashi Sato
      India: Thirumal Maram 
