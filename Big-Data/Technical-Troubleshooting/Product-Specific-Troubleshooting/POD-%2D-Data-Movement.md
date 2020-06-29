@@ -36,7 +36,21 @@ Support Pod:  Azure Data Movement
 Query: Query Azure Data Movement Cases for Assignment
 [Add a link to the Case Assignment leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=MJbugN)
 
-**Content** 
-[Meet the Big Data - Data Movement team](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Movement-Team-Americas-region)
+**Contacts** 
+M2: Sai Kavitha KrishnaIyengar 
+M1's: 
+     APAC: Sonic Tang  / Takashi Sato
+     India: Thirumal Maram 
+     MindTree (Duty Managers / SE's) : Vinod Kakarparhi
+     EMEA: Telmo Batista
+     AMER:  Lee Pauling
+
+Data Movement Leadership Team DL: **CSS Data Movement LT** <bddmlt@microsoft.com>
+
+TA/PTA/SEE DL:
+SME per service DL:
+
+Regional specific info for contacts
+[Meet the Big Data - Data Movement AMER team](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Movement-Team-Americas-region)
 
 Add a link to the Case Assignment leads
