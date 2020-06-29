@@ -10,4 +10,5 @@ Expected transition July 1st, 2020
 # 
 
 **Phase 1 processes / guides / docs:**
-- TBD
+- [Transition plan, day 1, hot cut ](https://microsofteur.sharepoint.com/:p:/t/WWDataMovement/EfweBjcgi8RHpSvoBgHSOmIBGhyvu1Cl_SahJZn74zHJbg?e=AnNXV0)
+
