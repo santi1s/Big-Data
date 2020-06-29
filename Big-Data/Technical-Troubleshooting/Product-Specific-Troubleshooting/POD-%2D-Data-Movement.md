@@ -1,10 +1,23 @@
-**Announcements** 
+# **Announcements** 
 
-**4/24/2020: ADF  brown bag / Huddles coming with a couple weeks!**  
- Will do our best to get an AM "early" and PM "later" session on different days to get as many of you as possible exposed to this.  Will want you to have at least L100 done and hopefully L200.  If not and we still have seats will ask you be in listen mode, making notes and prepping questions once you've completed both L100 and L200.   We will have a POC soon.  Thx Lee
+6/29/2020: New Data Movement teams!
+Combining Big Data - Data Movement and the 3 services SSIS/DQS/MDS from the SQL OnPrem C&I 
 
- 
+## new WFM:  Group Allowance (GA)  / Staff Group (SR)
+GE SQL-Data Move SR
+GE SQL-Data Move AMER (GA) 
+GE SQL-Data Move APAC (GA) 
+GE SQL-Data Move EMEA (GA) 
+GE SQL-Data Move India (GA) 
 
+
+## New / existing Service Desk Queues: 
+SSIS-MDS-DQS Premier
+SSIS-MDS-DQS Escalations
+SSIS-MDS-DQS Pro
+SSIS-MDS-DQS Unified
+MSaaS Big Data - Data Movement (Unified)
+MSaaS Big Data - Data Movement
 
 **Content** 
-[Meet the Data Movement team](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Movement-Team-Americas-region)
+[Meet the Big Data - Data Movement team](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Movement-Team-Americas-region)
