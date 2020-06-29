@@ -59,3 +59,5 @@ Regional specific info for contacts
 [Meet the Big Data - Data Movement AMER team](/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Movement-Team-Americas-region)
 
 
+## RAT Skills: 
+For Collaboration tasks
