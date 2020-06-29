@@ -1,0 +1,1 @@
+[DQS - SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx)
