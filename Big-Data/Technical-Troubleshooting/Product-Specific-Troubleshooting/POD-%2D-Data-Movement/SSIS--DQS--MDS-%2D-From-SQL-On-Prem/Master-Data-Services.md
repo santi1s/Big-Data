@@ -1,6 +1,5 @@
 
-[MDS -SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master Data Services.aspx)
+[MDS -SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master%20Data%20Services.aspx)
 
 
 
-[MDS -SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master&nbsp;Data&nbsp;Services.aspx")
