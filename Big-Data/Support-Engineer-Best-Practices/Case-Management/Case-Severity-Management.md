@@ -72,7 +72,7 @@ When you are judging situation 1) or 2) , we are **NOT asking** that, once you f
 Instead, you need to do it **in a flexible and professional way**:
 Like, **when it comes to 1),** you need to use good communication skill to help customer understand what severity A really means, and show empathy that you understand the issue is critical, so you will try your best to troubleshoot it during business hour under Sev B though. And handing over case globally is not always beneficial to them - handover may cause unnecessary overhead and gap in communication even it's minor. 
 And **an important talking point** with customers is that they can raise the severity back to A when they encounter any emergency at any time, let them aware that downgrading to B never means we will relax and don't care about their issue. 
-Anyway, the goal here is that you should try to change situation 1) to situation 3).
+For Prem case, if customer is not following the policy and requesting to keep as A unreasonably, you can engage TAM to talk with customer. Anyway, the goal here is that you should try to change situation 1) to situation 3).
 
 **When it comes to 2),** you need to at least <u>try several ways or do several strikes</u> to confirm customer is really not there before you downgrade the severity. Be careful and think twice if you really need to call customer at their night especially you are not in the same region, as nobody wants to be waken up at night.
 
