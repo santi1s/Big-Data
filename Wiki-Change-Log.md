@@ -10,6 +10,121 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>7/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Elixir - Case Reviews</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Technical Advisors&#39; to &#39;Team Management&#39;</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Elixir - Case Reviews</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Data Movement specific</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Lee Pauling</td>
+<td>Added Data Movement specific</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Reordered page &#39;/Big-Data/Technical-Advisors&#39; to order &#39;4&#39;.</td>
+</tr>
+<tr>
+<td>7/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Technical Advisors</td>
+</tr>
+<tr>
+<td>7/1/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;VDM stuff&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39;</td>
+</tr>
+<tr>
+<td>7/1/2020</td>
+<td>Lee Pauling</td>
+<td>Added VDM stuff</td>
+</tr>
+<tr>
+<td>6/30/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>6/29/2020</td>
+<td>Lee Pauling</td>
+<td>Updated POD - Data Movement</td>
+</tr>
+<tr>
+<td>6/29/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Data Quality Services</td>
+</tr>
+<tr>
+<td>6/29/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Master Data Services</td>
+</tr>
+<tr>
+<td>6/29/2020</td>
+<td>Lee Pauling</td>
+<td>Updated SSIS  DQS  MDS - From SQL On Prem</td>
+</tr>
+<tr>
+<td>6/29/2020</td>
+<td>Laila Haddad</td>
+<td>Updated ASC Guided Troubleshooter</td>
+</tr>
+<tr>
+<td>6/28/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Weekend coverage</td>
+</tr>
+<tr>
+<td>6/28/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Severity Management</td>
+</tr>
+<tr>
+<td>6/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;From SQL On Prem SSIS  DQS  MDS&#39; to &#39;SSIS  DQS  MDS - From SQL On Prem&#39;</td>
+</tr>
+<tr>
+<td>6/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/SSIS - SQL Server Integration Services&#39;.</td>
+</tr>
+<tr>
+<td>6/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;SQL Server Integration Services&#39; to &#39;(SSIS) SQL Server Integration Services&#39;</td>
+</tr>
+<tr>
+<td>6/26/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>6/26/2020</td>
+<td>Sundar Easwaran</td>
+<td>Updated SSIS - SQL Server Integration Services</td>
+</tr>
+<tr>
 <td>6/26/2020</td>
 <td>Jeremy Li</td>
 <td>Updated Regional Subject Matter Experts (SMEs)</td>
