@@ -64,6 +64,8 @@ This way the next engineer will always see it.
 # Note Templates for Case Owners
 _These are just basic templates to help you structure your notes. If there is additional information that you need to provide, or a structure that works better for your team, please use that!_
 <br> </br>
+## Template 1
+
 Issue
 \============================
 _<Short description that outlines the full issue at a glance. This will probably be the same across all your notes.>_
@@ -89,6 +91,51 @@ Research:
 \============================
 
 _<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
+<br> </br>
+
+<br> </br>
+## Template 2
+
+**Problem Summary**
+_<Short description that outlines the full issue at a glance. 
+This will probably be the same across all your notes.>_ 
+
+**Work Done**
+_<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
+
+**Possible Solutions**
+_<Summary of conclusions drawn from research, information gathering, and troubleshooting>_
+
+**Action Plan/Next steps**
+**Cx:**
+_<List of next steps that Customer will take.>
+<cont…>_
+**MSFT:**
+_<List of next steps that case owners or collaborators will take.>_
+
+<br> </br>
+## Template 3
+
+**Issue:**
+_<Short description that outlines the full issue at a glance. 
+This will probably be the same across all your notes.>_ 
+
+**Most Recent Error:**
+_<Most Recent, Full Error message to provide a clear picture of the current problem.>_
+
+**Current Status:**
+_<Brief outline of what you and/or the customer have just done and your current conclusions.>_
+
+**ICM:** 
+_<Link to ICM>_
+
+**Next Steps:**
+**Cx:**
+_<List of next steps that Customer will take.>
+<cont…>_
+**MSFT:**
+_<List of next steps that case owners or collaborators will take.>_
+
 <br> </br>
 
 # Note Template for Collaboration Owners
