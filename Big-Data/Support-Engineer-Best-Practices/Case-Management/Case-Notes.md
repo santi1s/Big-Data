@@ -61,9 +61,16 @@ This way the next engineer will always see it.
 3. **Use a Notes Template for quick standardization.** 
 ### Timely Updates
 
+Provide a full notes update when any one of these conditions is met:
+
+1. When Anything Changes
+2. When You've Done Research or Troubleshooting
+3. When You've Had a Meeting
+4. When a Week has Passed Without Update - For this update you can mostly copy and paste your last update, but set current status to say there has not been an update in a week and why and next steps. 
 # Note Templates for Case Owners
 _These are just basic templates to help you structure your notes. If there is additional information that you need to provide, or a structure that works better for your team, please use that!_
 <br> </br>
+
 ## Template 1
 
 Issue
@@ -91,7 +98,6 @@ Research:
 \============================
 
 _<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
-<br> </br>
 
 <br> </br>
 ## Template 2
@@ -139,6 +145,9 @@ _<List of next steps that case owners or collaborators will take.>_
 <br> </br>
 
 # Note Template for Collaboration Owners
+
+**Collaboration Notes are the same, but should include a title that gives, the name of your technology, your alias, and 'Collaboration Notes'**
+
 _These are just basic templates to help you structure your notes. If there is additional information that you need to provide, or a structure that works better for your team, please use that!_
 <br> </br>
 
