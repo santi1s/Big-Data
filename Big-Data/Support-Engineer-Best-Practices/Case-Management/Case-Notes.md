@@ -18,6 +18,20 @@ Please watch the training video here: https://msit.microsoftstream.com/video/743
 
 ## Goal of Great Notes
 
+
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+<center>
+
+Great case notes allow **anyone** to look at your **latest notes** and fully understand your case in **15 minutes** or fewer.
+
+</center>
+</td>
+</tr>
+</table>
+
 Great case notes allow **anyone** to look at your **latest notes** and fully understand your case in **15 minutes** or fewer.
 
 This will save you, your customers, and your fellow engineers lots of time.
