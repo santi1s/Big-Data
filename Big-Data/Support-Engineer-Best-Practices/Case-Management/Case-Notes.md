@@ -191,3 +191,9 @@ Research:
 _<Any articles, logs, or screenshots you referenced during your troubleshooting.>_
 
 <br> </br>
+
+# Oh no! Notes too Big?
+
+If your notes are too big to save try these steps:
+1. Reduce the number of screenshots.
+2. If all screenshots are necessary, save the notes to a word document, attach them to the case, and then update your case notes indicating current status, that the rest of your notes are in a word document, and the name of the word Document.
