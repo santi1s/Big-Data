@@ -50,6 +50,13 @@ Most cases aren't make or break on technical knowledge. All your customers want 
 3. OlHelper
 4. Review Your Cases Regularly
 
+## Find your Flow
+
+1. Pomodoro Technique
+2. Just 15 minutes to start difficult tasks
+3. Focus time/focus apps
+4. Get into a routine.
+
 # Lessons We're Learning
 
 **This is a section where all of you can add your lessons learned and best practices! If you want to add a best practice or lesson, please follow the format below.**
