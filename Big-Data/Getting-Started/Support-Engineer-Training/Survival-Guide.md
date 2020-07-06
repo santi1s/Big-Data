@@ -23,9 +23,32 @@ Things you can start doing right now to make your work life better.
 
 # Staying Cool on a Case
 
-# Tools and Tricks
+Most cases aren't make or break on technical knowledge. All your customers want is for you to understand their problem and be dedicated to fixing it.
 
-# How to Implement
+**1. You don't have to know all the answers.**
+**2. If you're not getting anywhere, take a break.**
+**3. Be clear. Set good expectations.**
+**4. Ask for clarity when you don't understand.**
+**5. Stay calm and collected in front of your customer.**
+
+# Tools and Tricks
+## How to Sign Off
+1. Good Notes
+2. Out of Office Messages
+3. Clarity with your customers.
+4. Trust your global teammates.
+
+## How to Ask for Help
+1. Teams/Ava
+2. Peers
+3. TAs/SMEs/PG
+4. Mentor/Buddy
+
+## How to Organize
+1. Case Categories
+2. Internal Title
+3. OlHelper
+4. Review Your Cases Regularly
 
 # Lessons We're Learning
 
