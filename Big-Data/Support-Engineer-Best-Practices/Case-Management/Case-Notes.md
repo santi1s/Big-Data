@@ -17,6 +17,10 @@ July 27, 2019 Training - Rob Beene & Smit Shah
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/74367acc-1d3c-4031-b65b-d65ade33b8b2?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
+# How to 'Take' Case Notes and Where to Update Them
+Currently, all our case notes are housed in Service Desk. Service Desk is where other engineers are going to be able to see and use your case notes and you'll be able to use them as well.
+
+No matter what case n
 # How to Take Great Notes
 
 ## Goal of Great Notes
