@@ -12,6 +12,14 @@ And most importantly, **great case notes will save you time**.
 # Note Taking Training Videos
 We have some awesome in-depth training on writing amazing notes!
 
+July 06, 2020 Training - Whitney Henderson
+
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/1ff5a3ff-0400-a521-7fe0-f1eabfc7b4b0?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+<br>
+
 July 27, 2019 Training - Rob Beene & Smit Shah
 ::: video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/74367acc-1d3c-4031-b65b-d65ade33b8b2?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
