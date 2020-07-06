@@ -12,6 +12,10 @@
 
 [Case Ninja](https://aka.ms/caseninja) is a configurable outlook tool that can throw up a banner when you're assigned a case or a critsit, so you don't miss case assignments or other important case emails.
 
+## OOFSponder
+
+[OOFSponder](http://toolbox/oofsponder) is an Outlook tool that will automatically set your OOF messages depending on your shift times.
+
 # Case Tools
 
 ## Case Buddy
