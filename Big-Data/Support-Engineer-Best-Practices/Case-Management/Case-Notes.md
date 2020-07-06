@@ -12,7 +12,10 @@ And most importantly, **great case notes will save you time**.
 # Note Taking Training Videos
 We have some awesome in-depth training on writing amazing notes!
 
-Please watch the training video here: https://msit.microsoftstream.com/video/74367acc-1d3c-4031-b65b-d65ade33b8b2
+July 27, 2019 Training - Rob Beene & Smit Shah
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/74367acc-1d3c-4031-b65b-d65ade33b8b2?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
 
 # How to Take Great Notes
 
