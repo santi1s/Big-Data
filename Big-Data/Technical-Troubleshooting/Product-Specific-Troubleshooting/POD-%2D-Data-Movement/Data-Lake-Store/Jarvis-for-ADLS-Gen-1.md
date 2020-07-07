@@ -378,6 +378,18 @@ For a customer who is seeing an unexpectedly high egress charge, they may ask yo
 
 ![image.png](/.attachments/image-5489cce8-01e0-4b7a-a158-17e8de6e33f7.png)
 
+### Other Userful Charts
+
+Total Reads/Throttling:
+```
+ https://jarvis-west.dc.ad.msft.net/dashboard/share/D8851F7A?overrides=[{"query":"//*[id='AccountName']","key":"value","replacement":"prodrxperso"},{"query":"//*[id='Operation']","key":"value","replacement":"open"}]%20
+```
+
+Egress
+```
+https://jarvis-west.dc.ad.msft.net/dashboard/share/802BBD46?overrides=[{"query":"//*[id='AccountName']","key":"value","replacement":"adlsrtlrxpersoprod"}]%20
+```
+
 ## Sharing Jarvis Dashboard Information with Customers
 1. **DO NOT SHARE THESE CHARTS DIRECTLY WITH CUSTOMERS** No screenshots. No links. Use these charts to facilitate your own troubleshooting.
 2. **DO** discuss finding summary by saying things like-- "I can see a lot of Egress in this timeframe <timeframe>." Or "There were some delete operations in <timeframe> and I am looking into them. Do you know about any operations at that time?"
