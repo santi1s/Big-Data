@@ -52,10 +52,10 @@ Most cases aren't make or break on technical knowledge. All your customers want 
 
 ## Find your Flow
 
-1. Pomodoro Technique
-2. Just 15 minutes to start difficult tasks
-3. Focus time/focus apps
-4. Get into a routine.
+1. Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+2. Work on a Difficult Task for Just 15 Minutes Then Take a Break
+3. Focus Time/Focus Apps
+4. Get into a routine - find what works for you and keep doing it.
 
 # Lessons We're Learning
 
