@@ -8,7 +8,9 @@ If you feel like you're drowning, start here.
 
 # Survival Guide Training Video
 
-Video will be posted here after presentation on July 8th 2020
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/5defa3ff-0400-a521-41cd-f1eac15c2b6d?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
 
 # Good Behaviors
 Things you can start doing right now to make your work life better.
