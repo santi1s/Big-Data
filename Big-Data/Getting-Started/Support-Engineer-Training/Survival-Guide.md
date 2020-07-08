@@ -45,9 +45,9 @@ Most cases aren't make or break on technical knowledge. All your customers want 
 4. Mentor/Buddy
 
 ## How to Organize
-1. Case Categories
-2. Internal Title
-3. OlHelper
+1. Case Categories in Service Desk or Case Buddy
+2. Use Your Case's Internal Title
+3. [OlHelper](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=ol-helper) - Or our other [Tools](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools)
 4. Review Your Cases Regularly
 
 ## Find your Flow
