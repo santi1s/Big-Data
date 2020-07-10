@@ -186,8 +186,7 @@ sequenceDiagram
 # Wiki Updates over Last Week (Updated Fridays)
 
 ## Work Items Completed in Last Week
-#6763
-#6859
+#6873
 
 ## All Other Changes in Last Week
 
