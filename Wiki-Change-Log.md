@@ -10,6 +10,71 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>7/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Survival Guide</td>
+</tr>
+<tr>
+<td>7/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>7/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Jarvis for ADLS Gen 1</td>
+</tr>
+<tr>
+<td>7/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated TSGs</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Survival Guide</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Survival Guide</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Backup and Recovery</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Backup and Recovery</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
 <td>7/3/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Case Notes</td>
