@@ -12,6 +12,22 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
+# Attach Outlook Email to Your Case
+1. Add the case number to the email subject.
+![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
+
+2. Add support@mail.support.microsoft.com in the CC line
+![image.png](/.attachments/image-f6584e02-6466-4281-8f07-a0402cb06abf.png)
+
+Now when you send your email it will get attached to your service desk case.
+
+Template:
+![image.png](/.attachments/image-6fde8463-2b9f-4054-9778-ba0b4cddb38c.png)
+
+Example:
+
+![image.png](/.attachments/image-692b1fb3-0feb-45ec-ba86-b5ba23338be0.png)
+
 # Best Practices
 
 ## Dos
