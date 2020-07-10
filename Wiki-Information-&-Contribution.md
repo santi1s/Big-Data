@@ -189,7 +189,7 @@ sequenceDiagram
 #6763
 #6859
 
-## All Other Non-Product Changes
+## All Other Changes in Last Week
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Date</th>
@@ -199,474 +199,68 @@ sequenceDiagram
 <tbody>
 
 <tr>
+<td>7/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Survival Guide</td>
+</tr>
+<tr>
+<td>7/8/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>7/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Jarvis for ADLS Gen 1</td>
+</tr>
+<tr>
+<td>7/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated TSGs</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Survival Guide</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Survival Guide</td>
+</tr>
+<tr>
+<td>7/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Backup and Recovery</td>
+</tr>
+<tr>
+<td>7/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Backup and Recovery</td>
+</tr>
+<tr>
 <td>7/3/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Case Notes</td>
 </tr>
 <tr>
-<td>7/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Elixir - Case Reviews</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Renamed page &#39;Technical Advisors&#39; to &#39;Team Management&#39;</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Added Elixir - Case Reviews</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Lee Pauling</td>
-<td>Updated Data Movement specific</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Lee Pauling</td>
-<td>Added Data Movement specific</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Reordered page &#39;/Big-Data/Technical-Advisors&#39; to order &#39;4&#39;.</td>
-</tr>
-<tr>
-<td>7/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Added Technical Advisors</td>
-</tr>
-<tr>
-<td>7/1/2020</td>
-<td>Lee Pauling</td>
-<td>Page &#39;VDM stuff&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement&#39;</td>
-</tr>
-<tr>
-<td>7/1/2020</td>
-<td>Lee Pauling</td>
-<td>Added VDM stuff</td>
-</tr>
-<tr>
-<td>6/30/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Severity Management</td>
-</tr>
-<tr>
-<td>6/29/2020</td>
-<td>Lee Pauling</td>
-<td>Updated POD - Data Movement</td>
-</tr>
-<tr>
-<td>6/29/2020</td>
-<td>Lee Pauling</td>
-<td>Updated Data Quality Services</td>
-</tr>
-<tr>
-<td>6/29/2020</td>
-<td>Lee Pauling</td>
-<td>Updated Master Data Services</td>
-</tr>
-<tr>
-<td>6/29/2020</td>
-<td>Lee Pauling</td>
-<td>Updated SSIS  DQS  MDS - From SQL On Prem</td>
-</tr>
-<tr>
-<td>6/29/2020</td>
-<td>Laila Haddad</td>
-<td>Updated ASC Guided Troubleshooter</td>
-</tr>
-<tr>
-<td>6/28/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Weekend coverage</td>
-</tr>
-<tr>
-<td>6/28/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Severity Management</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Whitney Henderson</td>
-<td>Renamed page &#39;From SQL On Prem SSIS  DQS  MDS&#39; to &#39;SSIS  DQS  MDS - From SQL On Prem&#39;</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Whitney Henderson</td>
-<td>Deleted page &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/SSIS - SQL Server Integration Services&#39;.</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Whitney Henderson</td>
-<td>Renamed page &#39;SQL Server Integration Services&#39; to &#39;(SSIS) SQL Server Integration Services&#39;</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Sundar Easwaran</td>
-<td>Updated SSIS - SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/26/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Regional Subject Matter Experts (SMEs)</td>
-</tr>
-<tr>
-<td>6/25/2020</td>
-<td>Sundar Easwaran</td>
-<td>Updated SSIS - SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/25/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated First Quality Response (FQR)</td>
-</tr>
-<tr>
-<td>6/24/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Handoff Process</td>
-</tr>
-<tr>
-<td>6/23/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Activity Log</td>
-</tr>
-<tr>
-<td>6/21/2020</td>
-<td>Laila Haddad</td>
-<td>Updated How to Add-Update-Delete ICM Templates in ASC</td>
-</tr>
-<tr>
-<td>6/19/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Support Training</td>
-</tr>
-<tr>
-<td>6/19/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Troubleshooting Access</td>
-</tr>
-<tr>
-<td>6/19/2020</td>
+<td>7/3/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Wiki Change Log</td>
 </tr>
 <tr>
-<td>6/19/2020</td>
+<td>7/3/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Wiki Information &amp; Contribution</td>
 </tr>
-<tr>
-<td>6/19/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Information &amp; Contribution</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Activity Log</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Azure Government Training &amp; Access (Fairfax)</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Derek Yang</td>
-<td>Page &#39;SAW - Not able to access the Data Lake or Data Lake Analytics resources&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Lake Store/TSGs&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Lake Analytics/TSGs&#39;</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Derek Yang</td>
-<td>Added SAW - Not able to access the Data Lake or Data Lake Analytics resources</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated SSIS - SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Silvia Cimpurean</td>
-<td>Updated Labor Tracking</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Technical Troubleshooting</td>
-</tr>
-<tr>
-<td>6/18/2020</td>
-<td>Silvia Cimpurean</td>
-<td>Updated Regular Meetings</td>
-</tr>
-<tr>
-<td>6/17/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Tools and Teams</td>
-</tr>
-<tr>
-<td>6/17/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Technical Troubleshooting</td>
-</tr>
-<tr>
-<td>6/17/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Stream Analytics</td>
-</tr>
-<tr>
-<td>6/17/2020</td>
-<td>Prashanth Madi</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Technical Troubleshooting</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Travis LaGrone</td>
-<td>Added CaseTriage V2</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Travis LaGrone</td>
-<td>Reordered page &#39;/Resources&#39; to order &#39;3&#39;.</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Travis LaGrone</td>
-<td>Added Resources</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Todd DeDecker</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Travis LaGrone</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Laila Haddad</td>
-<td>Updated ASC Guided Troubleshooter</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Laila Haddad</td>
-<td>Added ASC Guided Troubleshooter</td>
-</tr>
-<tr>
-<td>6/16/2020</td>
-<td>Prashanth Madi</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/15/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Activity Log</td>
-</tr>
-<tr>
-<td>6/15/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Technical Troubleshooting</td>
-</tr>
-<tr>
-<td>6/14/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Severity Management</td>
-</tr>
-<tr>
-<td>6/11/2020</td>
-<td>Prashanth Madi</td>
-<td>Updated Big Data</td>
-</tr>
-<tr>
-<td>6/11/2020</td>
-<td>Sundar Easwaran</td>
-<td>Renamed page &#39;View Schedule Per POD&#39; to &#39;View WFM Schedule Per POD&#39;</td>
-</tr>
-<tr>
-<td>6/10/2020</td>
-<td>Prashanth Madi</td>
-<td>Updated SIE - Service Impacting Event</td>
-</tr>
-<tr>
-<td>6/10/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated SSIS - SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/10/2020</td>
-<td>Whitney Henderson</td>
-<td>Added SSIS - SQL Server Integration Services</td>
-</tr>
-<tr>
-<td>6/10/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Change Log</td>
-</tr>
-<tr>
-<td>6/10/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Information &amp; Contribution</td>
-</tr>
-<tr>
-<td>6/9/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Kusto Queries for ADF</td>
-</tr>
-<tr>
-<td>6/8/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Support Training</td>
-</tr>
-<tr>
-<td>6/8/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Kusto Queries for ADF</td>
-</tr>
-<tr>
-<td>6/5/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Kusto Queries for ADF</td>
-</tr>
-<tr>
-<td>6/4/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Weekend coverage</td>
-</tr>
-<tr>
-<td>6/4/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Communication Best Practices</td>
-</tr>
-<tr>
-<td>6/3/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Troubleshooting Access</td>
-</tr>
-<tr>
-<td>6/3/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Access Control Overview</td>
-</tr>
-<tr>
-<td>6/3/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated No Output Troubleshooting</td>
-</tr>
-<tr>
-<td>6/3/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Handoff Process</td>
-</tr>
-<tr>
-<td>6/3/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Severity Management</td>
-</tr>
-<tr>
-<td>6/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Troubleshooting Access</td>
-</tr>
-<tr>
-<td>6/2/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Activity Log</td>
-</tr>
-<tr>
-<td>6/2/2020</td>
-<td>Tiffany Fischer</td>
-<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/Activity-Log</td>
-</tr>
-<tr>
-<td>6/2/2020</td>
-<td>Tiffany Fischer</td>
-<td>Added Activity Log</td>
-</tr>
-<tr>
-<td>6/1/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Case Handoff Process</td>
-</tr>
-<tr>
-<td>6/1/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Escalations | Creating ICMs</td>
-</tr>
-<tr>
-<td>6/1/2020</td>
-<td>Laila Haddad</td>
-<td>Updated How to Add-Update-Delete ICM Templates in ASC</td>
-</tr>
-<tr>
-<td>6/1/2020</td>
-<td>Jeremy Li</td>
-<td>Updated Case Handoff Process</td>
-</tr>
-<tr>
-<td>5/30/2020</td>
-<td>Kamal Thapa</td>
-<td>Updated O&#39;Reilly Learning</td>
-</tr>
-<tr>
-<td>5/30/2020</td>
-<td>Kamal Thapa</td>
-<td>Added O&#39;Reilly Learning</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Whitney Henderson</td>
-<td>Added Increasing Limits &amp; Throttling</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Kamal Thapa</td>
-<td>Updated Certification</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Pluralsight</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Kamal Thapa</td>
-<td>Updated Pluralsight</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Whitney Henderson</td>
-<td>Added Pluralsight</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Information &amp; Contribution</td>
-</tr>
-<tr>
-<td>5/29/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Change Log</td>
-</tr>
-
 </tbody></table>5
