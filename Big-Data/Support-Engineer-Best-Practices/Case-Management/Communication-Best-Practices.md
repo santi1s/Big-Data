@@ -12,7 +12,7 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
-# Attach Outlook Email to Your Case
+# Attach Outlook Email to Service Desk Case
 1. Add the case number to the email subject.
 ![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
 
