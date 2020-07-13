@@ -31,31 +31,27 @@ Create an Account Internal Azure Subscription: https://microsoft.sharepoint.com/
 
 
 
- AIS 1.jpg
-
+![AIS 1.jpg](/.attachments/AIS%201-f639abbb-a1a1-44ea-942e-562a6bb4761e.jpg)
 
  
 
 4. You can click View your Request button to check the status of this application. Additionally, see the link to activate your Azure Account
 
 
-AIS 2.jpg
-
+![AIS 2.jpg](/.attachments/AIS%202-cdb2203d-801f-4605-990b-0d720ab6bb3a.jpg)
 
 
 5. Once all approvals are in place you will receive a Congratulations Email. You are ready to create a subscription:
 
 
 
-AIS 3.jpg
-
+![AIS 3.jpg](/.attachments/AIS%203-0e032bf4-76f2-463a-acf2-27ca5bbef4ba.jpg)
 6. Please click the button to create your New Subscription and follow the prompts
  
 
 7. You will receive an email with your subscription ID and subscription Name: 
 
-AIS 4.jpg
-
+![AIS 4.jpg](/.attachments/AIS%204-14880fa4-60c2-4372-a336-2a25f33047ef.jpg)
 8. You should now be able to Add resources within your portal  
 
 # Internal Subscription Best Practices
