@@ -186,7 +186,7 @@ sequenceDiagram
 # Wiki Updates over Last Week (Updated Fridays)
 
 ## Work Items Completed in Last Week
-#6873
+#5822
 
 ## All Other Changes in Last Week
 
@@ -197,6 +197,31 @@ sequenceDiagram
 </tr></thead>
 <tbody>
 
+<tr>
+<td>7/14/2020</td>
+<td>Faruk Celik</td>
+<td>Added Outage related resources</td>
+</tr>
+<tr>
+<td>7/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/Backup-and-Recovery&#39; to order &#39;1&#39;.</td>
+</tr>
+<tr>
+<td>7/13/2020</td>
+<td>Ronmia Bess</td>
+<td>Updated Internal Subscription Management</td>
+</tr>
+<tr>
+<td>7/13/2020</td>
+<td>Azith Ganti</td>
+<td>Added Case Handling over weekends</td>
+</tr>
+<tr>
+<td>7/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Communication Best Practices</td>
+</tr>
 <tr>
 <td>7/8/2020</td>
 <td>Whitney Henderson</td>
