@@ -35,12 +35,12 @@ graph TD
     A --> C
     C --> D
     B --> D
-    D -->|Resolution Provided| E
     E -->|Confirmation to Close Provided| F
-    D -->|Pending Customer Information| G
     D -->|Pending Microsoft Research| H
     H --> D
-    D -->|Upset Customer or Too Many Emails Back and Forth| I
+    D -->|Pending Customer Information| G
+    D -->|Upset Customer or <br> Too Many Emails Back and Forth| I
+    I --> D
     D -->|Unresponsive Customer| J
     J -->|Response Recieved| D
     J -->|Unresponsive Customer| K
@@ -50,6 +50,8 @@ graph TD
     L -->|Unresponsive Customer| M
     M -->|Response Recieved| D
     M -->|Unresponsive Customer| F
+    G -->|Unresponsive Customer| J
+    D -->|Resolution Provided| E
 
     style A fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
     style F fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
