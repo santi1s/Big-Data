@@ -78,6 +78,18 @@ Coming Soon!!
 
 # Email
 
+## Email Signature
+
+Your signature should always contain: Your email address, your title, your hours, your managers email address, your phone number, and the microsoft logo. You can use the below signature as a template.
+
+>Whitney Henderson
+>whhender@microsoft.com
+                   
+>Support Engineer       Work Hours: M-F 8am-5pm EST
+>Data Movement         Office: +1 (980) 7767642 X67642
+> Manager: Lee Pauling - lepaulin@microsoft.com
+> ![image.png](/.attachments/image-1235bd30-b3be-4f75-bb2a-c7f96ce2998d.png)
+
 ## First Quality Response (FQR)
 
 **First Quality Response (FQR) is a new behavior for delivering initial response to the customer for CSS.** The focus is to ensure the first engagement with the customer is done by an Engineer that is prepared, personalizes a response, and intends to make progress towards resolving the customer’s issue. (We call this the **3 P's: Prepared, Personalized, Progress**).
