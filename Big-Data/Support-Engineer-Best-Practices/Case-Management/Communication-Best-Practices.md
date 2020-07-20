@@ -26,8 +26,10 @@ If you would like to contribute, please follow up here:
 Coming Soon!!
 
 </center>
+# Phone
 
-# Attach Outlook Email to Service Desk Case
+# Email
+## Attach Outlook Email to Service Desk Case
 1. Add the case number to the email subject.
 ![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
 
@@ -50,6 +52,7 @@ Example:
 1. If you are working with the product team, and they have provided some technical information that you don't understand/aren't sure you can communicate to the customer, ask questions until you understand what they're asking!
 2. Rephrase product group communications to be customer facing. Provide steps where possible.
 3. Confirm with the product team if specific technical information/product limitations can be communicated with the customer. Especially for bigger customers, sometimes a project manager should be involved to make sure we're communicating limitations correctly.
+4. If you're going to have a phone call or a screen sharing session, write down the points you intend to cover during the call.
 
 ## Don'ts
 
