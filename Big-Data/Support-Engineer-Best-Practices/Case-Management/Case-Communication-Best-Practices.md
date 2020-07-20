@@ -12,6 +12,42 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
+# Life Cycle of Communications
+<center>
+
+::: mermaid
+graph TD
+ A(FQR, First Quality Response)
+ B(Email, based on customer preference.)
+ C(Call, based on customer preference.)
+ D(Follow Up Email <br> with Status and Next Steps)
+ E(Follow up Every <br> 3 business days for <br> customer confirmation.)
+ F(LQR, Last Quality Response)
+ G(Follow up Every <br> 3 business days for <br> customer information, <br> or on date indicated <br> by customer.)
+ H(Indicate when you will follow up <br> and follow up at that time.)
+ I(Call Customer/Set Up Screen Share Meeting)
+ J(Reach out to TAM if available. <br> If not, proceed to next step.)
+ K(Unresponsive First Strike)
+ L(Unresponsive Second Strike)
+
+    A -->B
+    A --> C
+    C --> D
+    B --> D
+    D -->|Resolution Provided| E
+    E -->|Confirmation to Close Provided| F
+    D -->|Pending Customer Information| G
+    D -->|Pending Microsoft Research| H
+    H --> D
+    D -->|Upset Customer or Too Many Emails Back and Forth| I
+
+    style Z fill:#bbf,stroke:#333,stroke-width:4px
+    style A fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
+    style F fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
+:::
+
+</center>
+
 <center>
 
 **Effective Communication Training - Rob Beene, Smit Shah - May 16 2019**
