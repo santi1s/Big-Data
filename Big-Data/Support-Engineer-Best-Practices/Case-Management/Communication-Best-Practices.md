@@ -12,6 +12,21 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
+<center>
+
+**Effective Communication Training - Rob Beene, Smit Shah - May 16 2019**
+::: video
+# Communications Training Videos
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/4fba91e4-f162-49a8-907d-d058c1545ac1?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+<br>
+
+**Case Communication Training - Whitney Henderson - July 20 2020**
+Coming Soon!!
+
+</center>
+
 # Attach Outlook Email to Service Desk Case
 1. Add the case number to the email subject.
 ![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
