@@ -68,9 +68,14 @@ graph TD
 :::
 
 <br>
+<br>
 
 **Case Communication Training - Whitney Henderson - July 20 2020**
-Coming Soon!!
+:::video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/ff01a1ff-0400-a521-ee90-f1eacac98879?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+
 
 </center>
 
