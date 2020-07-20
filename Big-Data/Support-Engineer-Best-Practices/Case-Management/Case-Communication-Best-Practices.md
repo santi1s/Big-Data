@@ -29,6 +29,7 @@ graph TD
  J(Reach out to TAM if available. <br> If not, proceed to next step.)
  K(Unresponsive First Strike)
  L(Unresponsive Second Strike)
+ M(Unresponsive Third Strike)
 
     A -->B
     A --> C
@@ -40,8 +41,16 @@ graph TD
     D -->|Pending Microsoft Research| H
     H --> D
     D -->|Upset Customer or Too Many Emails Back and Forth| I
+    D -->|Unresponsive Customer| J
+    J -->|Response Recieved| D
+    J -->|Unresponsive Customer| K
+    K -->|Response Recieved| D
+    K -->|Unresponsive Customer| L
+    L -->|Response Recieved| D
+    L -->|Unresponsive Customer| M
+    M -->|Response Recieved| D
+    M -->|Unresponsive Customer| F
 
-    style Z fill:#bbf,stroke:#333,stroke-width:4px
     style A fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
     style F fill:#f9f,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5, 5
 :::
