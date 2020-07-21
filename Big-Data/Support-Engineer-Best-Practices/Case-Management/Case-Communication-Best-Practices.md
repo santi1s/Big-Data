@@ -85,6 +85,7 @@ graph TD
 
 ## Email Signature
 
+### Template
 Your signature should always contain: Your email address, your title, your hours, your managers email address, your phone number, and the microsoft logo. You can use the below signature as a template.
 
 >Whitney Henderson
@@ -94,6 +95,21 @@ Your signature should always contain: Your email address, your title, your hours
 >Data Movement         Office: +1 (980) 7767642 X67642
 > Manager: Lee Pauling - lepaulin@microsoft.com
 > ![image.png](/.attachments/image-1235bd30-b3be-4f75-bb2a-c7f96ce2998d.png)
+
+### Adding a Signature in Outlook
+
+1. In Outlook search "Signature", then select "Signature" and "Signatures"
+![image.png](/.attachments/image-5d383eda-b3c5-496f-a5b1-f792cdbbfa31.png)
+2. Click "New"
+![image.png](/.attachments/image-77de3af4-812e-436d-93f9-a0208e351daa.png)
+3. Name your Signature and click "Okay"
+![image.png](/.attachments/image-9867536c-1d3a-4df2-8a66-63741377a396.png)
+4. Add your signature to the Editor at the bottom
+![image.png](/.attachments/image-74523b6b-8039-4675-bbd6-0568213d340f.png)
+5. Choose what email account you want to use, and what kinds of emails you want it for.
+![image.png](/.attachments/image-0d844667-54ea-4aa8-97aa-de141561b0a8.png)
+6. Click Okay
+![image.png](/.attachments/image-381ef547-93a4-4c7a-b82a-16a131775e1b.png)
 
 ## First Quality Response (FQR)
 
