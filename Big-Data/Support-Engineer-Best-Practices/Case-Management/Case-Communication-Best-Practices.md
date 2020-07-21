@@ -106,6 +106,25 @@ For example:
 
 > Hello, this is Jane Smith from Microsoft Support. I was just reaching out to give you an update on your Data factory case. I was able to complete my review of your logs and wanted to speak with you about the results and next steps. I'll send all that information to you in an email, but if you would like to discuss it, please feel free to call me back! My number is in the signature of my email, but in case you don't receive the email, you can reach me here: 704-555-9988. That's 704-555-9988. Thank you! 
 
+## Best Practices
+
+1. **Smile on a Call** -- Even if your customer can't see you, they can hear you and just like you can hear when your customer is frustrated, they can hear when you're frustrated or disinterested. Smiling or acting like you would act if they were in person can help convey a more positive tone.
+
+2. **Prepare for Calls/Meetings** -- When you have a customer meeting on the calendar, plan in advance what needs to be covered during that meeting. What information needs to be gathered? What information do you need to convey? What steps need to be taken? Once you have completed your to do list, unless something new has arisen during the call, move forward with closing out the call to respect your time and your customer's time.
+
+3. **Stay Calm** -- It can be hard to stay calm while your customer is stressed, but they're already having a bad day (their environment isn't working!) Be that steady presence for your customer. 
+
+4. **Be Courteous** -- Always be polite and professional with your customers, even (and maybe especially) when they are frustrated.
+
+5. **Take Breaks When a Call Is Going Nowhere** -- If your call has stalled and you're not sure what to do next, come up with actionable next steps for you and your customer to move the case forward and attempt to end the call. Even if they want you to remain on the call, take a moment to step back and work on those next steps, letting your customer know what you are doing and that you will be there if they  need assistance.
+
+## How to Rescue a 'Bad' Call
+1. Stay Calm.
+2. Return to your planned to-do list.
+3. Ask your customer for their current priorities.
+4. Create action plan/next steps with customer.
+5. Take time to research.
+
 
 # Email
 
