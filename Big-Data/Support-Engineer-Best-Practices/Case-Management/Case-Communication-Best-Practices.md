@@ -79,9 +79,53 @@ graph TD
 
 </center>
 
-# Phone
+# Phone/Screen Share
+
+## Answering Customer Calls
+Sometimes your customers will reach out to you on the phone without a pre planned meeting.
+Try and anticipate your customer and set up a call so you have time to plan a productive meeting.
+
+However, if you answer a customer call, plan in advance how you are going to answer. Include your name, and that you are from Microsoft Support.
+
+For Example:
+> Hello, this is Jane Smith from Microsoft Support.
+
+## Leaving a Voicemail
+
+1. Don't leave any personal, critical, or environment information on a voicemail.
+2. Instead, let the customer know:
+a. Who you are, and that you are from Microsoft Support.
+b. What case you are calling about (I tend to reference the technology rather than case number.)
+c. What you are calling about in general. (Needed some further information, wanted to give an update or next steps.)
+d. Mention that you will send an email with the next steps you wanted to cover in the voicemail.
+e. Ask them to call you back or reply to your email.
+f. Leave your phone number.
+3. Send an email to your customer mentioning that you called and left a voice mail, then add the next steps or questions you wanted to cover on the call.
+
+For example:
+
+> Hello, this is Jane Smith from Microsoft Support. I was just reaching out to give you an update on your Data factory case. I was able to complete my review of your logs and wanted to speak with you about the results and next steps. I'll send all that information to you in an email, but if you would like to discuss it, please feel free to call me back! My number is in the signature of my email, but in case you don't receive the email, you can reach me here: 704-555-9988. That's 704-555-9988. Thank you! 
+
 
 # Email
+
+
+## Attach Outlook Email to Service Desk Case
+1. Add the case number to the email subject.
+![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
+
+2. Add support@mail.support.microsoft.com in the CC line
+![image.png](/.attachments/image-f6584e02-6466-4281-8f07-a0402cb06abf.png)
+
+Now when you send your email it will get attached to your service desk case.
+
+Template:
+![image.png](/.attachments/image-6fde8463-2b9f-4054-9778-ba0b4cddb38c.png)
+
+Example:
+
+![image.png](/.attachments/image-692b1fb3-0feb-45ec-ba86-b5ba23338be0.png)
+
 
 ## Email Signature
 
@@ -191,23 +235,6 @@ If you think that customer can be dissatisfied for any reason, then:
 1. Discuss as soon as possible this case with a Senior Engineer or Technical Advisor, they may suggest looping in the PG as well. **_Do not delay asking for help if the customer is dissatisfied_**
 2. Contact the TAM (_**for Premier cases**_)
 3. Follow the process for CSAT Impacting IcMs (for participating product groups) and consider making a recovery call.
-
-
-## Attach Outlook Email to Service Desk Case
-1. Add the case number to the email subject.
-![image.png](/.attachments/image-59e856f4-6b21-43e3-b8e3-c1a870375860.png)
-
-2. Add support@mail.support.microsoft.com in the CC line
-![image.png](/.attachments/image-f6584e02-6466-4281-8f07-a0402cb06abf.png)
-
-Now when you send your email it will get attached to your service desk case.
-
-Template:
-![image.png](/.attachments/image-6fde8463-2b9f-4054-9778-ba0b4cddb38c.png)
-
-Example:
-
-![image.png](/.attachments/image-692b1fb3-0feb-45ec-ba86-b5ba23338be0.png)
 
 # Best Practices
 
