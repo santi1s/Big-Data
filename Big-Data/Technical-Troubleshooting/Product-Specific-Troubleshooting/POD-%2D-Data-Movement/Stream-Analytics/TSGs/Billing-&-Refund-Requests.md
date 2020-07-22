@@ -21,14 +21,14 @@ Support Engineer needs to confirm the following information when creating a requ
 
 **STEP 1: GET APPROVAL FROM TECHNOLOGY**
 
-**STEP 2: GATHER INFOMRATION**
+**STEP 2: GATHER INFOMRATION FOR Azure Billing/Subscription Management Support *
 
-Please answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to our ticket when we order the refund request. 
+Please answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to Billing/Subscription ticket when they order the refund request. 
 
 
 -	Which Subscription GUIDs were impacted?
 
--	Why did the issue happen? Please include the IcM, the RCA, and other technical details.
+-	Why did the issue happen? Please include the ASA IcM, the RCA, and other technical details.
 
 -	Do we have objective evidence that this issue is Microsofts fault?
 
