@@ -20,6 +20,7 @@ Questions
 Support Engineer needs to confirm the following information when creating a request for a refund, since Product Group must attach this confirmation to their documentation. This documentation is important if an audit is to take place in the future. 
 
 **STEP 1: GET APPROVAL FROM TECHNOLOGY**
+The customer issue should have an ASA Team IcM associated with it.  In the IcM, please have the Product Group in the IcM approve the refund.
 
 **STEP 2: GATHER INFOMRATION FOR Azure Billing/Subscription Management Support**
 
