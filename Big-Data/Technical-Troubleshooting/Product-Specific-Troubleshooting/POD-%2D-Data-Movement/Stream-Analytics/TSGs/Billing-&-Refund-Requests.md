@@ -41,7 +41,8 @@ Please answer the following questions as completely and in as much detail as pos
 
 -	What services were impacted? Please provide us a list of all impacted resources.  If you are including input and output in addition to ASA, then please the resource name of each resource impacted.
 
-**STEP 3: OPEN COLLABORATION WITH BILLING TEAM AND PROVIDE DETAILS ABOVE**
+**STEP 3: OPEN COLLABORATION WITH BILLING TEAM**
+In the collaboration, please copy and paste the details from Step 2.
 
 
  
