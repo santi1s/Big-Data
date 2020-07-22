@@ -21,7 +21,7 @@ Support Engineer needs to confirm the following information when creating a requ
 
 **STEP 1: GET APPROVAL FROM TECHNOLOGY**
 
-**STEP 2: GATHER INFOMRATION FOR Azure Billing/Subscription Management Support *
+**STEP 2: GATHER INFOMRATION FOR Azure Billing/Subscription Management Support **
 
 Please answer the following questions as completely and in as much detail as possible, even if it is possible that the questions have already been answered in the ticket. It is important for us to receive your analysis via email and to be able to attach it to Billing/Subscription ticket when they order the refund request. 
 
