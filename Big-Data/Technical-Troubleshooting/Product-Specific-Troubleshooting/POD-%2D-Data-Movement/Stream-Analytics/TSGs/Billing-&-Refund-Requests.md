@@ -32,13 +32,13 @@ Please answer the following questions as completely and in as much detail as pos
 
 -	Do we have objective evidence that this issue is Microsofts fault?
 
--	What was the impact to the customer, and how did it specifically affect them? Please provide me a high-level explanation of the impact.
+-	What was the impact to the customer, and how did it specifically affect them? Please provide me a high-level explanation of the impact.  Was the job blocked without a workaround?
 
 -	What is the exact timeframe of the issue? Can we confirm the impacted timeframe up to the minute? 
 
--	Do we have evidence for the impacted timeframe e.g. is this confirmed via the IcM/RCA? 
+-	Do we have evidence for the impacted timeframe e.g. is this confirmed via the IcM/RCA? Can we provide logs or ticket start time and a deployment date of a bug fix?
 
--	What services were impacted? Please provide us a list of all impacted resources.
+-	What services were impacted? Please provide us a list of all impacted resources.  If you are including input and output in addition to ASA, then please the resource name of each resource impacted.
 
 **STEP 3: OPEN COLLABORATION WITH BILLING TEAM AND PROVIDE DETAILS ABOVE**
 
