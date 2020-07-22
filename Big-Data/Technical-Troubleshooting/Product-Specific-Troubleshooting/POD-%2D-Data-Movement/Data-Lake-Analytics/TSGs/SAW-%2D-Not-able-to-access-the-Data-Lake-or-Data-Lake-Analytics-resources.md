@@ -1,7 +1,7 @@
 SAW workstation provides a Dev VM that allows them to access Corpnet stuff like the portal. 
 Should be an icon called MSIT_WIN10 on desktop that allows access to a VM.
 
-If you are not able to log into the WIn10 Vm machine on your computer.
+If you are not able to log into the WIN10 Vm machine on your computer.
 Please reach out to the SAW support to remove the existing machine and install a new VM and link it up to Microsoft Corp account. 
 Once you have your VM you can login using your credential then your should be able to see all your resources. 
 
