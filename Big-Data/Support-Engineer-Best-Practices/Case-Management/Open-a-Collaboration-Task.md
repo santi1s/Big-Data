@@ -16,6 +16,9 @@ A Collaboration Task is a task within a Service Desk case that can be assigned t
 Generally, these tasks are assigned to engineers from another team when you need expertise from another product to resolve your issue.
 
 # How to Open a Collaboration Task
+1. Open your case in Service Desk and select 'Edit' in the upper right-hand corner.
+![image.png](/.attachments/image-e311fcc6-82e6-4ab1-bc13-d41cb8707112.png)
+2. Scroll down and find the 'Tasks' pane on the left-hand side of the case in service desk.
 
 # When to Open a Collaboration Task
 
