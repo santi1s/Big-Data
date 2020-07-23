@@ -199,93 +199,84 @@ sequenceDiagram
 <tbody>
 
 <tr>
-<td>7/14/2020</td>
-<td>Faruk Celik</td>
-<td>Added Outage related resources</td>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Open a Collaboration Task</td>
 </tr>
 <tr>
-<td>7/14/2020</td>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;image-e311fcc6-82e6-4ab1-bc13-d41cb8707112.png&#39;.</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Open a Collaboration&#39; to &#39;Open a Collaboration Task&#39;</td>
+</tr>
+<tr>
+<td>7/22/2020</td>
 <td>Tiffany Fischer</td>
-<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/Backup-and-Recovery&#39; to order &#39;1&#39;.</td>
+<td>Updated Billing &amp; Refund Requests</td>
 </tr>
 <tr>
-<td>7/13/2020</td>
-<td>Ronmia Bess</td>
-<td>Updated Internal Subscription Management</td>
+<td>7/22/2020</td>
+<td>Simmi Pastakia</td>
+<td>Updated SAW - Not able to access the Data Lake or Data Lake Analytics resources</td>
 </tr>
 <tr>
-<td>7/13/2020</td>
-<td>Azith Ganti</td>
-<td>Added Case Handling over weekends</td>
+<td>7/21/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
 </tr>
 <tr>
-<td>7/10/2020</td>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Support Engineer Best Practices/Case Management/Last Quality Response (LQR)&#39;.</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Support Engineer Best Practices/Case Management/First Quality Response (FQR)&#39;.</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Communication Best Practices&#39; to &#39;Case Communication Best Practices&#39;</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Communication Best Practices</td>
 </tr>
 <tr>
-<td>7/8/2020</td>
+<td>7/17/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated Survival Guide</td>
+<td>Updated Regional Subject Matter Experts (SMEs)</td>
 </tr>
 <tr>
-<td>7/8/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Tools</td>
-</tr>
-<tr>
-<td>7/7/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Jarvis for ADLS Gen 1</td>
-</tr>
-<tr>
-<td>7/7/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated TSGs</td>
-</tr>
-<tr>
-<td>7/6/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Case Notes</td>
-</tr>
-<tr>
-<td>7/6/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Survival Guide</td>
-</tr>
-<tr>
-<td>7/6/2020</td>
-<td>Whitney Henderson</td>
-<td>Added Survival Guide</td>
-</tr>
-<tr>
-<td>7/6/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Tools</td>
-</tr>
-<tr>
-<td>7/3/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Backup and Recovery</td>
-</tr>
-<tr>
-<td>7/3/2020</td>
-<td>Tiffany Fischer</td>
-<td>Added Backup and Recovery</td>
-</tr>
-<tr>
-<td>7/3/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Case Notes</td>
-</tr>
-<tr>
-<td>7/3/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Wiki Change Log</td>
-</tr>
-<tr>
-<td>7/3/2020</td>
+<td>7/17/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Wiki Information &amp; Contribution</td>
 </tr>
-</tbody></table>5
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Weekend coverage&#39; to &#39;Weekend Coverage&#39;</td>
+</tr>
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+
+</tbody></table>
