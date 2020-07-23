@@ -31,6 +31,11 @@ Use 'Assign to Agent' and fill out a specific Engineer's alias/name to assign di
 5. Fill out Collaboration Description
 ![image.png](/.attachments/image-8f617241-1b1f-450f-8f58-73ca9a928fe6.png)
 6. Select 'Next'
+7. **IF NEEDED:** If the collab task is routed to the incorrect queue (highlighted), change the support topic to more accurately reflect the correct team. OR use manual override to select the correct queue.
+![image.png](/.attachments/image-20cd1c72-27df-4ee8-9428-64ba3db2d7ea.png)
+8. Select 'Submit'
+![image.png](/.attachments/image-485d7e05-a4c0-42fc-af02-0028a7c9f451.png)
+9. Copy and paste the notes from your collaboration task into your Service Desk Case's regular notes under the title "Collaboration Task for <Team/Product>"
 
 # When to Open a Collaboration Task
 
