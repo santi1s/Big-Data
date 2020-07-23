@@ -77,3 +77,9 @@ engineer knows where to look/what resource to address.>
 ```
 
 # Interacting with Collaborating Engineers
+
+1. If you are a case owner, you are still driving the case and are the main point of contact for the customer. Do loop the collaborating engineer in to any communications, introduce them and their role to the customer, but still keep responsibility to drive your own case.
+2. Feel free to ask the collaborating engineer to reach out directly to the customer, but again, as the owning engineer the case is still ultimately your responsibility.
+3. For any internal discussions with the collaboration engineer, reach out to them over teams or in an email thread separate from the customer. (Customer doesn't need to know how the sausage is made.)
+4. If you need an update from the collaborating engineer but have not heard from them, follow up with them on teams or in an email separate from the customer discussion. You are the main party responsible for the case, so present yourself as the main point of contact for your customer.
+5. If it comes clear that the issue needs to be wholly driven by/addressed by the collaboration team, discuss with your collaboration engineer the possibility of them owning the full case, and your team supporting through a collaboration task.
