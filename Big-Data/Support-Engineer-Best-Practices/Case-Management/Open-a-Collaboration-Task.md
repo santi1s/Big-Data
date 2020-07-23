@@ -19,6 +19,18 @@ Generally, these tasks are assigned to engineers from another team when you need
 1. Open your case in Service Desk and select 'Edit' in the upper right-hand corner.
 ![image.png](/.attachments/image-e311fcc6-82e6-4ab1-bc13-d41cb8707112.png)
 2. Scroll down and find the 'Tasks' pane on the left-hand side of the case in service desk.
+![image.png](/.attachments/image-ec67fcc5-c6ee-4a4e-b830-97016172f64a.png)
+3. Select + Collaboration
+![image.png](/.attachments/image-15843134-96b2-4f57-8867-872d03702ad1.png)
+4. Use 'Route by Area Path' to assign to a team/queue.
+Choose the Product, Support Topic, and Support Subtopic based on the issue you need the collaboration engineer to address.
+![image.png](/.attachments/image-a59cec05-d984-4832-8268-3f83af123a7e.png)
+**-OR-**
+Use 'Assign to Agent' and fill out a specific Engineer's alias/name to assign directly to a specific engineer. (_Do not do this unless you have **already** spoken with that engineer and they have agreed to take the case._ **Under most circumstances, use Route By Area Path to ensure good distribution of cases on a team.**)
+![image.png](/.attachments/image-35e5b965-6131-4a41-9ee9-e08360beb7a0.png)
+5. Fill out Collaboration Description
+![image.png](/.attachments/image-8f617241-1b1f-450f-8f58-73ca9a928fe6.png)
+6. Select 'Next'
 
 # When to Open a Collaboration Task
 
@@ -33,5 +45,26 @@ Generally, these tasks are assigned to engineers from another team when you need
 
 ## Collaboration Task Template
 
+```
+Team Needed
+=====================
+<Team or expertise needed for assistance. This helps with routing.>
+
+Issue Description
+=====================
+<A brief description of the issue you are trying to resolve, focused specifically on the issue 
+the collaboration team will be addressing.>
+
+What Is Needed from Collaboration Engineer
+=================================
+<Specific questions that you need the collaboration team to answer, or tasks you need them to complete,
+or information you need them to gather. Clear objective for the collaboration engineer.>
+
+Resource/Environment Information
+=================================
+<Name of resource, region, timestamp of issue-- Or relevant environment information so the collaboration
+engineer knows where to look/what resource to address.>
+
+```
 
 # Interacting with Collaborating Engineers
