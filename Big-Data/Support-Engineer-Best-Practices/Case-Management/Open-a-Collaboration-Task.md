@@ -11,7 +11,11 @@ If you would like to contribute, please follow up here:
 </table>
 
 # What is a Collaboration Task
+A Collaboration Task is a task within a Service Desk case that can be assigned to another engineer for their assistance/collaboration on your case.
 
+Generally, these tasks are assigned to engineers from another team when you need expertise from another product to resolve your issue.
+
+# How to Open a Collaboration Task
 
 # When to Open a Collaboration Task
 
