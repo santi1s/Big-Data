@@ -10,9 +10,10 @@ If you would like to contribute, please follow up here:
 </tr>
 </table>
 
-# What is a Collaboration
+# What is a Collaboration Task
 
-# When to Open a Collaboration
+
+# When to Open a Collaboration Task
 
 # How to Write a Successful Collaboration Task
 
