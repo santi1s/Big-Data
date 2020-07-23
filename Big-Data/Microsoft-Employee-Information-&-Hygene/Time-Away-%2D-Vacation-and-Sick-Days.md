@@ -146,7 +146,7 @@ Hello!
 Thank you for contacting me. I am out of office today.
 I will be back in office on <Date> !
 
-If there is anything you need regarding Big Data, please feel free to reach out to my <technical advisor/teammate>, <TA/Teammate Name> ( <TA/Teammate Alias> ).
+If there is anything you need regarding Big Data, please feel free to reach out to my <technical advisor/teammate>, <TA/Teammate Name> ( <TA/Teammate Alias> )..
  
 Best Regards,
 <Signature>
