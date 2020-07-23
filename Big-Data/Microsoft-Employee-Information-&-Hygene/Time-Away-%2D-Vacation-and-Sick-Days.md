@@ -156,11 +156,13 @@ Best Regards,
 ```
 Thank you for contacting me, but I am out of office today. I will be returning on <Date> .
 
-If you need immediate assistance, please call the number below for Professional or Premier support as needed to work with the next available engineer. If we have been working on a case together, and you are reaching out regarding that case, please provide them your case number.
-
+If you need immediate assistance, please call the number below for Professional or Premier support as needed to work with the next available engineer, or include the below email address in a reply on the case and request the next available engineer to assist you.
 Thank you for your time and patience!
+
+Backup Support:
+azurebu@microsoft.com
  
-US/North America:
+US/North America Support:
             Premier Support: +1(800)936-3100
             Professional Support: +1(800)936-5800
  
