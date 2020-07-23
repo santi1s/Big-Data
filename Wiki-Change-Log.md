@@ -10,6 +10,86 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Open a Collaboration Task</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;image-e311fcc6-82e6-4ab1-bc13-d41cb8707112.png&#39;.</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Open a Collaboration&#39; to &#39;Open a Collaboration Task&#39;</td>
+</tr>
+<tr>
+<td>7/22/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Billing &amp; Refund Requests</td>
+</tr>
+<tr>
+<td>7/22/2020</td>
+<td>Simmi Pastakia</td>
+<td>Updated SAW - Not able to access the Data Lake or Data Lake Analytics resources</td>
+</tr>
+<tr>
+<td>7/21/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Support Engineer Best Practices/Case Management/Last Quality Response (LQR)&#39;.</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Support Engineer Best Practices/Case Management/First Quality Response (FQR)&#39;.</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Communication Best Practices&#39; to &#39;Case Communication Best Practices&#39;</td>
+</tr>
+<tr>
+<td>7/20/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Regional Subject Matter Experts (SMEs)</td>
+</tr>
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Weekend coverage&#39; to &#39;Weekend Coverage&#39;</td>
+</tr>
+<tr>
+<td>7/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
 <td>7/14/2020</td>
 <td>Faruk Celik</td>
 <td>Added Outage related resources</td>
