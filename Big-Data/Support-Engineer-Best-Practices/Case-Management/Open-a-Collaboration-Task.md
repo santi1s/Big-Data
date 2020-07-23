@@ -38,6 +38,10 @@ Use 'Assign to Agent' and fill out a specific Engineer's alias/name to assign di
 9. Copy and paste the notes from your collaboration task into your Service Desk Case's regular notes under the title "Collaboration Task for <Team/Product>"
 
 # When to Open a Collaboration Task
+1. If you need expertise from another team and it is more than a quick question.
+2. If you need a quick question answered by another team and you are not certain who to contact.
+3. If you are working closely with an engineer on your own team who is providing collaboration/labor and is completing tasks separate from yours.
+4. If you are transferring a case to another team to drive the case, but your team still needs to be involved, create a collaboration task for yourself, assign it to yourself, then transfer the case to the other team.
 
 # How to Write a Successful Collaboration Task
 
