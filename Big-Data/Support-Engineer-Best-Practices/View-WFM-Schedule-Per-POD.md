@@ -1,7 +1,7 @@
 #Viewing your (or anyone else's) POD's schedule in WFM
 WFM has a schedule view that supports filter sets and groups.  This makes it easy to set up one or many filters and populate them with specific PODs to get a quick view of their availability.  Internet Explorer is the only browser in which this works and it takes a little effort the first time.  Here's what you'll have to do:
 
-1.	Open Internet Explorer 
+1.	Open **Internet Explorer**  (yes IE, you have to use IE) 
 2.	Navigate to https://wfm2/ 
 3.	Click on the red “Schedule View” tile
 4.	A page with two sections and an Aspect icon in the lower right should appear
