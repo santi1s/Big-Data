@@ -10,6 +10,81 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>7/28/2020</td>
+<td>Lee Pauling</td>
+<td>Updated View WFM Schedule Per POD</td>
+</tr>
+<tr>
+<td>7/28/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/Intro%3A-Azure-DevOps-Supportability</td>
+</tr>
+<tr>
+<td>7/27/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Other-Language Cases &amp; Translation Services&#39; to &#39;Translation Services &amp; Other-Language Cases&#39;</td>
+</tr>
+<tr>
+<td>7/27/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Translation Services&#39; to &#39;Other-Language Cases &amp; Translation Services&#39;</td>
+</tr>
+<tr>
+<td>7/24/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Secure Case Files (DTM - Data Transfer and Management)</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Time windows - Americas regional accountability</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Elixir - Case Reviews</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Open a Collaboration Task</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>7/23/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Open a Collaboration&#39; to &#39;Open a Collaboration Task&#39;</td>
+</tr>
+<tr>
+<td>7/22/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Billing &amp; Refund Requests</td>
+</tr>
+<tr>
+<td>7/22/2020</td>
+<td>Simmi Pastakia</td>
+<td>Updated SAW - Not able to access the Data Lake or Data Lake Analytics resources</td>
+</tr>
+<tr>
 <td>7/23/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Open a Collaboration Task</td>
