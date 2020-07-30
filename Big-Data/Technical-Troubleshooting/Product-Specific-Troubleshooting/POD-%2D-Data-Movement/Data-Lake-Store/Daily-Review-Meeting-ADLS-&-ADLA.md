@@ -22,7 +22,7 @@ This Daily Review meeting covers cases that have not yet met First Day Resolutio
 
 ## Azure Data Lake Store ICMs
 
-Follow this [link](https://icm.ad.msft.net/imp/v3/incidents/search/advanced?sl=g1qxzraj0zy) for an ICM query with will produce a list of open ADLS ICMs to be reviewed with the ADLS PG.
+Follow this [link](https://portal.microsofticm.com/imp/v3/incidents/search/advanced?sl=llglhyhaqcg) for an ICM query with will produce a list of open ADLS ICMs to be reviewed with the ADLS PG.
 
 Open and review each one, in some instances opening the CSS case to review current status.
 
