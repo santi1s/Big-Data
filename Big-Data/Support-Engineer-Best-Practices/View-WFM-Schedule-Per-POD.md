@@ -16,7 +16,7 @@ WFM has a schedule view that supports filter sets and groups.  This makes it eas
 9.	Click the “Schedule Viewer” link on the left
 ![WFMScheduleViewScheduleViewer.png](/.attachments/WFMScheduleViewScheduleViewer-37607044-389c-4249-93b8-6b6782daebec.png)
 
-- **PRO TIP!!!!**  first time doing this- if your getting something that looks like this below you need to install  [Silverlight](https://www.microsoft.com/getsilverlight/get-started/install). 
+- **PRO TIP!!!!**  first time doing this- if your getting something that looks like this below you need to install  **[Silverlight](https://www.microsoft.com/getsilverlight/get-started/install).** 
 ![WFM-bad.png](/.attachments/WFM-bad-ed45f68b-2877-4f91-a32e-6f15a5897cd3.png)
 - Install Silverlight and reload page.
 
@@ -44,7 +44,25 @@ If this is your first time looking at WFM2, you won't have a "GA" or "SR" group 
 
 Note the SR is the Staff Group which is rolled up from the regional GA's and is availability time for VDM and the Duty Managers.  The GA view makes it easier to see regional alias, however its as good as what the Duty Managers and Managers have put in for everyone while keeping it updated.
 
-16.	In order to see an hour-by-hour breakdown of everyone’s availability for a specific day, click on that date at the top of the schedule view
+16.	In order to see an hour-by-hour breakdown of everyone’s availability for a specific day, click on that date at the top of the schedule view.  Note, First day was expanded to see SR. 
 ![WFMScheduleViewMultiDayView.png](/.attachments/WFMScheduleViewMultiDayView-8f1fbaa7-341e-4466-80ed-31f8b0deea4e.png)
+
 17.	You will now see an hour-by-hour view of everyone you’ve selected for that day
-![WFMScheduleViewDailyView.png](/.attachments/WFMScheduleViewDailyView-5842cd49-1b45-40d2-b826-6baa6d8657b0.png)
+![WFM-singleday-good.png](/.attachments/WFM-singleday-good-00a194e4-5f12-48ff-a949-abd07dfff2ef.png)
+Note, WFM2 uses your local timezone based of our OS.  The example above is in **CDT (UTC-5)**
+Note, as part of the Data Movement re-org / alignment, Mindtree was put into the GA's they are most aligned to. Hence 40 alias's in AMER GA instead of 21 (as of July, 2020) 
+
+And thats how you use WFM Schedule view in IE to view most of your engineering peers.  
+
+
+ **PRO TIP!!!!**  To actually see the entire Data Movement team the way WFM and the Duty Managers (Case Buddy) do its highly recommended to also make a SR filter.  its basically the same steps except instead of selecting Group Allowance your selecting **GE SQL- Data Move SR** under **StaffGroup** as noted below:
+![WFM-SR-filter.png](/.attachments/WFM-SR-filter-d39604c3-b8ca-4fe7-979a-e71b5cfe7302.png)
+
+Note its now 115 aliass. 
+![WFM-SR-select.png](/.attachments/WFM-SR-select-249dbffa-0af4-439a-9c3b-0a889cb4b00b.png)
+ tap **OK**. 
+![WFM-sr-multi-good.png](/.attachments/WFM-sr-multi-good-916aa262-24f2-45e1-bd22-225fd6eee1af.png)
+and ta-da multiday of entire team.  drill into a day for per 30 min.  Just like the other example tap a day to drill in. 
+
+ **PRO TIP!!!!**  to pull a day into Excel .  use the select all icon by clicking on it (below) then control-p into a new Excel tab. 
+![WFM-select-all.png](/.attachments/WFM-select-all-db9ca7ab-ef50-4729-97d4-3fcdb90b5f4b.png)
