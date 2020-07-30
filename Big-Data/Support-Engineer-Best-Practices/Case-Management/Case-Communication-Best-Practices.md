@@ -78,7 +78,7 @@ Customer security and protecting customer data is of utmost importance, so here 
 2. **DO NOT take screenshots** during customer calls. Instead, ask your customer to take needed screenshots, and have your customer upload those screenshots to the case storage.
 (If your customer uploads these screenshots to chat rather than to the case storage, ask them to upload to the case storage, but advise them that our case storage is more secure and not to include any PII information.)
 
-3. **Avoid storing data that has PII** - PII stands for Personal Identifiable Information. This is any information that could connect your customer with their real identity -- Like a full name or phone number in a screenshot. 
+3. **Avoid storing data that has PII** - PII stands for Personal Identifiable Information. This is any information that could connect your customer with their real identity -- Like a full name or phone number in a screenshot. (More details - [Procedure: Privacy: Handling Microsoft customer personal data](https://internal.support.services.microsoft.com/en-us/help/3064766) )
 
 4. **If your customer provides any passwords** or any information that grants you access to their resoruces over email or chat ask them to change their passwords to protect their resource's security so this information cannot be used to access their environment.
 
