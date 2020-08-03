@@ -6,6 +6,8 @@
 **Recovery of user-deleted data is not supported, and so cannot be guaranteed, but we will make our best effort to restore their data.**
 Communicate this to your customer, to set expectations, and gather the information below based on their situation.
 
+**Data deleted over 7 days ago cannot be recovered.** Recovery is never guaranteed, but for data removed over 7 days, we will not be able to recover it.
+
 # Recover Files or Folders That Have Been Deleted
 
 Gather the below information, and then create a **Sev 3** ICM(https://icm.ad.msft.net/imp/v3/incidents/create) to the Azure Data Lake Store/Store team setting the Type of Incident to File/Folder Deletion/Recovery.
