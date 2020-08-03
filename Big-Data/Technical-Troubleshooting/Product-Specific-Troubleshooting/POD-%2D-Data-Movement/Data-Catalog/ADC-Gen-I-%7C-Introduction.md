@@ -13,5 +13,5 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 # **Online Support Documentation**
 [Azure Data Catalog Overview](https://docs.microsoft.com/en-us/azure/data-catalog/overview)
 
-# **Trouble Shooting**
+# **Troubleshooting**
 [Support Engineer Troubleshooting Guide](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Azure%20Data%20Catalog.aspx)
