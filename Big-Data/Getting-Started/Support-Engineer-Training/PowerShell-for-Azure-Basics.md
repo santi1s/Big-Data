@@ -2,7 +2,20 @@
 
 #PowerShell Basics Training Session
 
-Video to be uploaded after 8/3/2020 Session
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/2540a1ff-0400-a521-1b85-f1ead5cf32c7?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+<details>
+  <summary>Video Timestamps</summary>
+
+Video Timestamps Coming!
+**_Section_**
+
+_Section - **01:58**_ - Description
+_ActivityRuns - **03:35**_ - Pipeline Run ID or Activity Run ID
+
+</details>
 
 #PowerShell Basics Training Scripts
 
