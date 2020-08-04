@@ -64,7 +64,7 @@ graph TD
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/ff01a1ff-0400-a521-ee90-f1eacac98879?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-
+PPT Deck: [FQR-LQR-Comms- July202020.pptx](/.attachments/FQR-LQR-Comms-%20July202020-aff29e5c-802e-4bfc-b059-0abb3aef529f.pptx)
 
 </center>
 
