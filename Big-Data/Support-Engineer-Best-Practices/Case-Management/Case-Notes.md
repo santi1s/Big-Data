@@ -18,7 +18,7 @@ July 06, 2020 Training - Whitney Henderson
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/1ff5a3ff-0400-a521-7fe0-f1eabfc7b4b0?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-PPT Deck: 
+PPT Deck: [Note Taking - July062020 - Reduced Size.pptx](/.attachments/Note%20Taking%20-%20July062020%20-%20Reduced%20Size-7a7dc91a-2064-4035-9559-c1d031f7de9b.pptx)
 <br>
 
 July 27, 2019 Training - Rob Beene & Smit Shah
