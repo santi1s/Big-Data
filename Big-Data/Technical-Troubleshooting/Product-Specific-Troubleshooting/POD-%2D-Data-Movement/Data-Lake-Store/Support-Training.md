@@ -18,6 +18,7 @@
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/7fa6730b-ef4f-4793-9e9c-2cfcb2f2ae6a?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
+Deck: [Data Lake Gen 1 Troubleshooting.pptx](/.attachments/Data%20Lake%20Gen%201%20Troubleshooting-676e6d73-0729-4173-9dfb-51ac20387b1a.pptx)
 </center> 
 
 3. Follow these three training sessions in this link:
