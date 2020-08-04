@@ -189,6 +189,23 @@ ActivityRuns
 # Azure Data Factory V2 Queries by Table
 
 
+###Pipeline Runs
+
+Pipeline Runs will give you information about all the pipelines that ran in a customer's environment.
+It will tell you when they ran and give you their status and pipeline run ID.
+
+```
+PipelineRuns
+| where * == "<RUN ID>"
+```
+
+Most helpfully, you can use PipelineRuns to find the runs from "ExecutePipeline" activities!
+Using the Activity ID of the Execute Pipeline activity, like below:
+
+```
+PipelineRuns
+| where predecessors contains "<Execute Pipeline Activity ID>"
+```
 
 ###ActivityRuns 
 _(Query against Adfcus or Adfneu depending on the region of the data factory.)_
