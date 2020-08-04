@@ -189,7 +189,7 @@ ActivityRuns
 # Azure Data Factory V2 Queries by Table
 
 
-###Pipeline Runs
+###PipelineRuns
 
 Pipeline Runs will give you information about all the pipelines that ran in a customer's environment.
 It will tell you when they ran and give you their status and pipeline run ID.
