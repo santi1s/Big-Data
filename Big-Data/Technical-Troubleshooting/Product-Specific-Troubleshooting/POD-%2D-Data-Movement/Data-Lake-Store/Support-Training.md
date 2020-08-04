@@ -5,7 +5,7 @@
 
 **After completing all steps in this troubleshooting training guide, you should be able to resolve 99% of ADLS cases.**
 
-**Steps 1-4 are the most important, as these cover Microsoft training, troubleshooting training from your peers, and a deep dive into ADLS Permissions.**
+**Steps 1-5 are the most important, as these cover Microsoft training, troubleshooting training from your peers, and a deep dive into ADLS Permissions.**
 
 1. Start with this very basic training course to understand what ADLS Gen 1 is: 
     https://learn.microsoft.com/activity/S1791005/launch 
