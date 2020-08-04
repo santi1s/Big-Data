@@ -19,6 +19,9 @@ https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-
 
  Get connected with our Trouble shooting one note (created by the product group): https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29
 
+4. Go through these three training guides:[Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
+These guides cover most issues you'll experience with ADLS Gen 1.
+
 	
 12. Get familiar with best practices: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-best-practices
 
