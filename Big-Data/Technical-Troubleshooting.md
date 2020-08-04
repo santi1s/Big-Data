@@ -9,6 +9,8 @@
 
 :::
 
+PPT Deck: [Troubleshooting Basics - June152020.pptx](/.attachments/Troubleshooting%20Basics%20-%20June152020-5b5f9fd0-c13f-4016-8562-fa91c62c9b4c.pptx)
+
 </center>
 
 <details>
