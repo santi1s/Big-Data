@@ -10,7 +10,7 @@
 1. Start with this very basic training course to understand what ADLS Gen 1 is: 
     https://learn.microsoft.com/activity/S1791005/launch 
 
-2. Watch this ADLS Gen 1 Troubleshooting Training video to understand the basics of troubleshooting:
+2. Watch this ADLS Gen 1 Troubleshooting Training video to understand the basics of troubleshooting ADLS Cases:
 
 <center>
 
@@ -20,37 +20,41 @@
 
 </center> 
 
-3. Follow these three training sessions:[Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
-These guides cover most issues you'll experience with ADLS Gen 1.
+3. Follow these three training sessions in this link:
+[Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
+**These training sessions cover ADLS Troubleshooting more deeply, and should allow you to resolve 99% of data lake cases once you have completed them.**
 
+4. Get familiar with the differences between ADLS Gen 1 and Blob Storage. (Note, ADLS Gen 2 is on top of blob storage): https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-comparison-with-blob-storage
 
-3. Permissions Understanding:
-   https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280901/Troubleshooting-Access
-https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview
+5. Now that you have troubleshooting basics and experience, follow these guides for a full understanding of Data Lake Access, and Troubleshooting Data Lake Access:
+**[Microsoft Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)**
+**[Full Review of ADLS Access and Issues](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280882/Access-Control-Overview)** 
+**[Guide to Troubleshooting Access](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280901/Troubleshooting-Access)**
 
- Get connected with our Trouble shooting one note (created by the product group): https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29
+6. Review our [Jarvis for ADLS Gen 1 Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1), which will take you through the specifics on how to search Jarvis Logs for ADLS Gen 1.
 
-4. Go through these three training guides:[Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
-These guides cover most issues you'll experience with ADLS Gen 1.
+6. Get connected with the [Product Team's troubleshooting OneNote]( https://microsoft.sharepoint.com/teams/ADLSGen1-CSSCollaboration/_layouts/15/Doc.aspx?sourcedoc={f47ad678-9d0c-4766-8a17-691ca6564b93}&action=edit&wd=target%28Supportability%20OneNote.one%7Cdffd0533-ef7f-4504-a41b-5e36641307b5%2FADLS%20Gen1%20Support%20Topics%5C%2FCommon%20Solutions%5C%2FScoping%20Questions%7Ca2c9949d-0899-43d4-9151-4466f73b4cd6%2F%29). ADLS Error Codes and some of our TSGs are housed here.
 
-	
-12. Get familiar with best practices: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-best-practices
-
-	
-13. Get familiar with the diferances between ADLS Gen 1 and Blob Storage. (Note, ADLS Gen 2 is on top of blob storage): https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-comparison-with-blob-storage
-
-	
-14. Get familiar with V-Net Integration: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-network-security#optimal-routing-with-data-lake-storage-gen1-virtual-network-integration
+8. Check out our [Wiki Troubleshooting Guides (TSGs)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276255/TSGs), which cover some specific errors you may encounter:
+![image.png](/.attachments/image-7174168f-604e-4204-8fd7-039c69af7440.png)
 
 	
-15. Get Familiar with performance: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-performance-tuning-guidance
+7. Get familiar with Data Lake best practices: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-best-practices
+
+
+8. Get familiar with V-Net Integration: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-network-security#optimal-routing-with-data-lake-storage-gen1-virtual-network-integration
 
 	
-16. Get Familiar with HDI connectivity: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-hdinsight-hadoop-use-portal
+9. Get Familiar with performance: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-performance-tuning-guidance
+
+	
+10. Get Familiar with HDI connectivity: https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-hdinsight-hadoop-use-portal
 
 
 
 #Hands-On Training
+
+This hands on training guide will take you through creating a data lake store, simulating some ADLS permissions issues, and looking up those issues in Jarvis to familiarize yourself with the troubleshooting process.
 
 1. If you do not already have an Azure Subscription, or access to an Azure subscription, please either reach out to your manager/TA, or follow this guide to set up a subscription: https://microsoft.sharepoint.com/teams/azureinternal/CSSMgmt/SitePages/Home.aspx
 
