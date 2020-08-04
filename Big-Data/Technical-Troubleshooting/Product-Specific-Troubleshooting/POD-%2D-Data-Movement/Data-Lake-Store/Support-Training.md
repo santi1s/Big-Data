@@ -1,17 +1,28 @@
 
 [[_TOC_]]
 
-#Troubleshooting/Support Training and Guides
+#Troubleshooting Training
 
-1. 
+**After completing all steps in this troubleshooting training guide, you should be able to resolve 99% of ADLS cases.**
 
-2. Start with this very basic training course to understand what ADLS Gen 1 is: 
+**Steps 1-4 are the most important, as these cover Microsoft training, troubleshooting training from your peers, and a deep dive into ADLS Permissions.**
+
+1. Start with this very basic training course to understand what ADLS Gen 1 is: 
     https://learn.microsoft.com/activity/S1791005/launch 
 
 2. Watch this ADLS Gen 1 Troubleshooting Training video to understand the basics of troubleshooting:
+
+<center>
+
 ::: video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/7fa6730b-ef4f-4793-9e9c-2cfcb2f2ae6a?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
+
+</center> 
+
+3. Follow these three training sessions:[Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
+These guides cover most issues you'll experience with ADLS Gen 1.
+
 
 3. Permissions Understanding:
    https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280901/Troubleshooting-Access
