@@ -97,7 +97,7 @@ You can find the mask settings on any file/folder by going to Access -> Advanced
 
 ![image.png](/.attachments/image-33e0010d-c21f-4a4e-9069-3d3adc59a805.png)
 
-The mask limits access for named users/groups (users/groups that have been granted ACL permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
+The mask limits access for named users/groups (users/groups that have been granted ACL permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.), but NOT the owning user (which is the user listed under "Owner" on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
 
 For example, in this image:
 ![image.png](/.attachments/image-e25a8fbb-d974-4ff7-a1d7-3710e1a0c1f1.png)
@@ -208,6 +208,7 @@ _Capabilities_
 - Has the permissions applied to an Owning User on the file/folder where they are an Owning User.
 - Is able to change the permissions of the owned files/folders
 - Is able to change the Owning Group of the file/folder, so long as the owning user is a member of that target group.
+- Is NOT affected by the mask. (See [Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-control#access-check-algorithm)) 
 
 ```
 Note: You can see the Owning User of a file/folder under the access tab. They will be the first account listed under 'Owners'
