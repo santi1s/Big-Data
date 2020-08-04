@@ -63,6 +63,8 @@ K --> L(You may need to remain with an <br> active/critical case until an <br> o
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/81c6a3ff-0400-a936-90ea-f1eaa4452b0a?autoplay=false&amp;showinfo=true&amp;st=61" allowfullscreen style="border:none;"></iframe>
 
 :::
+
+PPT Deck: [Handoff - June012020.pptx](/.attachments/Handoff%20-%20June012020-66270cb4-fb3a-4b21-9f0a-b9c24c795eeb.pptx)
 </center>
 
 **Timestamps:**
