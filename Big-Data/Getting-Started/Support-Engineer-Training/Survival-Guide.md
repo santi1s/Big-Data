@@ -2,7 +2,7 @@
 
 This guide is **not** here to make you the most best, most organized, most successful engineer ever.
 
-Instead, this is the combined knowledge and experience of your fellow engineers who have also had to learn to keep up with their cases.
+Instead, this is the combined knowledge and experience of your fellow engineers who have also had to learn to keep up with their cases, fostered good work life balance, and stayed sane.
 
 If you feel like you're drowning, start here.
 
