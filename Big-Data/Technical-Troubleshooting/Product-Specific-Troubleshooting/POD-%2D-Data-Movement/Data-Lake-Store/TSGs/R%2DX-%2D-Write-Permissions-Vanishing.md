@@ -42,6 +42,18 @@ spark.hadoop.fs.permissions.umask-mode 000
 # TL;DR
 If your customer has write permissions mysteriously disappearing, ask if they're using Databricks or HDI and if yes, have them change the umask on the cluster to 000.
 
+# Data bricks config sample
+Databricks Spark Interactive Cluster: 
+Navigate to your cluster >click edit> configuration > Advanced Settings > Spark then add spark.hadoop.fs.permissions.umask-mode 000. Then click "Confirm and Restart"
+![image.png](/.attachments/image-eb47c902-cf92-4b67-9eae-f93962d0eb22.png)
+
+Databricks Spark Automated Cluster from ADF:
+When define the Azure Databricks linked service navigates to the button to “Additional cluster settings” >  “Cluster Spark conf” add the property as in below image
+![image.png](/.attachments/image-14c33812-55ab-4058-85e6-69818cb196c4.png)
+
+# HDI sample
+Going to Ambari UI -> HDFS -> Configs -> Advanced. Then find the 'Advanced hdfs-site' drop down, and find the 'fs.permissions.umask-mode', it should show '022', change that to '000'.
+
 # Additional Reading
 
 ## Hadoop Permissions
