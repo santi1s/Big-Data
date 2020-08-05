@@ -37,7 +37,7 @@ Most cases aren't make or break on technical knowledge. All your customers want 
 ## How to Sign Off
 1. Good Notes - [How to Take Great Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
 2. Out of Office Messages - [OOFMessage Tool](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=oofsponder), [Automatic Reply Guidelines](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/277566/Time-Away-Vacation-and-Sick-Days?anchor=automatic-replies)
-3. Clarity with your customers.
+3. Clarity with your customers. - [Communications Best Practices](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297427/Case-Communication-Best-Practices)
 4. Trust your global teammates.
 
 ## Who Ask for Help
