@@ -31,7 +31,7 @@ Extras - Specific Tooling/Other training Guides
 
 ## Self-Training Schedule
 
-Start with L100 for all products, to have a basic understanding of all the products we support.
+Using the table below, start with L100 for all products, to have a basic understanding of all the products we support.
 Then complete L200 Level training for your "focus products". Then complete L300 for your "focus" products. 
 
 
