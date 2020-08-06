@@ -53,7 +53,9 @@ _**1:16:07**_ - Script Basics
 _**1:18:45**_ - Script Outputs
 _**1:23:08**_ - If Statements
 _**1:28:30**_ - ForEach Loops
-_**1:31:58**_ - ForEach Loops
+_**1:31:58**_ - While Loops
+_**1:35:16**_ - Parameters
+_**1:41:40**_ - Parameters
 
 </details>
 
