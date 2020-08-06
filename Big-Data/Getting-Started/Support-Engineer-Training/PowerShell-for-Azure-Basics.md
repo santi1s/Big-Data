@@ -25,6 +25,8 @@ _**13:06**_ - Shell Commands & Navigation
 _**15:55**_ - Running a PowerShell Script
 _**18:10**_ - Cmdlets
 _**20:33**_ - Running Cmdlets
+_**25:13**_ - Cmdlet Parameters
+_**26:30**_ - Using Get-Help
 
 </details>
 
