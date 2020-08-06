@@ -55,7 +55,12 @@ _**1:23:08**_ - If Statements
 _**1:28:30**_ - ForEach Loops
 _**1:31:58**_ - While Loops
 _**1:35:16**_ - Parameters
-_**1:41:40**_ - Parameters
+_**1:41:40**_ - Functions
+_**1:43:48**_ - Sending Scripts over Email or Teams
+
+**_Outro_**
+
+_**1:44:55**_ - Closing and Discussion
 
 </details>
 
