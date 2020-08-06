@@ -51,6 +51,9 @@ _**1:12:09**_ - Azure RM Module vs Azure Az Module
 
 _**1:16:07**_ - Script Basics
 _**1:18:45**_ - Script Outputs
+_**1:23:08**_ - If Statements
+_**1:28:30**_ - ForEach Loops
+_**1:31:58**_ - ForEach Loops
 
 </details>
 
