@@ -10,11 +10,29 @@
   <summary>Video Timestamps</summary>
 
 Video Timestamps Coming!
-**_Section_**
+**_Introduction_**
 
-_Section - **01:58**_ - Description
+_**00:00**_ - Intro to Presentation
+_**01:11**_ - What is PowerShell?
+_**04:21**_ - Agenda
+_**05:55**_ - Where to find PowerShell on Your Machine
+_**08:25**_ - Running as Administrator
+
+**_Basics of PowerShell Shell/Command Line_**
+
+_**10:30**_ - Comments
+_**13:06**_ - Shell Commands & Navigation
+_**15:55**_ - Running a PowerShell Script
+_**18:10**_ - Cmdlets
+_**20:33**_ - Running Cmdlets
 
 </details>
+
+# PowerShell Basics
+##Running A PS Script
+### Shell
+### From a PS1 File
+### Using the ISE
 
 #PowerShell Basics Training Scripts
 
