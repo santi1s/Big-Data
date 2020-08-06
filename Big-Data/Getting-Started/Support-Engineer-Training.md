@@ -34,7 +34,7 @@ Extras - Specific Tooling/Other training Guides
 |--|--|--|--|--|
 | Data Catalog |  |  |  |  |
 | Data Factory |  |  |  |  |
-| Data Lake Store Gen 1 | [Complete Steps 1, 2, & 3 for L100 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) | [Complete Remaining Steps for L200 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) | [ADLS Gen 1 Architecture Whitepaper](http://www.cs.ucf.edu/~kienhua/classes/COP5711/Papers/MSazure2017.pdf) | [Jarvis for ADLS](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1) |
+| Data Lake Store Gen 1 | [Complete Steps 1, 2, & 3 for L100 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) <br> [Azure Docs Overview](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-overview) | [Complete Remaining Steps for L200 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) | [ADLS Gen 1 Architecture Whitepaper](http://www.cs.ucf.edu/~kienhua/classes/COP5711/Papers/MSazure2017.pdf) | [Jarvis for ADLS](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1) |
 | Data Lake Analytics |  |  |  |  |
 | Data Share |  |  |  |  |
 | Stream Analytics |  |  |  |  |
