@@ -21,11 +21,11 @@
 Deck: [Data Lake Gen 1 Troubleshooting.pptx](/.attachments/Data%20Lake%20Gen%201%20Troubleshooting-676e6d73-0729-4173-9dfb-51ac20387b1a.pptx)
 </center> 
 
-3. Follow these three training sessions in this link:
+3. Get familiar with the differences between ADLS Gen 1 and Blob Storage. (Note, ADLS Gen 2 is on top of blob storage): https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-comparison-with-blob-storage
+
+4. Follow these three training sessions in this link:
 [Full Troubleshooting Training Guides](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FADLS%20Gen1%20Training&p=true&originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRXFZczB6T2F4b2RJalRNbUtPcjloa1lCUkltbVhiMmlXT3hhQnM1eEpXeUxWQT9ydGltZT03Qk5FUUhrNDJFZw)
 **These training sessions cover ADLS Troubleshooting more deeply, and should allow you to resolve 99% of data lake cases once you have completed them.**
-
-4. Get familiar with the differences between ADLS Gen 1 and Blob Storage. (Note, ADLS Gen 2 is on top of blob storage): https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-comparison-with-blob-storage
 
 5. Now that you have troubleshooting basics and experience, follow these guides for a full understanding of Data Lake Access, and Troubleshooting Data Lake Access:
 **[Microsoft Access Documentation](https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-security-overview)**
