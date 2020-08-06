@@ -10,4 +10,33 @@ If you would like to contribute, please follow up here:
 </tr>
 </table>
 
-<a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a>    
+[[_TOC_]]
+
+<a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a>  
+
+# Case Management Training  
+
+# Data Movement Technical Training
+
+For some of these products, there are specific accreditations associated with each level of training.
+These will be listed as a link titled 'Accreditation' or 'Accreditation and Training' in the table below.
+
+Otherwise, the levels correspond to these levels of understanding:
+
+L100 - Basic Product Knowledge/Basic Troubleshooting Understanding
+L200 - Full product knowledge/Full Support Troubleshooting Knowledge
+L300 - Deep/Expert product knowledge
+
+Extras - Specific Tooling/Other training Guides
+
+
+|  | L100 | L200 | L300 | Extras  |
+|--|--|--|--|--|
+| Data Catalog |  |  |  |  |
+| Data Factory |  |  |  |  |
+| Data Lake Store Gen 1 | [Complete Steps 1, 2, & 3 for L100 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) | [Complete Remaining Steps for L200 Understanding](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276224/Support-Training) | [ADLS Gen 1 Architecture Whitepaper](http://www.cs.ucf.edu/~kienhua/classes/COP5711/Papers/MSazure2017.pdf) | [Jarvis for ADLS](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1) |
+| Data Lake Analytics |  |  |  |  |
+| Data Share |  |  |  |  |
+| Stream Analytics |  |  |  |  |
+| SSIS/MDS/DQS |  |  |  |  |
+
