@@ -8,8 +8,6 @@
 
 <details>
   <summary>Video Timestamps</summary>
-
-Video Timestamps Coming!
 **_Introduction_**
 
 _**00:00**_ - Intro to Presentation
