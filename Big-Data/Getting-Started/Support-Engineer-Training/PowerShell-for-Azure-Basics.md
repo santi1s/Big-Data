@@ -43,6 +43,14 @@ _**55:45**_ - Installing Azure PowerShell Modules
 _**58:25**_ - Import-Module
 _**59:45**_ - Updating Modules
 _**1:00:05**_ - Signing In to Azure
+_**1:02:35**_ - Azure PowerShell Cmdlets
+_**1:05:50**_ - Azure PowerShell Example
+_**1:12:09**_ - Azure RM Module vs Azure Az Module
+
+**_PowerShell Scripting_**
+
+_**1:16:07**_ - Script Basics
+_**1:18:45**_ - Script Outputs
 
 </details>
 
