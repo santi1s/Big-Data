@@ -23,10 +23,26 @@ _**08:25**_ - Running as Administrator
 _**10:30**_ - Comments
 _**13:06**_ - Shell Commands & Navigation
 _**15:55**_ - Running a PowerShell Script
-_**18:10**_ - Cmdlets
+
+**_PowerShell Cmdlets_**
+
+_**18:10**_ - Basics
 _**20:33**_ - Running Cmdlets
-_**25:13**_ - Cmdlet Parameters
+_**25:13**_ - Parameters
 _**26:30**_ - Using Get-Help
+_**28:53**_ - Syntax
+_**33:05**_ - Outputs
+_**35:20**_ - | (Pipes)
+_**44:15**_ - Aliases
+_**48:45**_ - Variables
+_**52:20**_ - $_
+
+**_Azure PowerShell_**
+
+_**55:45**_ - Installing Azure PowerShell Modules
+_**58:25**_ - Import-Module
+_**59:45**_ - Updating Modules
+_**1:00:05**_ - Signing In to Azure
 
 </details>
 
