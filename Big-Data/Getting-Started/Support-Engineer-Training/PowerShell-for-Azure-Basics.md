@@ -65,8 +65,255 @@ _**1:44:55**_ - Closing and Discussion
 # PowerShell Basics
 ##Running A PS Script
 ### Shell
+1. From the PowerShell Shell, navigate to the folder where your script is stored.
+2. Use .\<Name of your .ps1 file> to run.
+
+For example:
+![image.png](/.attachments/image-f3e35233-dae8-4d77-b8f0-9321b1a0d1c7.png)
+
 ### From a PS1 File
+1. Navigate to your .PS1 file in a file explorer.
+2. Right-click the .ps1 file and select "Run in PowerShell"
+
+For example:
+![image.png](/.attachments/image-bc81c240-42c8-4adb-a2ef-fa1bc2628d95.png)
+
 ### Using the ISE
+1. Open your script using the PowerShell ISE.
+2. To run the full script you can either:
+a. Use the Shell at the bottom to run the script as if from a shell.
+b. Use the 'Play' button to run the full script.
+![image.png](/.attachments/image-43bad967-6e58-4b28-88e5-6ab3d0142d27.png)
+
+3. To run a particular section or sub-section of your script:
+a. Highlight the portion you wish to run.
+b. Run the selection using play-selection button.
+![image.png](/.attachments/image-86349d3b-fc4d-4597-92a9-85ca291e6c54.png)
+
+## Comments
+
+### Regular Comments
+
+```
+#Comments are preceeded by a #, and everythin in the line after the # is ignored by PowerShell
+```
+
+### Block Comments
+
+```
+<# Block comments are written like this, between two # and carrots. 
+Anything between the markers is ignored by PowerShell #>
+```
+
+## Shell Commands
+
+You can use shell commands to navigate through your machine in the Shell. 
+There are many commands, but we’ll go over the four I use most frequently:
+
+        dir - lists the files/folders in your current directory.
+        cd <Directory Name> – (change directory) points to indicated directory.
+        cd .. – points you to previous directory.
+        .\<ScriptName> - run a PowerShell Script.
+
+## Cmdlets
+
+A cmdlet is a lightweight command that PowerShell uses for its shell and scripts.
+A cmdlet is a verb-noun pair that tells you:
+            1. What you’re doing.
+            2. The object of that action.
+
+For example:
+
+            Get-Help
+            Add-AzDataLakeStoreFirewallRule
+            Remove-AzDataFactoryPipeline
+            Set-AzHDInsightClusterSize
+            Connect-AzAccount
+            Install-Module
+            Start-AzStreamAnalyticsJob
+            New-AzDatabricksWorkspace
+Approved PS Verbs:
+        https://docs.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7
+
+## Parameters
+
+Many cmdlets have parameters that can determine/customize what the cmdlet will do.
+The ISE will suggest possibilities for you, which is nice.
+
+If you forget a cmdlets parameters, you can use Get-Help to list out
+  
+        Get-Help -Name "Remove-AzDataFactoryPipeline"
+        
+Want to see examples of a command? Use Get-Help -Examples
+
+        Get-Help -Name "Start-AzStreamAnalyticsJob" -Examples
+
+
+You don't always need the name of the parameter to use it, though:
+
+        Get-Help -Name "Connect-AzAccount"
+
+        Get-Help "Connect-AzAccount"
+
+Cmdlets have a list of parameters, some mandatory, some optional.
+You can see which are which when you use 'Get-Help'
+
+For example, if you run:
+
+            Get-Help "Get-Help"
+
+This comes back:
+SYNTAX
+Get-Help [[-Name] <string>] [-Path <string>] [-Category {Alias | Cmdlet | Provider | General | FAQ | Glossary | HelpFile | ScriptCommand | Function | Filter | ExternalScript | All | DefaultHelp | Workflow | DscResource | Class | Configuration}] [-Component <string[]>] [-Functionality <string[]>] [-Role <string[]>] [-Full]  [<CommonParameters>]
+
+Brackets ([]) mean optional
+
+So see [-Path <string>] - you can provide a path, but don't have to.
+
+Brackets can also go around the name of the parameter, meaning providing that parameter name is optional!
+
+ So see [[-Name] <string>]
+
+This means if you just provide a string Get-Help will assume you are providing the name.
+
+Curly Brackets ({}) show options for a parameter.
+
+See -Category
+
+## Outputs 
+
+ Most cmdlets have an output of some kind, and the output will be displayed in the command shell after the cmdlet is run.
+
+You'll notice many cmdlets have outputs with several properties, for example
+
+Get-Module has several properties:
+ModuleType, Version, Name, Exported Commands, etc...
+
+We can have all these properties returned, or we can select a single property using the humble '.'
+
+For example:
+
+```
+(Get-Module).Name
+```
+
+This will return only the name property of all modules
+The parens () contain the output and allow you to select some aspect using .
+
+Pipes pass data from one cmdlet to the next.
+Think of a pipe as connecting the cmdlets and moving data through itself from the first to the second.
+
+For example:
+
+Returns all currently running services on your machine
+        Get-Service
+
+Sort-Object will... sort the returned object by any property you specify
+        Get-Service | Sort-Object -Property Status 
+
+Something you'll use more regularly...
+Out-File will write any output to a file of your choosing
+
+        "The quick, brown fox jumps over the lazy dog." | Out-File -FilePath TestOutput.txt
+        
+You can even use multiple pipes!
+This will return only the display name of all running services AND output them to a file:
+
+        Get-Service | Where-Object -FilterScript { $_.status -eq "Running"} | Select-Object displayname | Out-File -FilePath "CurrentProcesses.txt"
+    
+So what's happening there?
+
+Get-Service is returning all services. 
+Where-Object is recieving the full list of all services from the pipe and using a filter script to select only the services that have a status of 'Running'
+
+The $_ is a variable that represents the current object in a list of objects.
+We'll discuss variables next!
+
+Select-Object is recieving all the 'Running' services from the pipe, and is selecting only the 'DisplayName' part of the object.
+
+Out-File is receiving the list of all display names from the pipe and outputting it to a file.
+
+## Aliases
+
+PowerShell also makes use of 'Aliases', which are shortened cmdlet names.
+
+For example, remember Get-Help?
+
+Try just 'Help'
+
+This will mostly come into play when you are reading other PS scripts online and wondering what on earth is happening. Remember aliases exist!
+
+Want to know what aliases you can use?
+
+        Get-Alias
+
+        Get-Alias -Definition "Where-Object"
+        
+        Get-Alias -Definition "Select-Object"
+
+From the above, we can see that Where-Object can shorten to ? or 'where'
+And Select-Object can shorten to 'Select'
+So our get-service script can look like this:
+
+        Get-Service | ? -FilterScript { $_.status -eq "Running"} | select displayname | Out-File -FilePath "CurrentProcesses2.txt"
+
+## Variables
+
+PS (PowerShell) variables are a string preceded by a $ and can be used to store all kinds of values.
+
+Set variables using =
+
+Return their value simply by listing the variable name.
+
+        $ArrayVariable = 1,2,3
+        $StringVariable = "A new string is born!"
+
+        $ArrayVariable
+
+        $StringVariable
+
+        $ArrayVariable[1]
+
+You can also store the output of a cmdlet in a variable:
+
+        Get-Module
+
+        $ModuleOutput = Get-Module
+
+        $ModuleOutput
+
+        #You can even store the output of a script!
+
+        $TestScriptOutput = .\TestProgram.ps1
+
+        $TestScriptOutput
+    
+Let's talk about $_
+
+$_ is a placeholder, a variable like any other, but rather than holding a specific value that you have set, it holds the current value of a multi-part object.
+
+For example:
+
+Get-Module returnes several modules, and let's say we only wanted the 'Az' ones.
+
+We would need to use a Where-Object command, and we can use a pipe for this.
+
+Where-Object is going to iterate over all the elements in that object, and we can ask it to run a particular filtering script over each object to filter it down to the elements we want.
+
+For example:
+        Get-Module | Where-Object -FilterScript {$_.Name -match "Az"}
+
+So what's happening there?
+The 'Where-Object' cmdlet is looking over every returned object from 'Get-Module's output. For all those objects we want it to look at the Name property and do something with it.
+
+Recall using . to select a particular property from an output.
+
+So we can say (Get-Module).Name, which will return all modules, but only their names.
+
+$_ is standing in for Get-Module, since we've already run Get-Module and have 'piped' the output to Where-Object to use.
+
+# PowerShell Documentation
+https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7
 
 #PowerShell Basics Training Scripts
 
