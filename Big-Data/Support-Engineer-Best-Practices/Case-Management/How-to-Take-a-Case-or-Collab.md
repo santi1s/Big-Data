@@ -14,15 +14,26 @@ Instead-- if you are a new engineer ready to take cases, do one of these things:
 1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
 2. Let your Assignment Lead or Manager know you're ready to be in the queue. You can be set to 1 case a day to get started.
 
-If you are not a new engineer and you have capacity to take more cases, do this:
+Otherwise, if you have capacity to take more cases, do this:
 1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
 2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
 
 
 ### Taking a Collaboration
 
-If you are picking up a collaboration while your team is using VDM-- Virtual Duty Manager is not aware of Collaborations
+If you are picking up a collaboration while your team is using VDM-- Virtual Duty Manager is not aware of Collaborations, so you will not be able to use the CRM bot.
 
+Instead, follow these steps:
+1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
+![image.png](/.attachments/image-7448aab0-4243-45e0-968a-25b19e554012.png)
+
+2. Scroll down to the 'Tasks' Tile, be sure you are on the 'Collaboration' view, and choose the ellipsis button next to the collaboration you are picking up.
+![image.png](/.attachments/image-26526cef-f5dc-418b-9c4c-14784465382f.png)
+
+3. Choose 'Assign to Me'
+![image.png](/.attachments/image-9876a496-d968-4d1d-b07b-77cf9d15b16a.png)
+
+4. Notify your Assignment Lead that you have picked up a collaboration so that they can 'add credit' for you for that collaboration, so that you are only assigned the correct number of cases in a day.
 
 ## If your team is NOT using VDM
 
