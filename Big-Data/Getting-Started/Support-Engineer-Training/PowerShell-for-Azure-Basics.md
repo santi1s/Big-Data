@@ -380,6 +380,19 @@ These often have lots of great examples.
 
 For example -- ADF Get Started with PowerShell: https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-powershell
 
+## Az Module vs RM Module
+The Az PowerShell module is a relatively new module. The previous module was called "RM". Some of your customers may still be using this "RM" module, and you may see some guides also using these old "RM" cmdlets.
+
+Az PowerShell cmdlets always have 'Az' in the noun.
+
+Rm PowerShell cmdlets always have 'AzureRm' in the noun.
+
+You can use Rm cmdlets, but they are out of date. It is suggested to have your customer upgrade to 'Az'.
+
+Also note, you cannot use Az and Rm cmdlets in the same session.
+
+If you use one type and need to use the other, you'll need to close out the Shell and open a new one.
+
 # PowerShell Documentation
 https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7
 
