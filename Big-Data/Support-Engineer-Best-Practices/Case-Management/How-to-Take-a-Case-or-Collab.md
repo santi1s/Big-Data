@@ -5,7 +5,28 @@
 
 # Taking a Case or Collab from the Queue
 
-##Find Cases in Your Technology
+## If your team is using Virtual Duty Manager (VDM)
+
+### Taking a Case
+If your team is using the Virtual Duty Manager, don't cherry-pick cases out of the queue. Let the VDM do its job.
+
+Instead-- if you are a new engineer ready to take cases, do one of these things:
+1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
+2. Let your Assignment Lead or Manager know you're ready to be in the queue. You can be set to 1 case a day to get started.
+
+If you are not a new engineer and you have capacity to take more cases, do this:
+1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
+2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
+
+
+### Taking a Collaboration
+
+If you are picking up a collaboration while your team is using VDM-- Virtual Duty Manager is not aware of Collaborations
+
+
+## If your team is NOT using VDM
+
+###Find Cases in Your Technology
 1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
 Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-6e6fcb9c-446a-498a-9529-ce0690a8e864.png)
@@ -17,19 +38,17 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 Here you can add  filter for "Support Area Path", make sure it starts with your technology (in this example, Data Factory) and 'Save As'. You'll be saving this as a new view that you can switch to anytime you want to see cases of a specific technology. 
 ![image.png](/.attachments/image-3dae1860-1f69-4da4-8d16-2b4086ca83c4.png)
 
-##Check Severity and Customer Support Level
+###Check Severity and Customer Support Level`
 1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
 Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-6e6fcb9c-446a-498a-9529-ce0690a8e864.png)
 
 2. Check the 'Sev' column to check Severity, or the 'Service Level' column to check if it is a Professional or Premier Case
 
-##Check If It Is a Full Case or a Collab
+###Check If It Is a Full Case or a Collab
 
 1. Check the Type column to see if the pending task is a Collaboration, or a full Case
 ![image.png](/.attachments/image-5542aad7-831c-43ce-ac75-2b7c833d9134.png)
-
-##Assign to Yourself and Notify DMs
 
 ###Self-Assign Case
 1. To Self-Assign a case, open the case in Service Desk and choose "Edit"
