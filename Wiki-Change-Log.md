@@ -10,6 +10,246 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated PowerShell for Azure Basics</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Assignment Process</td>
+</tr>
+<tr>
+<td>8/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Regional Subject Matter Experts (SMEs)</td>
+</tr>
+<tr>
+<td>8/6/2020</td>
+<td>Sundar Easwaran</td>
+<td>Updated ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Engineer Training</td>
+</tr>
+<tr>
+<td>8/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Training</td>
+</tr>
+<tr>
+<td>8/6/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated PowerShell for Azure Basics</td>
+</tr>
+<tr>
+<td>8/5/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Survival Guide</td>
+</tr>
+<tr>
+<td>8/5/2020</td>
+<td>Derek Yang</td>
+<td>Updated R-X - Write Permissions Vanishing</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Kusto Queries for ADF</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Deleted page &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Factory | Azure Data Factory | ADF/Nested Pipeline or Pipeline Execution Troubleshooting&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Refund Requests - Engaging the Billing Team</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Billing &amp; Refund Requests&#39; to &#39;ASA - Billing &amp; Refund Requests&#39;</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Refund Requests - Engaging the Billing Team</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Training</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Handoff - June012020-66270cb4-fb3a-4b21-9f0a-b9c24c795eeb.pptx&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Note Taking - July062020 - Reduced Size-7a7dc91a-2064-4035-9559-c1d031f7de9b.pptx&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;FQR-LQR-Comms- July202020-aff29e5c-802e-4bfc-b059-0abb3aef529f.pptx&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Technical Troubleshooting</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Troubleshooting Basics - June152020-5b5f9fd0-c13f-4016-8562-fa91c62c9b4c.pptx&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Data Lake Gen 1 Troubleshooting-676e6d73-0729-4173-9dfb-51ac20387b1a.pptx&#39;.</td>
+</tr>
+<tr>
+<td>8/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Access Control Overview</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated PowerShell for Azure Basics</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Intro to PowerShell-6cb36ef7-67f2-4160-b8d5-a9cd4b69cbef.ps1&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;TestProgramWithFileOutput-bfd7277f-2e58-4072-8694-c5cb31ccd8c4.ps1&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;TestProgram-c3b757ba-0c26-46b3-8684-f22f9d3a877a.ps1&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;ParamTextTest-094481ca-b1b6-48db-b2b8-9a993ffacdc0.ps1&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Saving wiki attachment &#39;Intro to PowerShell-8d18193b-36e2-43bc-8fdc-d91af1f62dc8.ps1&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated User-Deleted Data Recovery</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Reordered page &#39;/Big-Data/Getting-Started/Support-Engineer-Training/PowerShell-for-Azure-Basics&#39; to order &#39;2&#39;.</td>
+</tr>
+<tr>
+<td>8/3/2020</td>
+<td>Whitney Henderson</td>
+<td>Added PowerShell for Azure Basics</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-IcM-Template/How-to-create-an-ICM-Template&#39; to order &#39;0&#39;.</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Page &#39;How to manage ICM template mappings in ASC&#39; moved from parent &#39;/EEE - Embedded Escalation Engineer Training and Reference&#39; to &#39;/EEE - Embedded Escalation Engineer Training and Reference/ASC IcM Template&#39;</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Page &#39;How to create an ICM Template&#39; moved from parent &#39;/EEE - Embedded Escalation Engineer Training and Reference&#39; to &#39;/EEE - Embedded Escalation Engineer Training and Reference/ASC IcM Template&#39;</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Page &#39;How to Add-Update-Delete ICM Templates in ASC&#39; moved from parent &#39;/EEE - Embedded Escalation Engineer Training and Reference&#39; to &#39;/EEE - Embedded Escalation Engineer Training and Reference/ASC IcM Template&#39;</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-IcM-Template&#39; to order &#39;2&#39;.</td>
+</tr>
+<tr>
+<td>7/31/2020</td>
+<td>Andre Ferreira (Intl Vendor)</td>
+<td>Added ASC IcM Template</td>
+</tr>
+<tr>
+<td>7/30/2020</td>
+<td>Simmi Pastakia</td>
+<td>Updated Daily Review Meeting ADLS &amp; ADLA</td>
+</tr>
+<tr>
+<td>7/30/2020</td>
+<td>Derek Yang</td>
+<td>Updated Daily Review Meeting ADLS &amp; ADLA</td>
+</tr>
+<tr>
+<td>7/30/2020</td>
+<td>Lee Pauling</td>
+<td>Updated View WFM Schedule Per POD</td>
+</tr>
+<tr>
+<td>7/30/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>7/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>7/29/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
 <td>7/28/2020</td>
 <td>Lee Pauling</td>
 <td>Updated View WFM Schedule Per POD</td>
