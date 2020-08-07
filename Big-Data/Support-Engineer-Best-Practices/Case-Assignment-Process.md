@@ -12,6 +12,8 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
+**Depending on what process your team uses, your process will be different, as listed below. If you are not sure which process your team is on, reach out to your team leads!**
+
 # Using Duty Managers
 
 ##What is a Duty Manager
@@ -39,3 +41,32 @@ Yes! But pay attention to region, product, and follow the procedure outlined in 
 [How to take a case or collaboration](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289633/How-to-Take-a-Case-or-Collab)
 
 # Using Virtual Duty Manager
+
+##What is  the Virtual Duty Manager?
+The virtual duty manager is a program run by Dynamics that assigns cases to engineer based on shift, region, severity, 24*7 eligibility, product, and availability. 
+
+##How Cases Are Assigned By the Virtual Duty Manager
+
+Based on policies set by your team, the virtual duty manager will evaluate:
+1. Severity of the case, and 24*7 eligibility.
+2. Region of Origin of the case.
+3. Time to SLA.
+4. Engineer shift schedule (including meal and end of shift times.)
+5. Number of cases engineer has already been assigned that day.
+6. Severity of cases engineer has already been assigned that day.
+
+Based on these factors, the virtual duty manager will automatically assign a case to an available engineer.
+
+The virtual duty manager may assign a case to an engineer who is on break but not yet on shift IF the SLA has enough time that the engineer will be in shift and have time to address the case before the SLA ends. The expectation is that the engineer will address the case during their shift.
+
+The virtual duty manager **does not assign Collaboration tasks.** Collaboration tasks are handled manually by the team.
+
+For more information
+
+##Can I Pick Up A Case on My Own?
+Yes! But pay attention to region, product, and follow the procedure outlined in our Case/Collaboration pick up guide below.
+
+
+##How to Pick Up A Case or Collaboration from the Queue
+
+[How to take a case or collaboration](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289633/How-to-Take-a-Case-or-Collab)
