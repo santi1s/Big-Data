@@ -61,10 +61,17 @@ The virtual duty manager may assign a case to an engineer who is on break but no
 
 The virtual duty manager **does not assign Collaboration tasks.** Collaboration tasks are handled manually by the team.
 
-For more information
+For more information on taking collaboration tasks while using the Virtual Duty Manager, please go here: [Taking a Case or Collab from the Queue](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289633/How-to-Take-a-Case-or-Collab?anchor=taking-a-case-or-collab-from-the-queue)
 
 ##Can I Pick Up A Case on My Own?
-Yes! But pay attention to region, product, and follow the procedure outlined in our Case/Collaboration pick up guide below.
+
+It is recommended that you allow the Virtual Duty Manager to do its job.
+However, there are a few exceptions:
+1. If you are picking up a case directly from a customer or as a direct transfer from a teammate, use the [CRM Bot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself to make sure you get appropriate credit.
+
+2. If you are picking up a collaboration, reach out to your case assignment leads to make sure you get appropriate credit for that case and only receive the number of cases you are supposed to.
+
+3. If you have received your maximum number of cases for the day, but still have capacity and would like to take on another case, use the [CRM Bot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to let VDM know you are available for a case.
 
 
 ##How to Pick Up A Case or Collaboration from the Queue
