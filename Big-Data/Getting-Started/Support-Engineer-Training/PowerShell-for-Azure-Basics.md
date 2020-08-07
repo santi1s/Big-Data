@@ -312,6 +312,74 @@ So we can say (Get-Module).Name, which will return all modules, but only their n
 
 $_ is standing in for Get-Module, since we've already run Get-Module and have 'piped' the output to Where-Object to use.
 
+# Azure PowerShell
+
+PowerShell on your machine doesn't automatically come with Azure Functionality, though that's very important to us.
+
+Thankfully, Azure Modules are easy to install and update.
+1. Run PowerShell as Administrator
+2. Check your version of PS and make sure it is at least 5.1 
+
+If it is not, go here: https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-4.4.0#requirements
+        
+    $PsVersionTable.PSVersion
+
+3. Install
+
+    Install-Module -Name Az -AllowClobber
+
+Answer "Yes" or "Yes to All"
+
+If for some reason module autoloading is disabled, you may need to import the module using Import-Module -Name Az
+
+For every new session/script. (This sometimes happens with customers.)
+
+## Using Azure PowerShell
+
+If you every need to update the Az module, simply use
+
+    Update-Module -Name Az -AllowClobber
+
+Now that you have the modules installed you can use Azure PowerShell to interact with your subscription and various resources.
+
+First you'll need to sign in (to use your credentials against your own resources.)
+Then you'll need to select your subscription to confirm you are interacting with the correct subscription.
+
+Then you're free to interact with your subscription as you are allowed to.
+
+For example:
+
+    Connect-AzAccount
+
+This will set your context to a specific subscription/tenant.
+Important to run this to make sure you are interacting with the right environment.
+
+    Set-AzContext -Subscription "subscriptionID"
+
+
+Now that you've loaded the Azure PowerShell modules, connected to your account, and set your subscription you can interact with your Azure resources however you like!
+
+What commands are available for your resources? How can you know what's possible?
+
+Check the internet!
+
+1. Search the documentation for your Azure resource.
+2. On the left-hand menu go to 'Reference' and then 'PowerShell'
+
+There will be a list of all the possible PowerShell commands for your resource type.
+
+For example-- ADLS Gen 1: https://docs.microsoft.com/en-us/powershell/module/az.datalakestore/?view=azps-4.4.0
+
+Alternatively:
+
+1. Search the documentation for your Azure resource.
+2. In the search bar on the left-hand menu search "PowerShell"
+3. Any existing reference link for PowerShell will pop up, but any 'how to' or 'getting started' articles for PowerShell will also pop up for your reference.
+
+These often have lots of great examples.
+
+For example -- ADF Get Started with PowerShell: https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-powershell
+
 # PowerShell Documentation
 https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7
 
