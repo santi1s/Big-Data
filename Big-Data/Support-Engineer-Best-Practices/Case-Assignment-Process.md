@@ -72,8 +72,3 @@ However, there are a few exceptions:
 2. If you are picking up a collaboration, reach out to your case assignment leads to make sure you get appropriate credit for that case and only receive the number of cases you are supposed to.
 
 3. If you have received your maximum number of cases for the day, but still have capacity and would like to take on another case, use the [CRM Bot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to let VDM know you are available for a case.
-
-
-##How to Pick Up A Case or Collaboration from the Queue
-
-[How to take a case or collaboration](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289633/How-to-Take-a-Case-or-Collab)
