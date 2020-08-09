@@ -15,3 +15,4 @@ Welcome to ARR Databricks Playbook
 
 # Escalations
 -   **Escalations to Azure Databricks PG**
+    Reference : [Best Practices on Engaging Azure PG](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/333941/Escalate-to-Product-Group-team)
