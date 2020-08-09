@@ -1,3 +1,5 @@
+Welcome to ARR Databricks Playbook
+
 # 	Prerequisites
 - Complete L200 for Databricks
 - 	[Request account for Databricks partner ticket portal](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312119/Databricks-Partner-Access)
