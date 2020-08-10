@@ -36,6 +36,18 @@ After completing the general troubleshooting if you're still unable to see input
    - [Performance](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-sql-output-perf#avoiding-performance-pitfalls)
 
 _More Details to come_
+##Azure Synapse Analytics (formally knowns as Data Warehouse)
+There are 2 output options for Azure Synapse Analytics
+1) SQL Database
+2) Azure Synapse Analytics
+
+- If using SQL Database or Synapse when using a firewall, check the firewall settings to ensure that the user can login to the SQL database from the same IP that he is starting the ASA job.
+
+- If not using a firewall, verify that the use can login to the Database using the login credentials that they are using to connect the ASA output. 
+ 
+- If using Azure Synapse, then the customer needs to have a Storage Account configured in the settings (v1 or v2) and do not use a Firewall or Selected Networks.
+ 
+
 
 ##Blob Storage
 _Details to come_
