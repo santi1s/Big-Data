@@ -31,6 +31,8 @@ Welcome to ARR Databricks Playbook
 -       Currently you are required to provide WorkspaceId, ClusterURL and NotebookURL – note they are not marked as required fields, but really are required (we are working to get this corrected)
 -       Review and update the information and click Submit
     
+![image.png](/.attachments/image-3d305973-bcfc-4abc-a9db-324b2ea4e4a5.png)
 
+![image.png](/.attachments/image-b92d1295-2513-412e-baaf-089bace8b6c2.png)
 
     
