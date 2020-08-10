@@ -46,6 +46,16 @@ The process could take a week or more depending on your circumstances.  Please r
 
 _<span style="color:red"> For emergency temporary accesses</span> contact "Temporary Special Access Case Provisioning" (tspecialaccess@microsoft.com) alias for short term/single instance access._
 
+
+Temporary Access:   If an approved support engineer is not available, temporary access can be granted to a non-approved support engineer for a specific case (on case by case basis). The temporary access can be provided for up to 7 days. 
+
+**Important: Written customer approval is required prior to engaging the non-approved support engineer.** 
+
+1. Business Hours (Premier): The TAM or their backup obtains customer approval, documents the consent in the case, then grants the non-approved support engineer the temporary access.
+
+2. Business Hours (Broad Commercial): The support engineer obtains customer approval, documents the consent in the case, and then Temporary Special Access Case Provisioning (tspecialaccess@microsoft.com) grants the non-approved support engineer the temporary access.
+
+
 Please follow these steps and let your manager know if you have any questions/issues:  
 
 1. In Browser Navigate to:  https://osp.office.net/idm/identity/access/Clearances 
