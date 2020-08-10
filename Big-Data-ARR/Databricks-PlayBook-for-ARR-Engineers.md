@@ -103,6 +103,12 @@ Use one of the options listed below to share your feedback with Azure and Databr
 
 **[Weekly call with Azure PG](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmMwMDU5OWItMWEwNC00N2JlLWIwZDktNTczNzRmYTY3NWM5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2285f72a5e-c1f4-42d4-bbbd-eeaa9e344d77%22%7d)**
 
++1 323-849-4874   United States, Los Angeles (Toll) 
+Conference ID: 492 208 621# 
+Local numbers | Reset PIN | Learn more about Teams 
+
+
+
 
  
 
