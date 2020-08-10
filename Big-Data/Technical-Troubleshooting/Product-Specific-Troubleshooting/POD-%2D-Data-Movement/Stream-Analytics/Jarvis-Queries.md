@@ -1,5 +1,10 @@
 [JARVIS Walk-Through Video](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722)
 
+ENDPOINT
+|Endpoint|Description|
+|--|--|
+|Diagnostics PROD|General region search|
+
 COMMON JARVIS NAMESPACE
 |Namespace  | Description |
 |--|--|
