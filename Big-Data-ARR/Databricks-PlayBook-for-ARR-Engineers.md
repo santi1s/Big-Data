@@ -120,10 +120,9 @@ CSS feedback on ASC items is important since it would help Supportability team i
 | Bhanu Prakash |bhpraka@microsoft.com
 | Santosh perla |saperla@microsoft.com 
 
-
 # **Global DnAI Contacts**
 
-- **Managers**
+- **DnAI Managers**
 
 
 |Name|Region | POD |
@@ -144,6 +143,9 @@ CSS feedback on ASC items is important since it would help Supportability team i
 |Sumit Biswas  | US |
 |Andrei Ghita | EMEA
 |Davind Lynch | EMEA
+
+
+
 
 
 
