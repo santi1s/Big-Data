@@ -43,8 +43,13 @@ Welcome to ARR Databricks Playbook
 
      **Actions**
 
-       proactive to identify CSAT impacting scenarios: 
-       If a customer is upset and you think the case is leading towards a low-CSAT score, don't let the issue drag on. Escalate the ICM/Databricks partner ticket
+-        proactive to identify CSAT impacting scenarios: 
+       
+-        Email smespark@microsoft.com and have a Databricks SME review and approve the escalation
+-       Add "[CSAT Impacting|ARR ]" to the Internal Title of your service desk case/ Databricks Partner ticket
+-       If you need assistance on ICM, add [CSAT Impacting | ARR] tag in title of ICM and change severity to Sev 2.
+-       If you need assistance on Salesforce Databricks ticket, escalate the ticket and add a comment [CSAT Impacting | ARR]. Also add additional details on current customer sentiment and how this sentiment could be improved.
+-       The intent of the [CSAT Impacting] tag is to immediately identify and notify the Engineering/Databricks team of a potential low CSAT score pending on a case and they need to engage with the customer directly to ensure the customer is ‘happier’ with the case resolution than they might have been.
 
 
          
