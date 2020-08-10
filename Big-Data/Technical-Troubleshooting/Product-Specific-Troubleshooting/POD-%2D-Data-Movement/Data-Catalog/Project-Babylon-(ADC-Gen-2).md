@@ -11,7 +11,7 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 [Azure Babylon Video](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
 
 # **Online Support Documentation**
-[Azure Project Babylon Overview](https://github.com/Azure/Babylon)
+[Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
 
 # **Troubleshooting**
 Support Engineer Troubleshooting Guide -> Coming soon
