@@ -123,6 +123,19 @@ CSS feedback on ASC items is important since it would help Supportability team i
 
 # **Global DnAI Contacts**
 
+- **Managers**
+
+
+|Name|Region | POD |
+|--|--|--|
+|Robert Beene  |US  |ARR  |
+|Arun Selvaraj  |US  |ARR  |
+|Todd DeDecker  |US |Depth  |
+|Takashi Sato  | APAC |ARR  |
+|Sindhu Ramakrishnan| IST| ARR|
+|Ahmad Almadadha|EMEA | ARR
+
+
 
 
 
