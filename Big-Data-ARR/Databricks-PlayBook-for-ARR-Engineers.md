@@ -44,10 +44,9 @@ If you need to engage the Databricks team or Microsoft PG and sense the customer
      engage the relevant team. 
      
      
-
 - **Actions**
 
-[-]()        proactive to identify CSAT impacting scenarios: 
+-        proactive to identify CSAT impacting scenarios: 
        
 -        Email smespark@microsoft.com and have a Databricks SME review and approve the escalation
 -       Add "[CSAT Impacting|ARR ]" to the Internal Title of your service desk case/ Databricks Partner ticket
