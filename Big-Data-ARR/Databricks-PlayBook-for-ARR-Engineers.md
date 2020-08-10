@@ -1,5 +1,5 @@
 [[_TOC_]]
-Welcome to ARR Databricks Team. This Playbook is a summary version of [Databricks Wiki](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312112/Azure-Databricks) Wiki which contains in depth information about process and technical aspects.
+Welcome to ARR Databricks Team. This Playbook is a summary version of [Databricks Wiki](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312112/Azure-Databricks) Wiki which contains in depth information about process and technical aspects. 
 
 # 	Prerequisites
 - Complete L200 for Databricks
