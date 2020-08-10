@@ -96,6 +96,8 @@ Conference ID: 240 590 299#
 
 - [**MS-DB Collaboration Team Channel**](https://teams.microsoft.com/l/team/19%3ae9378aa4561347a4b7caa8bd9449582d%40thread.skype/conversations?groupId=6e2c8e3b-d28c-4a20-8a94-2d2663a34268&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
 
+- **[How to use AVA on your escalation](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312127/Ava)**
+
 
  
 
