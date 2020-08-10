@@ -9,7 +9,8 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 
 # **Training**
 [Azure Babylon Video](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
-Access to Kusto Clusters -> coming soon
+Access to Kusto Clusters -> Coming soon
+How to Create an IcM -> Coming soon
 
 # **Online Support Documentation**
 [Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
