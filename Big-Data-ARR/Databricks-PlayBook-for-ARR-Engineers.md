@@ -40,4 +40,12 @@ Welcome to ARR Databricks Playbook
 - **[Escalate CSAT Impacting Issue](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312129/Escalating-CSAT-Impacting-Collaborations-and-ICMs)**
      
      If you need to engage the Databricks team or Microsoft PG and sense the customer is frustrated or having an extreme negative sentiment towards the case resolution or how the case is progressing, act immediately to engage the relevant team.
+
+     **Actions**
+
+       proactive to identify CSAT impacting scenarios: 
+       If a customer is upset and you think the case is leading towards a low-CSAT score, don't let the issue drag on. Escalate the ICM/Databricks partner ticket
+
+
+         
     
