@@ -55,6 +55,10 @@ Welcome to ARR Databricks Playbook
 
 <IMG  src="https://dev.azure.com/Supportability/5e48464c-3501-44a0-a6e0-8839f7cd21f0/_apis/git/repositories/af110ba9-8ac6-40c3-ae01-d63c5a9ffa00/Items?path=%2F.attachments%2Fimage-3e5882d7-3e9b-4b28-aa66-b071fb5f0126.png&amp;download=false&amp;resolveLfs=true&amp;%24format=octetStream&amp;api-version=5.0-preview.1&amp;sanitize=true&amp;versionDescriptor.version=wikiMaster"  alt="image.png"/>
 
+# **Point of Contacts for CSAT Impacting Issue:**
+ Reach out to point of contacts listed below for any urgent assitance required on your Databricsk case.
+
+
 
 
 
