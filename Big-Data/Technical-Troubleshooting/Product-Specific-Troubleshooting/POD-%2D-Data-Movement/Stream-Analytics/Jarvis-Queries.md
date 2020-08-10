@@ -44,7 +44,7 @@ You can also get the JobID from this query, which is needed for other Jarvis que
 TraceJobStatus
 
 **Filtering Condition:** 
-```where subscriptionId=="<subid>```
+```where subscriptionId=="<subid>" AND resourceName =="<ASA Namespace>"```
 
 #Find ASA Job Run IDs
 JobRunID is equivalent to the ActivityID and is needed for several other Jarvis queries.
