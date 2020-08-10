@@ -106,7 +106,7 @@ Welcome to ARR Databricks Playbook
 |Name|Region  |
 |--|--|
 |Ravi De Alwis | US  |
-|Sumit Biswas  | US |
+|Sumit Biswas  | APAC |
 |Andrei Ghita | EMEA
 |Davind Lynch | EMEA
 
