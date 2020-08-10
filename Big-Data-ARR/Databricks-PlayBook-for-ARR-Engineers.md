@@ -101,18 +101,18 @@ Conference ID: 240 590 299#
 # **# Feedback**
 Use one of the options listed below to share your feedback with Azure and Databricks PG teams
 
-**[Weekly call with Azure PG](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmMwMDU5OWItMWEwNC00N2JlLWIwZDktNTczNzRmYTY3NWM5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2285f72a5e-c1f4-42d4-bbbd-eeaa9e344d77%22%7d)**
+- **[Weekly call with Azure PG](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmMwMDU5OWItMWEwNC00N2JlLWIwZDktNTczNzRmYTY3NWM5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2285f72a5e-c1f4-42d4-bbbd-eeaa9e344d77%22%7d)**
 
-+1 323-849-4874   United States, Los Angeles (Toll) 
+     +1 323-849-4874   United States, Los Angeles (Toll) 
 Conference ID: 492 208 621# 
 Local numbers | Reset PIN | Learn more about Teams 
 
-**[Feedback on ASC](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/337516/Provide-ASC-Feedback)**
+- **[Feedback on ASC](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/337516/Provide-ASC-Feedback)**
 CSS feedback on ASC items is important since it would help Supportability team improve existing items and add new items that would better help in issues diagnostics and resolution
 
 <a href="mailto:preshah@microsoft.com;saperla@microsoft.com;bhpraka@microsoft.com">**Share your feedback directly with Azure PG**</a> 
 
-**Azure Databricks PM Team**
+- **Azure Databricks PM Team**
 
 |Name|Email|
 |--|--|
