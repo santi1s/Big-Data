@@ -20,7 +20,7 @@ COMMON JARVIS TABLES
 | TraceVerbose |Trace Information and CPU  |
 | TraceMonitoringEvent |Internal Metrics  |
 |TopologyDgml  | Trace Events table with dgml filter for Job Topology |
-|Job Metadata  | Job properties associated with the run. |
+|Job Metadata  | Job properties associated with the ASA job Configuration. |
 
 Below are the list of Jarvis queries we use to perform our troubleshooting. While our primary troubleshooting tool is ASC, these details are here for your convenience if you wish to manually review logs.
 
