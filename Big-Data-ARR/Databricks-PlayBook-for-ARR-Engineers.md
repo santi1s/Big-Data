@@ -87,7 +87,17 @@ Welcome to ARR Databricks Playbook
 | Osama Suleiman | EMEA   | Depth
 | Valentin Ursu  | EMEA   | Depth
 
-  
+
+# **Where to meet SMEs**
+
+- [**Databricks Daily Triage**](https://teams.microsoft.com/l/meetup-join/19%3a93390622a39540688485d3d7aa5f4417%40thread.skype/1581321489861?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%224110b7eb-44d2-4957-97ef-e230bccfb3ad%22%7d) 
++1 323-849-4874   United States, Los Angeles (Toll) 
+Conference ID: 240 590 299# 
+
+- [**MS-DB Collaboration Team Channel**](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312127/Ava) 
+
+
+ 
 
 
 
