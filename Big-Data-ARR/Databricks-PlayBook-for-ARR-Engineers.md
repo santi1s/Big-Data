@@ -58,24 +58,32 @@ Welcome to ARR Databricks Playbook
 # **Point of Contacts for CSAT Impacting Issue:**
  Reach out to point of contacts listed below for any urgent assistance required on your Databricks case.
 
-- Spark SMEs
+- **Spark SMEs ARR**
 
 
-| SME Name       | Region | POD |
+
+|SME Name  | Region  | POD |
+|--|--|--|
+| Ravi De Alwis     | US     | ARR
+| Travis LaGrone    | US     | ARR 
+ Sumit Biswas       | APAC   | ARR
+| Milan Stojiljkovic|EMEA    | ARR
+
+</br>
+
+- **Spark SMEs Depth POD**
+
+| SME Name       | Region | POD |       
 |----------------|--------|-----
-| Ravi De Alwis  | US     | ARR
-| Travis LaGrone | US     | ARR 
 | Arvind Ravish  | US     | Depth
 | Bill Carroll   | US     | Depth
 | Dan Shaver     | US     | Depth
 | Julie O'brien  | US     | Depth
 | Pradeep Singla | US     | Depth
 | Prashanth Madi | US     | Depth
-| Sumit Biswas   | APAC   | ARR
 | Keiichiro Wakasa|APAC   | Depth
 | Anssen Fang    |APAC    | Depth
 | Chenghao       |APAC    | Depth
-| Milan Stojiljkovic|EMEA | ARR
 | Osama Suleiman | EMEA   | Depth
 | Valentin Ursu  | EMEA   | Depth
 
