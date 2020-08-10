@@ -88,6 +88,29 @@ Welcome to ARR Databricks Playbook
 | Valentin Ursu  | EMEA   | Depth
 
 
+- **DnAI Managers**
+
+
+|Name|Region | POD |
+|--|--|--|
+|Robert Beene  |US  |ARR  |
+|Arun Selvaraj  |US  |ARR  |
+|Todd DeDecker  |US |Depth  |
+|Takashi Sato  | APAC |ARR  |
+|Sindhu Ramakrishnan| IST| ARR|
+|Ahmad Almadadha|EMEA | ARR
+
+- **TAs**
+
+
+|Name|Region  |
+|--|--|
+|Ravi De Alwis | US  |
+|Sumit Biswas  | US |
+|Andrei Ghita | EMEA
+|Davind Lynch | EMEA
+
+
 # **Where to meet SMEs**
 
 - [**Databricks Daily Triage**](https://teams.microsoft.com/l/meetup-join/19%3a93390622a39540688485d3d7aa5f4417%40thread.skype/1581321489861?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%224110b7eb-44d2-4957-97ef-e230bccfb3ad%22%7d) 
@@ -120,29 +143,7 @@ CSS feedback on ASC items is important since it would help Supportability team i
 | Bhanu Prakash |bhpraka@microsoft.com
 | Santosh perla |saperla@microsoft.com 
 
-# **Global DnAI Contacts**
 
-- **DnAI Managers**
-
-
-|Name|Region | POD |
-|--|--|--|
-|Robert Beene  |US  |ARR  |
-|Arun Selvaraj  |US  |ARR  |
-|Todd DeDecker  |US |Depth  |
-|Takashi Sato  | APAC |ARR  |
-|Sindhu Ramakrishnan| IST| ARR|
-|Ahmad Almadadha|EMEA | ARR
-
-- **TAs**
-
-
-|Name|Region  |
-|--|--|
-|Ravi De Alwis | US  |
-|Sumit Biswas  | US |
-|Andrei Ghita | EMEA
-|Davind Lynch | EMEA
 
 
 
