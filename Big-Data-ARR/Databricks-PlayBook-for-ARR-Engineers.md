@@ -112,7 +112,7 @@ CSS feedback on ASC items is important since it would help Supportability team i
 
 <a href="mailto:preshah@microsoft.com;saperla@microsoft.com;bhpraka@microsoft.com">**Share your feedback directly with Azure PG**</a> 
 
-**Azure Databricks PG PM Team**
+**Azure Databricks PM Team**
 
 |Name|Email|
 |--|--|
