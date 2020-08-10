@@ -12,6 +12,7 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 
 # **Online Support Documentation**
 [Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
+[Azure Project Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
 
 # **Troubleshooting**
 Support Engineer Troubleshooting Guide -> Coming soon
