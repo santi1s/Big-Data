@@ -135,6 +135,18 @@ CSS feedback on ASC items is important since it would help Supportability team i
 |Sindhu Ramakrishnan| IST| ARR|
 |Ahmad Almadadha|EMEA | ARR
 
+- **TAs**
+
+
+|Name|Region  |
+|--|--|
+|Ravi De Alwis | US  |
+|Sumit Biswas  | US |
+|Andrei Ghita | EMEA
+|Davind Lynch | EMEA
+
+
+
 
 
 
