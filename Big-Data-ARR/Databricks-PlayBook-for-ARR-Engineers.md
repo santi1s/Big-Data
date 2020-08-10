@@ -110,7 +110,17 @@ Local numbers | Reset PIN | Learn more about Teams
 **[Feedback on ASC](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/337516/Provide-ASC-Feedback)**
 CSS feedback on ASC items is important since it would help Supportability team improve existing items and add new items that would better help in issues diagnostics and resolution
 
-<a href="mailto:preshah@microsoft.com;saperla@microsoft.com">Share your feedback directly with Azure PG</a> 
+<a href="mailto:preshah@microsoft.com;saperla@microsoft.com;bhpraka@microsoft.com">**Share your feedback directly with Azure PG**</a> 
+
+**Azure Databricks PG PM Team**
+
+|Name|Email|
+|--|--|
+| Premal Shah |preshah@microsoft.com
+| Bhanu Prakash |bhpraka@microsoft.com
+| Santosh perla |saperla@microsoft.com 
+
+
 
 
 
