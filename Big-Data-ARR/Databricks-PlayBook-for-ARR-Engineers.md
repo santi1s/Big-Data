@@ -44,9 +44,9 @@ Welcome to ARR Databricks Team. This Playbook is a summary version of [Databrick
      extreme negative sentiment towards the case resolution or how the case is progressing, act immediately to 
      engage the relevant team. 
 
--    **[Actions](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312129/Escalating-CSAT-Impacting-Collaborations-and-ICMs)**   
+- **Actions**
 
--        proactive to identify CSAT impacting scenarios: 
+[-](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312129/Escalating-CSAT-Impacting-Collaborations-and-ICMs)        proactive to identify CSAT impacting scenarios: 
        
 -        Email smespark@microsoft.com and have a Databricks SME review and approve the escalation
 -       Add "[CSAT Impacting|ARR ]" to the Internal Title of your service desk case/ Databricks Partner ticket
