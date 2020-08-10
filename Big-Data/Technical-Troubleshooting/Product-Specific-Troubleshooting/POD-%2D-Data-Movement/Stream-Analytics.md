@@ -43,6 +43,14 @@ In order to access the correct Jarvis logs, and Azure Support Center, request ac
          
 Collaboration & Escalation: Swarming https://learn.microsoft.com/activity/S4295219/launch#/
 
+#ASA Learning Courses
+We recently presented an overview readiness session about ASA and the basics to troubleshoot cases using ASC.
+
+We recorded the session and uploaded it to Big Data WW channel here:
+[L100/L200 Azure Stream Analytics Training](https://hcm41.sapsf.com/sf/learning?destUrl=https%3a%2f%2fmicrosoftlmsap2%2elms%2esapsf%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dAzure%2bBackup%26fromSF%3dY&company=microsofAP2)
+[Internal SE Learning - Intro to Azure Streaming Analytics and TS](https://microsoft.sharepoint.com/:v:/t/BigDataAnalyticsPOD/ERhPMiCNRp1EkdW8TObvYToB7EOnNCsT8BDmiSMwRHDxLg?e=bjM46x)
+
+
 #Azure Bootcamp
 If you're new to Azure start here! Mirosoft has prepared several trainings known as "bootcamps" to help engineers understand how to use Azure:
 
@@ -51,20 +59,14 @@ If you're new to Azure start here! Mirosoft has prepared several trainings known
 [Bootcamp Lab Activites](http://aka.ms/bootcamp/labmanual)
 [Post Bootcampt resources (setting up repros)](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fteams%2FWAG%2FBootcamp%2FHOLLatestPresentations%2FForms%2FAllItems.aspx%3Fviewpath%3D%252Fteams%252FWAG%252FBootcamp%252FHOLLatestPresentations%252FForms%252FAllItems%252Easpx%26id%3D%252Fteams%252FWAG%252FBootcamp%252FHOLLatestPresentations%252FAfter%2520Boot%2520Camp&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800157602&sdata=Bi2Y4IPXt3m5HqsgiTTDR8uAb7Xjyrfgc%2BfvPb3kRuk%3D&reserved=0) 
 
-#ASA Learning Courses
-We've identified several internal and external learning resources to help you understand how to set up and managed Azure Stream Analytics cloud jobs. We've broken them up into levels, L1 for novice up to L4 for advanced:
-We recently presented an overview readiness session about ASA and the basics to troubleshoot cases using ASC.
-
-We recorded the session and uploaded it to Big Data WW channel here: 
-[L1 - Internal SE Learning - Intro to Azure Streaming Analytics and TS](https://microsoft.sharepoint.com/:v:/t/BigDataAnalyticsPOD/ERhPMiCNRp1EkdW8TObvYToB7EOnNCsT8BDmiSMwRHDxLg?e=bjM46x)
-[L1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
-[L2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
-[L3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
-[L4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
-
 #Other Learning Resources
-Microsoft gives its engineers access to a wide variety of learning resources if you want to extend your learnings. Some of the services offered are:
+We've identified several internal and external learning resources to help you understand how to set up and managed Azure Stream Analytics cloud jobs. We've broken them up into levels, L1 for novice up to L4 for advanced:
+[R1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
+[R2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
+[R3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
+[R4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
+Microsoft gives its engineers access to a wide variety of learning resources if you want to extend your learnings. Some of the services offered are:
 [Microsoft Learn](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmicrosoft.com%2Flearn&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800167596&sdata=fYaj%2FKvixqfbxQlOrMnqkRaWp%2F0ZEKhEAWckksxSwSk%3D&reserved=0)
 [LinkedIn Learning](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Flynda.com%2F&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800177591&sdata=X5s37X3MuRSR15y0kcecaOS3FbcKwkKJfvquza58NgM%3D&reserved=0)
 [Pluralsight](https://aka.ms/pluralsight)
