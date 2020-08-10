@@ -22,6 +22,14 @@ Welcome to ARR Databricks Playbook
 
 
 - [Escalate to Databricks Team](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312121/Engaging-Databricks-Support)
+
+    **Steps :**
+-       Put the SR in Edit Mode
+-       Scroll to the bottom to find the Partner Exchange tile and click “+” 
+-       Check the consent box (verify via case description)
+-       Select Databricks
+-       Currently you are required to provide WorkspaceId, ClusterURL and NotebookURL – note they are not marked as required fields, but really are required (we are working to get this corrected)
+-       Review and update the information and click Submit
     
 
 
