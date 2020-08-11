@@ -461,8 +461,9 @@ Best Regards, <br>
 - Change the Title to ensure it makes sense to the customer so when surveyed they are clear on case they are being surveyed on.  Example: ”Not connecting to VM"
 - Keep “Notes” up-to-date. 
 - Even if the issue is resolved over phone, please mention what was the issue and how this was resolved in the case communications. 
-- For more details about LQR please visit the LQR portal:
-https://microsofteur.sharepoint.com/teams/LastQualityResponce/
+- For more details and information about LQR please visit:
+The LQR portal: https://microsofteur.sharepoint.com/teams/LastQualityResponce/
+Procedure: Case Closure – Last Quality Response (LQR) (CXD Capability) : https://internal.support.services.microsoft.com/en-us/help/4538668
 
 
 
