@@ -58,10 +58,10 @@ This is the Time and Absence Microsoft site where you can see vacation and sick 
 ## Request Vacation
 
 _**Note that the earlier you request vacation time, the better!**_
-
-
-QUICK WAY
-1. Validate the team has proper coverage for the time your taking off
+![train.png](/.attachments/train-998966f5-cbcb-466c-878c-d41c3bf50853.png)
+**QUICK WAY**  
+ **The way Lee _HIGHLY_ recommends you do it- Email WFM , CC Lee**
+     1. Validate the team has proper coverage for the time your taking off
      by checking the [Schedule View](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD) in WFM. Follow this link to get access to that Schedule View: [Link](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-Schedule-Per-POD)
 2. Send email to WFM scheduling, CCing Manager , TA/ PTA's and SEs 
      Subject "Your alias TIME OFF START/END DATE"
