@@ -126,3 +126,8 @@ Receiver
 - Review & Provide Feedback (positive or constructive)
 Follow Up
 - POD Leads Review & Share Trends and Progr
+
+#Emails
+- General - Stream Analytics Product Team - CSS Collaboration <e8a05bff.microsoft.com@amer.teams.ms>
+- ASA SME - CSS Azure Stream Analytics SMEs <CSSASASMEs@microsoft.com>
+- ASA CSS - ASA Engineers <ASAEngineers@service.microsoft.com>
