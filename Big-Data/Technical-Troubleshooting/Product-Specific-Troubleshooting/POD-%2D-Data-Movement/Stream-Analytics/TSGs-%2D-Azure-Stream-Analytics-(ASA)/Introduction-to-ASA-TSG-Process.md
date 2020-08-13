@@ -33,7 +33,7 @@ iv. Troubleshooting Performed (if you have logs to share)
       - Company name
    - Add a Summary
       - Problem Statement
-      - Include link to ticket in SD
+      - Include link to ticket ASC
       - Steps to reproduce
       - Troubleshooting
       - What is needed from PG
