@@ -10,6 +10,211 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>8/13/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>8/13/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>8/13/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Escalations | Creating ICMs&#39; to &#39;ASA - Escalations | Creating ICMs&#39;</td>
+</tr>
+<tr>
+<td>8/13/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Introduction to ASA TSG Process</td>
+</tr>
+<tr>
+<td>8/11/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Last Quality Response (LQR)</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Prashanth Madi</td>
+<td>Updated Azure Government Training &amp; Access (Fairfax)</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/Jarvis-Queries&#39; to order &#39;3&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/Jarvis-Queries&#39; to order &#39;2&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/Jarvis-Queries&#39; to order &#39;5&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Jarvis Queries</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Deleted page &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Stream Analytics/TSGs - Azure Stream Analytics (ASA)/JARVIS&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated SMEs</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Renamed page &#39;TSGs&#39; to &#39;TSGs - Azure Stream Analytics (ASA)&#39;</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Introduction</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Renamed page &#39;Azure Data Catalog TSGs&#39; to &#39;TSGs - Azure Data Catalog&#39;</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added TSGs - Project Babylon</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Renamed page &#39;TSGs&#39; to &#39;Azure Data Catalog TSGs&#39;</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated No Output Troubleshooting</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/Basic-Troubleshooting&#39; to order &#39;1&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs/JARVIS&#39; to order &#39;1&#39;.</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added JARVIS</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Engineer Training</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Project Babylon (ADC Gen 2)</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Page &#39;TSGs&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Catalog&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Data Catalog/ADC Gen I | Introduction&#39;</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/10/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Updated Databricks PlayBook for ARR Engineers</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Updated Databricks PlayBook for ARR Engineers</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Page &#39;Databricks PlayBook for ARR Engineers&#39; moved from parent &#39;/&#39; to &#39;/Big Data ARR&#39;</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Page &#39;Databricks PlayBook for ARR Engineers&#39; moved from parent &#39;/Big Data ARR/ARR Onboarding Process&#39; to &#39;/&#39;</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Page &#39;Databricks PlayBook for ARR Engineers&#39; moved from parent &#39;/Big Data ARR&#39; to &#39;/Big Data ARR/ARR Onboarding Process&#39;</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Renamed page &#39;Azure Databricks Playbook for ARR Engineers&#39; to &#39;Databricks PlayBook for ARR Engineers&#39;</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Renamed page &#39;Azure Databricks Playbook&#39; to &#39;Azure Databricks Playbook for ARR Engineers&#39;</td>
+</tr>
+<tr>
+<td>8/9/2020</td>
+<td>Ravipriya De Alwis</td>
+<td>Added Azure Databricks Playbook</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated How to Take a Case or Collab</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Support Engineer Training</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated PowerShell for Azure Basics</td>
+</tr>
+<tr>
+<td>8/7/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Assignment Process</td>
+</tr>
+<tr>
 <td>8/7/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated PowerShell for Azure Basics</td>
