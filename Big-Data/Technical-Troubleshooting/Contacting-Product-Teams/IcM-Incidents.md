@@ -30,6 +30,34 @@ _Q. If we are working on a Sev B and created CRI 3 and then the case severity in
 
 A. Yes, we change accordingly from Sev 3 to Sev 2.
 
+## Setting a Sev 2 or Sev 1 ICM
+
+
+If you need to open an ICM with Sev 1 (Very Rare) or Sev 2, you must have approval either from a "EEE" or your "SEE/SME + Manager"
+
+There is a field when creating a Sev 2 ICM that you will need to fill out upon creation through aka.ms/icm OR after you have created the incident through ASC:
+![image.png](/.attachments/image-b0c45551-f899-4674-9b79-79dbfd2dfa9f.png)
+ 
+**Any ICM Sev1 or 2 that does not comply to this process will be immediately decreased to Sev3.**
+
+[Regional SMEs by Product](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/305780/Regional-Subject-Matter-Experts-(SMEs))
+[EEEs by Product](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/305784/EEE-Embedded-Escalation-Engineer)
+
+### Escalating on the Weekends
+
+For weekends, the review and approval must be done by a peer, meaning that the case owner MUST engage with a colleague prior to submitting the ICM Sev1 or Sev2. This might mean engaging the on-call engineer or speaking between POD and ARR (should both teams have on-duty engineers).
+
+ 
+## Is Your Incident a 'Regression' Caused By a New Deployment?
+If case seems to be related with a regression issue caused by a new deployment, even if it’s an isolated one for a single customer, we as CSS should assess it’s indeed regression related by understanding the following:
+ 
+•	Is it something that used to work well and all of sudden started failing, without the customer making any change on their side? 
+•	Does the impact start happening right around or after the new deployment time?
+•	Are we seeing the issue being reported by more than one customer?
+ (not necessary, but definitely raises the probability)
+ 
+If we conclude that it is a regression issue, then the ICM is eligible for Sev2 and we should either open it as such or raise it’s severity. Nonetheless, the approval process, must still be followed.
+
 #ICM Tracking
 ##Create a list of 'your' ICMs
 Need a list of ICMs associated with your cases? Whenever you create an ICM or receive a case with an ICM, you can add it to your 'Tracked' list.
