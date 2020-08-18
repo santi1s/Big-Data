@@ -50,6 +50,13 @@ New SSIS Wikis: https://microsoft.sharepoint.com/teams/CSSSQLTeam/SitePages/SSIS
 
 SSIS Learning Path: 
 SSIS 2019 Enhancement:               https://ready.azurewebsites.net/csslearning/3131. 
- 
+
 
  
+Other On-line learning: 
+ O’Reilly - https://learning.oreilly.com/videos/introduction-to-sql/9780134679310
+
+
+
+Linkedin Learning does have a few SSIS content. 
+https://www.linkedin.com/learning/search?keywords=SQL%20Server%20Integration%20Services%20(SSIS)&u=3322
