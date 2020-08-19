@@ -83,7 +83,9 @@ How many Rows are the customer trying to send to PowerBI?  Can ask the customer 
    - TROUBLESHOOTING 
 For this error, I solved mine by clicking on the job output and changing the authentication mode from `manage identity` to `User token`.  
 
-3) Make sure that the Power Bi has not reached any limit.
+3) PROBLEM: PowerBI reached limit.
+   - TROUBLESHOOTING
+Make sure that the Power Bi has not reached any limit.
 
 _KNOWN ISSUES_ 
 
