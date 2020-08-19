@@ -56,8 +56,42 @@ _Details to come_
 _Details to come_
  
 ##Power BI
-- Make sure that the Power Bi has not reached any limit.
-_More Details to come_
+_RESOURCES:_ 
+
+Search ASC for Insight Errors 
+
+ASA documentation  
+
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-power-bi-dashboard#test-the-query 
+
+Check Jarvis for Job Status Failures 
+
+Check Latency from slow PowerBI 
+
+ 
+
+_POSSIBLE ISSUES:_ 
+
+1) PROBLEM: Currently, Power BI can be called roughly once per second. Streaming visuals support packets of 15 KB. Beyond that, streaming visuals fail (but push continues to work) 
+
+   - TROUBLESHOOTING 
+How many Rows are the customer trying to send to PowerBI?  Can ask the customer to share the dataset ID? So that we can get the metadata from Kusto. 
+
+
+2) PROBELM: "The provided Power BI group was not found. Please ensure the 'groupId' property is correctly set on your output." 
+
+   - TROUBLESHOOTING 
+For this error, I solved mine by clicking on the job output and changing the authentication mode from `manage identity` to `User token`.  
+
+3) Make sure that the Power Bi has not reached any limit.
+
+_KNOWN ISSUES_ 
+
+If Power BI has a dataset and table that have the same names as the ones that you specify in the Stream Analytics job, the existing ones are overwritten. We recommend that you do not explicitly create this dataset and table in your Power BI account. They are automatically created when you start your Stream Analytics job and the job starts pumping output into Power BI. If your job query doesn't return any results, the dataset and table are not created.  
+
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-power-bi-dashboard#:~:text=Stream%20Analytics%20and%20Power%20BI%3A%20A%20real-time%20analytics,...%209%20Get%20help.%20...%2010%20Next%20steps 
+
+ 
 
 ##Table Storage
 _Details to come_
