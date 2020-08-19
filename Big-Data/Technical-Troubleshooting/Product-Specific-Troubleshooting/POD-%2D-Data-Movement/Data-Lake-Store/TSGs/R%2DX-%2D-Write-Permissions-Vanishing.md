@@ -3,6 +3,9 @@
 # The Issue
 Your customer has correct permissions set, and correct default permissions set, but when they create new files and folders, some users or the Mask is showing a permission of r-x and not the expected rwx, and this is causing permissions problems.
 
+# Training Video
+[Link to Nelson's Training Video](https://microsofteur.sharepoint.com/:v:/t/WWDataMovement/ERp1ljAXpy1CtM7bvhWBAoEB0cD15K9iNagEPaOmoR8oAw?e=EY3WSV)
+
 # How to Troubleshoot
 
 1. Ask if your customer is using Databricks/Hadoop/Spark to write these files/folders.
