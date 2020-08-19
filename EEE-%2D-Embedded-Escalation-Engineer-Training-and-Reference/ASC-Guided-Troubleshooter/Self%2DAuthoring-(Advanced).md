@@ -25,8 +25,7 @@ This section consists of 2 parts:
 
     You can use "content-<name>.md" for content steps, and "solution-<name>.md" for solution steps. Solution steps can be referenced in insights cards. 
 
-     ![content files list.png](/.attachments/content%20files%20list-c5adddc6-a362-4f3f-ae9d-c9fa326771d4.png)
-
+     ![content files list.png](/.attachments/content%20files%20list-c5adddc6-a362-4f3f-ae9d-c9fa326771d4.png =350x)
     **Note:** Use markdown (.md) format.
 
 
@@ -146,7 +145,7 @@ This section consists of 2 parts:
 ##Step 3 - Geneva Automation Workflow
 Every troubleshooter is driven by a workflow created in Geneva Automation. The workflows created in Geneva Automation / [GA Prod](https://jarvis-west.dc.ad.msft.net/settings/automation) under ASCWorkflows account. Workflows are based on LogicApps workflow.  
 
-![ascworkflows.png](/.attachments/ascworkflows-453aa89a-5833-4c2a-b25b-b4c9c3e6fb75.png)
+![ascworkflows.png](/.attachments/ascworkflows-453aa89a-5833-4c2a-b25b-b4c9c3e6fb75.png =400x)
   
 
 - ### Create the skeleton for the workflow
@@ -171,11 +170,11 @@ Every troubleshooter is driven by a workflow created in Geneva Automation. The w
        }
      }
      ```
-     ![new workflow 2.png](/.attachments/new%20workflow%202-fe540ff6-662c-403c-86a6-77a8ba2105ad.png)
+     ![new workflow 2.png](/.attachments/new%20workflow%202-fe540ff6-662c-403c-86a6-77a8ba2105ad.png =400x)
 
   - Click on New Step and search for response and select the "Http Response" under Action: 
 
-    ![response 1.png](/.attachments/response%201-0e8a6175-1b96-409a-bdc1-cd574ad9c037.png)
+    ![response 1.png](/.attachments/response%201-0e8a6175-1b96-409a-bdc1-cd574ad9c037.png =400x)
   - In the Response connector, enter the JSON shown in the screenshot below. The workflow will open another popup (shown in the screenshot below) to select the SolutionInstanceId. Select the SolutionInstanceId.
 
      ```
@@ -183,7 +182,7 @@ Every troubleshooter is driven by a workflow created in Geneva Automation. The w
      "SolutionInstanceId": @{triggerBody()?['SolutionInstanceId']}
      }
      ```
-    ![response 2.png](/.attachments/response%202-b953d937-a752-49dc-b775-b93f77e8ec47.png)
+    ![response 2.png](/.attachments/response%202-b953d937-a752-49dc-b775-b93f77e8ec47.png =400x)
  
 
     **Note:** The above steps has effectively said that when HTTP request is received by the workflow, parse the HTTP request body to find the SolutionInstanceId and return a 200 OK HTTP response with the SolutionInstanceId in the response. These steps are common for all the workflows.
@@ -217,25 +216,25 @@ Going back to Geneva automation workflow, the first three steps of every TSG wil
 2) Response (HTTP)
 3) Logic Apps -> TroubleshooterWebhookStep
 
-   ![first 3 steps.png](/.attachments/first%203%20steps-3574db04-cf61-492d-bcec-22d284ba3c78.png)
+   ![first 3 steps.png](/.attachments/first%203%20steps-3574db04-cf61-492d-bcec-22d284ba3c78.png =400x)
 
 At this point, your TS skeleton has the first 2 steps ready. To create the next step, you need to use a TroubleshooterWebhookStep:
 
   - Click on "New Step", search for workflow and select the Action to choose a LogicApps workflow:
 
-    ![webhook 1.png](/.attachments/webhook%201-2a801790-1e66-4552-b57d-bdc90ee55164.png)
+    ![webhook 1.png](/.attachments/webhook%201-2a801790-1e66-4552-b57d-bdc90ee55164.png =400x)
  
 
   - In the menu that shows the option to choose an action, search for "webhook" and select the TroubleshooterWebhook:
 
-    ![webhook 2.png](/.attachments/webhook%202-a7275068-b8f4-4ac7-80df-605ddd2df24e.png)
+    ![webhook 2.png](/.attachments/webhook%202-a7275068-b8f4-4ac7-80df-605ddd2df24e.png =400x)
     
        
   - Double click on the TroubleshooterWebhook connector to bring up the TroubleshooterWebhookSetup window:
 
-    ![webhook 3.png](/.attachments/webhook%203-899708ad-f120-49a6-b7be-831d3bd21594.png)
+    ![webhook 3.png](/.attachments/webhook%203-899708ad-f120-49a6-b7be-831d3bd21594.png =400x)
 
-    ![webhook 4.png](/.attachments/webhook%204-4572f347-93ef-42e5-bee6-8289e982d70a.png)
+    ![webhook 4.png](/.attachments/webhook%204-4572f347-93ef-42e5-bee6-8289e982d70a.png =400x)
  
 - The parameters that need to be entered here are the following:
  
@@ -253,15 +252,15 @@ The workflow skeleton is done now. But it should allow the UX to retrieve the co
 
  - Click on New Step and search for and select Switch action:
 
-   ![switch 1.png](/.attachments/switch%201-5dd36939-b355-43c8-9541-431f6392f5e9.png)
+   ![switch 1.png](/.attachments/switch%201-5dd36939-b355-43c8-9541-431f6392f5e9.png =400x)
 
  - Click on the entry text box to choose a value and select Body under dynamic content:
 
-   ![switch 2.png](/.attachments/switch%202-1369fab5-d6ab-4b09-bf71-f0d4abd9b798.png)
+   ![switch 2.png](/.attachments/switch%202-1369fab5-d6ab-4b09-bf71-f0d4abd9b798.png =400x)
 
  - Add the cases for the switch statement. The values in the case statements should match the values under UserQuestionOptions in the webhook step parameters referenced earlier. You can add more case options by clicking on the + button:
 
-   ![switch 3.png](/.attachments/switch%203-a66bcb97-582a-46d3-9570-14187922f0f6.png)
+   ![switch 3.png](/.attachments/switch%203-a66bcb97-582a-46d3-9570-14187922f0f6.png =400x)
 
 - Continue to create the workflows like we did above.
 
