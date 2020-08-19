@@ -6,19 +6,19 @@ As mentioned, a troubleshooter consists of insights, customer ready messages, an
 
 First, you would need to create XLS and Visio mentioned earlier, and then create contents. You have 2 options to do this:
 
-### > Create contents using Powershell script
--  Validate your workflow XLS file by reviewing the Visio output – make sure it looks like a nice tree and all steps are connected, all connectors have labels, etc.
--  Validate the XLS – make sure every row has a Title and a customer ready message or content.
-- Download the [content generation script](https://microsoft.sharepoint.com/teams/ProjectCentennial/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FProjectCentennial%2FShared%20Documents%2FTSGAuthor%2FTSGContent%2Etxt&parent=%2Fteams%2FProjectCentennial%2FShared%20Documents%2FTSGAuthor) – save it and rename it as a .ps1 file. 
--  Edit the ps1 file and replace some basic parameters like Service and Resource.They should match the ARM resource type.
-- Convert your XLS file into a CSV.
-- Edit the ps1 file to point to your source .csv file.
-- Run the powershell script and it should generate all your content: insights, customer ready messages, and content in the appropriate format.
+- ### Create contents using Powershell script
+  -  Validate your workflow XLS file by reviewing the Visio output – make sure it looks like a nice tree and all steps are connected, all connectors have labels, etc.
+  -  Validate the XLS – make sure every row has a Title and a customer ready message or content.
+  - Download the [content generation script](https://microsoft.sharepoint.com/teams/ProjectCentennial/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FProjectCentennial%2FShared%20Documents%2FTSGAuthor%2FTSGContent%2Etxt&parent=%2Fteams%2FProjectCentennial%2FShared%20Documents%2FTSGAuthor) – save it and rename it as a .ps1 file. 
+  -  Edit the ps1 file and replace some basic parameters like Service and Resource.They should match the ARM resource type.
+  - Convert your XLS file into a CSV.
+  - Edit the ps1 file to point to your source .csv file.
+  - Run the powershell script and it should generate all your content: insights, customer ready messages, and content in the appropriate format.
 
-###> Create contents manually
-This section consists of 2 parts:
+- ### Create contents manually
+  This section consists of 2 parts:
 
-- ###TS content and solution steps (.md)
+  ###> TS content and solution steps (.md)
   -   Validate your workflow XLS file by reviewing the Visio output – make sure it looks like a nice tree and all steps are connected, all connectors have labels, etc.
   - Validate the XLS – make sure every row has a Title and a customer ready message or content
   - Create text file(s) in your TSG folder that will be presented in each one of the steps in the Troubleshooter. Note that you will need to save each content step in a separate file. Use name(s) that is short but also properly describes the steps. This will make it easier for you in the future when making edits. 
@@ -67,7 +67,7 @@ This section consists of 2 parts:
    - Update the content(s) 
    - Save your file(s) as .md
 
-- ###TS insight steps (.tsginsight)
+  ###> TS insight steps (.tsginsight)
 
   After a user has completed navigating a troubleshooter and reaches a leave node, an insight will be presented. Insight provides both Support Engineer and Customer ready content. Every leaf node in a troubleshooter is expected to be mapped to a TS insight, so it is very probable that you will need to author more than one insight. 
 
@@ -106,7 +106,7 @@ This section consists of 2 parts:
 ##Step 2 - Publish Troubleshooter Files
 This section consists of 2 parts:
 
-- ### Publish Content (.md) files to SelfHelp Github repo
+   ### > Publish Content (.md) files to SelfHelp Github repo
 
   - In order to create TSG content for the Guided Troubleshooter, you need to onboard to content service: Please follow these [instructions](https://support-docs.azurewebsites.net/docs/articles/onboarding/contentService/github.html). 
   - In order to create a TSG folder, please fork the repo: Please follow these [instructions](https://support-docs.azurewebsites.net/docs/articles/onboarding/contentService/forkrepo.html). And create a folder where all content articles related to your Guided Troubleshooter added.
@@ -124,7 +124,7 @@ This section consists of 2 parts:
     - Create a PR in github to merge your changes.
     - Sign off on your PR.
 
-- ### Publish Insight (.tsginsight) files  to ADS Partner repo
+###> Publish Insight (.tsginsight) files  to ADS Partner repo
 
   - Create a folder for the GuidedTroubleshooter under ADS partner repo - [src/DiagnosticsApps/<ProductName>/Definitions/tsgInsights](https://msazure.visualstudio.com/One/_git/EngSys-ads-partner?path=%2Fsrc%2FDiagnosticsApps).
     - All of your *.tsginsight files will go here.
@@ -268,5 +268,5 @@ The workflow skeleton is done now. But it should allow the UX to retrieve the co
 
 When you have fully built your Geneva Automation, you should be committing your changes along the way:
   - This time use the "commit" button and select "Create pull request"
-  - You can also “View Pull Request” to view the PR
+  - You can also "View Pull Request" to view the PR
   - Approve your PR
