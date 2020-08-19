@@ -83,7 +83,7 @@ Once it is confirmed that troubleshooter has been published:
 - There are steps about Testing your Articles and Testing Insights – go to both of those links.
 - Click on each GUID to load the content on the right side and verify you are OK with the formatting and content.
 - Find a case that matches the resource type and support topic of your TSG.
-- Go to [ASC PPE](https://azuresupportcenterppe.msftcloudes.com/caseoverview) and walk the workflow and test it.
+- Go to ASC and walk the workflow and test it.
 
 **Note:** 
 In case you can’t see the troubleshooter in ASC, you would need to request access from [here](https://idweb/IdentityManagement/aspx/Groups/AllGroups.aspx?searchtype=3a8f0ff2-72d2-428b-8e5b-2b3653cbca8e&content=ASCFlight3&popupFromClipboard=%2Fidentitymanagement%2Faspx%2FGroups%2FEditGroup.aspx%3Fid%3D36520db8-c534-43ab-b675-f3bc1b404adc).
