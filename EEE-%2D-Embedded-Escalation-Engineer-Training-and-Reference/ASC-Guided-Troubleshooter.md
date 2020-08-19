@@ -72,7 +72,8 @@ Content and Customer Message would be the text that will be presented in each of
 This step is easy – just zip up everything you created and send them to **JR Mayberry (rimayber)** for now.  He will post them to the appropriate repo.
  
 **Note:** 
-In the future, we would be responsible for importing and managing all of these files on our own through forking SelfHelp and submitting a PR. But since the project is still new, it is recommended to involve JR.
+You can also follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own through forking SelfHelp and submitting a PR. 
+
 
 It is likely you will need to re-iterate on content to adjust formatting, fix spelling errors, etc. 
 
