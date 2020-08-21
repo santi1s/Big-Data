@@ -22,12 +22,13 @@ WFM has a schedule view that supports filter sets and groups.  This makes it eas
 - Install Silverlight: First time doing this- if your getting something that looks like this below you need to install  **[Silverlight](https://www.microsoft.com/getsilverlight/get-started/install).** 
 ![WFM-bad.png](/.attachments/WFM-bad-ed45f68b-2877-4f91-a32e-6f15a5897cd3.png)
 Install Silverlight and reload page.
-- Make sure they use the new link https://wfm2.corp.microsoft.com Also if they have any issue loading the Schedule Viewer, use IE as it works only in IE.
+- Make sure to use the new link https://wfm2.corp.microsoft.com Also if they have any issue loading the Schedule Viewer, use IE as it works only in IE.
 - Clear your cache. Please go to internet options, browsing history, delete. Make sure that all boxes are checked to delete cookies and favorites.
-- Under Internet Options – Select the Security Tab, select Trusted sites, click the “sites” button – Add https://wfm2 to the list (make sure the box that requires https is unchecked).
-- Run IE in private mode – Right click your IE icon and select in-private browsing session
-- Click your setting gear in IE and select the Compatibility View Settings and add microsoft.com to the list.
-- If still having trouble with Schedule Viewer, make sure Silverlight 5.1 is loaded. reinstall it and reboot
+- Add WFM2 to Trusted Sites.  Under Internet Options – Select the Security Tab, select Trusted sites, click the “sites” button – Add https://wfm2 to the list (make sure the box that requires https is unchecked).
+- Run IE in private mode.  Right click your IE icon and select in-private browsing session
+- Add to compatibility View.   Click your setting gear in IE and select the Compatibility View Settings and add microsoft.com to the list.
+- Reinstall Silverlight. If still having trouble with Schedule Viewer, make sure Silverlight 5.1 is loaded. reinstall it and reboot
+- still having issues- aka.ms/itweb -> create case -> 1 Voice WFM application.   See if peers are having the same issue (if not your 1st time) 
 
 
 <br>
