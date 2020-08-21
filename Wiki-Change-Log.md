@@ -10,6 +10,71 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>8/19/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated No Output Troubleshooting</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Laila Haddad</td>
+<td>Updated ASC Guided Troubleshooter</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Laila Haddad</td>
+<td>Updated Self-Authoring (Advanced)</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Laila Haddad</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-(Advanced)&#39; to order &#39;0&#39;.</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Laila Haddad</td>
+<td>Added Tips and Tricks</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Laila Haddad</td>
+<td>Added Self-Authoring (Advanced)</td>
+</tr>
+<tr>
+<td>8/19/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated R-X - Write Permissions Vanishing</td>
+</tr>
+<tr>
+<td>8/18/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Support Engineer Training</td>
+</tr>
+<tr>
+<td>8/18/2020</td>
+<td>Lee Pauling</td>
+<td>Updated (SSIS) SQL Server Integration Services</td>
+</tr>
+<tr>
+<td>8/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated IcM Incidents</td>
+</tr>
+<tr>
+<td>8/14/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated content and renamed page &#39;Case Recovery - Manager Follow Up Request&#39; to &#39;Case Recovery - Team Lead Follow Up Request&#39;</td>
+</tr>
+<tr>
+<td>8/14/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Recovery - Manager Follow Up Request</td>
+</tr>
+<tr>
+<td>8/14/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Case Recovery - Manager Follow Up Request</td>
+</tr>
+<tr>
 <td>8/13/2020</td>
 <td>Lee Pauling</td>
 <td>Updated Time Away - Vacation and Sick Days</td>
