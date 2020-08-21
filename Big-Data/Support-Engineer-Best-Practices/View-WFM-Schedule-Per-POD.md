@@ -16,9 +16,21 @@ WFM has a schedule view that supports filter sets and groups.  This makes it eas
 9.	Click the “Schedule Viewer” link on the left
 ![WFMScheduleViewScheduleViewer.png](/.attachments/WFMScheduleViewScheduleViewer-37607044-389c-4249-93b8-6b6782daebec.png)
 
-- **PRO TIP!!!!**  first time doing this- if your getting something that looks like this below you need to install  **[Silverlight](https://www.microsoft.com/getsilverlight/get-started/install).** 
+<br>
+
+**PRO TIP's!!!!**  
+- Install Silverlight: First time doing this- if your getting something that looks like this below you need to install  **[Silverlight](https://www.microsoft.com/getsilverlight/get-started/install).** 
 ![WFM-bad.png](/.attachments/WFM-bad-ed45f68b-2877-4f91-a32e-6f15a5897cd3.png)
-- Install Silverlight and reload page.
+Install Silverlight and reload page.
+- Make sure they use the new link https://wfm2.corp.microsoft.com Also if they have any issue loading the Schedule Viewer, use IE as it works only in IE.
+- Clear your cache. Please go to internet options, browsing history, delete. Make sure that all boxes are checked to delete cookies and favorites.
+- Under Internet Options – Select the Security Tab, select Trusted sites, click the “sites” button – Add https://wfm2 to the list (make sure the box that requires https is unchecked).
+- Run IE in private mode – Right click your IE icon and select in-private browsing session
+- Click your setting gear in IE and select the Compatibility View Settings and add microsoft.com to the list.
+- If still having trouble with Schedule Viewer, make sure Silverlight 5.1 is loaded. reinstall it and reboot
+
+
+<br>
 
 If this is your first time looking at WFM2, you won't have a "GA" or "SR" group loaded. Below is what you would see if **GE SQL-Data Move SR** is what you viewed last (it saves your last group) in Multiple Day View:
 ![WFM-multi-day-view-good.png](/.attachments/WFM-multi-day-view-good-64de7eaf-2277-4e24-91a7-f3ec775f8544.png)
