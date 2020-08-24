@@ -62,7 +62,7 @@ Ex: "cancel"
 
 ## VDM
 
-[VDM](https://crmglobal.corp.microsoft.com/GLBCRMSUP/) is a AI / automation based case assignment tool used for assigning to assign new cases.   WFM = "Virtual Duty Manager" 
+[VDM](https://crmglobal.corp.microsoft.com/GLBCRMSUP/) is a AI / automation based case assignment tool used for assigning to assign new cases.   VDM = "Virtual Duty Manager" 
 
 ## WFM / WFM2
 
