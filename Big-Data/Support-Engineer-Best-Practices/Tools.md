@@ -60,9 +60,13 @@ Ex: "cancel"
 		
 **NOTE:**  There is not a command to "give me credit" for a case.  You must ask for the case thru the Bot and have VDM assign you the case.  If you yank the case directly (or  DM or someone assigns it) thru Service Desk, then VDM will not know about this and you will not get credit.  Contact your Case Assignment Lead or Manager for manual credit (SQL VDM Assignment Leads <SQLAL@microsoft.com>).
 
+## VDM
+
+[VDM](https://crmglobal.corp.microsoft.com/GLBCRMSUP/) is a AI / automation based case assignment tool used for assigning to assign new cases.   WFM = "Virtual Duty Manager" 
+
 ## WFM / WFM2
 
-[WFM2](http://aka.ms/wfm2) is a scheduling tool that the duty managers use for assigning collabs and VDM uses to assign cases.   WFM = "Voice Workforce Management" 
+[WFM2](http://aka.ms/wfm2) is a scheduling tool that the duty managers use for assigning collab tasks and VDM uses to assign cases.   WFM = "Voice Workforce Management" 
 
 # Email Tools
 
