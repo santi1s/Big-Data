@@ -34,6 +34,8 @@ iv. Troubleshooting Performed (if you have logs to share)
    - Add a Summary
       - Problem Statement
       - Include link to ticket ASC
+      - Resource URI
+      - Region of resource
       - Steps to reproduce
       - Troubleshooting
       - What is needed from PG
