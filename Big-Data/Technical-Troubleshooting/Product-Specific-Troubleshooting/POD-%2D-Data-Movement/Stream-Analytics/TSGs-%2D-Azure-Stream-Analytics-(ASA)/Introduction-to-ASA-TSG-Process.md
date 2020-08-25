@@ -29,7 +29,7 @@ iv. Troubleshooting Performed (if you have logs to share)
    - Assign Severity (1, 2, 3, 4) [Link to Severity Reference Guide Here](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/3791/Guidance-for-CRI-ICM-severity-for-ASA)
    - Add a Title 
       - SD ticket number
-      - Update the title as needed to be relavant to the IcM/customer request
+      - Update the title as needed to be relevant to the IcM/customer request
       - Company name
    - Add a Summary
       - Problem Statement
