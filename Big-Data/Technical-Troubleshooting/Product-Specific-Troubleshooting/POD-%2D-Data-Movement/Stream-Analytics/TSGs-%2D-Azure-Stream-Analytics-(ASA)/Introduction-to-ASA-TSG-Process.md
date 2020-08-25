@@ -31,6 +31,8 @@ iv. Troubleshooting Performed (if you have logs to share)
       - SD ticket number
       - Update the title as needed to be relevant to the IcM/customer request
       - Company name
+      - Case Type (Pro/Premier)
+      - Severity (A/B/C)
    - Add a Summary
       - Problem Statement
       - Include link to ticket ASC
