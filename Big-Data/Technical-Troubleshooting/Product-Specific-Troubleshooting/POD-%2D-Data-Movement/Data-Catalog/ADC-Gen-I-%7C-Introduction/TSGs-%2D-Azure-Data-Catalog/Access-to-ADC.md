@@ -10,11 +10,3 @@ To grant a user access to the Azure Data Catalog Resource, the ADC admin needs t
 2. Select Settings
 3. Then add the User either as Catalog Administrator or User or Glossary Administrator (Standard SKU feature)
 
-Note: If the Catalog Administrator no longer in the company then we can initiate a request to Product Team to add New Catalog Admin following information is needed:
-- Azure Portal | Subscriptions | Select Subscription | Access Control (IAM) | User needs to be Owner.
-- Azure Portal | Azure Active Directory | Properties | Copy / Paste the Directory ID and screen shot.
-- Azure Portal | Azure Active Directory | User | Find the User who own the Subscription | Properties
-> - Email ID
-> - Copy / Paste the ObjectID and Screen shot
-----
-_Thanks to Sundar Easwaran for his help and notes._
