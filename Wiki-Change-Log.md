@@ -10,6 +10,46 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>8/27/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Access to ADC</td>
+</tr>
+<tr>
+<td>8/27/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated User Access Add or Delete</td>
+</tr>
+<tr>
+<td>8/27/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Catalog/ADC-Gen-I-%7C-Introduction/TSGs-%2D-Azure-Data-Catalog/User-Access-Add-or-Delete&#39; to order &#39;1&#39;.</td>
+</tr>
+<tr>
+<td>8/27/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added User Access Add or Delete</td>
+</tr>
+<tr>
+<td>8/25/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Introduction to ASA TSG Process</td>
+</tr>
+<tr>
+<td>8/24/2020</td>
+<td>Lee Pauling</td>
+<td>Added How To</td>
+</tr>
+<tr>
+<td>8/24/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>8/21/2020</td>
+<td>Lee Pauling</td>
+<td>Updated View WFM Schedule Per POD</td>
+</tr>
+<tr>
 <td>8/19/2020</td>
 <td>Tiffany Fischer</td>
 <td>Updated No Output Troubleshooting</td>
