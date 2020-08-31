@@ -29,7 +29,7 @@ Hello [Customer Name],
 There is an outstanding issue with metrics for the Data Lake in East US 2, which the product team is working to resolve, so at times you may sometimes see incorrect metrics reflected from these data lakes in the portal.
 
  
-We apologize for any inconvenience this causes and if at any time you have concerns and would like us to double check behavior on your data lake, please do reach out! We would be happy to do so.
+We apologize for any inconvenience this causes. I will confirm that the behavior your are seeing is part of this inconsistency, and let you know by [DATE].
 
 If you rely regularly on these metrics I do have a workaround script that I can provide you and your team, so please do let me know.
  
