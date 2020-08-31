@@ -58,6 +58,9 @@ If case seems to be related with a regression issue caused by a new deployment, 
  
 If we conclude that it is a regression issue, then the ICM is eligible for Sev2 and we should either open it as such or raise it’s severity. Nonetheless, the approval process, must still be followed.
 
+# Linking an ICM to a Parent or Realted ICM
+![image.png](/.attachments/image-76b47cd9-5df2-41ec-8ae9-6679fc7295eb.png)
+
 #ICM Tracking
 ##Create a list of 'your' ICMs
 Need a list of ICMs associated with your cases? Whenever you create an ICM or receive a case with an ICM, you can add it to your 'Tracked' list.
