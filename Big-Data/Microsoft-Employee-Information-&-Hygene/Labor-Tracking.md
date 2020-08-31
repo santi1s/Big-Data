@@ -12,10 +12,24 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
-#Best Practices
+# Mandatory Training
 
 Mandatory training FY20:
 https://learn.microsoft.com/activity/S3670183/launch/#/
+
+# Mandatory Tasks
+
+1. Record any labor worked on your cases the same day it is worked. 
+By 11:59 pm local time.
+
+2. Record accurate labor daily for your cases, only submitting the actual labor, and submitting all of the actual labor for each case.
+
+3. Labor cannot be projected to a future date-- only enter labor the day it is worked.
+
+4. If you worked a case, but missed entering labor before 11:59pm local time, you may enter late labor, but be certain to accurately record the date it was worked, and enter a reason the labor was entered late.
+
+#Best Practices
+
  
 For your quick reference, here’s a summary of “DOs” and “DON’Ts”:
  
