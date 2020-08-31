@@ -18,6 +18,7 @@ You can add the labor entry by opening the case in Service Desk, scroll down to 
  ![sdlabor.JPG](/.attachments/sdlabor-e0d20039-bcfd-483a-82ff-e527b260ef36.JPG)
 
 You will need to chose a labor category, the date, duration, and to describe the activity performed.
+The description need only be a few words such as: Troubleshooting, Customer Call, Email Update, Research...
 
 ![addlabor.JPG](/.attachments/addlabor-ba4e9a21-713c-4267-aeca-4d700d3f748e.JPG)
 
