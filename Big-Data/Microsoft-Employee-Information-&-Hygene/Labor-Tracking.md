@@ -12,10 +12,14 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
-# Mandatory Training
+# How to Add Labor
+You can add the labor entry by opening the case in Service Desk, scroll down to "Labor" section and select "+Labor":
 
-Mandatory training FY20:
-https://learn.microsoft.com/activity/S3670183/launch/#/
+ ![sdlabor.JPG](/.attachments/sdlabor-e0d20039-bcfd-483a-82ff-e527b260ef36.JPG)
+
+You will need to chose a labor category, the date, duration, and to describe the activity performed.
+
+![addlabor.JPG](/.attachments/addlabor-ba4e9a21-713c-4267-aeca-4d700d3f748e.JPG)
 
 # Mandatory Tasks
 
@@ -28,14 +32,10 @@ By 11:59 pm local time.
 
 4. If you worked a case, but missed entering labor before 11:59pm local time, you may enter late labor, but be certain to accurately record the date it was worked, and enter a reason the labor was entered late.
 
-# How to Add Labor
-You can add the labor entry by opening the case in Service Desk, scroll down to "Labor" section and select "+Labor":
+# Mandatory Training
 
- ![sdlabor.JPG](/.attachments/sdlabor-e0d20039-bcfd-483a-82ff-e527b260ef36.JPG)
-
-You will need to chose a labor category, the date, duration, and to describe the activity performed.
-
-![addlabor.JPG](/.attachments/addlabor-ba4e9a21-713c-4267-aeca-4d700d3f748e.JPG)
+Mandatory training FY20:
+https://learn.microsoft.com/activity/S3670183/launch/#/
 
 #Best Practices
 
