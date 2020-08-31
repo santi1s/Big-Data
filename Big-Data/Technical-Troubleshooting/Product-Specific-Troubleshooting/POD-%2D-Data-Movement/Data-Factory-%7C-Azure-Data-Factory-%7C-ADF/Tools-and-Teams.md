@@ -20,7 +20,7 @@ a. ADF Kusto permission: go to https://myaccess/, request access for ADF Viewers
 c. SAW access for JIT: go to https://myaccess/, request access for BG-CSS-SAW-Exception
 d. ADF product OneNote: [DM CSS Handbook](onenote:#base-path=https://microsoft.sharepoint.com/teams/datamovement2/Shared%20Documents/LiveSite/DM%20CSS%20Handbook)
 
-4. Install Kusto: https://kusto.azurewebsites.net/docs/tools/kusto-explorer.html
+4. Install Kusto: https://aka.ms/kustoexplorer
 Add the below urls under 'Connections', 'Add Connection'
 ![Kusto Add Connection.jpg](/.attachments/Kusto%20Add%20Connection-8130cd16-d90c-4924-8b03-60b01d602eaa.jpg)
 
