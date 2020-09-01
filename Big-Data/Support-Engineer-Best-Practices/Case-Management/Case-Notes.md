@@ -10,6 +10,12 @@ This will make it easy for you to trace your steps later, and for your fellow en
 And most importantly, **great case notes will save you time**.
 
 # Case Status
+
+Your case Status is part of your case notes!
+When you are working a case don't forget to update the Case Status in the top-right to accurately reflect the current state of the case.
+![image.png](/.attachments/image-7595e723-b9b0-43f6-bf5e-a8c37cd13776.png)
+
+Not sure which to pick? Check out the detailed descriptions here:
 https://internal.support.services.microsoft.com/en-US/help/4572133#13
 # Note Taking Training Videos
 We have some awesome in-depth training on writing amazing notes!
