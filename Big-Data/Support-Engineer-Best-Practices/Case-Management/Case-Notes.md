@@ -9,6 +9,8 @@ This will make it easy for you to trace your steps later, and for your fellow en
 
 And most importantly, **great case notes will save you time**.
 
+# Case Status
+https://internal.support.services.microsoft.com/en-US/help/4572133#13
 # Note Taking Training Videos
 We have some awesome in-depth training on writing amazing notes!
 
