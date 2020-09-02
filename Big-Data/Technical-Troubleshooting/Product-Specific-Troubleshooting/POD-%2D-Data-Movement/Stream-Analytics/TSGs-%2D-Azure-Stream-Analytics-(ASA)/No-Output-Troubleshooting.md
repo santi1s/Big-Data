@@ -114,7 +114,7 @@ Cosmos DB Output contains multiple rows and just one row per partition key. If t
 
 <div style="margin-left:30px; "><p>Why does the Cosmos db output contains just one row per partition key, the output latency is higher than expected?</p>
 
-<p>It means CosmosDB writes are not happening in a batched manner (happening one record at a time), so ASA is achieving low write throughput hence the higher latency/watermark delay. If partition key is too unique (like a random guid for every event) this can happen , please choose something more reasonable -> [see this guidance](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#choose-partitionkey) 
+<p>It means CosmosDB writes are not happening in a batched manner (happening one record at a time), so ASA is achieving low write throughput hence the higher latency/watermark delay. If partition key is too unique (like a random guid for every event) this can happen , please choose something more reasonable -> <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#choose-partitionkey" target="_blank">see this guidance</a>
 </p></div>
  
 5. If the RU Quota is maxed, then they need to scale up. [Here is an online support document related to CosmosDB Performance](https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput).
