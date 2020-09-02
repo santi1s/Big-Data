@@ -1,4 +1,4 @@
-# General Troubleshooting 
+# General Troubleshooting when you receive a ticket from a collaboration
 Get Preliminary information
 
 **What is the ASA Resource Uri?** 
