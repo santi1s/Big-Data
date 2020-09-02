@@ -212,7 +212,7 @@ If you need more time than your current sick leave balance allows, please reach 
 
 ## Who to Reach Out to When You Are Sick
 
-If you are ill and need to take a sick day, please send an email to wfm@microsoft.com and your manager, requesting that you be marked as unexpected oof/sick.
+If you are ill and need to take a sick day, please send an email to wfms@microsoft.com and your manager, requesting that you be marked as unexpected oof/sick.
 
 
 ## Automatic Replies
