@@ -109,7 +109,7 @@ _Details to come_
 2. Review ASA Job Signals graph for latency on output.
 3. Review CosmosDB App Lens for Throttling and Latency.
 4. Is the ASA job utilizing partitioning?
-5. If the DTU Quota is maxed, then they need to scale up. 
+5. If the RU Quota is maxed, then they need to scale up. [Here is an online support document related to CosmosDB Performance](https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput).
 
 ##Azure Functions
 1. [Intro to Function Apps in ASA - Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
