@@ -2,4 +2,4 @@ Basic Troubleshooting - [ASA Wizard](https://aka.ms/asawizard)
 Advanced Troubleshooting - 
 DGML Converter - 
 [Case Triage](https://aka.ms/casetriage) - Reporting tool used for case reviews.
-Case Buddy
+[Case Buddy](https://internal.support.services.microsoft.com/en-us/help/4493633)
