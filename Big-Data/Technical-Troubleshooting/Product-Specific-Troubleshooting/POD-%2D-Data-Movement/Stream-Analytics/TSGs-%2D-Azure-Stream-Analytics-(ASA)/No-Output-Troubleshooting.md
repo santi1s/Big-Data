@@ -124,5 +124,6 @@ _Details to come_
 8. If Function App Code is creating a new connection every time it connects to a external resource, it will exhaust the connections.
 9. Create a collaboration if the customer needs help optimizing or fixing errors in Function App
    - Get the App code from the customer to have available for the Function App SE
+10.  Additional resources for Function App TSG - https://supportability.visualstudio.com/AzureFunctions/_wiki/wikis/AzureFunctions.wiki/236911/readme
 
 _More Details to come_
