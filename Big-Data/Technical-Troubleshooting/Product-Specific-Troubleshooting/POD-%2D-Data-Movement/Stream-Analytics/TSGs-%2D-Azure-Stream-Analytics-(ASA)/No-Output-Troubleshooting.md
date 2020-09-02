@@ -119,18 +119,19 @@ Cosmos DB Output contains multiple rows and just one row per partition key. If t
 
 <p>It means CosmosDB writes are not happening in a batched manner (happening one record at a time), so ASA is achieving low write throughput hence the higher latency/watermark delay. If partition key is too unique (like a random guid for every event) this can happen , please choose something more reasonable -> <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#choose-partitionkey" target="_blank">see this guidance</a>
 </p></div>
-5. What is the throughput for batch processing?
 
-<div style="margin-left:30px; "><p>The documentation says ASA 1.2 "With compatibility level 1.2, Stream Analytics supports native integration to bulk write into Azure Cosmos DB. This integration enables writing effectively to Azure Cosmos DB while maximizing throughput and efficiently handling throttling requests." 
+<div style="margin-left:15px; "><p>5. What is the throughput for batch processing?</p>
 
-With 1.2 we use a CosmosDB API that uses batch processing internally.  ASA invokes the bulk executor for all events coming into PartitionID 0 (and 1 ... ) and internally it works like this.  https://docs.microsoft.com/en-us/azure/cosmos-db/bulk-executor-overview#how-does-the-bulk-executor-operate 
+<div style="margin-left:15px; "><p>The documentation says ASA 1.2 "With compatibility level 1.2, Stream Analytics supports native integration to bulk write into Azure Cosmos DB. This integration enables writing effectively to Azure Cosmos DB while maximizing throughput and efficiently handling throttling requests." </p>
+
+<p>With 1.2 we use a CosmosDB API that uses batch processing internally.  ASA invokes the bulk executor for all events coming into PartitionID 0 (and 1 ... ) and internally it works like this.  https://docs.microsoft.com/en-us/azure/cosmos-db/bulk-executor-overview#how-does-the-bulk-executor-operate </p>
 
 LIMITATIONS 
 - ASA allows pushing maximum of 10MB worth of events in a batch. 
 - CosmosDB limits for a request is 2MB  
 https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits 
 - BulkExecutor will typically split it into further mini batches and send 2 MB max at a time I am guessing. 
-</p></div> 
+</div></div> 
 
 6. If the RU Quota is maxed, then they need to scale up. [Here is an online support document related to CosmosDB Performance](https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput).
 ##Azure Functions
