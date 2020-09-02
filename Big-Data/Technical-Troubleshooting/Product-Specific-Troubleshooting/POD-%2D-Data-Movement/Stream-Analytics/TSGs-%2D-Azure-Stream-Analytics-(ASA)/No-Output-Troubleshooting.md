@@ -105,7 +105,11 @@ _Details to come_
 _Details to come_
 
 ##Azure CosmosDB
-_Details to come_
+1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
+2. Review ASA Job Signals graph for latency on output.
+3. Review CosmosDB App Lens for Throttling and Latency.
+4. Is the ASA job utilizing partitioning?
+5. If the DTU Quota is maxed, then they need to scale up. 
 
 ##Azure Functions
 1. [Intro to Function Apps in ASA - Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
