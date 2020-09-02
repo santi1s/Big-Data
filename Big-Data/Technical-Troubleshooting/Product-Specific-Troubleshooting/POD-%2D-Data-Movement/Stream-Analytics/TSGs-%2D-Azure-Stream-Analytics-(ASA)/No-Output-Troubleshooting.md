@@ -109,6 +109,14 @@ _Details to come_
 2. Review ASA Job Signals graph for latency on output.
 3. Review CosmosDB App Lens for Throttling and Latency.
 4. Is the ASA job utilizing partitioning?
+**Example Problem.** 
+Cosmos DB Output contains multiple rows and just one row per partition key. If the output latency is higher than expected, consider choosing a partition key that contains at least several hundred records per partition key. For best performance, consider choosing the same partition key column for input and output. 
+
+<div style="margin-left:30px; "><p>Why does the Cosmos db output contains just one row per partition key, the output latency is higher than expected?</p>
+
+<p>It means CosmosDB writes are not happening in a batched manner (happening one record at a time), so ASA is achieving low write throughput hence the higher latency/watermark delay. If partition key is too unique (like a random guid for every event) this can happen , please choose something more reasonable -> [see this guidance](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#choose-partitionkey) 
+</p></div>
+ 
 5. If the RU Quota is maxed, then they need to scale up. [Here is an online support document related to CosmosDB Performance](https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput).
 
 ##Azure Functions
