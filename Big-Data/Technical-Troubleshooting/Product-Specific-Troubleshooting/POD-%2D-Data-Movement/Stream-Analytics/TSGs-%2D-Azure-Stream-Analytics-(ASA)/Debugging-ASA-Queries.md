@@ -39,4 +39,6 @@ FROM [input2] TIMESTAMP BY mytime
 The customer can re-run the query, download data files from "DataFromInput1" and "DataFromInput2" outputs and debug in Visual Studio or VS Code.
 If results are different from cloud run, this issue needs to be escalated to product group. Full definition of the query (with UDF, UDA, reference data, etc.) and input data files are required for further troubleshooting.
 
+[More information can be found here](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/3369/Debugging-ASA-query-logic)
+
 _Authored By: Alex Raizman_
