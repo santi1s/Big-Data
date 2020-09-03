@@ -64,21 +64,15 @@ We've identified several internal and external learning resources to help you un
 [R2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
 [R3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
 [R4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+[R5 - ASC & JARVIS Overview](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722) 
 
 Microsoft gives its engineers access to a wide variety of learning resources if you want to extend your learnings. Some of the services offered are:
 [Microsoft Learn](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmicrosoft.com%2Flearn&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800167596&sdata=fYaj%2FKvixqfbxQlOrMnqkRaWp%2F0ZEKhEAWckksxSwSk%3D&reserved=0)
 [LinkedIn Learning](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Flynda.com%2F&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800177591&sdata=X5s37X3MuRSR15y0kcecaOS3FbcKwkKJfvquza58NgM%3D&reserved=0)
 [Pluralsight](https://aka.ms/pluralsight)
 [O’Reilly Online Learning](http://aka.ms/safari)
-[ASA Overview & Troubleshooting Readiness Session](/Big-Data/Technical-Troubleshooting/Azure-Outages-&-Service-Impacting-Events/POD-%2D-Data-Movement/Stream-Analytics/ASA-%2D-Azure-Stream-Analytics-%2DTraining) *new*
 
 #Troubleshooting Introduction:
-
-~~[Azure Stream Analytics 101 learning course](https://learn.microsoft.com/activity/S1604001/launch#/)
-Do up to "MSSolve Tracking your case and logging your time. MSSolve has been deprecated, we now use Service Desk to manage cases, and AxisNow to track labor.~~
-
->*The above training course was retired by the learn team for low consumption. We are working with the PG to determine if another course should be created. In the meantime please review the other content on this page.*
-
 
 Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FAzure%20Outages%20%26%20Service%20Impacting%20Events%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
 
