@@ -25,4 +25,7 @@ Support Engineer Troubleshooting Guide -> Coming soon
 # **Escalation**
 SR PARTNER TECH ADVISOR Sundar Easwaran
 
+# **Group Emails**
+SMEs  CSSADCSMEs@microsoft.com
+
 
