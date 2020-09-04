@@ -204,7 +204,12 @@ After your vacation has been approved, or on the first day back from your vacati
 
 #Sick Days
 
+Here's the 3 things you need to do when your going to be out sick:
+1. 
+2.
+3.
 
+Here's the details for being out sick: [Out Sick - Sick Days](/Big-Data/Microsoft-Employee-Information-&-Hygene/Time-Away-%2D-Vacation-and-Sick-Days/Out-Sick-%2D-Sick-Days)
 
 #Flex/Lieu Days
 Flex/Lieu days are granted when you volunteer to work your usual hours on days that would otherwise be Microsoft holidays. You can find our holidays here ([MSFT Holidays](https://microsoft.sharepoint.com/sites/hrw/Pages/globalholidays.aspx))
