@@ -10,11 +10,16 @@
 ### Taking a Case
 If your team is using the Virtual Duty Manager, don't cherry-pick cases out of the queue. Let the VDM do its job.
 
-Instead-- if you are a new engineer ready to take cases, do one of these things:
+**If there is a specific case you are taking from a teammate or handoff, do this:**
+
+1. Use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to you to make sure you receive proper credit by saying "Assign Case# to me"
+2. If the case it already assigned it will ask you to confirm, say Y and the case will be assigned to you and you will receive credit.
+
+**If you are a new engineer ready to take cases, do one of these things:**
 1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
 2. Let your Assignment Lead or Manager know you're ready to be in the queue. You can be set to 1 case a day to get started.
 
-Otherwise, if you have capacity to take more cases, do this:
+**If you have capacity to take more cases, do this:**
 1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
 2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
 
