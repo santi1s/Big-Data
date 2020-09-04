@@ -10,6 +10,116 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>9/4/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>9/4/2020</td>
+<td>Lee Pauling</td>
+<td>Updated content and renamed page &#39;Out Sick&#39; to &#39;Out Sick - Sick Days&#39;</td>
+</tr>
+<tr>
+<td>9/4/2020</td>
+<td>Lee Pauling</td>
+<td>Added Out Sick</td>
+</tr>
+<tr>
+<td>9/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated How to Take a Case or Collab</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs-%2D-Azure-Stream-Analytics-(ASA)/Introduction-to-ASA-TSG-Process&#39; to order &#39;0&#39;.</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Sundar Easwaran</td>
+<td>Updated Tools</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Debugging ASA Queries</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated No Output Troubleshooting</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Collaborations</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Collaborations</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
+</tr>
+<tr>
+<td>9/1/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
+</tr>
+<tr>
+<td>8/31/2020</td>
+<td>Alex Blaine</td>
+<td>Updated Tools and Teams</td>
+</tr>
+<tr>
+<td>8/31/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated IcM Incidents</td>
+</tr>
+<tr>
+<td>8/31/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Labor Tracking</td>
+</tr>
+<tr>
+<td>8/31/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Metrics Issue in East US 2</td>
+</tr>
+<tr>
+<td>8/31/2020</td>
+<td>Laila Haddad</td>
+<td>Updated Tips and Tricks</td>
+</tr>
+<tr>
+<td>8/29/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/28/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>8/28/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
 <td>8/27/2020</td>
 <td>Tiffany Fischer</td>
 <td>Updated Access to ADC</td>
