@@ -79,4 +79,8 @@ engineer knows where to look/what resource to address.>
 Collab still unassigned? 
 Use this site: https://msaas.support.microsoft.com/dashboard
 
+Go to "View Queues"
+
 You can search for a queue based on description, and then reach out to the contact email address to help get hat case assigned.
+
+Find the queue that is aligned with the Same SAP (Support Area Path) as your collab task.
