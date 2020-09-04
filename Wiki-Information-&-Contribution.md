@@ -198,109 +198,114 @@ None
 <tbody>
 
 <tr>
-<td>8/27/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Access to ADC</td>
-</tr>
-<tr>
-<td>8/27/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated User Access Add or Delete</td>
-</tr>
-<tr>
-<td>8/27/2020</td>
-<td>Tiffany Fischer</td>
-<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Data-Catalog/ADC-Gen-I-%7C-Introduction/TSGs-%2D-Azure-Data-Catalog/User-Access-Add-or-Delete&#39; to order &#39;1&#39;.</td>
-</tr>
-<tr>
-<td>8/27/2020</td>
-<td>Tiffany Fischer</td>
-<td>Added User Access Add or Delete</td>
-</tr>
-<tr>
-<td>8/25/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Introduction to ASA TSG Process</td>
-</tr>
-<tr>
-<td>8/24/2020</td>
+<td>9/4/2020</td>
 <td>Lee Pauling</td>
-<td>Added How To</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
 </tr>
 <tr>
-<td>8/24/2020</td>
+<td>9/4/2020</td>
 <td>Lee Pauling</td>
+<td>Updated content and renamed page &#39;Out Sick&#39; to &#39;Out Sick - Sick Days&#39;</td>
+</tr>
+<tr>
+<td>9/4/2020</td>
+<td>Lee Pauling</td>
+<td>Added Out Sick</td>
+</tr>
+<tr>
+<td>9/4/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated How to Take a Case or Collab</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs-%2D-Azure-Stream-Analytics-(ASA)/Introduction-to-ASA-TSG-Process&#39; to order &#39;0&#39;.</td>
+</tr>
+<tr>
+<td>9/3/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>9/2/2020</td>
+<td>Sundar Easwaran</td>
 <td>Updated Tools</td>
 </tr>
 <tr>
-<td>8/21/2020</td>
-<td>Lee Pauling</td>
-<td>Updated View WFM Schedule Per POD</td>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Debugging ASA Queries</td>
 </tr>
 <tr>
-<td>8/19/2020</td>
+<td>9/2/2020</td>
 <td>Tiffany Fischer</td>
 <td>Updated No Output Troubleshooting</td>
 </tr>
 <tr>
-<td>8/19/2020</td>
-<td>Laila Haddad</td>
-<td>Updated ASC Guided Troubleshooter</td>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Collaborations</td>
 </tr>
 <tr>
-<td>8/19/2020</td>
-<td>Laila Haddad</td>
-<td>Updated Self-Authoring (Advanced)</td>
+<td>9/2/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added Collaborations</td>
 </tr>
 <tr>
-<td>8/19/2020</td>
-<td>Laila Haddad</td>
-<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-(Advanced)&#39; to order &#39;0&#39;.</td>
-</tr>
-<tr>
-<td>8/19/2020</td>
-<td>Laila Haddad</td>
-<td>Added Tips and Tricks</td>
-</tr>
-<tr>
-<td>8/19/2020</td>
-<td>Laila Haddad</td>
-<td>Added Self-Authoring (Advanced)</td>
-</tr>
-<tr>
-<td>8/19/2020</td>
+<td>9/2/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated R-X - Write Permissions Vanishing</td>
+<td>Updated Time Away - Vacation and Sick Days</td>
 </tr>
 <tr>
-<td>8/18/2020</td>
-<td>Lee Pauling</td>
-<td>Updated Support Engineer Training</td>
+<td>9/1/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Notes</td>
 </tr>
 <tr>
-<td>8/18/2020</td>
-<td>Lee Pauling</td>
-<td>Updated (SSIS) SQL Server Integration Services</td>
+<td>8/31/2020</td>
+<td>Alex Blaine</td>
+<td>Updated Tools and Teams</td>
 </tr>
 <tr>
-<td>8/17/2020</td>
+<td>8/31/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated IcM Incidents</td>
 </tr>
 <tr>
-<td>8/14/2020</td>
+<td>8/31/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated content and renamed page &#39;Case Recovery - Manager Follow Up Request&#39; to &#39;Case Recovery - Team Lead Follow Up Request&#39;</td>
+<td>Updated Labor Tracking</td>
 </tr>
 <tr>
-<td>8/14/2020</td>
+<td>8/31/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated Case Recovery - Manager Follow Up Request</td>
+<td>Updated Metrics Issue in East US 2</td>
 </tr>
 <tr>
-<td>8/14/2020</td>
+<td>8/31/2020</td>
+<td>Laila Haddad</td>
+<td>Updated Tips and Tricks</td>
+</tr>
+<tr>
+<td>8/29/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated ADC Gen I | Introduction</td>
+</tr>
+<tr>
+<td>8/28/2020</td>
 <td>Whitney Henderson</td>
-<td>Added Case Recovery - Manager Follow Up Request</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>8/28/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
 </tr>
 
 </tbody></table>
