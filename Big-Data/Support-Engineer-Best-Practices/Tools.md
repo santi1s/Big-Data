@@ -80,9 +80,13 @@ Ex: "cancel"
 
 [Case Ninja](https://aka.ms/caseninja) is a configurable outlook tool that can throw up a banner when you're assigned a case or a critsit, so you don't miss case assignments or other important case emails.
 
+![image.png](/.attachments/image-7c68b09f-7548-4088-af5e-a6ddf18916ee.png)
+
 ## OOFSponder
 
 [OOFSponder](http://toolbox/oofsponder) is an Outlook tool that will automatically set your OOF messages depending on your shift times.
+
+![image.png](/.attachments/image-2ae503de-de44-4710-917e-4729ede51d12.png)
 
 # Case Tools
 
@@ -90,9 +94,13 @@ Ex: "cancel"
 
 [Case Buddy](https://aka.ms/casebuddy) is a comprehensive case-management tool that works alongside service desk to manage cases. In-built timers, in-built note takers, ability to create and manage categories and personalize your queue views.
 
+![image.png](/.attachments/image-2c3863e3-6bf2-48ef-aeae-f9912da54898.png)
+
 ## Case Parser Studio
 
 [Case Parser Studio](https://microsoft.sharepoint.com/teams/EAST/SitePages/Case-Parser-Pro.aspx) is a case history viewer that prioritizes usability. It can help you quickly identify prior case owners, understand severity level changes, and view all case notes as a single continuous page.
+
+![image.png](/.attachments/image-1c5b703f-4aed-4668-b14f-db135fddba22.png)
 
 ## Case Triage
 
