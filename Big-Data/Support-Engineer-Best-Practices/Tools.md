@@ -74,6 +74,8 @@ Ex: "cancel"
 
 [OL Helper](http://toolbox/OLHelper) is an Outlook tool that you can install to create case-specific inboxes in your outlook.
 
+(If the link doesn't work, try again tomorrow. Toolbox sometimes is offline.)
+
 ![image.png](/.attachments/image-45d9cba3-f116-46e0-bf06-b29a88058cba.png)
 
 ## Case Ninja
@@ -85,6 +87,8 @@ Ex: "cancel"
 ## OOFSponder
 
 [OOFSponder](http://toolbox/oofsponder) is an Outlook tool that will automatically set your OOF messages depending on your shift times.
+
+(If the link doesn't work, try again tomorrow. Toolbox sometimes is offline.)
 
 ![image.png](/.attachments/image-2ae503de-de44-4710-917e-4729ede51d12.png)
 
