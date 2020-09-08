@@ -29,7 +29,16 @@ Mandatory training FY20:
 https://learn.microsoft.com/activity/S3670183/launch/#/
 
 Team Meeting Recording:
-(Will be posted after Sept 8 session.)
+
+
+<center>
+
+:::video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/1d23a1ff-0400-96f3-17ad-f1eaf2123125?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
+PPT Deck: [Labor and Case Tools - September072020.pptx](/.attachments/Labor%20and%20Case%20Tools%20(Flat%20Deck)%20-%20September072020-5300545e-8120-4d5c-bb25-f4ac6ec68869.pptx)
+</center>
 
 # How to Enter Labor Late
 If you missed the daily time entry for labor, you can enter the labor late, just be certain to correctly mark the day it was worked.
