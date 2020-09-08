@@ -21,7 +21,7 @@ By 11:59 pm local time.
 3. Labor cannot be projected to a future date-- only enter labor the day it is worked.
 
 4. If you worked a case, but missed entering labor before 11:59pm local time, [you may enter late labor](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/295071/Labor-Tracking?anchor=how-to-enter-labor-late), but be certain to accurately record the date it was worked, and enter a reason the labor was entered late.
-5. If you entered labor on the incorrect case, or entered the labor incorrectly, you should [adjust the labor entry](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/295071/Labor-Tracking?anchor=adjust-labor)
+5. If you entered labor on the incorrect case, or entered the labor incorrectly, you should [adjust the labor entry](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/295071/Labor-Tracking?anchor=adjust-labor) in a timely manner.
 
 # Mandatory Training
 
