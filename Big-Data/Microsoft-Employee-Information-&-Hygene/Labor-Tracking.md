@@ -23,10 +23,13 @@ By 11:59 pm local time.
 4. If you worked a case, but missed entering labor before 11:59pm local time, [you may enter late labor](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/295071/Labor-Tracking?anchor=how-to-enter-labor-late), but be certain to accurately record the date it was worked, and enter a reason the labor was entered late.
 5. If you entered labor on the incorrect case, or entered the labor incorrectly, you should [adjust the labor entry](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/295071/Labor-Tracking?anchor=adjust-labor) in a timely manner.
 
-# Mandatory Training
+# Training
 
 Mandatory training FY20:
 https://learn.microsoft.com/activity/S3670183/launch/#/
+
+Team Meeting Recording:
+(Will be posted after Sept 8 session.)
 
 # How to Enter Labor Late
 If you missed the daily time entry for labor, you can enter the labor late, just be certain to correctly mark the day it was worked.
