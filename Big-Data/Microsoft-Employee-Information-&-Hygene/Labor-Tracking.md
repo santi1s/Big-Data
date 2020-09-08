@@ -38,6 +38,23 @@ By 11:59 pm local time.
 Mandatory training FY20:
 https://learn.microsoft.com/activity/S3670183/launch/#/
 
+# How to Enter Labor Late
+If you missed the daily time entry for labor, you can enter the labor late, just be certain to correctly mark the day it was worked.
+
+1. Enter labor just like normal, but for the date choose the correct date worked and add a brief description.
+![image.png](/.attachments/image-eb06f766-d55b-4da0-8312-038c4227f2f9.png)
+
+2. Select Late Labor Reason as accurately as possible.
+![image.png](/.attachments/image-3843157d-e115-450d-a6d0-44501e0b92db.png)
+
+#Adjust Labor
+If you entered labor on the wrong case, or accidentally entered the incorrect amount of labor, you can adjust it! 
+
+1. Go to the labor section in service desk, and beside some previously entered labor select the ellipsis (…)
+![image.png](/.attachments/image-a0b72f72-7a69-4f59-a579-1b10cbdf2d87.png)
+2. Correct duration and select ‘Update Labor Reason’ and ‘Late Reason’ if applicable.
+![image.png](/.attachments/image-8e6fe318-1a5b-442b-9102-35fc581c63f3.png)
+
 #Best Practices
 
  
