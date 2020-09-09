@@ -25,7 +25,7 @@ Support Engineer Troubleshooting Guide -> Coming soon
 # **Teams Meetings to Join**
 1) [Friends of Project Babylon](https://teams.microsoft.com/l/team/19%3a55a61c23d3074b57a080dd4c44c9dcf5%40thread.tacv2/conversations?groupId=3cd47d55-5a9c-49c8-a74c-c9962366b752&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47 )
 
-2) [Project Babylon CSS PG Collaboration]() coming soon...
+2) [Project Babylon CSS PG Collaboration](https://teams.microsoft.com/l/channel/19%3a4af7e60614bb4c3aa857cd69254c4b59%40thread.skype/CSS%2520Support%2520Collaboration?groupId=53d47d51-bc91-46e7-900c-84f2f7f00b44&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 # **Escalation**
 SR PARTNER TECH ADVISOR Sundar Easwaran
