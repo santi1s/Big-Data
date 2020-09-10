@@ -41,6 +41,7 @@ ex. Orderby event_time asc WHERE FilePath.contains("label");
 SR PARTNER TECH ADVISOR Sundar Easwaran
 
 # **Group Emails**
+CSS   CSSADCSMEs@microsoft.com
 SMEs  CSSADCSMEs@microsoft.com
 
 
