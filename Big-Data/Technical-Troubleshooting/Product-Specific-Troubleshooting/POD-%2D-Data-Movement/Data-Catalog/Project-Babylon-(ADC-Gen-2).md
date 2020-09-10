@@ -32,9 +32,10 @@ Support Engineer Troubleshooting Guide -> Coming soon
 
 #**Jarvis Table**
 
-| Endpoint | Name Space |
-|--|--|
-| Diagnostic PROD | AzureClpMdsDF |
+| Endpoint | Name Space | Table | Description |
+|--|--|--|--|
+| Diagnostic PROD | AzureClpMdsDF |Reporting Events||
+ex. Orderby event_time asc WHERE FilePath.contains("label");
 
 # **Escalation**
 SR PARTNER TECH ADVISOR Sundar Easwaran
