@@ -30,6 +30,12 @@ Support Engineer Troubleshooting Guide -> Coming soon
 #**My Access**
 [MyAccess](https://myaccess/identityiq/home.jsf) TM-Babylon
 
+#**Jarvis Table**
+
+| Endpoint | Name Space |
+|--|--|
+| Diagnostic PROD | AzureClpMdsDF |
+
 # **Escalation**
 SR PARTNER TECH ADVISOR Sundar Easwaran
 
