@@ -40,6 +40,7 @@ In order to access the correct Jarvis logs, and Azure Support Center, request ac
 - WA CTS -14817
 - AzureSupportCenter SupportEngineer Access - 18897
 - WAUtil Read-Only Access - 12611
+- Azure StreamInsight TFS Access 1389787
          
 Collaboration & Escalation: Swarming https://learn.microsoft.com/activity/S4295219/launch#/
 
