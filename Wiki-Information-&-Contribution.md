@@ -198,114 +198,89 @@ None
 <tbody>
 
 <tr>
-<td>9/4/2020</td>
-<td>Lee Pauling</td>
-<td>Updated Time Away - Vacation and Sick Days</td>
-</tr>
-<tr>
-<td>9/4/2020</td>
-<td>Lee Pauling</td>
-<td>Updated content and renamed page &#39;Out Sick&#39; to &#39;Out Sick - Sick Days&#39;</td>
-</tr>
-<tr>
-<td>9/4/2020</td>
-<td>Lee Pauling</td>
-<td>Added Out Sick</td>
-</tr>
-<tr>
-<td>9/4/2020</td>
+<td>9/11/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated How to Take a Case or Collab</td>
+<td>Updated Kusto Queries for ADF</td>
 </tr>
 <tr>
-<td>9/3/2020</td>
-<td>Tiffany Fischer</td>
-<td>Updated Project Babylon (ADC Gen 2)</td>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Big Data</td>
 </tr>
 <tr>
-<td>9/3/2020</td>
-<td>Tiffany Fischer</td>
-<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs-%2D-Azure-Stream-Analytics-(ASA)/Introduction-to-ASA-TSG-Process&#39; to order &#39;0&#39;.</td>
-</tr>
-<tr>
-<td>9/3/2020</td>
+<td>9/11/2020</td>
 <td>Tiffany Fischer</td>
 <td>Updated Stream Analytics</td>
 </tr>
 <tr>
-<td>9/2/2020</td>
-<td>Sundar Easwaran</td>
-<td>Updated Tools</td>
-</tr>
-<tr>
-<td>9/2/2020</td>
+<td>9/11/2020</td>
 <td>Tiffany Fischer</td>
-<td>Updated Debugging ASA Queries</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
 </tr>
 <tr>
-<td>9/2/2020</td>
+<td>9/10/2020</td>
 <td>Tiffany Fischer</td>
-<td>Updated No Output Troubleshooting</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
 </tr>
 <tr>
-<td>9/2/2020</td>
+<td>9/10/2020</td>
 <td>Tiffany Fischer</td>
-<td>Updated Collaborations</td>
+<td>Updated How-To</td>
 </tr>
 <tr>
-<td>9/2/2020</td>
+<td>9/10/2020</td>
+<td>Jeremy Li</td>
+<td>Updated Case Handoff Process</td>
+</tr>
+<tr>
+<td>9/10/2020</td>
 <td>Tiffany Fischer</td>
-<td>Added Collaborations</td>
+<td>Added How-To</td>
 </tr>
 <tr>
-<td>9/2/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Time Away - Vacation and Sick Days</td>
+<td>9/9/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Project Babylon (ADC Gen 2)</td>
 </tr>
 <tr>
-<td>9/1/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated Case Notes</td>
+<td>9/8/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs-%2D-Azure-Stream-Analytics-(ASA)/Query-Test-Portal&#39; to order &#39;8&#39;.</td>
 </tr>
 <tr>
-<td>8/31/2020</td>
-<td>Alex Blaine</td>
-<td>Updated Tools and Teams</td>
+<td>9/8/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Query Test Portal</td>
 </tr>
 <tr>
-<td>8/31/2020</td>
-<td>Whitney Henderson</td>
-<td>Updated IcM Incidents</td>
+<td>9/8/2020</td>
+<td>Tiffany Fischer</td>
+<td>Saving wiki attachment &#39;image-b4c8a5f8-aa40-4537-80d6-90e6d7e233fc.png&#39;.</td>
 </tr>
 <tr>
-<td>8/31/2020</td>
+<td>9/8/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Labor Tracking</td>
 </tr>
 <tr>
-<td>8/31/2020</td>
+<td>9/8/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated Metrics Issue in East US 2</td>
+<td>Saving wiki attachment &#39;Labor and Case Tools (Flat Deck) - September072020-5300545e-8120-4d5c-bb25-f4ac6ec68869.pptx&#39;.</td>
 </tr>
 <tr>
-<td>8/31/2020</td>
-<td>Laila Haddad</td>
-<td>Updated Tips and Tricks</td>
-</tr>
-<tr>
-<td>8/29/2020</td>
+<td>9/8/2020</td>
 <td>Tiffany Fischer</td>
-<td>Updated ADC Gen I | Introduction</td>
+<td>Added Query Test Portal</td>
 </tr>
 <tr>
-<td>8/28/2020</td>
+<td>9/8/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated Wiki Change Log</td>
+<td>Updated Tools</td>
 </tr>
 <tr>
-<td>8/28/2020</td>
+<td>9/8/2020</td>
 <td>Whitney Henderson</td>
-<td>Updated Wiki Information &amp; Contribution</td>
+<td>Renamed page &#39;Tools&#39; to &#39;ASA Tools&#39;</td>
 </tr>
 
 </tbody></table>
