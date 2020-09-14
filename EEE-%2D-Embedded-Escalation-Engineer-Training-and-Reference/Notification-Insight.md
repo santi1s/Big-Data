@@ -13,7 +13,7 @@ Creating an ASC using Notification Insight is very simple, this approach is inte
 Get permissions for using ADS Jarvis actions by joining **MyAccess Group 19401 - Azure Diagnostic Partners**.
 
 ## B) Step 1 - Jarvis:
-1. In [**Jarvis**](https://jarvis-west.dc.ad.msft.net/actions) select **Test** environment.
+1. In [**Jarvis**](https://jarvis-west.dc.ad.msft.net/actions) select **Test** environmen. You don't need a SAW machine to deploy.  
 1. Click on **Notification Operations** (found under "AzureDiagnosticService", you can filter by in the Filter field).
 1. As an example, select the following Input Fields (see image below). Almost all fields are mandatory, except Article Id and Links. 
 
