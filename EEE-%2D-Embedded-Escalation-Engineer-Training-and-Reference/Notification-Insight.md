@@ -3,7 +3,7 @@ font-size:24.0pt;color:#1C3A56'>Notification Insight</p>
 
 #<span style="color:blue">**Summary**</span>
 
-Azure Partner teams and SMEs can create a notification insight for **hot/temporary issues** within ASC in a matter of a few minutes without spinning up dev cycles. They are typically meant for issues that don’t persist for long periods. Once the Notification insight is created, it **immediately** shows up in ASC for targeted cases during case creation or when using “Edit & Run” in a matter of a few minutes. 
+You can create a notification insight for **hot/temporary issues** within ASC in a matter of a few minutes without spinning up dev cycles. They are typically meant for issues that don’t persist for long periods. Once the Notification insight is created, it **immediately** shows up in ASC for targeted cases during case creation or when using “Edit & Run” in a matter of a few minutes. 
 
 # <span style="color:blue"> **Create an ASC Insight through Notification Insight**</span>
 
