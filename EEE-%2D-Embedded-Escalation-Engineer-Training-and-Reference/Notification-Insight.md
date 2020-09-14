@@ -18,8 +18,11 @@ Get permissions for using ADS Jarvis actions by joining **MyAccess Group 19401 
 1. Click on **Notification Operations** (found under "AzureDiagnosticService", you can filter by in the Filter field).
 1. As an example, select the following Input Fields (see image below). Almost all fields are mandatory, except Article Id and Links. 
 
-![image.png](/.attachments/image-b3ff7efe-9aeb-4461-90fb-46920f736dc8.png)
+![Jarvis image](/.attachments/image-b3ff7efe-9aeb-4461-90fb-46920f736dc8.png)
 
 ### C) Step 2 - Jarvis:
 1. Use the [**ASC test environment**](https://azuresupportcentertest.azurewebsites.net/caseoverview) to confirm the Insight has been deployed successfully 
-1. This is how it looks like in ASC. Please note that I am using the cosmosdb-lazyindexing-rca as Customer Ready content as an example.
+1. This is how it looks like in ASC. Please note that I am using the [_cosmosdb-lazyindexing-rca_](https://github.com/Azure/SelfHelpContent/blob/master/articles/microsoft.cosmosdb/cosmosdb-lazyindexing-rca.md) as Customer Ready content as an example.
+
+![ASC test environment image](/.attachments/image-552d4e28-0f72-4214-9c7c-606dbb0c10f3.png)
+
