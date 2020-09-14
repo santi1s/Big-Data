@@ -9,7 +9,7 @@ In this wiki you will find:
 1. [Create an ASC Insight through Notification Insight](#create-an-asc-insight-through-notification-insight)
 2. [Pros and cons compared to Elixir](#pros-and-cons-compared-to-elixir)
 
-#**Create an ASC Insight through Notification Insight**
+#Create an ASC Insight through Notification Insight
 
 Creating an ASC using Notification Insight is very simple, this approach is intended to be used for temporary issues and create ASC Insights in a matter minutes. In order to create a Notification Insight, you need to leverage Jarvis Actions. Below are instructions to help guide you through a simple creation scenario.
 
@@ -32,7 +32,7 @@ Get permissions for using ADS Jarvis actions by joining [**MyAccess Group 19401
 ![ASC test environment image](/.attachments/image-552d4e28-0f72-4214-9c7c-606dbb0c10f3.png)
 
 
-# Pros and cons compared to Elixir:
+#Pros and cons compared to Elixir
 - The **main advantages** of using **Notification Insight** compared to **Creating an insight using Elixir** are:
   - Creating a notification insight for temporary issues within ASC in a matter minutes, it takes less than 10/15 minutes to have an Insight created in ASC Test environment.
   - Really easy to leverage Customer Ready Content, we just need to indicate the Article Id.
