@@ -148,7 +148,7 @@ TraceApiCall
 ```where subscriptionId="e0c6ae60-5a94-43a6-a0b8-9e9c66a7a8b1" and headersString.ContainsI("ewaz-de01-uswc-vfa-saj-validate-login-risk")```
 
 **Client Query:**
-orderby statusCode desc
+```orderby statusCode desc```
 
 
 
