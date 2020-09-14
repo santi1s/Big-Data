@@ -43,7 +43,7 @@ Get permissions for using ADS Jarvis actions by joining **MyAccess Group 19401 
   - Elixir gives you the chance to classify the query data. 
 
 #<span style="color:blue">References</span>
-- For more details about Notification Insights please visit this document:
+- For more details about Notification Insights please visit the official Notification Insight documentation:
 https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
 	
 - For details on how to author a quality insight in Azure Support Center visit https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html
