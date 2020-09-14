@@ -30,14 +30,14 @@ Get permissions for using ADS Jarvis actions by joining **MyAccess Group 19401 
 
 # Pros and cons compared to Elixir:
 
-The main advantages of using Notification Insight compared to creating an insight using Elixir are:
+The **main advantages** of using **Notification Insight** compared to **Creating an insight using Elixir** are:
 - Creating a notification insight for temporary issues within ASC in a matter minutes, it takes less than 10/15 minutes to have an Insight created in ASC Test environment.
 - Really easy to leverage Customer Ready Content, we just need to indicate the Article Id.
 - Can be used has the standard to quickly inform CSS of any major outage, issue or bug that typically will not persist for long periods.
 - Once the Notification insight is created, it immediately shows up in ASC.
 - Quick and easy do delete a Notification Insight, if necessary.
 
-The main advantages of using Elixir compared to creating an insight using Notification Insight:
+The **main advantages** of using **Elixir** compared to **Creating an insight using Notification Insight**:
 - Unlike Notification Insight, Elixir does not need an expiration date (the Expiration Date is a mandatory parameter in Notification Insight).
 - Notification Insight will appear every time for the Support Topic selected, however, Elixir gives you the chance to write your own Kusto Query making it more accurate for CSS and tailor-made experience to use in Azure Portal SelfHelp Insights and Diagostics. 
 - Elixir has ASC and Azure Portal as Target clients.
