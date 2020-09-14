@@ -52,9 +52,67 @@ In this wiki you will find:
  
 
 # 2. EngSys-ads-partner (KQL files PR)
+In addition to all the steps mentioned before, you will need to create another PR in https://dev.azure.com/msazure/One/_git/EngSys-ads-partner that will include the KQL file to make sure we have source control of the function we are writing and the functions to give admin access to other groups (for Public and Sovereign Clouds).
 
+**Repo:** https://dev.azure.com/msazure/One/_git/EngSys-ads-partner
+1. We should write the KQL file inside the folder **ASC/InsightDiagnostics**, this file is the place we write the body of the function we wrote in Elixir.
+![image.png](/.attachments/image-2eb105bc-6ac1-4694-b58a-3baf00ea828b.png)
+2. You need to add and run(in Kusto) the functions you add to **Functions_PublicCloud.kql** and F**unctions_SovereignClouds.kql** to give permissions to **aadapp=23a088bf-1479-4249-b7fb-9245ac23a5dc'**,  **aadgroup=CosmosDB Supportability SG** and **'dstsgroup=REDMOND\\CosmosDB Supportability SG'** to have permissions to change and execute the function.
+
+**Note:** You need to run these function in Kusto. In Kusto if you create the function you become the admin and only you can give admin permissions.
+
+The Sovereign Cloud function should be executed in the following endpoints:
+![image.png](/.attachments/image-f6f195b9-3ed2-4ed0-b7e5-48a109808a55.png)
+			
+You can have access to these endpoints in this link: 
+https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/236984/New-Kusto-endpoints
+
+3. Create the PR.
 
 # 3. Customer Ready Content (CRC)
+1. Go to https://github.com/Azure/SelfHelpContent
+2. Remember that all the files that are CRC end in "-rca"
+3. You need to add the following metadata details on the CRC file:
+    ``` 
+	<properties
+	   pageTitle="TITLE"
+	   description="DESCRIPTION"
+	   infoBubbleText="INFO"
+	   service="microsoft.documentdb"
+	   resource="databaseAccounts"
+	   authors="GITHUB AUTHOR"
+	   ms.author="MSALIAS"
+	   articleId="ARTICLENAME-rca"
+	   diagnosticScenario="INSIGHTNAME"
+	   selfHelpType="rca"
+	   supportTopicIds=""
+	   resourceTags=""
+	   productPesIds="15585"
+	   cloudEnvironments="public,fairfax,blackforest,mooncake, usnat, ussec"
+	   ownershipId="AzureData_AzureCosmosDB"
+     />
+    ``` 
+**Note:** In articleId you should insert the value written in Customer ready content article ID in Elixir
+![image.png](/.attachments/image-46d3e47f-8dda-47ac-b5d9-c060f3d1618d.png)
+
+4. If you want to see the Customer Ready Content, you need to go to the Github(https://github.com/Azure/SelfHelpContent) article that you specify under **Customer ready content article ID** must be deployed in the Master branch, the article should end in "-rca" and should be pushed here: https://github.com/Azure/SelfHelpContent/tree/master/articles/microsoft.cosmosdb.
+
+5. Click on **Fork** in GitHub and once it is forked you can edit
+
+6. After editing the document create a PR for the CRC.
 
 
 # 4. SEAM mapping process
+Basically support topics we want to show the insights in the Portal we need to do this mapping. 
+1. SEAM mapping is just when you want to show the Insight in the portal
+2. Go to https://msaas.support.microsoft.com/sap/manage;sap=Azure%5CCosmos%20DB%5C
+3. In the L3 support topic click **View** 
+![image.png](/.attachments/image-4e662dab-a9ea-47d6-b6a1-42cd73dde93f.png)
+4. Go up in the page and you should see some details appearing for the path you have selected to View.
+![image.png](/.attachments/image-7cd58532-bb9c-4fb6-ab05-0c288671386c.png)
+5. The Tags are all the Insights mapped to this support topic. The order of the Tags is important, only the first one active Insight will be shown in the portal.
+6. Follow this document for the SEAM mapping process Documentation: https://support-docs.azurewebsites.net/docs/articles/onboarding/diagnostics/sapMapping.html.
+7. To create a seam mapping request click on this link: https://aka.ms/csstaxonomy/SupportTopics (there is no self-serve way to do it for now)
+![image.png](/.attachments/image-6423370b-5176-4fd1-9af7-ef070fd719b0.png)
+
+
