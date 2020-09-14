@@ -16,6 +16,7 @@ In this wiki you will find:
 
 #Create an Insight in Elixir:
 1. Go to https://elixir.microsoft.com/home click in "**+ Add Insights**" and select Cosmos DB as support product.
+![Elixir Insights example.png](/.attachments/image-f9575370-5cdc-4d3f-945b-c459d48db748.png) 
 1. Click in **Create** to create a new Insight and go through the following sections:
    - **Description:**
      - Make sure to use your team's name convention.
@@ -34,10 +35,21 @@ In this wiki you will find:
      - **Recommended action** and **Description** is not customer facing, this is what CSS will see it in ASC
      - Only what we write in **Customer ready content article ID** is customer facing and it will show up in the Azure Portal. For more details, go through the CRC process below.
      - The **Links** allows us to provide some links in ASC, so it will also just be shown to CSS engineers.
-
-![Elixir Insights example.png](/.attachments/image-f9575370-5cdc-4d3f-945b-c459d48db748.png) 
+1. Once you create the Insight it will show in **Most recent status** as **Updated in test** and you should click in **Test in ASC test env** to test if the insight is working fine in ASC. You must select a case with a **support topic** selected in the Trigger part before.
+![insight is working fine in ASC](/.attachments/image-471e3657-252f-471b-9edd-02ad5de0c7ed.png)
+1. If you cannot find a case, you can use **Edit & Run** to change the Support Topic.
+![use Edit & Run to change the Support Topic image](/.attachments/image-123ad84c-ed58-4fa7-8730-5a1f6fc358d8.png)
+1. To publish the Insight to PPE you must click in **Actions** and **Start validations**.
+![Start validations image example](/.attachments/image-0fd04c7f-9ce1-4faa-9227-8f039a54da21.png)
+1. Once you see the **Most recent status** as **Validation complete** you can push to Prod
+![push to Prod example image](/.attachments/image-75e84b60-5ea0-4109-991d-1c182492bd5b.png)
+1. When you do a **Push to Prod** it will automatically create a PR of this NoCode Insight. What you added previously will be converted into code.
+![code example](/.attachments/image-ec257d81-9d8b-4e5e-866c-1b9ca5919455.png)
+1. At this point, some engineers from Cosmos DB Supportability will get notified, review the PR and if everything is fine it will be sign-off and merge into the Master Branch.
+1. As soon it merges into Master Branch, it will automatically start a Build and you will get an email saying if the Build was successful or not.
+1. Once the Build is successful the NoCode Insight team will push it to Prod. This means that even if you merge this into Master Branch or if your Build succeeded, there is a manual step needed for another team. In order to know if this has started you should look at the column **Most recent status** which should show as **Deployment started**. 
+1. The column **Most recent status** will show the value **Enabled in production** when everything is done from Elixir side.
  
-
 
 # 2. EngSys-ads-partner (KQL files PR)
 
