@@ -116,7 +116,6 @@ Basically support topics we want to show the insights in the Portal we need to d
 ![image.png](/.attachments/image-6423370b-5176-4fd1-9af7-ef070fd719b0.png)
 
 #References
-- For more details about Notification Insights please visit the official Notification Insight documentation:
-https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
+- For more details about Elixir No Code Insights please visit:
+https://azuresupportcenterdocs.azurewebsites.net/developers/insights/DevelopingInsights/NoCodeInsights/NoCode_Insights.html
 	
-- For details on how to author a quality insight in Azure Support Center visit: https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html
