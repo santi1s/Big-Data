@@ -112,7 +112,7 @@ Basically support topics we want to show the insights in the Portal we need to d
 ![image.png](/.attachments/image-7cd58532-bb9c-4fb6-ab05-0c288671386c.png)
 5. The Tags are all the Insights mapped to this support topic. The order of the Tags is important, only the first one active Insight will be shown in the portal.
 6. Follow this document for the SEAM mapping process Documentation: https://support-docs.azurewebsites.net/docs/articles/onboarding/diagnostics/sapMapping.html.
-7. To create a seam mapping request click on this link: https://aka.ms/csstaxonomy/SupportTopics (there is no self-serve way to do it for now)
+7. To create a seam mapping request click on this link: https://aka.ms/csstaxonomy/SupportTopics (there is no self-serve way to do it for now). Make sure to assign it to Big Data. 
 ![image.png](/.attachments/image-6423370b-5176-4fd1-9af7-ef070fd719b0.png)
 
 #References
