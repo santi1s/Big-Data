@@ -5,12 +5,16 @@ font-size:24.0pt;color:#1C3A56'>Notification Insight</p>
 
 You can create a notification insight for **hot/temporary issues** within ASC in a matter of a few minutes without spinning up dev cycles. They are typically meant for issues that don’t persist for long periods. Once the Notification insight is created, it **immediately** shows up in ASC for targeted cases during case creation or when using “Edit & Run” in a matter of a few minutes. 
 
+In this wiki you will find:
+1. [Create an ASC Insight through Notification Insight](#create-an-asc-insight-through-notification-insight)
+2. [Pros and cons compared to Elixir](#pros-and-cons-compared-to-elixir)
+
 # <span style="color:blue"> **Create an ASC Insight through Notification Insight**</span>
 
 Creating an ASC using Notification Insight is very simple, this approach is intended to be used for temporary issues and create ASC Insights in a matter minutes. In order to create a Notification Insight, you need to leverage Jarvis Actions. Below are instructions to help guide you through a simple creation scenario.
 
 ## A) Pre-requisites:
-Get permissions for using ADS Jarvis actions by joining **MyAccess Group 19401 - Azure Diagnostic Partners**.
+Get permissions for using ADS Jarvis actions by joining [**MyAccess Group 19401 - Azure Diagnostic Partners**](https://myaccess/identityiq/home.jsf).
 
 ## B) Step 1 - Jarvis:
 1. In [**Jarvis**](https://jarvis-west.dc.ad.msft.net/actions) select **Test** environmen. You don't need a SAW machine to deploy.  
