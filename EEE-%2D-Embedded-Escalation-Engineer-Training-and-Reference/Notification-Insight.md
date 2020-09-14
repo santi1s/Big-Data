@@ -1,11 +1,11 @@
 <p style='margin-top:18pt;margin-bottom:7pt;line-height:29pt;font-family:&amp;quot;
 font-size:24.0pt;color:#1C3A56'>Notification Insight</p>
 
-#<span style="color:blue">Summary<span style="color:blue">
+#<span style="color:blue">Summary</span>
 
 Azure Partner teams and SMEs can create a notification insight for **hot/temporary issues** within ASC in a matter of a few minutes without spinning up dev cycles. They are typically meant for issues that don’t persist for long periods. Once the Notification insight is created, it **immediately** shows up in ASC for targeted cases during case creation or when using “Edit & Run” in a matter of a few minutes. 
 
-## <span style="color:blue"> Create an ASC Insight through Notification Insight<span style="color:blue">
+## <span style="color:blue"> Create an ASC Insight through Notification Insight</span>
 
 Creating an ASC using Notification Insight is very simple, this approach is intended to be used for temporary issues and create ASC Insights in a matter minutes. In order to create a Notification Insight, you need to leverage Jarvis Actions. Below are instructions to help guide you through a simple creation scenario.
 
@@ -44,8 +44,8 @@ The main advantages of using Elixir compared to creating an insight using Notifi
 - Elixir gives you the chance to classify the query data. 
 
 
-#References
-For more details about Notification Insights please visit this document:
-	· https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
+#<span style="color:blue">References</span>
+- For more details about Notification Insights please visit this document:
+https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
 	
-For details on how to author a quality insight in Azure Support Center visit https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html
+- For details on how to author a quality insight in Azure Support Center visit https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html
