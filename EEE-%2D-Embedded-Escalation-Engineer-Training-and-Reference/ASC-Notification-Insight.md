@@ -47,6 +47,10 @@ Get permissions for using ADS Jarvis actions by joining [**MyAccess Group 19401
   - Elixir has ASC and Azure Portal as Target clients.
   - Elixir gives you the chance to classify the query data. 
 
+# Deploy in Production
+- To deploy in **Production** you just need to set the _Diagnostic service ring_ to **Production**.
+![Deploy Notificaiton Insight in Production.png](/.attachments/image-7136eb1f-68d6-4390-bcb1-cdf1009b0598.png)
+
 #References
 - For more details about Notification Insights please visit the official Notification Insight documentation:
 https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
