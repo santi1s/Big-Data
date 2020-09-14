@@ -118,4 +118,7 @@ Basically support topics we want to show the insights in the Portal we need to d
 #References
 - For more details about Elixir No Code Insights please visit:
 https://azuresupportcenterdocs.azurewebsites.net/developers/insights/DevelopingInsights/NoCodeInsights/NoCode_Insights.html
+
+- For more details about SEAM mapping process:
+https://support-docs.azurewebsites.net/docs/articles/onboarding/diagnostics/sapMapping.html
 	
