@@ -41,7 +41,7 @@ In this wiki you will find:
 ![use Edit & Run to change the Support Topic image](/.attachments/image-123ad84c-ed58-4fa7-8730-5a1f6fc358d8.png)
 1. To publish the Insight to PPE you must click in **Actions** and **Start validations**.
 ![Start validations image example](/.attachments/image-0fd04c7f-9ce1-4faa-9227-8f039a54da21.png)
-1. Once you see the **Most recent status** as **Validation complete** you can push to Prod
+1. Once you see the **Most recent status** as **Validation complete** you can push to Prod.
 ![push to Prod example image](/.attachments/image-75e84b60-5ea0-4109-991d-1c182492bd5b.png)
 1. When you do a **Push to Prod** it will automatically create a PR of this NoCode Insight. What you added previously will be converted into code.
 ![code example](/.attachments/image-ec257d81-9d8b-4e5e-866c-1b9ca5919455.png)
