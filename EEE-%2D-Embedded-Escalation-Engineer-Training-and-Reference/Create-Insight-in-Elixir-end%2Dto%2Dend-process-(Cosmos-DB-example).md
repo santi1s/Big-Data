@@ -9,9 +9,9 @@ In this wiki, we are going to share all the steps to help you implement an Insig
 
 In this wiki you will find:
 1. [How to create an Insight in Elixir](#create-an-insight-in-elixir)
-2. [EngSys-ads-partner (KQL files PR)](#pros-and-cons-compared-to-elixir)
-3. [Customer Ready Content (CRC)]()
-4. [SEAM mapping process]()
+2. [KQL files PR](#kql-files-pr)
+3. [Customer Ready Content](#customer-ready-content)
+4. [SEAM mapping process](#seam-mapping-process)
 5. [Reference to Notification Insight official documentation](#references) 
 
 #Create an Insight in Elixir:
@@ -51,7 +51,7 @@ In this wiki you will find:
 1. The column **Most recent status** will show the value **Enabled in production** when everything is done from Elixir side.
  
 
-# 2. EngSys-ads-partner (KQL files PR)
+#KQL files PR
 In addition to all the steps mentioned before, you will need to create another PR in https://dev.azure.com/msazure/One/_git/EngSys-ads-partner that will include the KQL file to make sure we have source control of the function we are writing and the functions to give admin access to other groups (for Public and Sovereign Clouds).
 
 **Repo:** https://dev.azure.com/msazure/One/_git/EngSys-ads-partner
@@ -69,9 +69,9 @@ https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.
 
 3. Create the PR.
 
-# 3. Customer Ready Content (CRC)
+#Customer Ready Content
 1. Go to https://github.com/Azure/SelfHelpContent
-2. Remember that all the files that are CRC end in "-rca"
+2. Remember that all the files that are Customer Ready Content(CRC) end in "-rca"
 3. You need to add the following metadata details on the CRC file:
     ``` 
 	<properties
@@ -102,7 +102,7 @@ https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.
 6. After editing the document create a PR for the CRC.
 
 
-# 4. SEAM mapping process
+#SEAM mapping process
 Basically support topics we want to show the insights in the Portal we need to do this mapping. 
 1. SEAM mapping is just when you want to show the Insight in the portal
 2. Go to https://msaas.support.microsoft.com/sap/manage;sap=Azure%5CCosmos%20DB%5C
@@ -115,4 +115,8 @@ Basically support topics we want to show the insights in the Portal we need to d
 7. To create a seam mapping request click on this link: https://aka.ms/csstaxonomy/SupportTopics (there is no self-serve way to do it for now)
 ![image.png](/.attachments/image-6423370b-5176-4fd1-9af7-ef070fd719b0.png)
 
-
+#References
+- For more details about Notification Insights please visit the official Notification Insight documentation:
+https://azuresupportcenterdocs.azurewebsites.net/developers/ads/best_practice/Notification_Insights.html
+	
+- For details on how to author a quality insight in Azure Support Center visit: https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html
