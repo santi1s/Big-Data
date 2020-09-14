@@ -5,7 +5,7 @@ Azure Stream Analytics Cluster offers a single-tenant deployment for complex and
 
 Stream Analytics clusters are billed by Streaming Units (SUs) which represent the amount of CPU and memory resources allocated to your cluster. A Streaming Unit is the same across Standard and Dedicated offerings. You can purchase 36, 72, 108, 144, 180 or 216 SUs for each cluster. A Stream Analytics cluster can serve as the streaming platform for your organization and can be shared by different teams working on various use cases.
 
-3What are Stream Analytics clusters
+#What are Stream Analytics clusters
 Stream Analytics clusters are powered by the same engine that powers Stream Analytics jobs running in a multi-tenant environment. The single tenant, dedicated cluster have the following features:
 
 - Single tenant hosting with no noise from other tenants. Your resources are truly "isolated" and performs better when there are burst in traffic.
