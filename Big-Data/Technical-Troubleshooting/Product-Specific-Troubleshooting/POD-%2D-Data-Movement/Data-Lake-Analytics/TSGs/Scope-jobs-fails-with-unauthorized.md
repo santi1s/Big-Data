@@ -1,8 +1,8 @@
 # Quick overview
-Recently we have a few members from Microsoft Bing team running some **Scope** project on ADF to ADLA and have been experiencing "no permission and or unauthorized permission. 
-Usually this will happen 
+Recently we have members from Microsoft Bing team running some **Scope** projects on ADF to ADLA and have been experiencing "no permission and or unauthorized permission". 
 
-## Error code
+
+## Sample of error code
 ### Unauthorized error code
 
 ![image.png](/.attachments/image-ce390a8b-abd4-40a7-9c02-519625ac32ab.png)
