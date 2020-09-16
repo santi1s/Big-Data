@@ -37,7 +37,7 @@ Then complete L200 Level training for your "focus products". Then complete L300 
 Then feel free to complete any Extras, Supplemental Learning, or any other Level skills for your non-focus products.
 
 
-|  | L100 | L200 | L300 | Extras  |
+|  | Learning Path &  L100 | L200 | L300 | Extras |
 |--|--|--|--|--|
 | Data Catalog |  |  |  |  |
 | Data Factory |  | [Training and Accreditation L200 Sections](https://ready.azurewebsites.net/csslearning/3298) | [Training and Accreditation L300 Section](https://ready.azurewebsites.net/csslearning/3298) |  |
