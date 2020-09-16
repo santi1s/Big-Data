@@ -96,4 +96,4 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 4.	Configure the ICM Severity based on the customer’s business impact (loss of revenue, loss of sites or business down).
 
 #Customer Expectations Management 
-[https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook](Customer Expectations Management Playbook)
+[https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook](/Big-Data/Support-Engineer-Best-Practices/Case-Management/Customer-Expectations-Management-Playbook)
