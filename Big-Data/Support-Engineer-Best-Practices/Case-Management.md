@@ -94,8 +94,8 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 [Last Quality Response - LQR](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289526/Last-Quality-Response-(LQR))
 
-#What you SHOULD NOT Tell Your Customer
-#What you CAN Tell Your Customer
+##What you SHOULD NOT Tell Your Customer
+##What you CAN Tell Your Customer
 
 # Take aways
 1.	Ensure the customer problem is understood clearly
