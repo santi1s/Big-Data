@@ -253,7 +253,9 @@ If you have delivered a solution to your customer, and have not heard from them:
 4. Follow up **daily** for **three business days.**
 5. If after that you have not heard from your customer, or they have not specified other communications preferences (ex: An out of office message.), **follow the three-strike process below.**
 
+![image.png](/.attachments/image-c28ec71b-4954-41a4-885e-e077b27bb101.png)
 
+This immediate follow up after a solution is delivered is to help make sure our customers can quickly get the full solution they need. Three-Strike is for closing out a stalled case.
 ## Three-Strike Process
 
 The below workflow gives a general idea about the process for CSS to follow when working with an un-responsive customer. **_CSS should always consider the case context and customer sentiment_**.
