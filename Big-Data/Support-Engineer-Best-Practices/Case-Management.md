@@ -99,3 +99,6 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 3.	Document your Analysis/logs collected to the ICM.
 4.	Configure the ICM Severity based on the customer’s business impact (loss of revenue, loss of sites or business down).
 
+#LQR
+
+(Last Quality Response - LQR)[https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289526/Last-Quality-Response-(LQR)]
