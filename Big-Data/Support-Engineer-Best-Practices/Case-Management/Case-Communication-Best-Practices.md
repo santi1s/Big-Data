@@ -241,7 +241,20 @@ You SHOULD NOT do any of the following:
 * Close a case on an unresponsive customer without waiting at least two (2) weeks since the successful contact with the customer.
 
 
-# Unresponsive customers
+# Unresponsive Customers
+
+## Right After a Solution Has Been Delivered
+
+If you have delivered a solution to your customer, and have not heard from them:
+
+1. If the customer has specified communication preferences (ex: "Let me test this and follow up tomorrow.") follow your customer's lead. 
+2. If you have not heard from them in 24 hours, **call.**
+3. If you cannot reach them on the call, **email them.**
+4. Follow up **daily** for **three business days.**
+5. If after that you have not heard from your customer, or they have not specified other communications preferences (ex: An out of office message.), **follow the three-strike process below.**
+
+
+## Three-Strike Process
 
 The below workflow gives a general idea about the process for CSS to follow when working with an un-responsive customer. **_CSS should always consider the case context and customer sentiment_**.
 
