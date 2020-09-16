@@ -88,6 +88,9 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 [Customer Expectation Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
 
+#Case Closure Playbook
+
+[Case Closure Playbook](/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Closure-Playbook)
 #Customer Communications
 
 #LQR
