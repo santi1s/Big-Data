@@ -8,7 +8,7 @@ You can create a notification insight for **hot/temporary issues** within ASC in
 In this wiki you will find:
 1. [Create an ASC Insight through Notification Insight](#create-an-asc-insight-through-notification-insight)
 2. [Pros and cons compared to Elixir](#pros-and-cons-compared-to-elixir)
-3. [How to deploy in Prodcution](#deploy-in-production)
+3. [How to deploy in Production](#deploy-in-production)
 5. [Reference to Notification Insight official documentation](#references) 
 
 #Create an ASC Insight through Notification Insight
