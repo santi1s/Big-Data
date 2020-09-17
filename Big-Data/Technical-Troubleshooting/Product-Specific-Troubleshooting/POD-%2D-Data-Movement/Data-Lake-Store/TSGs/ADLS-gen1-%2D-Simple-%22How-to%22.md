@@ -12,11 +12,11 @@ This small docs show a brief "how to" to load data from Gen1 to gen2 using ADF
 Or check out https://docs.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-storage-gen2-from-gen1
 
 ## Recursive ACL dump using Powershell
-This script is original owner by Whitney Henderson. I have done a few tweak at it. This script is a Powershell script that help propregate ACL perm to the user/SP throughout the gen1 folders. 
+This script is original owner by Whitney Henderson. I have done a few tweak at it. This script is a Powershell script that help propagate **ACL** perm to the user/SP throughout the gen1 folders. 
 [RecursiveACLDumpPowerShell.ps1](/.attachments/RecursiveACLDumpPowerShell-93251f74-ff42-4485-88af-0a9dd1128f1f.ps1)
 
-## Recursive
-This script is original owner by Whitney Henderson. 
+## Recursive Owner using Powershell
+This script is original owner by Whitney Henderson. I have also tweak this one as well for my environment. This scripts help propagate the **Owner** to the folders recursively. 
 [RecursivePowerShellOwner.ps1](/.attachments/RecursivePowerShellOwner-bc0e4511-906a-443f-b017-97762521dee8.ps1)
 
 
