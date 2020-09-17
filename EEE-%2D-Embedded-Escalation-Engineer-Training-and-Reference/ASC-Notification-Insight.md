@@ -58,5 +58,5 @@ https://azuresupportcenterdocs.azurewebsites.net/developers/insights/DevelopingI
 	
 - For details on how to author a quality insight in Azure Support Center visit: https://azuresupportcenterdocs.azurewebsites.net/developers/BuildingEffectiveInsights.html.
 
-- Notification Insight presentation:
+- Notification Insight Presentation:
 https://msit.microsoftstream.com/video/0725a1ff-0400-96f3-6261-f1eaf8d034f7.
