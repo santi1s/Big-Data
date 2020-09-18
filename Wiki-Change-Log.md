@@ -10,6 +10,291 @@ https://dev.azure.com/Supportability/Big%20Data/_workitems/recentlycompleted/
 <tbody>
 
 <tr>
+<td>9/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added IcMs</td>
+</tr>
+<tr>
+<td>9/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>9/18/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated TSGs - Azure Stream Analytics (ASA)</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Jarvis Queries</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Derek Yang</td>
+<td>Added ADLA - Simple &quot;How to&quot;</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Derek Yang</td>
+<td>Updated ADLS gen1 - Simple &quot;How to&quot;</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated ADF PG Wiki and TSGs</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Big Data</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Derek Yang</td>
+<td>Added ADLS gen1 - Simple &quot;How to&quot;</td>
+</tr>
+<tr>
+<td>9/17/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated ASC Notification Insight</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Renamed page &#39;Support Engineer Training&#39; to &#39;Support Engineer Training - Learning paths&#39;</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Support Engineer Training</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated SSIS  DQS  MDS - From SQL On Prem</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Case Management</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Case Documentation Playbook</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Added Case Documentation Playbook</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Case Closure Playbook</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;Case Closure Playbook&#39; moved from parent &#39;/Big Data ARR&#39; to &#39;/Big Data/Support Engineer Best Practices/Case Management&#39;</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Added Case Closure Playbook</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated ASC Notification Insight</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Case Communication Best Practices</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Page &#39;Customer Expectations Management Playbook&#39; moved from parent &#39;/Big Data/Support Engineer Best Practices&#39; to &#39;/Big Data/Support Engineer Best Practices/Case Management&#39;</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Reordered page &#39;/Big-Data/Support-Engineer-Best-Practices/Customer-Expectations-Management-Playbook&#39; to order &#39;10&#39;.</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Updated Customer Expectations Management Playbook</td>
+</tr>
+<tr>
+<td>9/16/2020</td>
+<td>Lee Pauling</td>
+<td>Added Customer Expectations Management Playbook</td>
+</tr>
+<tr>
+<td>9/15/2020</td>
+<td>Tiffany Fischer</td>
+<td>Reordered page &#39;/Big-Data/Technical-Troubleshooting/Product-Specific-Troubleshooting/POD-%2D-Data-Movement/Stream-Analytics/TSGs-%2D-Azure-Stream-Analytics-(ASA)/VNET&#39; to order &#39;2&#39;.</td>
+</tr>
+<tr>
+<td>9/15/2020</td>
+<td>Derek Yang</td>
+<td>Updated Scope jobs fails with unauthorized</td>
+</tr>
+<tr>
+<td>9/15/2020</td>
+<td>Derek Yang</td>
+<td>Added Scope jobs fails with unauthorized</td>
+</tr>
+<tr>
+<td>9/15/2020</td>
+<td>Tiffany Fischer</td>
+<td>Page &#39;Collaborations&#39; moved from parent &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Stream Analytics/TSGs - Azure Stream Analytics (ASA)&#39; to &#39;/Big Data/Technical Troubleshooting/Product Specific Troubleshooting/POD - Data Movement/Stream Analytics/Escalations &amp; Collaborations&#39;</td>
+</tr>
+<tr>
+<td>9/15/2020</td>
+<td>Laila Haddad</td>
+<td>Updated Tips and Tricks</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated Create Insight in Elixir end-to-end process (Cosmos DB example)</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Collaborations</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated VNET</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Stream Analytics</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/Create-Insight-in-Elixir-end%2Dto%2Dend-process-(Cosmos-DB-example)&#39; to order &#39;8&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/Create-Insight-in-Elixir-end%2Dto%2Dend-process-(Cosmos-DB-example)&#39; to order &#39;7&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated Jarvis Queries</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated content and renamed page &#39;Create Insight in Elixir end-to-end process&#39; to &#39;Create Insight in Elixir end-to-end process (Cosmos DB example)&#39;</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Saving wiki attachment &#39;image-f9575370-5cdc-4d3f-945b-c459d48db748.png&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Tiffany Fischer</td>
+<td>Added VNET</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Added Create Insight in Elixir end-to-end process</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated ASC Notification Insight</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Saving wiki attachment &#39;image-7136eb1f-68d6-4390-bcb1-cdf1009b0598.png&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Notification-Insight&#39; to order &#39;5&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Notification-Insight&#39; to order &#39;7&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Reordered page &#39;/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Notification-Insight&#39; to order &#39;6&#39;.</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Renamed page &#39;Notification Insight&#39; to &#39;ASC Notification Insight&#39;</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Updated Notification Insight</td>
+</tr>
+<tr>
+<td>9/14/2020</td>
+<td>Andre Ferreira</td>
+<td>Added Notification Insight</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Tiffany Fischer</td>
+<td>Updated SMEs</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated TSGs</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Runtime Not Found</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Recover Deleted ADLA Account</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Renamed page &#39;Capacity Requests&#39; to &#39;ADLA Capacity Requests&#39;</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Added Capacity Requests</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Change Log</td>
+</tr>
+<tr>
+<td>9/11/2020</td>
+<td>Whitney Henderson</td>
+<td>Updated Wiki Information &amp; Contribution</td>
+</tr>
+<tr>
 <td>9/11/2020</td>
 <td>Whitney Henderson</td>
 <td>Updated Kusto Queries for ADF</td>
