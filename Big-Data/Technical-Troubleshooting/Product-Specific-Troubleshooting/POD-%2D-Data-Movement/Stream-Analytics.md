@@ -84,9 +84,9 @@ Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_
 
 [Metrics Troubleshooting](https://msit.microsoftstream.com/video/a0710e60-8277-4d3b-b420-2a8fc2650e0b?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
-Activity & Diagnostic Logs
-[Video Tutorial](https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
-[TSG Wiki Page](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/333763/Activity-Log-Diagnostic-Log-Alerts) 
+[Activity & Diagnostic Logs Video Tutorial](https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+
+[Activity & Diagnostic Logs TSG Wiki Page](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/333763/Activity-Log-Diagnostic-Log-Alerts) 
 
 [Other TSGs](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics&pageId=143905&wikiVersion=GBwikiMaster) can be found on the BigData wiki
 
