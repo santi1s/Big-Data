@@ -15,19 +15,25 @@ COMMON JARVIS NAMESPACE
 
 COMMON JARVIS TABLES
 
-| Table |Description  |
+| JARVIS Table |Description  |
 |--|--|
-|Job Signals | Dashboard with key metrics.  |
-|TraceJobStatus|Status changes for the job SU & JobRun ID.  |
-|JobQosEvent  |Status changes for the job SU & JobRun ID.  |
 |AzureUserEvents | Logs shown to ASA customer |
-|TraceEvent  |System error and warning events.  |
-|TraceVerbose |Trace Information and CPU  |
-|TraceMonitoringEvent |Internal Metrics  |
-|TopologyDgml  | Trace Events table with dgml filter for Job Topology |
-|Job Metadata  | Job properties associated with the ASA job Configuration. |
-|TraceApiCall|HTTP Status, User Agent & Header String and client information | 
 |JobMetrics1MRollup|Cpu|
+|JobQosEvent  |Status changes for the job SU & JobRun ID.  |
+|TopologyDgml  | Trace Events table with dgml filter for Job Topology |
+|TraceApiCall|HTTP Status, User Agent & Header String and client information | 
+|TraceConsole|Dedicated cluster calls PUT/RpClusterManagement/Cluster, DELETE/RpClusterManagement/Cluster and PATCH/RpClusterManagement/Cluster ,for private endpoints & Search for Errors|
+|TraceEvent  |System error and warning events.  |
+|TraceInformation|API calls GET/RpClusterManagement/GetClusters, GET/RpClusterManagement/Cluster, GET/RpPrivateEndpointManagement/GetPrivateEndpoints, GET/RpPrivateEndpointManagement/PrivateEndpoint|
+|TraceJobStatus|Status changes for the job SU & JobRun ID.  |
+|TraceMonitoringEvent |Internal Metrics  |
+|TraceVerbose |Trace Verbos Information and CPU  |
+
+|Other ASC Links| Description|
+|--|--|
+|Job Metadata | Job properties associated with the ASA job Configuration. 
+|Job Signals | Dashboard with key metrics.  |
+
 
 Below are the list of Jarvis queries we use to perform our troubleshooting. While our primary troubleshooting tool is ASC, these details are here for your convenience if you wish to manually review logs.
 
