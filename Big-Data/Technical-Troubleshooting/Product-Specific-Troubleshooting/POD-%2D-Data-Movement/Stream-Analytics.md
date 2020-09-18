@@ -75,7 +75,7 @@ Microsoft gives its engineers access to a wide variety of learning resources if 
 
 #Troubleshooting Introduction:
 
-Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FAzure%20Outages%20%26%20Service%20Impacting%20Events%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster) TSG
+[TSG for Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FAzure%20Outages%20%26%20Service%20Impacting%20Events%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%2FBasic%20Troubleshooting&pageId=181135&wikiVersion=GBwikiMaster)
 
 
 [Casework Basics Video](https://msit.microsoftstream.com/video/72e5a0f5-8dd9-471d-b346-8403a9eeef7c?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
