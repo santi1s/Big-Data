@@ -1,2 +1,2 @@
 ## Welcome Page | Common TSG for ASA
-Common TSG for ASA CSS can be fund in the TSG Sub-Pages.  For Support Engineers that are new to ASA, please start with the Introduction and then go through the Basic troubleshooting guide.
+Common TSG for ASA CSS can be fund in the TSG Sub-Pages.  For Support Engineers that are new to ASA, please start with the [Introduction](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/315023/Introduction-to-ASA-TSG-Process) and then go through the Basic troubleshooting guide.
