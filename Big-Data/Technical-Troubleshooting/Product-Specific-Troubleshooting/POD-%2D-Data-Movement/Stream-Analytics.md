@@ -85,30 +85,28 @@ Review [Basic Troubleshooting](https://dev.azure.com/Supportability/Big%20Data/_
 [Metrics Troubleshooting](https://msit.microsoftstream.com/video/a0710e60-8277-4d3b-b420-2a8fc2650e0b?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
 Activity & Diagnostic Logs
-https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
+[Video Tutorial](https://msit.microsoftstream.com/video/08952be8-337d-4bd0-bdac-183e29df87bd?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+[TSG Wiki Page](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/333763/Activity-Log-Diagnostic-Log-Alerts) 
 
-Other TSGs can be found on the BigData wiki
-https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics&pageId=143905&wikiVersion=GBwikiMaster
+[Other TSGs](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics&pageId=143905&wikiVersion=GBwikiMaster) can be found on the BigData wiki
+
 
 #Tools:
-Service Desk Training
-https://microsoft.sharepoint.com/teams/EAST/SitePages/Service-Desk.aspx
+[Service Desk Training](https://microsoft.sharepoint.com/teams/EAST/SitePages/Service-Desk.aspx)
 
-ASA Wizard Instructional Video
-https://msit.microsoftstream.com/video/07529395-254d-4442-a897-732e6416f6ca?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
 
-ASA Wizard Reference Guide:
-https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics%2FTSGs%2FASA%20Wizard%20Reference%20Guide&pageId=190211&wikiVersion=GBwikiMaster
-Axis Now Training
-https://sharepoint.partners.extranet.microsoft.com/sites/pfetools/Training%20Library/AxisNow/Training%20-%20Using%20AxisNow.docx
+[ASA Wizard Instructional Video](https://msit.microsoftstream.com/video/07529395-254d-4442-a897-732e6416f6ca?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+
+[ASA Wizard Reference Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?pagePath=%2FData%20Movement%20POD%2FStream%20Analytics%2FTSGs%2FASA%20Wizard%20Reference%20Guide&pageId=190211&wikiVersion=GBwikiMaster)
+
+[Axis Now Training](https://sharepoint.partners.extranet.microsoft.com/sites/pfetools/Training%20Library/AxisNow/Training%20-%20Using%20AxisNow.docx)
 
 #Videos to Watch:
 
-SLA, FDR, CSAT
-https://msit.microsoftstream.com/video/3c1688d0-93bf-4cfd-bd53-2b137df9767f?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa
+[SLA, FDR, CSAT](https://msit.microsoftstream.com/video/3c1688d0-93bf-4cfd-bd53-2b137df9767f?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
 
-Engineer Success Series:
-https://msit.microsoftstream.com/channel/283a6521-5684-4415-ae36-29d694264e5f
+[Engineer Success Series](https://msit.microsoftstream.com/channel/283a6521-5684-4415-ae36-29d694264e5f)
+
 
 #Transfer Procedure
 Sender
