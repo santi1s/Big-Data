@@ -61,11 +61,11 @@ If you're new to Azure start here! Mirosoft has prepared several trainings known
 
 #Other Learning Resources
 We've identified several internal and external learning resources to help you understand how to set up and managed Azure Stream Analytics cloud jobs. We've broken them up into levels, L1 for novice up to L4 for advanced:
-[R1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
-[R2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
-[R3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
-[R4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
-[R5 - ASC & JARVIS Overview](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722) 
+[L1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
+[L2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
+[L3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
+[L4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+[L5 - ASC & JARVIS Overview](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722) 
 
 Microsoft gives its engineers access to a wide variety of learning resources if you want to extend your learnings. Some of the services offered are:
 [Microsoft Learn](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmicrosoft.com%2Flearn&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800167596&sdata=fYaj%2FKvixqfbxQlOrMnqkRaWp%2F0ZEKhEAWckksxSwSk%3D&reserved=0)
