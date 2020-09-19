@@ -8,6 +8,8 @@ When testing using the ASA Query Portal a user might see an error:
 2) Verify that the input serialization format matched the selected format in the input configuration and the ASA Query Test portal.
 3) Validate the input as properly formatted and there are no serialization errors.  
 
+[Overview Video](https://msit.microsoftstream.com/video/01aec2b3-0ef3-48b4-ba57-5c6f2502fd17?channelId=eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+
 _More details to come_
 
 # By Input Adapter 
