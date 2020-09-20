@@ -201,11 +201,14 @@ Every troubleshooter is driven by a workflow created in Geneva Automation. The w
 
 ##Step 4 - Publish your TSG Definition file
  - In the onboarding portal, go to step 25 and click on the link. It will open a new browser window. The new window will have a JSON file.
- - Go to the ADS definitions repo:
+ - Go to the [ADS definitions repo](https://msazure.visualstudio.com/One/_git/EngSys-ads-definitions?version=GBmaster&path=%2Fsrc%2FNoCodeDiagnostics%2FInsights%2FTroubleshooterSolutionJsons):
    - Fork a branch
    - Create or use an existing folder
    - Folder schema: TroubleshooterSolutionsJson/OwnershipId/TsgName.json
    - Put the definition file contents into the folder/file
+    **Note**: Make sure to add "/api" as a prefix to URL in generated definition file as it would result in error during build if not added.
+
+   ![api issue definition file.png](/.attachments/api%20issue%20definition%20file-8759ff66-8d15-425d-99b8-a1fd3c7a14aa.png)
    - Save/commit and create a PR
    - Approve your PR
 
