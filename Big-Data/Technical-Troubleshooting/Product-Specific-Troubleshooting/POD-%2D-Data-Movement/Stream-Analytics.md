@@ -64,7 +64,7 @@ We've identified several internal and external learning resources to help you un
 [L1 - MS Learning - Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/paths/implement-data-streaming-with-asa/)
 [L2 - Microsoft Edx Course - Processing Real-Time Data Streams in Azure](https://courses.edx.org/courses/course-v1:Microsoft+DAT223.2x+3T2019/course/)
 [L3 - O’reilly Video Course – Azure Master Class Analyze](https://learning.oreilly.com/videos/azure-masterclass-analyze/9781789340327/9781789340327-video2_1)
-[L4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://msit.microsoftstream.com/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa)
+[L4 - Internal Technical Training Videos – ASA Ready: ReBooted](https://teams.microsoft.com/l/channel/19%3A3ecc22a5325d4e698a7a41772467191f%40thread.skype/tab%3A%3Afc108114-f14f-47ac-aa6b-1ea5218a3449?groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 [L5 - ASC & JARVIS Overview](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722) 
 
 Microsoft gives its engineers access to a wide variety of learning resources if you want to extend your learnings. Some of the services offered are:
