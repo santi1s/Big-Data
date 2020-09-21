@@ -72,8 +72,6 @@ MSAAS Queue Details:
 https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 
 #IoT Hub
-Opened a collaboration task to IoT Hub and haven't gotten a response?  
-
-
+[Opened a collaboration task to IoT Hub and haven't gotten a response? Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
 
 #Table Store
