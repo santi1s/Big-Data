@@ -12,7 +12,7 @@ In this wiki you will find:
 2. [KQL files PR](#kql-files-pr)
 3. [Customer Ready Content](#customer-ready-content)
 4. [SEAM mapping process](#seam-mapping-process)
-5. [Reference to Notification Insight official documentation](#references) 
+5. [Reference to Notification Insight official documentation and Presentation](#references) 
 
 #Create an Insight in Elixir:
 1. Go to https://elixir.microsoft.com/home click in "**+ Add Insights**" and select Cosmos DB as support product.
@@ -121,4 +121,7 @@ https://azuresupportcenterdocs.azurewebsites.net/developers/insights/DevelopingI
 
 - For more details about SEAM mapping process:
 https://support-docs.azurewebsites.net/docs/articles/onboarding/diagnostics/sapMapping.html
+
+- Elixir/NoCode Insight presentation:
+https://msit.microsoftstream.com/video/a20fa1ff-0400-96f3-f5ae-f1eafcb39d80
 	
