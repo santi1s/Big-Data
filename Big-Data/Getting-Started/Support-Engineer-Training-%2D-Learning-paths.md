@@ -52,3 +52,16 @@ Then feel free to complete any Extras, Supplemental Learning, or any other Level
 | SQL Server Connectivity | | [Training and Accreditation]() |
 
 A = Azure
+
+
+# Data Movement / Supportability Technology Agnostic training
+
+Links to training which isn't directly related to a specific product or service we support, like soft skills, customer engagement, case management, etc. 
+These will be listed as a link titled 'Accreditation' or 'Accreditation and Training' in the table below.
+
+| Theme | Learning Path | Extras |
+|--|--|--|--|--|
+| Soft Skills  | [Soft Skill Training (by Bohan Zhan) ](https://web.microsoftstream.com/video/4ddebea7-95f9-43a3-9469-09cc2a80c17b) |  
+| Case Management | [LQR / Case Communication Best Practices (by Rob Beene, Whitney Henderson) ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297427/Case-Communication-Best-Practices) | 
+| | |
+|Theme|NAME of training (link of training) |--|
