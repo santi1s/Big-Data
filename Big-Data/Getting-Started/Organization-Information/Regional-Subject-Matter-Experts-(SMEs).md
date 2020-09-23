@@ -10,6 +10,9 @@
 | Azure Data Lake Analytics/Store     | Yvonne Zhang(yuzhang4)      | Seongeun Kim (sekim)          |   Yassine Mzoughi (mzyassin)                                                                       | Anjali Singh (ANJSIN)       | Whitney Henderson (whhender)      |   |
 | Azure Data Share                    | Bohan Zhan(bohzhan)    | Kohei Ichinohe (koichino)          | Pedro Martins, Yassine Mzoughi (mzyassin)                                                                         | Ashish Shukla (ASHISHSH)    |  Whitney Henderson (whhender)      |   |
 | Azure Stream Analytics              | Ruoyu Li(ruoli)        | Seongeun Kim (sekim)         | Talab Hussein (tahussei)                                                                         | Ashish Shukla (ASHISHSH)    |     Tiffany Fischer   |   |
+| SQL Server Integration Services | | | | | | |
+| Master Data Services | | | | | | |
+| Data Quality Services | | | | | | |
 | **Open Source**                     |                        |           |                                                                          |                             |        |   |
 | Azure Databricks                    | Chenghao Guo(chg)      | Masashi Maejima (mamaejim)          |    Osama Suleiman (ossuleim), Valentin Ursu (vaursu)                                                                      | Apurba Sinha (APSINHAR)     |  Arvind Ravish (arravish), Prashanth Madi (prmadi), Julie O'Brien (juobrie)      |   |
 | Azure HDInsight                     | Tracy Zhang(xinzhan)   | Keiichiro Wakasa (kewaka)          |  Daniela Dragan (dadrag), Mohd Freaj (mofreaj)                                                                        | Kumar Chandragupta (KUCHAN) |  Dan Shaver (dansha), Nicole Johnson (nicjohn), Sateesh Yele (syele)    |   |
