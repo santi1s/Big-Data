@@ -53,6 +53,11 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
 
+# Azure Machine Learning
+1. Is this using Azure Automation ML? 
+2. Scoring URI and key (if any)
+3. If not using Automation, include the swagger.json file 
+
 #Dev Ops
 When opening a collaboration to Azure Dev Ops, be sure to include the following in your request:
 
