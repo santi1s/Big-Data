@@ -4,4 +4,4 @@
 
 [![image.png](/.attachments/image-73398194-8e12-44da-9bf2-27424d60936c.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289633/How-to-Take-a-Case-or-Collab?anchor=taking-a-case)
 
-[![image.png](/.attachments/image-c44e9d1f-818d-480e-bfe2-9dd9f8b079ac.png)]()
+[![image.png](/.attachments/image-c44e9d1f-818d-480e-bfe2-9dd9f8b079ac.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/389990/Follow-the-Sun-(FTS)-Handoff-Process)
