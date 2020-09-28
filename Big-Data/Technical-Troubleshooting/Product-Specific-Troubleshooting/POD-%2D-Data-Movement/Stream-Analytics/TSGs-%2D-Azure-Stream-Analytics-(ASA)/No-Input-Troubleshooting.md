@@ -42,7 +42,7 @@ OTHER TSG:
 
 - Please check if the telemetry is actually arriving at the IoT Hub
 
-- Check if the telemetry provided us in the correct JSON format
+- Check if the telemetry provided us in the correct JSON format.  Check JARVIS or Diagnostic Logs for Deserialization errors or Configuration errors.
 
 - Navigate to the ASA Input IoTHub Configuration and test the connection.  If no connection, then check the following:
 
