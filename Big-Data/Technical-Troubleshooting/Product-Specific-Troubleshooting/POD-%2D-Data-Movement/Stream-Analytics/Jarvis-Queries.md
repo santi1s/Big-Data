@@ -11,7 +11,7 @@ COMMON JARVIS NAMESPACE
 |AzureNRTProd | Internal Product |
 | seaup | East US |
 
-
+Other Namespace available [here](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/1063/Namespace-information?anchor=service-to-fx-namespace-mapping)
 
 COMMON JARVIS TABLES
 
