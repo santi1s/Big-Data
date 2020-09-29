@@ -21,3 +21,6 @@ Connect-AzAccount
 Select Subscription: 
 Select-AzSubscription -SubscriptionId f4444448-9220-4556-8998-d55555555a5c
 
+$fullAcl="user:ca631573-5a14-40e1-819a-bacbc984dc5d:rwx,default:user:ca631573-5a14-40e1-819a-bacbc984dc5d:rwx"
+$newFullAcl = $fullAcl.Split(",")
+Set-AzDataLakeStoreItemAclEntry -AccountName "adlsgen1Name" -Path /root/folder -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
