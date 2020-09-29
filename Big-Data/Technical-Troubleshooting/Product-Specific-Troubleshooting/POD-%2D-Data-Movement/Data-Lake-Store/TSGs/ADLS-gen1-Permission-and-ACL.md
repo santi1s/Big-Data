@@ -8,7 +8,7 @@ https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-access-co
 ## To have users/group/SPN have access to all files and folders and newly create files and folders use follow this link (sample 3)
 https://docs.microsoft.com/en-us/powershell/module/az.datalakestore/set-azdatalakestoreitemaclentry?view=azps-4.7.0
 
-example : 
+**Example :** 
 To bypass policy when installing the new module:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
@@ -21,6 +21,3 @@ Connect-AzAccount
 Select Subscription: 
 Select-AzSubscription -SubscriptionId f4444448-9220-4556-8998-d55555555a5c
 
-$fullAcl="user:c4444443-5224-4221-822a-b555555555d:rwx,default:user:c4444443-5224-4221-822a-b555555555d:rwx"
-$newFullAcl = $fullAcl.Split(",")
-Set-AzDataLakeStoreItemAclEntry -AccountName "adlsgen1Name" -Path /root/folder -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
