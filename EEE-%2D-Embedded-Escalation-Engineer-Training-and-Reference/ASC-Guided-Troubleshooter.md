@@ -91,7 +91,7 @@ In case you can’t see the troubleshooter in ASC, you would need to request acc
 #References
 - Recordings - [Week 1](https://web.microsoftstream.com/video/1f25a1ff-0400-96d0-52e9-f1ea8a36e459), [Week 2](https://web.microsoftstream.com/video/1723a1ff-0400-96d1-5da1-f1ea8fb594e3), [Week 3](https://web.microsoftstream.com/video/b12ca1ff-0400-96d0-65d9-f1ea95352f9e)
 - Overall [documentation](https://microsoft.sharepoint.com/:w:/t/GuidedWorkflowV-Team/EXErVtUvuQhCmEWpqtFjmV0B6TLtKW-ExomN1v5Fzo6Sxg?e=TgVKGO)
-- Samples on steps, visio, and xls [here](https://microsofteur-my.sharepoint.com/:f:/g/personal/lahaddad_microsoft_com/Er7MlVRIXs5AkgyYAaK9boIBvnS6VIQVjEod5J5bkaSK1w?e=J2efsN)
+- Samples on [steps](https://microsoft.sharepoint.com/:t:/r/teams/ProjectCentennial/Shared%20Documents/TSGAuthor/TSGContent.txt?csf=1&web=1&e=qSdqB0), [visio](https://microsofteur-my.sharepoint.com/:u:/g/personal/lahaddad_microsoft_com/EQ3HJ2FzsINNk7piskw4j8QBu-XKEjvdAiBmSJ8Bf98MFg?e=naKtmd), and [xls](https://microsoft.sharepoint.com/:x:/r/teams/ProjectCentennial/_layouts/15/Doc.aspx?sourcedoc=%7B5BFB7555-A92C-41D4-88BA-98EB43A0D58E%7D&file=TSGCreatorTemplate.xlsx&action=default&mobileredirect=true)
 
 
 You can reach **JR Mayberry (rimayber)** from APAC or **Chad Mathiason (chadmat)** from North America if you need help.
