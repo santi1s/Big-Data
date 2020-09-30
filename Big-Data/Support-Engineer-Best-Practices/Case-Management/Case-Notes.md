@@ -109,6 +109,10 @@ Provide a full notes update when any one of these conditions is met:
 _These are just basic templates to help you structure your notes. If there is additional information that you need to provide, or a structure that works better for your team, please use that!_
 <br> </br>
 
+## Template: Action Plan ( CXD )
+https://internal.support.services.microsoft.com/en-us/help/4457149
+_(added 9/30/2020)_ 
+
 ## Template 1
 
 Issue
