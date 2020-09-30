@@ -15,6 +15,10 @@ If you would like to contribute, please follow up here:
 
 The following the best practices listed below and implemented rigorously, would help you grow in your technical journey and also make you feel satisfied when you resolve the customer issue.
 
+# Case Documentation (CXD Capability)
+https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Procedure
+_(updated 9/30/2020)_
+
 # Review Factors
 | ****Case Review factors** | **Description**** |
 |--|--|
