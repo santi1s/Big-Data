@@ -1,5 +1,5 @@
-# General Troubleshooting when you receive a ticket from a collaboration
-Get Preliminary information
+# General Troubleshooting when you receive a ticket from a collaboration or create a collaboration with another Team
+**Get Preliminary information** for ASA or **Provide Preliminary information** that the Collaborator may need for an initial investigation.
 
 #ASA
 
