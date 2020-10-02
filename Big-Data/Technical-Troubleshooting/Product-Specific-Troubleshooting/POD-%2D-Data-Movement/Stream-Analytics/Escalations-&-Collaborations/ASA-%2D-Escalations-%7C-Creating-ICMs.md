@@ -35,18 +35,40 @@ Select the corresponding Owner:
 - Livesite DRI : Quota increase
 - CSS Escalation : Bugs, Feature Requests, RCA 
 
-# How Do I Escalate the IcM to CSAT
-Support engineers will tag IcM incidents for SRs that is trending towards bad CSAT (Customer Survey Score) with **[CSAT Impacting]**. **Please provide regular and detailed updates for such incidents and ask to be included in email with customer for faster progress.** This is a new process that is being adopted all teams in Azure Data. 
-
-The customer should not be left waiting without knowing the progress. It happens  when Support Engineers transfer tickets to other teams ad context is lost during case transfer, or PG team is working on the fix that takes a long time. In these circumstances, a standard template should be used when customers are expected to wait: 
-
-- Describe the exact plans to be taken to address the issue  
-- Provide the current status of the case 
-- Promise to notify the customer as soon as we have more information or the issue is solved  
-
 # Can I include the PG in emails and conversations?
 Product group members should not be involved in customer communications unless:
+- The PG has requested direct involvement with the customer.
+- CSS (support engineers and SMEs) and Customer have exhausted all their options for determining a solution or next steps. We then reach out to the PG to ask if they would be willing to get involved. Only when the PG consents are they looped into communications.
+- It’s a Sev 1.
 
-1.)The PG has requested direct involvement with the customer.
-2.)CSS (support engineers and SMEs) and Customer have exhausted all their options for determining a solution or next steps. We then reach out to the PG to ask if they would be willing to get involved. Only when the PG consents are they looped into communications.
-3.)It’s a Sev 1.
+# How Do I Escalate the IcM to CSAT Impacting?
+CSS escalation process:
+
+1.	**Be proactive in noticing when customers are upset**. If a customer is upset and you think the case is leading towards a low-CSAT score, don't let the issue drag on. Escalate the ICM before the case is closed/resolved.
+2.	**Email @CSS Azure Stream Analytics SMEs and have an ASA SME review and approve the escalation**. Use this as an opportunity to discuss any ways in which the customer's current low sentiment could have been avoided.
+3.	If your regional CSS SME agrees that the case should be escalated, **add [CSAT Impacting] to the title of your service desk case and IcM** and provide additional details in the IcM as to the current customer sentiment, why they feel that way, and what could have been done differently to improve this in the future.
+The intent of the [CSAT Impacting] tag is to immediately identify and notify the feature team of a potential low CSAT score pending on a case and they need to engage with the customer directly to ensure the customer is ‘happier’ with the case resolution than they might have been.
+4.	Using the email template below, email the Engineering manager and PMs (**@Vignesh Chandramohan, @Emma An and @Sid Ramadoss**) please also include the **ICM owner**. Use your judgement, but along with tagging the IcM as CSAT Impacting and notifying the EM and PMs, if you feel the case situation is exceptionally bad, please do loop the EM and PM directly in with the customer email communications.
+
+**Email template for notifying the PG of a CSAT Impacting ICM:**
+ 
+<div style="border:thin solid #000000; margin:20px; background-color:#98ff98; ">
+Email subject: <IcM ID#> : A CSAT Impacting IcM has been assigned to your component area
+ 
+IcM Title:
+ICM ID # : <url link>
+SR ID # : <url link>
+CSS Engineer contact/s: <list of CSS contacts working on the case>
+ 
+<ASA EM> & <ASA PM>,
+ 
+This IcM has been flagged as a potential low CSAT impacting situation with a customer for your area. Your attention is needed to follow this case, ensure it is being handled quickly by the owner, and assist CSS in preventing customer dissatisfaction with the progression of their case. All CSAT Impacting cases will be reviewed during shiproom.
+ 
+You may be looped directly into customer email communications if you request it or if the CSS engineer believes the customer needs immediate additional attention from the PG.
+ 
+As the case is resolved, you may also need to provide additional insight to the customer for "by design" issues as you can provide context to the design considerations related to the issue that CSS may not know about. As a representative of the product group, you may need to empathize with the customer and work with them and give them additional information so that they understand their case resolution, or alternatively you may look at evolving the usability of your product area to meet the customer's requests.
+ 
+Thank you,
+<CSS Engr>
+
+</div>
