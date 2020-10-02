@@ -52,23 +52,23 @@ The intent of the [CSAT Impacting] tag is to immediately identify and notify the
 
 **Email template for notifying the PG of a CSAT Impacting ICM:**
  
-<div style="border:thin solid #000000; margin:20px; background-color:#98ff98; ">
+<div style="border:thin solid black;margin:10px;padding:10px;background-color:#98ff98;">
 Email subject: <IcM ID#> : A CSAT Impacting IcM has been assigned to your component area
- 
-IcM Title:
-ICM ID # : <url link>
-SR ID # : <url link>
+<br/><br/>
+IcM Title:<br/>
+ICM ID # : <url link><br/>
+SR ID # : <url link><br/>
 CSS Engineer contact/s: <list of CSS contacts working on the case>
- 
+ <br/><br/>
 <ASA EM> & <ASA PM>,
- 
+ <br/><br/>
 This IcM has been flagged as a potential low CSAT impacting situation with a customer for your area. Your attention is needed to follow this case, ensure it is being handled quickly by the owner, and assist CSS in preventing customer dissatisfaction with the progression of their case. All CSAT Impacting cases will be reviewed during shiproom.
- 
+ <br/><br/>
 You may be looped directly into customer email communications if you request it or if the CSS engineer believes the customer needs immediate additional attention from the PG.
- 
+ <br/><br/>
 As the case is resolved, you may also need to provide additional insight to the customer for "by design" issues as you can provide context to the design considerations related to the issue that CSS may not know about. As a representative of the product group, you may need to empathize with the customer and work with them and give them additional information so that they understand their case resolution, or alternatively you may look at evolving the usability of your product area to meet the customer's requests.
- 
-Thank you,
+ <br/><br/>
+Thank you,<br/>
 <CSS Engr>
-
+<br/><br/>
 </div>
