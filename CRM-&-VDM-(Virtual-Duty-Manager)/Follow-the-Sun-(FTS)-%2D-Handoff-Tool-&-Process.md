@@ -20,7 +20,9 @@ TBD - will be used for training / walk though
 TBD - will be used for training / walk though 
 
 # Other Hand off related guides and documents
-
+- [Case Hand Off Process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : overall guideline, to be updated with FTS 
+- [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes) : Still Critical for effective communication 
+- [Case Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289629/Case-Management)
 
 # FTS FAQ's
 **Can I use this to hand a case off within my own region?** 
