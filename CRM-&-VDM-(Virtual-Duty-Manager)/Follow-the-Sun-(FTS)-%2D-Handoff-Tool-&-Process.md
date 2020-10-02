@@ -11,9 +11,16 @@ Link to FTS Tool:
 https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
 
-# Guidelines for SE's using FTS
+# Guidelines/ Documentation for SE's using FTS
 
-# Guidelines for Leads using FTS
+TBD - will be used for training / walk though 
+
+# Guidelines / Documentation for Leads using FTS
+
+TBD - will be used for training / walk though 
+
+# Other Hand off related guides and documents
+
 
 # FTS FAQ's
 **Can I use this to hand a case off within my own region?** 
