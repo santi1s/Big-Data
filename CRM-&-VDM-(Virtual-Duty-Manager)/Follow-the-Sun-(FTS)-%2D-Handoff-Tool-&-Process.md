@@ -7,6 +7,8 @@ Follow the Sun (FTS) - Handoff Tool & Process
 
 [FTS (Follow the Sun) Overview.pptx](/.attachments/FTS%20(Follow%20the%20Sun)%20Overview-38f63ade-0548-439f-83e1-64c9e130436d.pptx)
 
+
+
 Link to FTS Tool: 
 https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
@@ -14,13 +16,14 @@ _(yes, same link for / tool for VDM)_
 # Guidelines/ Documentation for SE's using FTS
 
 TBD - will be used for training / walk though 
-
+Theme: 
+The tool changes, not the expectations 
 # Guidelines / Documentation for Leads using FTS
 
 TBD - will be used for training / walk though 
 
 # Other Hand off related guides and documents
-- [Case Hand Off Process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : overall guideline, to be updated with FTS 
+- [Case Hand Off Process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline, to be updated with FTS 
 - [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes) : Still Critical for effective communication 
 - [Case Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289629/Case-Management)
 
