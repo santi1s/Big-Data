@@ -20,11 +20,11 @@ How to Create an IcM -> Coming soon
 # **Troubleshooting**
 Support Engineer Troubleshooting Guide -> Coming soon
 
-# **ADC Daily Case Triage Meeting**
-[M/F 12pm CST](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVkMDUwZmItM2I0MC00MDBhLWI4ODYtNmM1MWNhYWI4YWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d) Organizer Tiffany Fischer
+# **ADC Daily Case Triage/Training Meeting**
+[M-F 12pm CST](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVkMDUwZmItM2I0MC00MDBhLWI4ODYtNmM1MWNhYWI4YWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d) Organizer Tiffany Fischer
 
 # **Teams Channels to Join**
-1) [Project Babylon CSS PG Collaboration](https://teams.microsoft.com/l/channel/19%3a4af7e60614bb4c3aa857cd69254c4b59%40thread.skype/CSS%2520Support%2520Collaboration?groupId=53d47d51-bc91-46e7-900c-84f2f7f00b44&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+1) [Project Babylon CSS PG Collaboration](https://teams.microsoft.com/l/team/19%3a9a0e973781f54c98a5fcc222ffa00ee3%40thread.tacv2/conversations?groupId=1943848d-4f61-482c-889e-c64a82245fb2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 2) Optional [Friends of Project Babylon](https://teams.microsoft.com/l/team/19%3a55a61c23d3074b57a080dd4c44c9dcf5%40thread.tacv2/conversations?groupId=3cd47d55-5a9c-49c8-a74c-c9962366b752&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47 )
 
