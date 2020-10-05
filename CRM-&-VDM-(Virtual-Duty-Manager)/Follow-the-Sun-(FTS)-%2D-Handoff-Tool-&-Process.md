@@ -5,6 +5,8 @@ Follow the Sun (FTS) - Handoff Tool & Process
 
 # Overview of FTS
 
+[![image.png](/.attachments/image-3889c768-e052-4ad8-b7bf-a13fbc508ff4.png)](/.attachments/FTS%20(Follow%20the%20Sun)%20Overview-38f63ade-0548-439f-83e1-64c9e130436d.pptx)
+
 Data Movement's [FTS (Follow the Sun) Overview.pptx](/.attachments/FTS%20(Follow%20the%20Sun)%20Overview-38f63ade-0548-439f-83e1-64c9e130436d.pptx)
 
 Background of CRMGlobal FTS as a platform: [CRMGlobal Platform FTS Focus.pptx](/.attachments/CRMGlobal%20Platform%20FTS%20Focus-7d6d8575-4d65-4fd3-8cdc-087c6592047d.pptx) Clint Warriner 4/2/2020
