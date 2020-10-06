@@ -24,7 +24,8 @@ Theme:
 The tool changes, not the expectations 
 # Guidelines / Documentation for Leads using FTS
 
-TBD - will be used for training / walk though 
+**DRAFT for beta testers on 10/6/2020:**    [DRAFT - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-f3d79854-e7c2-42fd-90f2-44a78a65829e.docx)
+ to  be used for training / walk though and validation during beta testing 
 
 # Other Hand off related guides and documents
 - [Case Hand Off Process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline, to be updated with FTS 
