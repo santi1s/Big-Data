@@ -18,8 +18,7 @@ https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
 
 # Guidelines/ Documentation for SE's using FTS
-
-TBD - will be used for training / walk though 
+**DRAFT for beta testers on 10/6/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-a2b0a474-3144-4895-bb07-1f8f5e933941.docx)
 Theme: 
 The tool changes, not the expectations 
 # Guidelines / Documentation for Leads using FTS
