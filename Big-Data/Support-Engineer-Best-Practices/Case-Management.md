@@ -86,7 +86,7 @@ Additionally its very important that you review the logs collected and ensure th
 # ICM Severity
 Finally, creating the ICM with correct Severity is very critical to have  great engineering engagement.  I would urge you to follow the CRI  Severity flow  to identify the correct severity.  The important point is that understanding the customer issue and how its impacting their business would help you decide the correct severity and would help you justify the same to the engineering team.   “Please ensure you document the business impact in CRI by filling up the “Business Justification” field.
 
-#Case Closure & LQR
+#Case Closure & LQR (CXD Capability)
 - [Case Closure and Last Quality Response (LQR)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388047/Case-Closure-and-Last-Quality-Response-(LQR)) **(CXD Capability)**
 
 
