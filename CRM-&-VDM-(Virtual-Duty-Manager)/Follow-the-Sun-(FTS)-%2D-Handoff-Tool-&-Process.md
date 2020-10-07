@@ -1,4 +1,4 @@
-Follow the Sun (FTS) - Handoff Tool & Process
+This is Data Movements FTS Portal, hosted on the best practices wiki
 [[_TOC_]]
 
 
@@ -31,9 +31,9 @@ Theme:  _**The tool changes, not the expectations**_
 
 
 # Other Hand off related guides and documents
-- [Case Hand Off Process](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline, to be updated with FTS 
-- [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes) : Still Critical for effective communication 
-- [Case Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289629/Case-Management)
+- [Case Hand Off Process / Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline and expectations, to be updated with FTS 
+- [Case Notes Expectations](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes) : Still Critical for effective communication 
+- [Case Management Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289629/Case-Management) : Case Management on what can and can't be handed off- our goal is to take care of the customer while reducing hand offs. 
 
 
 
@@ -41,6 +41,9 @@ Theme:  _**The tool changes, not the expectations**_
 **Can I use this to hand a case off within my own region?** 
 Yes. 
 
+**I don't understand FTS, what to do, when, or how. What do I do?** 
+Thanks for asking. start here, please consume this content. 
+Then ask your peers, and if busy, your leads and/or M1's for help.   if you don't know, ask. 
 
 **How do I get access to FTS** 
 if you have/use VDM then you already have access to it. 
