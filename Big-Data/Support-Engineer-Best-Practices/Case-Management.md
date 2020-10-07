@@ -88,25 +88,26 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 #Case Closure
 
-[Case Closure Playbook](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Playbook)
+- [Case Closure Playbook](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Playbook)
 
 #Customer Expectations Management 
 
-[Customer Expectation Management Playbook](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
+- [Customer Expectation Management Playbook](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
 
-#Case Closure & Case Notes
+#Case Notes, Case Closure & LQR
 
-[Case Closure Playbook](/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Closure-and-Last-Quality-Response-\(LQR\)-)
 
-[Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
-#LQR
+- [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
 
-[Last Quality Response - LQR](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289526/Last-Quality-Response-(LQR))
+- [Case Closure and Last Quality Response (LQR)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388047/Case-Closure-and-Last-Quality-Response-(LQR)) 
+
+
+- [Last Quality Response - LQR](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289526/Last-Quality-Response-(LQR))
 
 ##What you SHOULD NOT Tell Your Customer
 ##What you CAN Tell Your Customer
 
-# Take aways
+# Take Aways
 1.	Ensure the customer problem is understood clearly
 2.	Scope the issue and also ensure multiple issues are not handled in single ICM or Support Tickets.
 3.	Document your Analysis/logs collected to the ICM.
