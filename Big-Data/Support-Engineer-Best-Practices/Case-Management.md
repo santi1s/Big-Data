@@ -16,8 +16,8 @@ If you would like to contribute, please follow up here:
 The following the best practices listed below and implemented rigorously, would help you grow in your technical journey and also make you feel satisfied when you resolve the customer issue.
 
 # Case Documentation (CXD Capability)
-https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Procedure
-_(updated 9/30/2020)_
+
+
 
 # Review Factors
 | ****Case Review factors** | **Description**** |
@@ -97,8 +97,8 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 - [Customer Expectation Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
 
-#Case Notes
-
+#Case Documentation / Notes
+- [Case Documentation (CXD Capability)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Procedure)
 - [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
 - [Case Documentation](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Playbook)
 
