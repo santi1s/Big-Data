@@ -100,7 +100,7 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 #Case Documentation / Notes
 - [Case Documentation (CXD Capability)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Procedure)
 - [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
-- [Case Documentation](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388060/Case-Documentation-Playbook)
+
 
 
 ##What you SHOULD NOT Tell Your Customer
