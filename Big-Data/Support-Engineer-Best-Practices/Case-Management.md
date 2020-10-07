@@ -87,15 +87,15 @@ Additionally its very important that you review the logs collected and ensure th
 Finally, creating the ICM with correct Severity is very critical to have  great engineering engagement.  I would urge you to follow the CRI  Severity flow  to identify the correct severity.  The important point is that understanding the customer issue and how its impacting their business would help you decide the correct severity and would help you justify the same to the engineering team.   “Please ensure you document the business impact in CRI by filling up the “Business Justification” field.
 
 #Case Closure & LQR
-- [Case Closure and Last Quality Response (LQR)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388047/Case-Closure-and-Last-Quality-Response-(LQR)) 
+- [Case Closure and Last Quality Response (LQR)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388047/Case-Closure-and-Last-Quality-Response-(LQR)) **(CXD Capability)**
 
 
 - [Last Quality Response - LQR](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289526/Last-Quality-Response-(LQR))
 
 
-#Customer Expectations Management 
+#Customer Expectations Management (CXD Capability)
 
-- [Customer Expectation Management Playbook](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
+- [Customer Expectation Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388045/Customer-Expectations-Management-Playbook)
 
 #Case Notes
 
