@@ -96,7 +96,7 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 #Case Closure & Case Notes
 
-[Case Closure Playbook](/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Closure-Playbook)
+[Case Closure Playbook](/Big-Data/Support-Engineer-Best-Practices/Case-Management/Case-Closure-and-Last-Quality-Response-\(LQR\)-)
 
 [Case Notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes)
 #LQR
