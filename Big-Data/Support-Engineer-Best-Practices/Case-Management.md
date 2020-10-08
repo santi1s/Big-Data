@@ -94,7 +94,7 @@ Finally, creating the ICM with correct Severity is very critical to have  great 
 
 - [Case Closure and Last Quality Response (LQR)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/388047/Case-Closure-and-Last-Quality-Response-(LQR)) 
 
-Whats DDX? Evolving from CXD, reduce complexity and variety of ways we do things to help us delight customers while reducing customer effort. 
+Whats DDX? Evolving from CXD, reduce complexity and variety of ways we do things to help us delight customers while reducing customer effort. Find our more from the CSS [DDX CSS Portal](https://microsofteur.sharepoint.com/teams/CXD)
 
 #Case Documentation / Notes
 
