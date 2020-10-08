@@ -12,9 +12,12 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
-<a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a>  
 
-# Case Management Training  
+# Culture / Case Management Training  
+- <a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a> 
+- [DDX for Engineers](https://microsofteur.sharepoint.com/teams/CXD/SitePages/CXD-for-Engineers.aspx) which includes:  Intro, Procedural Support Engineer Trainings, and Customer Expected Behaviors Learning Path
+
+ 
 
 # Data Movement Technical Training
 
@@ -23,11 +26,11 @@ These will be listed as a link titled 'Accreditation' or 'Accreditation and Trai
 
 Otherwise, the levels correspond to these levels of understanding:
 
-L100 - Basic Product Knowledge/Basic Troubleshooting Understanding
-L200 - Full product knowledge/Full Support Troubleshooting Knowledge
-L300 - Deep/Expert product knowledge
+**L100** - Basic Product Knowledge/Basic Troubleshooting Understanding
+**L200** - Full product knowledge/Full Support Troubleshooting Knowledge
+**L300** - Deep/Expert product knowledge
 
-Extras - Specific Tooling/Other training Guides
+**Extras** - Specific Tooling/Other training Guides
 
 ## Self-Training Schedule
 
@@ -37,7 +40,7 @@ Then complete L200 Level training for your "focus products". Then complete L300 
 Then feel free to complete any Extras, Supplemental Learning, or any other Level skills for your non-focus products.
 
 
-|  | Learning Path &  L100 | L200 | L300 | Extras |
+|Product  | Learning Path &  L100 | **L200** | L300 | Extras |
 |--|--|--|--|--|
 | Data Catalog (ADC) |  |  |  |  |
 | Data Factory (ADF) |  | [Training and Accreditation L200 Sections](https://ready.azurewebsites.net/csslearning/3298) | [Training and Accreditation L300 Section](https://ready.azurewebsites.net/csslearning/3298) |  |
