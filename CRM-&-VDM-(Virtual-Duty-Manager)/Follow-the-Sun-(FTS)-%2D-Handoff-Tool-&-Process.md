@@ -19,7 +19,7 @@ _(yes, same link for / tool for VDM)_
  
 
 # Guidelines/ Documentation for SE's using FTS
-**DRAFT for beta testers on 10/6/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-a2b0a474-3144-4895-bb07-1f8f5e933941.docx)
+**DRAFT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-f3c19544-06b4-4a17-99ca-b898c79fc861.docx)
 
 
 Theme:  _**The tool changes, not the expectations**_ 
@@ -45,7 +45,7 @@ Yes.
 Thanks for asking. start here, please consume this content. 
 Then ask your peers, and if busy, your leads and/or M1's for help.   if you don't know, ask. 
 
-**How do I get access to FTS** 
+**How do I get access to FTS?** 
 if you have/use VDM then you already have access to it. 
 Don't have VDM? engage the Case Assignment Leads to request one.
 
@@ -57,5 +57,8 @@ The names are updated in the WW Data Movement Teams -> VDM channel file called [
 Enagement can be via Chat in the VDM channel or make a task in the VDM channel top bar called **_**Task-Issues**_**. in the Lead Requests:, click + Add task
 
 
-**Moving to FTS seems to easy. what's the most important think I need to do?**
+**Moving to FTS seems too easy. What's the most important think I need to do?**
 Case notes / Documentation becomes very important as well case management- if your handing a case inter region or between regions and the case doesn't meet the hand off criteria the hand off notes MUST make it very clear why. 
+
+**Can I skip a region using FTS?**
+Yes! See the "Guide for SEs" document above for more information.
