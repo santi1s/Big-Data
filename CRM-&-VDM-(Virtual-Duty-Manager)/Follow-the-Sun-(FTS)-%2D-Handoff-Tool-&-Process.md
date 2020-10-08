@@ -19,8 +19,7 @@ _(yes, same link for / tool for VDM)_
  
 
 # Guidelines/ Documentation for SE's using FTS
-**DRAFT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-f3c19544-06b4-4a17-99ca-b898c79fc861.docx)
-
+**DRAFT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-279bf5e0-9727-465b-b82a-f0e1911a863e.docx)
 
 Theme:  _**The tool changes, not the expectations**_ 
 # Guidelines / Documentation for Leads using FTS
