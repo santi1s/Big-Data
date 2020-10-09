@@ -36,11 +36,6 @@ Theme:  _**The tool changes, not the expectations**_
 
 # Guidelines/ Documentation for Assignment Leads using FTS
 
-
-[FTS Guide for Assignment Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx) -  **updated 10/8/2020**
-
-# Guidelines / Documentation for Team Leads using FTS
-
 <center>
 
 **Training/Overview Video for Assignment Leads**
@@ -51,7 +46,9 @@ Theme:  _**The tool changes, not the expectations**_
 
 </center>
 
+# Guidelines / Documentation for Team Leads using FTS
 
+[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
 
 # Other Hand off related guides and documents
 - [Case Hand Off Process / Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline and expectations, to be updated with FTS 
