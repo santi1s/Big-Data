@@ -34,7 +34,7 @@ _(yes, same link for / tool for VDM)_
 
 Theme:  _**The tool changes, not the expectations**_ 
 
-# Guidelines/ Documentation for SE's using FTS
+# Guidelines/ Documentation for Assignment Leads using FTS
 
 
 [FTS Guide for Assignment Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx) -  **updated 10/8/2020**
