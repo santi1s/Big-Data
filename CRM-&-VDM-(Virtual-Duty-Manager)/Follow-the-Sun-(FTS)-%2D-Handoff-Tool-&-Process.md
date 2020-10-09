@@ -47,11 +47,12 @@ _(yes, same link for / tool for VDM)_
 
 Theme:  _**The tool changes, not the expectations**_ 
 
-# Guidelines for Assignment Lead's using FTS
+# Guidelines for Assignment Leads using FTS
 
 **DRAFT DOCUMENT for Assignment Leads:**  Coming soon!
 <center>
 
+[List of Assignment Leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=Pwnivy)
 ## Overview Training Video for Assignment Leads
 
 :::video
