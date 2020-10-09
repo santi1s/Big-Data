@@ -1,7 +1,7 @@
-This is Data Movements FTS Portal, hosted on the best practices wiki
+This is **Data Movement** FTS Portal, hosted on the best practices wiki
+![aptira_follow_sun_support_02.png](/.attachments/aptira_follow_sun_support_02-23b2b74b-b8f2-4c5d-95b0-6ff8f6cce60b.png)
+
 [[_TOC_]]
-
-
 
 # Overview of FTS
 
