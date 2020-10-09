@@ -45,9 +45,12 @@ Theme:  _**The tool changes, not the expectations**_
 
 **Training/Overview Video for Assignment Leads**
 
+:::video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/e868a1ff-0400-9fb2-b2a2-f1eb0a46be94?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
+
 </center>
 
-[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx)
 
 
 # Other Hand off related guides and documents
