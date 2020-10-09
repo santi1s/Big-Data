@@ -49,7 +49,7 @@ Theme:  _**The tool changes, not the expectations**_
 
 # Guidelines for Assignment Lead's using FTS
 
-[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
+**DRAFT DOCUMENT for Leads updated 10/8/2020:**  [DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
 
 <center>
 
