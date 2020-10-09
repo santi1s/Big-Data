@@ -18,11 +18,11 @@ https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
 ![image.png](/.attachments/image-8f3dd01c-59bf-42fa-999e-96bc1a65b1c6.png) > ![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) > ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) > ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
 
-# Guidelines/ Documentation for Support Engineer's using FTS
+# Guidelines for Support Engineer's using FTS
 
+**DRAFT DOCUMENT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
 <center>
-
-**Training/Overview Video for Support Engineers**
+# Overview Video for Support Engineers using FTS
 :::video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/54f1a3ff-0400-9fb2-3a4f-f1eb0a397572?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
@@ -30,15 +30,14 @@ _(yes, same link for / tool for VDM)_
 
 <br>
 
-**DRAFT DOCUMENT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
 
 Theme:  _**The tool changes, not the expectations**_ 
 
-# Guidelines/ Documentation for Assignment Leads using FTS
-
+# Guidelines for Assignment Leads using FTS
+[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
 <center>
 
-**Training/Overview Video for Assignment Leads**
+# Overview Video for Assignment Leads
 
 :::video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/e868a1ff-0400-9fb2-b2a2-f1eb0a46be94?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
@@ -47,7 +46,7 @@ Theme:  _**The tool changes, not the expectations**_
 </center>
 
 
-[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
+
 
 # Other Hand off related guides and documents
 - [Case Hand Off Process / Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline and expectations, to be updated with FTS 
