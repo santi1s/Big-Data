@@ -30,7 +30,7 @@ _(yes, same link for / tool for VDM)_
 
 # Guidelines for Support Engineer's using FTS
 
-**Document for Support Engineers:** [DRAFT V2 - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20V2%20-%20FTS%20Guide%20for%20Support%20Engineers-0b78d175-beb0-406e-92c0-c9cabeb4fd7b.docx)
+**Document for Support Engineers:** [DRAFT V2 - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20V2%20-%20FTS%20Guide%20for%20Support%20Engineers-582e9581-70b8-492c-8e63-8aee6497a1a3.docx)
 
 
 ## Overview Training Video for Support Engineer's using FTS
