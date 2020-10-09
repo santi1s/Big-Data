@@ -25,8 +25,8 @@ Theme:  _**The tool changes, not the expectations**_
 # Guidelines / Documentation for Leads using FTS
 
 
-**DRAFT for beta testers on 10/6/2020:**    [DRAFT V2 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V2%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-4fa22776-f145-4b7b-be5d-a867f52e4dcc.docx)
- to  be used for training / walk though and validation during beta testing 
+[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx) -  **updated 10/8/2020**
+- used for training / walk though and validation 
 
 
 # Other Hand off related guides and documents
@@ -38,7 +38,7 @@ Theme:  _**The tool changes, not the expectations**_
 
 # FTS FAQ's
 **Can I use this to hand a case off within my own region?** 
-Yes. 
+Yes.  _Hint: Why? Follow-up Region_
 
 **I don't understand FTS, what to do, when, or how. What do I do?** 
 Thanks for asking. start here, please consume this content. 
