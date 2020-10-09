@@ -18,6 +18,16 @@ https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
 ![image.png](/.attachments/image-8f3dd01c-59bf-42fa-999e-96bc1a65b1c6.png) > ![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) > ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) > ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
 
+# FTS Go Live plan: 
+
+| Date| Action  | Purpose |
+|--|--|--|
+| 10/5 - 10/9/2020 | Awareness, test, document, and host walk thru | Plan, Prepare, and Share
+| 10/13/2020 | Go Live on FTS for hand offs | Execute required to use FTS for hand offs going forward (continue to attend warm hand offs) 
+| 10/16/2020 | Team Check in - a few days Live | Status/ Questions / Feedback outside hand off calls
+| 10/21/2020 | Team Check in - week 1 | Status / Questions / Feedback outside hand off calls
+| 10/27/2020 | Team Check in - week 2 | Status / Questions, attending warm hand offs no optional, engineers empowered to preform all stages of the transfer workflows
+
 # Guidelines for Support Engineer's using FTS
 
 **DRAFT DOCUMENT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
@@ -54,7 +64,8 @@ Theme:  _**The tool changes, not the expectations**_
 
 
 
-# Other Hand off related guides and documents
+# Other Hand Off related Guides & Documents
+
 - [Case Hand Off Process / Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline and expectations, to be updated with FTS 
 - [Case Notes Expectations](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289631/Case-Notes) : Still Critical for effective communication 
 - [Case Management Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289629/Case-Management) : Case Management on what can and can't be handed off- our goal is to take care of the customer while reducing hand offs. 
