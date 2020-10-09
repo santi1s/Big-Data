@@ -32,7 +32,6 @@ _(yes, same link for / tool for VDM)_
 
 **DRAFT DOCUMENT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
 
-<center>
 
 ## Overview Training Video for Support Engineer's using FTS
 
@@ -40,7 +39,6 @@ _(yes, same link for / tool for VDM)_
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/54f1a3ff-0400-9fb2-3a4f-f1eb0a397572?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-</center>
 
 <br>
 
@@ -50,7 +48,7 @@ Theme:  _**The tool changes, not the expectations**_
 # Guidelines for Assignment Leads using FTS
 
 **DRAFT DOCUMENT for Assignment Leads:**  Coming soon!
-<center>
+
 
 [List of Assignment Leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=Pwnivy)
 ## Overview Training Video for Assignment Leads
@@ -59,14 +57,11 @@ Theme:  _**The tool changes, not the expectations**_
 <iframe  width="640" height="360" src="https://msit.microsoftstream.com/embed/video/e868a1ff-0400-9fb2-b2a2-f1eb0a46be94?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-</center>
-
 
 # Guidelines for Team Leads using FTS
 
 **DRAFT DOCUMENT for Leads updated 10/8/2020:**  [DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
 
-<center>
 
 ## Overview Training Video for Team Leads
 
@@ -74,7 +69,6 @@ Theme:  _**The tool changes, not the expectations**_
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/f145a1ff-0400-9fb2-00e5-f1eb0a38a1dc?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-</center>
 
 # Other Hand Off related Guides & Documents
 
