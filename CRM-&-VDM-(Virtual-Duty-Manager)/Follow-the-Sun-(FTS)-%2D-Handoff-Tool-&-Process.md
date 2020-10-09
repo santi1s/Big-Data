@@ -60,15 +60,10 @@ Theme:  _**The tool changes, not the expectations**_
 :::
 
 </center>
-<center>
+
+[Additional Overview Video walk thru for Leads / Managers in Data Movement](https://msit.microsoftstream.com/embed/video/f145a1ff-0400-9fb2-00e5-f1eb0a38a1dc?autoplay=false&amp;showinfo=true)
 
 
-# Overview Video for Leads Managers
-
-:::video
-<iframe width="160" height="90" src="https://msit.microsoftstream.com/embed/video/f145a1ff-0400-9fb2-00e5-f1eb0a38a1dc?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
-:::
-</center>
 # Other Hand Off related Guides & Documents
 
 - [Case Hand Off Process / Expectations ](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process) : Overall guideline and expectations, to be updated with FTS 
