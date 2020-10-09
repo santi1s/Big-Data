@@ -22,7 +22,7 @@ _(yes, same link for / tool for VDM)_
 
 <center>
 
-**Training/Overview Video**
+**Training/Overview Video for Support Engineers**
 :::video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/54f1a3ff-0400-9fb2-3a4f-f1eb0a397572?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
@@ -33,11 +33,21 @@ _(yes, same link for / tool for VDM)_
 **DRAFT DOCUMENT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
 
 Theme:  _**The tool changes, not the expectations**_ 
-# Guidelines / Documentation for Leads using FTS
+
+# Guidelines/ Documentation for SE's using FTS
 
 
-[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx) -  **updated 10/8/2020**
-- used for training / walk though and validation 
+[FTS Guide for Assignment Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx) -  **updated 10/8/2020**
+
+# Guidelines / Documentation for Team Leads using FTS
+
+<center>
+
+**Training/Overview Video for Assignment Leads**
+
+</center>
+
+[DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-8d1e63c2-0858-4cea-8fcc-3086b53d2088.docx)
 
 
 # Other Hand off related guides and documents
