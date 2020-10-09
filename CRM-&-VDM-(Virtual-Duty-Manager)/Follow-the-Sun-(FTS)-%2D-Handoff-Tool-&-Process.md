@@ -16,7 +16,7 @@ This is Data Movements FTS Portal, hosted on the best practices wiki
 **Link to FTS Tool:** 
 https://crmglobal.corp.microsoft.com/GLBCRMSUP/
 _(yes, same link for / tool for VDM)_ 
-![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) > ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) > ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
+![image.png](/.attachments/image-8f3dd01c-59bf-42fa-999e-96bc1a65b1c6.png) > ![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) > ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) > ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
 
 # Guidelines/ Documentation for SE's using FTS
 **DRAFT for support engineers starting 10/8/2020:** [DRAFT - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Support%20Engineers-8c48e138-4520-403a-8844-8262589dc6b8.docx)
