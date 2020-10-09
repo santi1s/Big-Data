@@ -47,7 +47,7 @@ Theme:  _**The tool changes, not the expectations**_
 
 # Guidelines for Assignment Leads using FTS
 
-**DRAFT DOCUMENT for Assignment Leads:**  Coming soon!
+**DRAFT DOCUMENT for Assignment Leads:**  [DRAFT - FTS Guide for Assignment Leads.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Assignment%20Leads-35fa3139-b596-41bc-9fc8-db5c0b776d51.docx)
 
 
 [List of Assignment Leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=Pwnivy)
