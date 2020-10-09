@@ -56,7 +56,7 @@ Theme:  _**The tool changes, not the expectations**_
 # Overview Video for Assignment Leads
 
 :::video
-<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/e868a1ff-0400-9fb2-b2a2-f1eb0a46be94?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://msit.microsoftstream.com/embed/video/e868a1ff-0400-9fb2-b2a2-f1eb0a46be94?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
 </center>
