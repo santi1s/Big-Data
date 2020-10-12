@@ -31,3 +31,7 @@ We leave this to the judgment of the leads who manage each handover call.
 Whenever you are comfortable with the quality of handovers at your handover call, please empower your engineers to complete the FTS transfer process themselves.
 
 It is suggested to do daily reviews for at least two weeks before phasing out lead reviews. However, use discretion for your own regions and handover calls.
+
+# Leads Teams Channels
+
+[WW Data Movement Leads Channel](https://teams.microsoft.com/l/channel/19%3a97376d30de2b400ca19641af9615b796%40thread.tacv2/FTS%2520Leads%2520Chat?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
