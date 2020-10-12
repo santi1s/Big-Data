@@ -115,13 +115,57 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 **Note:** 'Handover Call' will **always** be the next handover call, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
 ![image.png](/.attachments/image-e63a9739-7b5f-4b10-8ae2-fac7923da27e.png)
 
+4. If the 'Next Stage' button is not green, select "Save"
+![image.png](/.attachments/image-c65a1bc4-6ed7-4ac5-8667-7aa98214426a.png)
+
+5. Select 'Next Stage' to proceed.
+![image.png](/.attachments/image-030cdba1-8109-43c0-b97b-f81a861f212a.png)
+
 ## Customer Validation
+1. Select "Yes" or "No" under 'Customer Available' feild.
+![image.png](/.attachments/image-39012c42-9716-431b-8d48-b7e11cf15d74.png)
+
+2. Type will be automatically filled out based on the type of FTS request this was: [Automatic](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=automatic-handover-request) or [Manual](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=manual-handover-request)
+![image.png](/.attachments/image-6278cfd7-b61f-4b91-9b3f-0b43a456e31b.png)
+
+3. Select 'Next Stage' to proceed.
+![image.png](/.attachments/image-9694970b-04a5-4f95-b7c8-75402ddc00d1.png)
 
 ## Customer Call Back
 
+1. Under 'Call Back Required' choose "Yes" if the customer has requested a call back time, and "No" if they have not.
+![image.png](/.attachments/image-e5e462b2-ea8f-4b41-a2ac-e23448fb6c28.png)
+
+2. If 'Call Back Required' was "Yes" also fill out the "Call Back Time" field below.
+**Note: This time is in UTC time.**
+![image.png](/.attachments/image-9ad09d79-fa6d-4639-b060-17191aa4529d.png)
+
+3. Fill out 'Action On' with one of the three available options, depending on whose action is next for the case.
+![image.png](/.attachments/image-402805c0-75f7-4582-8a74-4bc1531bb9cc.png)
+
+4. Select 'Next Stage' to proceed.
+![image.png](/.attachments/image-be84f042-7d6e-40e8-973d-00a000f3addf.png)
+
 ## Wait Until
 
+1. The Wait Until Section should be auto-populated with the next handoff call's information.
+![image.png](/.attachments/image-ea2da8da-588d-4700-95f4-05d1bdebf180.png)
+
+2. Select 'Next Stage' to proceed.
+![image.png](/.attachments/image-449fa6f0-1348-462e-ad5f-19950c2f0793.png)
+
 ## Ensure Summary
+1. Ensure summary is the space for your transfer justification notes. They can be entered in the Ensure Summary field or in the summary field below.
+_(If you have already entered summary notes, just click the field next to 'Ensure Summary' then proceed.)_
+![image.png](/.attachments/image-ee04983f-536c-4c41-a6cf-d550d1065482.png)
+
+2. Please fill out your summary using the [notes template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) below.
+The summary notes should explain why the case needs to be transferred and what urgent next steps are, to help the transferring engineer make an accurate decision.
+**Note:** These are different than your handoff case notes, which should still be in your case, but can contain similar information.
+![image.png](/.attachments/image-cfa03376-c76d-4123-9ca7-f63cb9bb267e.png)
+
+3. Select "Next Stage" to proceed.
+![image.png](/.attachments/image-17793f07-e63c-4670-ae7a-b44633d07e34.png)
 
 ### Notes Template
 
@@ -135,10 +179,18 @@ Next Steps for Case
 \=============================
 <List or summary of the next steps that need to be taken on the case.
 
-
 ## Complete Transfer
 
 ### Select Resource
+
+1. Under “Select Resource” there are three options to choose a resource in the next region.
+
+a. **Automatic** – The option you will most often use. Automatic uses VDM to choose the next engineer available in the region you are transferring to. It favors engineers who have owned the case in the past.
+b. **Manual** – allows you to manually choose an engineer to assign to in the next region.
+c. **Skip** – Allows the transfer to skip the current region and move on to the next. For more information, see the [“How to Skip a Region” section.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions)
+
+ 
+
 
 ### All Done?
 
