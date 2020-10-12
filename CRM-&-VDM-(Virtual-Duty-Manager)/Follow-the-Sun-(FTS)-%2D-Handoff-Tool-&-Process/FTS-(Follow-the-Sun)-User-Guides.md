@@ -230,6 +230,7 @@ You can use FTS to perform this transfer.
 4. After you have selected “All Done” and finished the request, the ‘Next Transfer’ will pop up, showing a transfer request to the next handover call. Fill out that transfer request up through to “Ensure Summary” with a copy of the transfer notes from the previous request.
  ![image.png](/.attachments/image-ae1699ed-8c6f-482a-8abf-9e4ec0dae642.png)
 
+# Delete or Deactivate FTS Request
 
 # Case Assignment Leads
 
