@@ -214,6 +214,23 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 
 # How to Skip Regions
 
+Let us say, for example, you have a case in EMEA that needs to skip AMER and go straight to APAC.
+You can use FTS to perform this transfer.
+
+1.  You fill out your FTS transfer as normal, and in the “Transfer To” section, you pick **the next region** Choose the next handover call and the next region, as the case will still need to pass through that region to get to the region you need. So for our example, you would still choose “Americas” as the next region, and the EMEA->AMER handover call as the next handover call.
+ ![image.png](/.attachments/image-e0471cbc-d03f-40fb-baa1-60b48f0ed6a6.png)
+
+2. Fill out the rest of the transfer as normal, and in the summary notes specify that the case needs to skip a region and why.
+ ![image.png](/.attachments/image-f5c13872-1f29-43f7-93d4-7de8187018e6.png)
+
+3. Then in the “Select Resource” Section the Lead will see that the case needs to skip the region and choose “Skip”. The transfer will then skip the region and be moved to the next, where the leads can choose to process the assignment for that region.
+![image.png](/.attachments/image-28bcc69c-8cb3-4fc9-accd-3ba685b54722.png)
+ 
+
+4. After you have selected “All Done” and finished the request, the ‘Next Transfer’ will pop up, showing a transfer request to the next handover call. Fill out that transfer request up through to “Ensure Summary” with a copy of the transfer notes from the previous request.
+ ![image.png](/.attachments/image-ae1699ed-8c6f-482a-8abf-9e4ec0dae642.png)
+
+
 # Delete or Deactivate FTS Request
 
 # Case Assignment Leads
