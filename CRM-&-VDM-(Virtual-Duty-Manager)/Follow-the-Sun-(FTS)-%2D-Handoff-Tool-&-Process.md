@@ -67,6 +67,7 @@ b.	If a transfer is not needed, [delete the request.](https://dev.azure.com/Supp
 a.	If a valid transfer, finish the transfer process by [completing the “Assign Resource” and “All Done” stages.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=complete-transfer)
 b.	If not a valid transfer, discuss with owning engineer or previous region’s assignment lead to confirm how to handle the case.
 
+**Does a case need to skip a region?** Follow our [guide.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions)
 
 **Why are Leads Completing the Transfer Process? Will They Always Do This?** [Link to Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=how-long-will-leads-need-to-review-and-process-transfers%3F)
 
