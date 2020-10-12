@@ -97,7 +97,7 @@ b.	If not a valid transfer, discuss with owning engineer or previous region’s 
 
 # FTS FAQ's
 **Can I use this to hand a case off within my own region?** 
-Yes.  _Hint: Why? Follow-up Region_
+No. If you need to transfer a case to another engineer within your team and region either find a teammate wo can take the case, work with your TA to find a teammate who can pick up the case, or return the case to the queue using "Transfer" and "Administrative Transfer"
 
 **I don't understand FTS, what to do, when, or how. What do I do?** 
 Thanks for asking. start here, please consume this content. 
