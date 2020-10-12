@@ -6,6 +6,20 @@
 
 # Handover Call Pages
 
+## Access
+![image.png](/.attachments/image-a2473a22-0d51-4521-bff4-9aa936cc0973.png)
+
+1.	In Edge Browser:  https://crmglobal.corp.microsoft.com/GLBCRMSUP/  
+2.	Go to Collaboration, then FTS Transfers under “Follow The Sun” title 
+3.	Select “Handover Calls”
+ 
+4.	Search “Data Movement”
+5.	Choose your next handover call.
+ 
+
+## Use
+
+
 # Manually Create Handover Request
 
 # Fill Out FTS Request
