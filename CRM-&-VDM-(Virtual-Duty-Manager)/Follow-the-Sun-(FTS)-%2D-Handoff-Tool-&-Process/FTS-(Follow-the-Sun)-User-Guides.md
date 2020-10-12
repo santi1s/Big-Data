@@ -63,6 +63,13 @@ Below is a description of all the parts of the handover menu.
 To modify/update an FTS request, select the link to the FTS request for your case number.
 
 # Automatic Handover Request
+Cases that meet the criteria below will be automatically added to the FTS list to be approved for transfer.
+-	Sev A “CritSit” cases not marked as “Waiting for Confirmation”
+-	Sev B and 27x7 flagged cases not marked as “Waiting for Confirmation”
+
+If a case has an automatic handover request created, the engineer associated with the case will receive an FTS communication email 3 hours before the handover call.
+
+The case can also be found in the [handover call menu](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=access), or under the [case's FTS requests list.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=check-fts-requests-for-case)
 
 # Manual Handover Request
 
