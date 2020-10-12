@@ -56,7 +56,6 @@ Theme:  _**The tool changes, not the expectations**_
 
 **Who are the leads: [Link to List](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=case-assignment-leads)**
 
-**DRAFT DOCUMENT for Assignment Leads:**  [DRAFT - FTS Guide for Assignment Leads.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Assignment%20Leads-35fa3139-b596-41bc-9fc8-db5c0b776d51.docx)
 ## Steps to Complete Case Transfer
 
 1.	Check the [list of FTS requests in the next handover call.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=handover-call-pages)
@@ -67,6 +66,9 @@ b.	If a transfer is not needed, [delete the request.](https://dev.azure.com/Supp
 3.	If the FTS request is completed up to the “Ensure Summary” stage, confirm that the transfer is a valid transfer.
 a.	If a valid transfer, finish the transfer process by [completing the “Assign Resource” and “All Done” stages.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=complete-transfer)
 b.	If not a valid transfer, discuss with owning engineer or previous region’s assignment lead to confirm how to handle the case.
+
+
+**Why are Leads Completing the Transfer Process? Will They Always Do This?** [Link to Guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=how-long-will-leads-need-to-review-and-process-transfers%3F)
 
 
 ## Overview Training Video for Assignment Leads
