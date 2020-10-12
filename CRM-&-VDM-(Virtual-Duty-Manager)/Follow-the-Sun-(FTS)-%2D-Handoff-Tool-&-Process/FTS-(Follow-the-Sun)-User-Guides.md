@@ -244,6 +244,15 @@ A request can also be deleted directly from the handover list on the handover ca
 
 # Troubleshooting
 
+**Unable to Automatically Select an Engineer?**
+_Issue:_
+You are attempting to use 'Automatic' to select a resource, but when you use "Next Stage" you receive an error that you cannot select a resource.
+![image.png](/.attachments/image-11699236-e0c9-4cd7-a0fa-8a33ab822b55.png)
+ 
+_Resolution:_
+There have been some issues with CRM. Please use the Manual transfer to select a resource in the next region and report the issue in your [Leads Teams Channel](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=leads-teams-channels)
+ 
+
 **Can’t Update Your FTS Request?**
 
 _Issue:_
