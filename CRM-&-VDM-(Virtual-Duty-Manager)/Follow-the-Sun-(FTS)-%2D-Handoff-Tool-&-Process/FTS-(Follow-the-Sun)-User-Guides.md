@@ -121,16 +121,14 @@ Next Steps for Case
 
 ||EMEA|AMER|APAC|INDIA|Mindtree - Redmond|Mindtree - India| 
 |------------------|------------------|----------|--------------------|---------------------|------------------|------------------|
+||Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|Sharath Teja Aila (v-shaail)|Chanakya Jalda|
+||Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Jackie Huang (jiaqhuan)| Vinod Kakarparhi (vikakarp)||ALEKYA PONUKUMATI (v-alponu)|
+|||Alex Blaine (alexbla)|Krishnakumar RUKMANGATHAN (KRIRUKM )||||
+|||Harpreet Singh (harpsi)|||||
+|Managers:|Telmo Batista (tebatist)|Lee Pauling (lepaulin)|Sonic Tang (haitang)|Thirumal Maram (thmaram)|Chaithanya Reddy Sarabuddi (v-chaisc)|Vinod Kumar ( v-vinoku )|
+||||||Nisar Ansari(v-niansa)||
 
-|------------------|Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|------------------|------------------|
 
-|------------------|Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Jackie Huang (jiaqhuan)| Vinod Kakarparhi (vikakarp)|------------------|------------------|
-
-|------------------|---------------|Alex Blaine (alexbla)|--------------|---------------------|------------------|------------------|
-
-|------------------|------------------|Harpreet Singh (harpsi)|--------------------|---------------------|------------------|------------------|
-
-|Managers:|Telmo Batista (tebatist)|Lee Pauling (lepaulin)|Sonic Tang (haitang)|Thirumal Maram (thmaram)|------------------|------------------|
 
 
 #FAQ
