@@ -167,6 +167,11 @@ The summary notes should explain why the case needs to be transferred and what u
 3. Select "Next Stage" to proceed.
 ![image.png](/.attachments/image-17793f07-e63c-4670-ae7a-b44633d07e34.png)
 
+**If you are a support engineer processing a transfer, select 'Save' and stop here. Your leads will complete the transfer.**
+![image.png](/.attachments/image-8665b40e-9749-493f-ab56-267f4c34302c.png)
+
+**If you are a lead, working on the weekend, or if no lead is available, please proceed.**
+
 ### Notes Template
 
 **Template for Transfer Summary:**
@@ -179,18 +184,27 @@ Next Steps for Case
 \=============================
 <List or summary of the next steps that need to be taken on the case.
 
+
+
 ## Complete Transfer
 
 ### Select Resource
 
 1. Under “Select Resource” there are three options to choose a resource in the next region.
+![image.png](/.attachments/image-abbbaab2-5c3c-4701-a2b4-3c0e506ed437.png)
 
 a. **Automatic** – The option you will most often use. Automatic uses VDM to choose the next engineer available in the region you are transferring to. It favors engineers who have owned the case in the past.
 b. **Manual** – allows you to manually choose an engineer to assign to in the next region.
 c. **Skip** – Allows the transfer to skip the current region and move on to the next. For more information, see the [“How to Skip a Region” section.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions)
 
- 
+ 2. If you chose "Skip" select 'Next Stage' to proceed.
+![image.png](/.attachments/image-b3147c0e-5ba1-42e5-859c-cbcbaa94beba.png)
 
+3. If you chose "Manual" or "Automatic" another stage will appear after the 'Select Resource' section. Select 'Next Stage' to proceed to it.
+![image.png](/.attachments/image-d964cb44-f44a-489e-b784-1f1be033a55a.png)
+
+4. If you chose "Manual" select a resource to transfer the case to using the search button. A list of engineers in the next region should appear, but you may also search by name. After selecting an engineer choose "Next Stage" to proceed.
+![image.png](/.attachments/image-53c32075-e71c-44df-bf51-5644cd477d77.png)
 
 ### All Done?
 
