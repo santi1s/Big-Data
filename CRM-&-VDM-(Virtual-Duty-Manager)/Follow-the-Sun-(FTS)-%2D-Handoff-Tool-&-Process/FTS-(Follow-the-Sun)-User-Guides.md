@@ -1,5 +1,7 @@
 [[_TOC_]]
 
+[![image.png](/.attachments/image-92c23d36-8239-446b-9aae-933d73451442.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/389990/Follow-the-Sun-(FTS)-Handoff-Tool-Process?anchor=steps-to-transfer-case)
+
 # How to Access FTS Tool
 
 # Handover Call Pages
