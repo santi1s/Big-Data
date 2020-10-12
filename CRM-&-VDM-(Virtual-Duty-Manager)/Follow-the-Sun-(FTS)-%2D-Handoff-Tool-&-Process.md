@@ -30,8 +30,6 @@ _(yes, same link for / tool for VDM)_
 
 # Guidelines for Support Engineer's using FTS
 
-**Document for Support Engineers:** [DRAFT V2 - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20V2%20-%20FTS%20Guide%20for%20Support%20Engineers-582e9581-70b8-492c-8e63-8aee6497a1a3.docx)
-
 ## Steps to Transfer Case
 1. [Confirm that your transfer is a valid transfer.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-between-regions)	
 2. Add [case transfer notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=hand-over-notes-template) to your case.
