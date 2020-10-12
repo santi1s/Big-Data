@@ -119,9 +119,18 @@ Next Steps for Case
 
 ## Data Movement Leads
 
-|EMEA| AMER| APAC| INDIA | Mindtree - Redmond| Mindtree - India| 
-|------------------|----------|--------------------|---------------------|------------------|------------------|
+||EMEA|AMER|APAC|INDIA|Mindtree - Redmond|Mindtree - India| 
+|------------------|------------------|----------|--------------------|---------------------|------------------|------------------|
 
+|------------------|Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|------------------|------------------|
+
+|------------------|Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Jackie Huang (jiaqhuan)| Vinod Kakarparhi (vikakarp)|------------------|------------------|
+
+|------------------|---------------|Alex Blaine (alexbla)|--------------|---------------------|------------------|------------------|
+
+|------------------|------------------|Harpreet Singh (harpsi)|--------------------|---------------------|------------------|------------------|
+
+|Managers:|Telmo Batista (tebatist)|Lee Pauling (lepaulin)|Sonic Tang (haitang)|Thirumal Maram (thmaram)|------------------|------------------|
 
 
 #FAQ
