@@ -206,6 +206,9 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 
 ### All Done?
 
+1. After all other fields have been filled out, select “Finish” in the All Done stage. This will initiate the transfer at the time of the handover call.
+![image.png](/.attachments/image-f0f0f13b-1583-4dcc-97a4-6f1812a20d50.png)
+
 # How to Skip Regions
 
 # Delete or Deactivate FTS Request
