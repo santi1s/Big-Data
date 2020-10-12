@@ -98,6 +98,17 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 # Fill Out FTS Request
 ## Ensure Summary Notes
 
+**Template for Transfer Summary:**
+
+Reason for Transfer
+\=============================
+<Provide brief summary of reason for transfer.>
+
+Next Steps for Case
+\=============================
+<List or summary of the next steps that need to be taken on the case.
+
+
 ## Complete Transfer
 
 # How to Skip Regions
