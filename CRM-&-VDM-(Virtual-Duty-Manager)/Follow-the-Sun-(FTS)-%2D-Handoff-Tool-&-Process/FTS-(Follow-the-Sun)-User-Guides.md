@@ -20,8 +20,26 @@
 
 ## Use
 
+After selecting a Handover call, in this menu you can see all the FTS transfer requests.
 
-# Manually Create Handover Request
+These requests are added by one of two methods.
+1. [Automatically]() – Based on Severity and Status, FTS will automatically create a request.
+2. [Manually]() – An engineer creates a transfer request for their case.
+
+Below is a description of all the parts of the handover menu.
+
+ ![image.png](/.attachments/image-f36bb479-539d-4859-84d4-d6071e58d3d6.png)
+
+1.	General handover call time and information.
+2.	Handover meeting URL. (This is a link to our existing handover teams meetings.)
+3.	Links to the FTS requests for each case.
+4.	Service request number associated with each case.
+
+To modify/update an FTS request, select the link to the FTS request for your case number.
+
+# Automatic Handover Request
+
+# Manual Handover Request
 
 # Fill Out FTS Request
 ## Ensure Summary Notes
