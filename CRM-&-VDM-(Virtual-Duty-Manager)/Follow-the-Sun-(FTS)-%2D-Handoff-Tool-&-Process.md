@@ -54,7 +54,8 @@ Theme:  _**The tool changes, not the expectations**_
 
 # Guidelines for Assignment Leads using FTS
 
-[List of Assignment Leads](https://microsofteur.sharepoint.com/:x:/t/WWDataMovement/EdlJ69AUILVBij1KpuH35X4Ba3NPuaL_pJSPpNj3z_HO5A?e=Pwnivy)
+
+**Who are the leads: [Link to List](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=case-assignment-leads)**
 
 **DRAFT DOCUMENT for Assignment Leads:**  [DRAFT - FTS Guide for Assignment Leads.docx](/.attachments/DRAFT%20-%20FTS%20Guide%20for%20Assignment%20Leads-35fa3139-b596-41bc-9fc8-db5c0b776d51.docx)
 ## Steps to Complete Case Transfer
