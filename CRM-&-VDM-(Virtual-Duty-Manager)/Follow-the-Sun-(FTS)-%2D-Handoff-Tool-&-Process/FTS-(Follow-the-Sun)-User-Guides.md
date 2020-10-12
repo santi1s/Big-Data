@@ -73,6 +73,28 @@ The case can also be found in the [handover call menu](https://dev.azure.com/Sup
 
 # Manual Handover Request
 
+If your case does not meet the criteria for an [automatic request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=automatic-handover-request) to be created, a request can still be manually created.
+
+1.	[Open CRM in Edge Browser](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-access-fts-tool)
+2.	Search your case number in the search bar on the top right.
+ ![image.png](/.attachments/image-d452b0cc-ced5-4ba6-a1ad-efe6a609e29b.png)
+
+3.	Select your case under “Service Requests”
+ ![image.png](/.attachments/image-f1677f53-c3cb-4132-af7f-74bd87107ac5.png)
+
+4.	In the top bar, click the drop-down next to the case number.
+ ![image.png](/.attachments/image-3285d00d-19e8-4cba-ae02-04fb1099c54d.png)
+
+5.	Select “FTS Transfers”
+ ![image.png](/.attachments/image-81f4070f-8c35-42a1-89d7-42681aa96bf1.png)
+
+6.	Select “+ Add New FTS Transfer”
+ ![image.png](/.attachments/image-bf1c708f-4fa6-40b2-83ff-55157d4a0bdc.png)
+
+7. [Compete the FTS Request Form](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=fill-out-fts-request)
+
+
+
 # Fill Out FTS Request
 ## Ensure Summary Notes
 
