@@ -90,6 +90,9 @@ b.	If not a valid transfer, discuss with owning engineer or previous region’s 
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/f145a1ff-0400-9fb2-00e5-f1eb0a38a1dc?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
+## Discussion Teams Channels
+
+[Link to Teams Channels](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=leads-teams-channels)
 
 # Other Hand Off related Guides & Documents
 
