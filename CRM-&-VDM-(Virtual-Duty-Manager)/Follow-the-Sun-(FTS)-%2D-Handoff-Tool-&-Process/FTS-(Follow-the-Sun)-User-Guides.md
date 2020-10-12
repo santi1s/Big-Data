@@ -119,6 +119,8 @@ Next Steps for Case
 
 ## Data Movement Leads
 
+_If this is incorrect or your region isn't present, please do edit the page and correct/add information._
+
 ||EMEA|AMER|APAC|INDIA|Mindtree - Redmond|Mindtree - India| 
 |------------------|------------------|----------|--------------------|---------------------|------------------|------------------|
 ||Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|Sharath Teja Aila (v-shaail)|Chanakya Jalda|
