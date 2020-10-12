@@ -204,6 +204,9 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 4. If you chose "Manual" select a resource to transfer the case to using the search button. A list of engineers in the next region should appear, but you may also search by name. After selecting an engineer choose "Next Stage" to proceed.
 ![image.png](/.attachments/image-53c32075-e71c-44df-bf51-5644cd477d77.png)
 
+5. If you chose "Automatic" simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region.
+![image.png](/.attachments/image-c8c1f341-7b6b-4207-9f1b-049a5ed4cecc.png)
+
 ### All Done?
 
 1. After all other fields have been filled out, select “Finish” in the All Done stage. This will initiate the transfer at the time of the handover call.
