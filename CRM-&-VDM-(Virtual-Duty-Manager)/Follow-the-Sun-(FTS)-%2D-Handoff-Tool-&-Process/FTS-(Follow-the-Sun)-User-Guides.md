@@ -24,7 +24,7 @@ After selecting a Handover call, in this menu you can see all the FTS transfer r
 
 These requests are added by one of two methods.
 1. [Automatically](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=automatic-handover-request) – Based on Severity and Status, FTS will automatically create a request.
-2. [Manually]() – An engineer creates a transfer request for their case.
+2. [Manually](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=manual-handover-request) – An engineer creates a transfer request for their case.
 
 Below is a description of all the parts of the handover menu.
 
