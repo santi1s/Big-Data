@@ -37,8 +37,9 @@ _(yes, same link for / tool for VDM)_
 3.	If your case is in the list, select and [complete the FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=fill-out-fts-request) up to the [“Ensure Summary”](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=ensure-summary-notes) stage. Save.
 4.	If your case is not already in the list, [manually create an FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=manually-create-handover-request) and [complete the FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=fill-out-fts-request) up to the [“Ensure Summary”](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=ensure-summary) stage. Save.
 5.	Join the handover call to confirm your case will be transferred or reach out to your [case assignment lead](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=case-assignment-leads) to manage or vouch for your case at the call.
-6.	If there is no handover call, or the lead is unavailable, c[omplete the final to stages “Select Resource” and “All Done” to finish the transfer process.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=case-assignment-leads)
+6.	If there is no handover call, or the lead is unavailable, c[omplete the final to stages “Select Resource” and “All Done” to finish the transfer process.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=complete-transfer)
 
+**Need to skip a region?** Follow our [guide.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions)
 
 ## Overview Training Video for Support Engineers using FTS
 
