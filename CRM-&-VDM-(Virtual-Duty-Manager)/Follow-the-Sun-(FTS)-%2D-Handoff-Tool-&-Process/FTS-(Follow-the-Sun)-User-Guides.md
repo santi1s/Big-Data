@@ -231,8 +231,6 @@ You can use FTS to perform this transfer.
  ![image.png](/.attachments/image-ae1699ed-8c6f-482a-8abf-9e4ec0dae642.png)
 
 
-# Delete or Deactivate FTS Request
-
 # Case Assignment Leads
 
 ## Data Movement Leads
@@ -249,6 +247,16 @@ _If this is incorrect or your region isn't present, please do edit the page and 
 ||||||Nisar Ansari(v-niansa)||
 
 
-
-
 # Troubleshooting
+
+**Can’t Update Your FTS Request?**
+
+_Issue:_
+You cannot update your FTS Request, can’t save it, and your stages show little lock icons.
+![image.png](/.attachments/image-32c1afa1-7158-412e-a6dc-787179fa15c2.png)
+ 
+_Resolution:_
+Your FTS request is inactive. You can see this at the bottom of the page.
+Select “Activate” to continue working on your FTS request.
+![image.png](/.attachments/image-c32a0752-cff2-433d-80b8-b83634bed70c.png)
+ 
