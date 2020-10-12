@@ -32,6 +32,14 @@ _(yes, same link for / tool for VDM)_
 
 **Document for Support Engineers:** [DRAFT V2 - FTS Guide for Support Engineers.docx](/.attachments/DRAFT%20V2%20-%20FTS%20Guide%20for%20Support%20Engineers-582e9581-70b8-492c-8e63-8aee6497a1a3.docx)
 
+## Steps to Transfer Case
+1.	Add case transfer notes to your case as usual.
+2.	Check the list of FTS requests in the next handover call.
+3.	If your case is in the list, select and complete the FTS request up to the “Ensure Summary” stage. Save.
+4.	If your case is not already in the list, manually create an FTS request and complete the request up to the “Ensure Summary” stage. Save.
+5.	Join the handover call to confirm your case will be transferred or reach out to your case assignment lead to manage or vouch for your case at the call.
+6.	If there is no handover call, or the lead is unavailable, complete the final to stages “Select Resource” and “All Done” to finish the transfer process.
+
 
 ## Overview Training Video for Support Engineers using FTS
 
@@ -39,8 +47,6 @@ _(yes, same link for / tool for VDM)_
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/54f1a3ff-0400-9fb2-3a4f-f1eb0a397572?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
-
-<br>
 
 
 Theme:  _**The tool changes, not the expectations**_ 
