@@ -242,22 +242,6 @@ A request can also be deleted directly from the handover list on the handover ca
 ![image.png](/.attachments/image-cc3f9f3f-7619-49d7-af64-3acf316d9ad3.png)
 
 
-# Case Assignment Leads
-
-## Data Movement Leads
-
-_If this is incorrect or your region isn't present, please do edit the page and correct/add information._
-
-||EMEA|AMER|APAC|INDIA|Mindtree - Redmond|Mindtree - India| 
-|------------------|------------------|----------|--------------------|---------------------|------------------|------------------|
-||Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|Sharath Teja Aila (v-shaail)|Chanakya Jalda|
-||Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Jackie Huang (jiaqhuan)| Vinod Kakarparhi (vikakarp)||ALEKYA PONUKUMATI (v-alponu)|
-|||Alex Blaine (alexbla)|Krishnakumar RUKMANGATHAN (KRIRUKM )||||
-|||Harpreet Singh (harpsi)|||||
-|Managers:|Telmo Batista (tebatist)|Lee Pauling (lepaulin)|Sonic Tang (haitang)|Thirumal Maram (thmaram)|Chaithanya Reddy Sarabuddi (v-chaisc)|Vinod Kumar ( v-vinoku )|
-||||||Nisar Ansari(v-niansa)||
-
-
 # Troubleshooting
 
 **Can’t Update Your FTS Request?**
