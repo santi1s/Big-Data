@@ -96,7 +96,31 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 
 
 # Fill Out FTS Request
-## Ensure Summary Notes
+![Screenshot 2020-10-12 143822.png](/.attachments/Screenshot%202020-10-12%20143822-2f67e3f3-202b-411a-9e90-bc026f76ec39.png)
+
+1. Stages Section - Takes you through each stage to ensure completion of FTS request.
+2. FTS Request - Full FTS request which will be filled out by completing stages above.
+3. Status - Status of FTS Request
+
+## First (Active)
+1. All sections with red * (highlighted below) need to be filled out.
+![image.png](/.attachments/image-364fc4f2-d0b2-40ac-8bd7-612ba8993f71.png)
+
+2. If Transfer From, Transfer To or Originating Region are not filled out, you'll need to click the search button, select "Look Up More Records", change 'Valid Transfer From Regions' to 'Active Support Regions' and select your region.
+![image.png](/.attachments/image-2cc0f396-d3aa-417d-8c30-add4447c1953.png)
+![image.png](/.attachments/image-ea91bb78-d485-46e1-acea-a4487a7a121e.png)
+**Note:** 'Transfer To' will **always** be the next region, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
+3.
+
+## Customer Validation
+
+## Customer Call Back
+
+## Wait Until
+
+## Ensure Summary
+
+### Notes Template
 
 **Template for Transfer Summary:**
 
@@ -110,6 +134,10 @@ Next Steps for Case
 
 
 ## Complete Transfer
+
+### Select Resource
+
+### All Done?
 
 # How to Skip Regions
 
