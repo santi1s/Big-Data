@@ -12,9 +12,10 @@
 1.	In Edge Browser:  https://crmglobal.corp.microsoft.com/GLBCRMSUP/  
 2.	Go to Collaboration, then FTS Transfers under “Follow The Sun” title 
 3.	Select “Handover Calls”
- 
-4.	Search “Data Movement”
+![image.png](/.attachments/image-87b75bcb-83e7-4888-a06f-86ec2ab002aa.png)
+4.	Search your team (Example shows "Data Movement"
 5.	Choose your next handover call.
+![image.png](/.attachments/image-d7560312-cae7-41c4-a2cb-9ef4eb6974a7.png)
  
 
 ## Use
