@@ -164,13 +164,11 @@ The summary notes should explain why the case needs to be transferred and what u
 **Note:** These are different than your handoff case notes, which should still be in your case, but can contain similar information.
 ![image.png](/.attachments/image-cfa03376-c76d-4123-9ca7-f63cb9bb267e.png)
 
-3. Select "Next Stage" to proceed.
-![image.png](/.attachments/image-17793f07-e63c-4670-ae7a-b44633d07e34.png)
-
-**If you are a support engineer processing a transfer, select 'Save' and stop here. Your leads will complete the transfer.**
+3. **If you are a support engineer processing a transfer, select 'Save' and stop here. Your leads will complete the transfer.**
 ![image.png](/.attachments/image-8665b40e-9749-493f-ab56-267f4c34302c.png)
 
-**If you are a lead, working on the weekend, or if no lead is available, please proceed.**
+**If you are a lead, working on the weekend, or if no lead is available, elect "Next Stage" to proceed.**
+![image.png](/.attachments/image-17793f07-e63c-4670-ae7a-b44633d07e34.png)
 
 ### Notes Template
 
