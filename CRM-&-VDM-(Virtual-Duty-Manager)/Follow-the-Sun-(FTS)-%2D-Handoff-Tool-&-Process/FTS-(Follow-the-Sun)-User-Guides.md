@@ -107,10 +107,13 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 ![image.png](/.attachments/image-364fc4f2-d0b2-40ac-8bd7-612ba8993f71.png)
 
 2. If Transfer From, Transfer To or Originating Region are not filled out, you'll need to click the search button, select "Look Up More Records", change 'Valid Transfer From Regions' to 'Active Support Regions' and select your region.
+**Note:** 'Transfer To' will **always** be the next region, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
 ![image.png](/.attachments/image-2cc0f396-d3aa-417d-8c30-add4447c1953.png)
 ![image.png](/.attachments/image-ea91bb78-d485-46e1-acea-a4487a7a121e.png)
-**Note:** 'Transfer To' will **always** be the next region, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
-3.
+
+3. The Handover call should provide the next available handover call, but if it does not, use the same process as step 2 to select a valid handover call.
+**Note:** 'Handover Call' will **always** be the next handover call, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
+![image.png](/.attachments/image-e63a9739-7b5f-4b10-8ae2-fac7923da27e.png)
 
 ## Customer Validation
 
