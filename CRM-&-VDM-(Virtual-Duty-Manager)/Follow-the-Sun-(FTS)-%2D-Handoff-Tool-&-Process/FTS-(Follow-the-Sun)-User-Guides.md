@@ -232,6 +232,16 @@ You can use FTS to perform this transfer.
 
 # Delete or Deactivate FTS Request
 
+To delete an unnecessary transfer request, select the “Delete” icon at the top of the page. Deleting the request will remove it entirely and all work will be lost.
+![image.png](/.attachments/image-9d835fbc-7f9c-4520-b69d-bebc5ffdfbbd.png)
+
+To deactivate an unnecessary transfer request, select the “Deactivate” icon at the top of the page. Deactivating a request will remove it from the FTS transfer list on your handoff call, but will not delete the request, which can be re-activated at any time.
+![image.png](/.attachments/image-9ef1a928-eee6-4cc3-bf30-873f133f1fa4.png)
+
+A request can also be deleted directly from the handover list on the handover call by scrolling right to the end of the table and selecting the trash can.
+![image.png](/.attachments/image-cc3f9f3f-7619-49d7-af64-3acf316d9ad3.png)
+
+
 # Case Assignment Leads
 
 ## Data Movement Leads
