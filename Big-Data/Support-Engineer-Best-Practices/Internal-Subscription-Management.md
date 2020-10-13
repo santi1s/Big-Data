@@ -68,10 +68,12 @@ Using different resource groups for different customer repros also makes for eas
 - updated 10/13/2020
 - Azure Government Services (Fairfax)
 
- Request / Create a new a new one (per Sundar)
+Request / Create a new a new one (per Sundar)
 1.	Need to create a SD ticket to AAD
 2.	Submit AIR Registration but require Cost Center
 
+[aka.ms/servicetree](http://aka.ms/servicetree): Use Service Tree to model organizations, services and offerings as a single source of truth with associated metadata and dependencies
+[aka.ms/airs](http://aka.ms/airs): Use Service Tree to model organizations, services and offerings as a single source of truth with associated metadata and dependencies
 note, per Sateesh, we will access to gov subscription to repro some scenarios
 
 email which initiated: 
