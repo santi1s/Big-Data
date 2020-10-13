@@ -1,7 +1,6 @@
 
 
-![image.png](/.attachments/image-afa33277-136b-423b-8563-f3dc95e6ac3c.png)![image.png](/.attachments/image-28a757f1-47df-49c6-8033-f621da286e74.png)![image.png](/.attachments/image-6edae599-88b6-4868-b1fa-3cf04853453e.png)
-[[_TOC_]]
+[![image.png](/.attachments/image-afa33277-136b-423b-8563-f3dc95e6ac3c.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/389990/Follow-the-Sun-(FTS)-Handoff-Tool-Process?anchor=guidelines-for-support-engineer%27s-using-fts)[![image.png](/.attachments/image-28a757f1-47df-49c6-8033-f621da286e74.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-flow-chart)[![image.png](/.attachments/image-87c46ade-c9c9-4824-8922-64008295c755.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289524/Big-Data-ARR)
 
 # Handoff Process
 
