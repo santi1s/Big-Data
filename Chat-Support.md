@@ -28,11 +28,12 @@ Supportability lead: Deepti Vuppuluri
 
 |Engineer Name|	Region|
 |--|--|
-| Nazir|	Hyderabad|
+| Roshna Nazir|	Hyderabad|
 |Saurabh Roy|	Hyderabad|
 |Keshav Kiran	|Hyderabad|
 |Abhishek Shaha	|Dublin|
 |Ahmed Mahmoud	|Dublin|
+|Garry Singh|Redmond|
 |Hiten Bhavsar	|Atlanta|
 |Harish Ravishankar	|Atlanta|
 |Tameika Lawrence	|Redmond|
