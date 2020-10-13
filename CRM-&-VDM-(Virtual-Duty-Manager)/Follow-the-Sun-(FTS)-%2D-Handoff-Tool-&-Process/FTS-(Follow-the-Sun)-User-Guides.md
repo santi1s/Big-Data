@@ -64,8 +64,8 @@ To modify/update an FTS request, select the link to the FTS request for your cas
 
 # Automatic Handover Request
 Cases that meet the criteria below will be automatically added to the FTS list to be approved for transfer.
--	Sev A “CritSit” cases not marked as “Waiting for Confirmation”
--	Sev B and 27x7 flagged cases not marked as “Waiting for Confirmation”
+-	Sev A “CritSit” cases
+-	Sev B cases with 24x7 Requested flagged
 
 If a case has an automatic handover request created, the engineer associated with the case will receive an FTS communication email 3 hours before the handover call.
 
