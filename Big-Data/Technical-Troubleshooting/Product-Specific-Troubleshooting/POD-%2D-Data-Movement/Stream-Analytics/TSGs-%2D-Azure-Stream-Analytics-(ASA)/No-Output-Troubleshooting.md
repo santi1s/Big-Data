@@ -84,8 +84,15 @@ How many Rows are the customer trying to send to PowerBI?  Can ask the customer 
 For this error, I solved mine by clicking on the job output and changing the authentication mode from `manage identity` to `User token`.  
 
 3) PROBLEM: PowerBI reached limit.
-   - TROUBLESHOOTING
-Make sure that the Power Bi has not reached any limit.
+- Large Numbe of Requests
+ ![image.png](/.attachments/image-5a31762c-5b85-4330-afa4-bff786c46750.png)
+  - TROUBLESHOOTING
+Make sure that the Power Bi has not reached any limit.  If so, can the customer send aggregated events to the PowerBi?  More information available here: https://docs.microsoft.com/en-us/power-bi/admin/service-admin-manage-your-data-storage-in-power-bi
+
+- Record exceeded size limit error
+  - TROUBLESHOOTING
+See an error specific to limits https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors#outputdataconversionerrorrecordexceededsizelimit
+
 
 _KNOWN ISSUES_ 
 
