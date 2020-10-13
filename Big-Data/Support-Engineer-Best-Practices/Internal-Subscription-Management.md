@@ -73,7 +73,7 @@ Request / Create a new a new one (per Sundar)
 2.	Submit AIR Registration but require Cost Center
 
 [aka.ms/servicetree](http://aka.ms/servicetree): Use Service Tree to model organizations, services and offerings as a single source of truth with associated metadata and dependencies
-[aka.ms/airs](http://aka.ms/airs): Azure Internal Azure Subscription
+[aka.ms/airs](http://aka.ms/airs):  Azure Internal Registration System
 note, per Sateesh, we will access to gov subscription to repro some scenarios
 
 email which initiated: 
