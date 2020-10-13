@@ -16,11 +16,15 @@ This is the recommended way, because if there are client errors, they will also 
 2. With debug overlay (Ctrl+Alt+D)
 With the ASA portal page open, press Ctrl+Alt+D and Session ID will be shown in the overlay in the bottom right corner.
 <IMG  src="https://msdata.visualstudio.com/ccb98983-f35b-411a-a9e2-e30b2114eff5/_apis/git/repositories/bcadf608-5057-404f-9c71-a6dc444e09b7/Items?path=%2F.attachments%2Fimage-8e5aa629-b1d8-4873-abe9-67869fab179f.png&amp;download=false&amp;resolveLfs=true&amp;%24format=octetStream&amp;api-version=5.0-preview.1&amp;sanitize=true&amp;versionDescriptor.version=wikiMaster"  alt="image.png"/>
+
+##ADDITIONAL TSG from the Product Group
+https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/9187/Troubleshooting-query-testing-requests
+
+
 ##KNOWN ISSUES
 **ASA - Number of requests exceeded threshold when sampling input data**
  
 
- 
 
 |Subject|Details|
 |--|--|
