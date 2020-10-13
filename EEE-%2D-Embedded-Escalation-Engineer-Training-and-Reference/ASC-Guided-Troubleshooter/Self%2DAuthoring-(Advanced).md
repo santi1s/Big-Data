@@ -189,7 +189,7 @@ Every troubleshooter is driven by a workflow created in Geneva Automation. The w
 
   - Commit the changes – saving to a new branch
 
-     **Note:** if you have no sufficient permissions to do the commit, please contact Saranga Goswami (<sarangag@microsoft.com>)
+     **Note:** if you have no sufficient permissions to do the commit, please make sure to join [Guided Troubleshooter Autors SG (gtworkflowauthors) in IDWeb](https://idweb/IdentityManagement/aspx/common/GlobalSearchResult.aspx?searchtype=e0c132db-08d8-4258-8bce-561687a8a51e&content=gtworkflowauthors%20).
 
 - ###Retrieve your Geneva Automation URL
   - When you commit your skeleton Geneva Automation workflow, a HTTP POST URL will be created.
