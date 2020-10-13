@@ -62,7 +62,7 @@ Theme:  _**The tool changes, not the expectations**_
 2. Select each FTS request by clicking the left-most column in the list.
 3.	If the FTS request is incomplete, reach out to the owning case engineer to confirm if a transfer is needed.
 a.	If a transfer is needed, request that the engineer complete their FTS Request
-b.	If a transfer is not needed, [delete the request.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=delete-or-deactivate-fts-request)
+b.	If a transfer is not needed, ask that the user reduce severity and/or remove the 24x7 flag (this will automatically remove the transfer from the list. Otherwise, [delete the request.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=delete-or-deactivate-fts-request)
 3.	If the FTS request is completed up to the “Ensure Summary” stage, confirm that the transfer is a valid transfer.
 a.	If a valid transfer, finish the transfer process by [completing the “Assign Resource” and “All Done” stages.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=complete-transfer)
 b.	If not a valid transfer, discuss with owning engineer or previous region’s assignment lead to confirm how to handle the case.
