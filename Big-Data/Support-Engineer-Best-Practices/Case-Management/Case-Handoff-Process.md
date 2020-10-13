@@ -1,20 +1,6 @@
 
 
-
-<center>
-<table border="1";bgcolor="#ffa7a7";>
-<tr>
-  <td style='border-style:solid;border-color:#B40404;border-width:5pt; 
-vertical-align:top;white-space: nowrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
-
-<b> Note:</b>
-This process is <b> only </b> for <u> in-depth </u> queue. <span style="color:#DF0101;">(Not for ARR queue)</span>
-
-</td>
-</tr>
-</table>
-</center>
-
+![image.png](/.attachments/image-afa33277-136b-423b-8563-f3dc95e6ac3c.png)![image.png](/.attachments/image-28a757f1-47df-49c6-8033-f621da286e74.png)![image.png](/.attachments/image-6edae599-88b6-4868-b1fa-3cf04853453e.png)
 [[_TOC_]]
 
 # Handoff Process
