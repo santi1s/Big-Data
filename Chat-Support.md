@@ -6,6 +6,7 @@
 
 Supportability lead: Deepti Vuppuluri
 
+
 **For Big Data - Database**
 - went live Oct with CosmosDB
 - POC for AMER: Prashanth Madi 
@@ -13,10 +14,29 @@ Supportability lead: Deepti Vuppuluri
 **For Data Movement**
 -  currently piloting ADF with CxD in Oct,  with CSS to pilot in Nov
 - Sonic Tang leading this for Data Movement 
-- POC for AMER: Azith Ganti, Dianna Flood, Azeez Oladejo
+- Supportability EEE: Brian Wang
+- POC's; 
+•	AMER: Azith Ganti, Dianna Flood, Azeez Oladejo
+•	EMEA: Gabriel Nespoli <Gabriel.Nespoli@microsoft.com>
+•	India: Ashish Shukla <Ashish.Shukla@microsoft.com>
+•	China: Vincent Yi <Wenqin.Yi@microsoft.com>
+
 
 **For CxD**
--  currently piloting ADF with CxD in Oct,  with CSS to pilot in Nov
+-  currently piloting ADF with CxD in Oct,  with CSS to pilot in Nov.  already live with Big Data - DB, CosmosDB, and SQL Cloud
+- Mgr: Omprakash Reddy Adudodla
+
+|Engineer Name|	Region|
+|--|--|
+| Nazir|	Hyderabad|
+|Saurabh Roy|	Hyderabad|
+|Keshav Kiran	|Hyderabad|
+|Abhishek Shaha	|Dublin|
+|Ahmed Mahmoud	|Dublin|
+|Hiten Bhavsar	|Atlanta|
+|Harish Ravishankar	|Atlanta|
+|Tameika Lawrence	|Redmond|
+
 
 **For SQL Cloud** piloted first 
 - already active
