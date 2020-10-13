@@ -2,6 +2,9 @@
 **How to test an ASA Query**
 In Azure Stream Analytics, you can test your query without starting or stopping your job. You can test queries on incoming data from your streaming sources or upload sample data from a local file on Azure Portal. [More Details here](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-test-query)
 
+##TSG Product Group Wiki
+https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/15106/How-to-get-portal-Session-ID
+
 ##KNOWN ISSUES
 **ASA - Number of requests exceeded threshold when sampling input data**
  
