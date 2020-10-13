@@ -63,3 +63,28 @@ Basically, don't leave anything running over the weekend unless strictly necessa
 Only permanently keep a few core resources you use regularly.
 Pick a naming convention to use for all your resources for easy management.
 Using different resource groups for different customer repros also makes for easy management.
+
+# MCS Internal & Field Internal Trials Program (Azure Government) 
+- updated 10/13/2020
+- Azure Government Services (Fairfax)
+
+ Request / Create a new a new one (per Sundar)
+1.	Need to create a SD ticket to AAD
+2.	Submit AIR Registration but require Cost Center
+
+note, per Sateesh, we will access to gov subscription to repro some scenarios
+
+email which initiated: 
+From: Kyle Deeds <kydeeds@microsoft.com> 
+Sent: Friday, October 9, 2020 9:31 PM
+Subject: MCS Internal & Field Internal Trials Program | Subscription Access Being Removed
+
+You were identified as an employee with access to an Azure Government subscription currently funded by the Azure Government engineering team through our internal trials program on mcsinternaltrials.onimicrosoft.com or fieldinternaltrials.onmicrosoft.com tenants. Funding was not approved to support these subscriptions in FY21 and we are working on deprovisioning any subscription still funded by the Azure Government engineering team. As part of this process, access to these subscriptions will be removed on October 21, 2020 unless they are moved to an alternate funding source.  We will continue supporting accounts on these tenants to provide employees access to Azure Government but will no longer be funding subscriptions.
+
+Options to continue having access to an Azure Government subscription:
+1.	If you would like to keep your existing Azure Government subscription, create an AIRS registration for your mcsinternaltrials or fieldinternaltrials account and submit a support ticket at http://aka.ms/azrinternalesc to transfer ownership of the subscription and ensure PC Code is updated to new funding source.
+2.	If you don’t need to keep existing resources in your Azure Government subscription and just need access to a subscription, create an AIRS registration for your mcsinternaltrials or fieldinternaltrials account. Once the registration is in an “Approved” state you can provision a new subscription through the Azure Government portal
+Both options require creation of an AIRS registration which can be done here . Account Type will be "USGov Internal Account" and Account Owner ID will be your mcsinternaltrials or fieldinternaltrials account. For cross charge information (PC Code, Finance Contact, Budget approver), please work through your business unit as these are not standard and vary by organization.
+
+If you need to verify that a subscription is impacted by this change, check the Account Administrator of the subscription. If mcsinternaltrials.admin@mcsinternaltrials.omicrosoft.com , mcsinternaltrials.admin2@mcsinternaltrials.onmicrosoft.com , or fieldinternaltrials.admin@fieldinternaltrials.onmicrosoft.com is the Account Administrator then it’s being funded by the Azure Government Engineering team
+
