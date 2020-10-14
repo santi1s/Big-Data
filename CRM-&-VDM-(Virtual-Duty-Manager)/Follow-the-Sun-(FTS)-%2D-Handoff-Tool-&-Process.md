@@ -90,10 +90,20 @@ b.	If not a valid transfer, discuss with owning engineer or previous region’s 
 :::
 
 
-# Guidelines for Team Leads using FTS
+# Guidelines / Docs for Team Leads using FTS
 
 **DRAFT DOCUMENT for Leads updated 10/8/2020:**  [DRAFT V3 - FTS Guide for Leads - Data Movement .docx](/.attachments/DRAFT%20V3%20-%20FTS%20Guide%20for%20Leads%20-%20Data%20Movement%20-63afb92a-44fb-4dbd-907a-d2dd7d493fb5.docx)
 
+Azure Data Movement in CRM, **Baseline FTS config snapshot** taken October 14, 2020 At 1:30 PM CDT: [FTS Data Movement baseline config capture Oct 14 2020.docx](/.attachments/FTS%20Data%20Movement%20baseline%20config%20capture%20Oct%2014%202020-279c293f-7c8e-4846-b9fb-f8d5f9774c15.docx)
+
+**DO NOT change Handover Calls
+DO NOT change Support Regions**
+Why? 
+The regions must be in a chain.  Adding another region means:
+-	This requires you also have 4 support regions.
+-	R1 => R2 => R3 => R4 => R1
+-	Resources and counties must be assigned to R1 to R4.
+-       _Per CRM Lead: Clint Warriner_ 
 
 ## Overview Training Video for Team Leads
 
