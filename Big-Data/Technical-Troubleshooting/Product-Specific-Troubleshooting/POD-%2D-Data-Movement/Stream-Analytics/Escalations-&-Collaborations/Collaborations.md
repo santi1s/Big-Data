@@ -36,7 +36,7 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
-
+- What is the question for the Collaborator?
 
 #Dev Ops
 When opening a collaboration to Azure Dev Ops, be sure to include the following in your request:
@@ -45,15 +45,13 @@ When opening a collaboration to Azure Dev Ops, be sure to include the following 
 1. If it is a build or release error:
 - Ask the customer to enabled system.debug = true and re-run their pipeline then share the logs.
 - Include the pipeline names.
-
-Opened a collaboration task to Azure Dev Ops and haven't gotten a response?
+- What is the question for the Collaborator?
+- Opened a collaboration task to Azure Dev Ops and haven't gotten a response?
 Email the DevOps duty manager: cssdevopsdm@microsoft.com
-
-Have general questions about how to use Azure Dev Ops?
-Not getting any repsonse from the DMs?
+- Have general questions about how to use Azure Dev Ops?
+- Not getting any repsonse from the DMs?
 Reach out to the TAs: cssdevopsta@microsoft.com
-
-MSAAS Queue Details:
+- MSAAS Queue Details:
 https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 
 #EventHub
@@ -62,12 +60,14 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
+- What is the question for the Collaborator?
 
 #Function App
 - App Service
 - Function Name
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
+- What is the question for the Collaborator?
 
 #IoT Hub
 - IoTHub Name
@@ -75,6 +75,7 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 - What is the region of the EventHub?
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
+- What is the question for the Collaborator?
 - [Opened a collaboration task to IoT Hub and haven't gotten a response? Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
 
 #PowerBi
@@ -82,6 +83,7 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 - PowerBi Dataset
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
+- What is the question for the Collaborator?
 
 # Server Database (SQL, Synapse Analytics)
 - Server Name
@@ -89,10 +91,12 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 - User Name
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
-- What are the steps to reproduce this issue?
+- What is the question for the Collaborator?
 
 #Table Store
 - Table Storage Name
 - Table Name
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
+- What is the question for the Collaborator?
+
