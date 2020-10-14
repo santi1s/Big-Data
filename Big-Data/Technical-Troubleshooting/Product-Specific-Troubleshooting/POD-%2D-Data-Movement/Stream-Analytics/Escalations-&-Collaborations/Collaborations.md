@@ -24,12 +24,10 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - Please provide the ASA Query
 - If the input or output is the issue, also include a screenshot of the ASA Input configuration & output configuration
 
-#EventHub
-- Provide EventHub Namespace, Name, Consumer Group, Access Policy
-- What is the region of the EventHub?
-- Errors or Warnings found
-- What is the most recent time this issue has occurred?
-- What are the steps to reproduce this issue?
+# Azure Machine Learning
+1. Is this using Azure Automation ML? 
+2. Scoring URI and key (if any)
+3. If not using Automation, include the swagger.json file 
 
 #Blob
 - Blob Name
@@ -39,24 +37,6 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
 
-# Server Database (SQL, Synapse Analytics)
-- Server Name
-- Database Name
-- User Name
-- Errors or Warnings found
-- What is the most recent time this issue has occurred?
-- What are the steps to reproduce this issue?
-
-#Function App
-- App Service
-- Function Name
-- What is the most recent time this issue has occurred?
-- What are the steps to reproduce this issue?
-
-# Azure Machine Learning
-1. Is this using Azure Automation ML? 
-2. Scoring URI and key (if any)
-3. If not using Automation, include the swagger.json file 
 
 #Dev Ops
 When opening a collaboration to Azure Dev Ops, be sure to include the following in your request:
@@ -76,7 +56,43 @@ Reach out to the TAs: cssdevopsta@microsoft.com
 MSAAS Queue Details:
 https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 
+#EventHub
+- Provide EventHub Namespace, Name, Consumer Group, Access Policy
+- What is the region of the EventHub?
+- Errors or Warnings found
+- What is the most recent time this issue has occurred?
+- What are the steps to reproduce this issue?
+
+#Function App
+- App Service
+- Function Name
+- What is the most recent time this issue has occurred?
+- What are the steps to reproduce this issue?
+
 #IoT Hub
-[Opened a collaboration task to IoT Hub and haven't gotten a response? Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
+- IoTHub Name
+- Consumer Group
+- What is the region of the EventHub?
+- Errors or Warnings found
+- What is the most recent time this issue has occurred?
+- [Opened a collaboration task to IoT Hub and haven't gotten a response? Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
+
+#PowerBi
+- PowerBi Name
+- PowerBi Dataset
+- Errors or Warnings found
+- What is the most recent time this issue has occurred?
+
+# Server Database (SQL, Synapse Analytics)
+- Server Name
+- Database Name
+- User Name
+- Errors or Warnings found
+- What is the most recent time this issue has occurred?
+- What are the steps to reproduce this issue?
 
 #Table Store
+- Table Storage Name
+- Table Name
+- Errors or Warnings found
+- What is the most recent time this issue has occurred?
