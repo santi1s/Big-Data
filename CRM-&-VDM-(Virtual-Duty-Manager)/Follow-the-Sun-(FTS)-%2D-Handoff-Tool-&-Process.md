@@ -148,3 +148,10 @@ Case notes / Documentation becomes very important as well case management- if yo
 
 **Can I skip a region using FTS?**
 Yes! See the "Guide for SEs" document above for more information.
+
+## Change Log / Management
+10/14/2020: 
+- Changed 7 countries from APAC region to India Region (miss on initial FTS set up adding India Region)
+- Fixed EMEA region Working=Yes 
+- Fixed handover calls to correct chain, deleted incorrect ones
+- Created and posted correct FTS config
