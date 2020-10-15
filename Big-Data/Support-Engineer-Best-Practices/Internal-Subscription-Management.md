@@ -90,3 +90,16 @@ Both options require creation of an AIRS registration which can be done here . A
 
 If you need to verify that a subscription is impacted by this change, check the Account Administrator of the subscription. If mcsinternaltrials.admin@mcsinternaltrials.omicrosoft.com , mcsinternaltrials.admin2@mcsinternaltrials.onmicrosoft.com , or fieldinternaltrials.admin@fieldinternaltrials.onmicrosoft.com is the Account Administrator then it’s being funded by the Azure Government Engineering team
 
+# Registering for an AIRS Gov subscription:
+1. Go to https://aka.ms/airs and then click New Registration.
+2. In Account type, select USGov Internal Account
+3. In Account Owner ID, enter your mcsinternaltrials or fieldinternaltrials account
+4. For Property/service name enter "Microsoft Azure Internal Consumption"
+5. In Cross Charge Information, use PC Code P10175065 in both fields requesting it
+6. Leave PFAM as 000
+7. Under Program Name, choose CSS Azure for both fields
+8. For Paid Support, choose standard
+9. Finance contact alias: Charusa Budget approver alias: jikirchn
+10. Describe how you'll be using this in Property/service description (to support azure gov customers), and select No, a production application will not be hosted under this account
+11. Business Group is Microsoft Azure team
+12. In Business Justification, clarify again this will be used to support customers.
