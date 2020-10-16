@@ -1,7 +1,7 @@
 # Executing a simple SSIS package in Azure SSIS IR QuickStart
 ## Prerequisites
 - Have Visual Studio 2017 with [Integration Services pack](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt) and [Azure pack](https://docs.microsoft.com/en-us/sql/integration-services/azure-feature-pack-for-integration-services-ssis?view=sql-server-2017) installed
-- Create the addresses.csv file used in this example (contents of file will be at [the end of this document](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/303022/Case-handling-SSIS-VNET-SHIR-Escalate-to-PG-on-First-Day-when-you-get?anchor=addresses.csv-file-contents))
+- Create the addresses.csv file used in this example (contents of file will be at [the end of this document](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/396532/Basic-SSIS-Primer-for-ADF-Support-Engineers?anchor=addresses.csv-file-contents))
 
 
 ## Steps:
