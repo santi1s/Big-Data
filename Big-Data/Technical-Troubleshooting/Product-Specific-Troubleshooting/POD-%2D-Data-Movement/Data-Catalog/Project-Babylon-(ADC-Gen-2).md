@@ -29,8 +29,8 @@ Support Engineer Troubleshooting Guide -> Coming soon
 2) Optional [Friends of Project Babylon](https://teams.microsoft.com/l/team/19%3a55a61c23d3074b57a080dd4c44c9dcf5%40thread.tacv2/conversations?groupId=3cd47d55-5a9c-49c8-a74c-c9962366b752&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47 )
 
 #**My Access**
-[MyAccess](https://myaccess/identityiq/home.jsf) TM-Babylon
-[MyAccess](https://myaccess/identityiq/home.jsf) ARM Logs 
+[Request MyAccess "TM-Babylon"](https://myaccess/identityiq/home.jsf)
+[Request MyAccess "ARM Logs"](https://myaccess/identityiq/home.jsf) 
 [Using Kusto Logs in ARM](https://armwiki.azurewebsites.net/troubleshooting/kusto/getting_access.html?q=kusto)
 [ARM Logs Useful queries](https://armwiki.azurewebsites.net/troubleshooting/kusto/useful_queries.html) 
 
