@@ -30,6 +30,9 @@ Support Engineer Troubleshooting Guide -> Coming soon
 
 #**My Access**
 [MyAccess](https://myaccess/identityiq/home.jsf) TM-Babylon
+[MyAccess](https://myaccess/identityiq/home.jsf) ARM Logs 
+[Using Kusto Logs in ARM](https://armwiki.azurewebsites.net/troubleshooting/kusto/getting_access.html?q=kusto)
+[ARM Logs Useful queries](https://armwiki.azurewebsites.net/troubleshooting/kusto/useful_queries.html) 
 
 #**Jarvis Table**
 
