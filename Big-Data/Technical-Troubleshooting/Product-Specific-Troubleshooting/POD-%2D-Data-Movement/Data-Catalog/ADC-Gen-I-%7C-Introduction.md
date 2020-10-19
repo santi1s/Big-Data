@@ -10,6 +10,9 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 # **Wiki Project Babylon Guide** 
 [Product Wiki Page Here](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/364918/Project-Babylon-(ADC-Gen-2))
 
+# Project Babylon Teams CSS Collaboration Channel
+[General](https://teams.microsoft.com/l/channel/19%3a9a0e973781f54c98a5fcc222ffa00ee3%40thread.tacv2/General?groupId=1943848d-4f61-482c-889e-c64a82245fb2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+
 # **Training**
 [Azure Data Catalog L100](https://microsoft.sharepoint.com/sites/infopedia/Pages/Docset-Viewer.aspx?did=G01KC-1-5843)
 
