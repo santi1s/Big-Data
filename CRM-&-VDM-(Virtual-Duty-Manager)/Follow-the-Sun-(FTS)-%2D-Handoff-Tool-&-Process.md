@@ -30,6 +30,8 @@ _(yes, same link for / tool for VDM)_
 
 # Guidelines for Support Engineer's using FTS
 
+### Note: Ensure AzureBU@microsoft.com isn't cc'd on emails to the customer when you let the customer know you're handing off the case.  They will unintentionally interfere with FTS transfers.
+
 ## Steps to Transfer Case
 1. [Confirm that your transfer is a valid transfer.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-between-regions)	
 2. Add [case transfer notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=hand-over-notes-template) to your case in service desk as normal.
