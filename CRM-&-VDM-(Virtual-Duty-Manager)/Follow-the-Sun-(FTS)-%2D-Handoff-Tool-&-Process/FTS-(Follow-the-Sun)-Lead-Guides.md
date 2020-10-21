@@ -9,7 +9,7 @@ _If this is incorrect or your region isn't present, please do edit the page and 
 ||EMEA|AMER|APAC|INDIA|Mindtree - Redmond|Mindtree - India| 
 |------------------|------------------|----------|--------------------|---------------------|------------------|------------------|
 ||Pedro Martins (pemar)|Whitney Henderson (whhender)| Jing Pu (jinpu)|Shyam Simha (shyamsim)|Supreeth Vasudevamurthy (v-suvas)|Chanakya Jalda|
-||Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Jackie Huang (jiaqhuan)| Vinod Kakarparhi (vikakarp)||ALEKYA PONUKUMATI (v-alponu)|
+||Yassine Mzoughi (mzyassin)|Sundar Easwaran (seaswara)|Yvonne Zhang (yuzhang4)| Vinod Kakarparhi (vikakarp)||ALEKYA PONUKUMATI (v-alponu)|
 |||Alex Blaine (alexbla)|Krishnakumar RUKMANGATHAN (KRIRUKM )||||
 |||Harpreet Singh (harpsi)|||||
 |Managers:|Telmo Batista (tebatist)|Lee Pauling (lepaulin)|Sonic Tang (haitang)|Thirumal Maram (thmaram)|Chaithanya Reddy Sarabuddi (v-chaisc)|Vinod Kumar ( v-vinoku )|
