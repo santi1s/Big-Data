@@ -22,7 +22,7 @@ Also **always let your customer know you are doing this in the first line of any
 1. Write the email out in English as normal.
 2. Add something like this as the first line of the email:
 	"I do not speak <LANGUAGE>, and so am using a translation service for written communication. I have included the original English email below for convenience, but if you have any questions or if anything is unclear, please let me know. I will be happy to clarify."
-3. Use an internet translation service (like [Bing Translate](https://www.bing.com/translator/)) to translate your email into the needed language.
+3. Use an internet translation service (like [Bing Translate](https://www.bing.com/translator/)) to translate your email into the needed language. (Note that Google translate often does a better job and might be the better translation choice)
 4. Add translation to the top part of the email, then add a break, and the original english email to the bottom. Feel free to follow the example below.
 
 ### Example - Portuguese Translation
