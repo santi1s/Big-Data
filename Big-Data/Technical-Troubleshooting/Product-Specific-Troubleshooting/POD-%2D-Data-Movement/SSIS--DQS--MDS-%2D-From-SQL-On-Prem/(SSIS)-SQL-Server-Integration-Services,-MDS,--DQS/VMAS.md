@@ -37,7 +37,7 @@
 
 
 #How to Deploy VMAS  
-1)Access when connected to MSVPN
+1) Access when connected to MSVPN
  
 2) Navigate to VMAS website - https://wagbsvmas/ 
  
