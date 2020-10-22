@@ -1,11 +1,12 @@
-[DQS - SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx)
+
 
 The DQS training would be self-paced with learning content provided to the engineers. The engineers needs to start with the README file under MDS & DQS folders that contains the learning sequence and duration.
 
 **Training Duration**
-Data Quality Service (DQS)
+[Data Quality Service (DQS) Training Here](https://microsofteur.sharepoint.com/teams/WWDataMovement/Shared%20Documents/Forms/AllItems.aspx?originalPath=aHR0cHM6Ly9taWNyb3NvZnRldXIuc2hhcmVwb2ludC5jb20vOmY6L3QvV1dEYXRhTW92ZW1lbnQvRW1MTWJWT1V0VmhQcmUxRWZMbURyRXdCTXFlNm9xOHJnMWZJNzhjVzFuREZxQT9ydGltZT1MeTIxcnB0MjJFZw&viewid=c888305f%2Dacec%2D43ba%2D9988%2D8cdf2d9abe7f&id=%2Fteams%2FWWDataMovement%2FShared%20Documents%2FGeneral%2FMDS%20%26%20DQS%20Training%2FDQS)
 10 hours (inclusive of labs sessions)
 
+[DQS - SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx)
  
 #**Product Group Engagement:**
 DQS product maps under the same product team management as SSIS.
