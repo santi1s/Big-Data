@@ -36,7 +36,8 @@
 - If approved allow for AD replication to occur (24 - 48 hours) 
 
 
-#How to Deploy VMAS  
+#How to Deploy VMAS 
+ 
 1) Access when connected to MSVPN
  
 2) Navigate to VMAS website - https://wagbsvmas/ 
