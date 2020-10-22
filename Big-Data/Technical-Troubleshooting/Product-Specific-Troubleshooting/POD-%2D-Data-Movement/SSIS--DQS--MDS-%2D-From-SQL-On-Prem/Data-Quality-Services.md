@@ -1,5 +1,5 @@
 
-
+#**Data Quality Service (DQS) OVERVIEW**
 The DQS training would be self-paced with learning content provided to the engineers. The engineers needs to start with the README file under MDS & DQS folders that contains the learning sequence and duration.
 
 **Training Duration**
@@ -13,7 +13,7 @@ DQS product maps under the same product team management as SSIS.
 
 **How to approach PG team**
 
-| Product |How to approach PG team  | RFC / HOTFIX Approach |
+| **Product** |**How to approach PG team**  | **RFC / HOTFIX Approach** |
 |--|--|--|
 | Data Quality Service (DQS) | For all PG support, approach Li Gao (Wicresoft) <v-lga@microsoft.com> Bin Guan (Wicresoft) <v-biguan@microsoft.com> & cc team alias SQL Hotfix Data Quality Services <dqsqfe@microsoft.com> | <Very Rare> Based on the discussions with the DQS team, file RFC. |
 
