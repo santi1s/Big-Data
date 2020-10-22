@@ -31,7 +31,7 @@ Also please note that the current training covers all the topics of DQS in depth
 Please reach out to me if you have any follow-up questions.
 
 
-Krishnakumar Rukmangathan
+**Krishnakumar Rukmangathan**
 Escalation Engineer                                                          Office: India: 0008000402235 | US: +1(855)4251603 | EMEA: +(44)2080686433  Extension: 80586
 Microsoft SQL Server Integration Services Team                
 Customer Services and Support                                          
