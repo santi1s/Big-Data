@@ -17,8 +17,7 @@ How to Create an IcM -> Coming soon
 [Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
 [Azure Project Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
 
-[GitHub Docs Project Babylon Documentation]
-(https://github.com/Azure/Babylon) 
+[GitHub Docs Project Babylon Documentation](https://github.com/Azure/Babylon) 
  
 **Instructions for Access to GitHub Docs** 
 
