@@ -19,9 +19,11 @@ DQS product maps under the same product team management as SSIS.
 
 **NOTE:** The volume of DQS ( <5 cases monthly) is significantly lower than the volume of SSIS (<190 cases monthly) support tickets.
 
-The product team has underinvested in DQS on-prem and they don’t work on any new feature requests. As per the product team,
+The product team has underinvested in DQS on-prem and they don’t work on any new feature requests. As per the product team, 
 
-“we’ve been underinvested in DQS on premises for a while and will continue to be so, hence there won’t be any new features, but we’ll continue supporting/maintaining it, fixing critical bugs whenever necessary, for the foreseeable future.  That said, the future of DQS is in the cloud and we work closely with partners in building cloud alternatives that run on SSIS Integration Runtime (IR) in Azure Data Factory (ADF), e.g. https://sqlphonetics.oh22.is/, https://hedda.io/, etc.  These cloud DQ components have also been published in Azure Marketplace.  THX”.  So we may need to handle DQS as is until the product team announces the sunset / un-supportability of the product.
+_"We’ve been underinvested in DQS on premises for a while and will continue to be so, hence there won’t be any new features, but we’ll continue supporting/maintaining it, fixing critical bugs whenever necessary, for the foreseeable future.  That said, the future of DQS is in the cloud and we work closely with partners in building cloud alternatives that run on SSIS Integration Runtime (IR) in Azure Data Factory (ADF), e.g. https://sqlphonetics.oh22.is/, https://hedda.io/, etc.  These cloud DQ components have also been published in Azure Marketplace.  THX”._  
+
+So we may need to handle DQS as is until the product team announces the sunset / un-supportability of the product.
 
  
 Also please note that the current training covers all the topics of DQS in depth. So there is no separate L100 and L200 categorization of training content due to the depth of the product.
