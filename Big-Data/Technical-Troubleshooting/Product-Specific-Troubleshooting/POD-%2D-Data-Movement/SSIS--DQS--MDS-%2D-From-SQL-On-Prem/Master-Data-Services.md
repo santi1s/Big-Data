@@ -9,7 +9,7 @@ The MDS training would be self-paced with learning content provided to the engin
 
  
 #Product Group Engagement:
-Both MDS product maps under the same product team management as SSIS.
+MDS product maps under the same product team management as SSIS.
 
  
 **How to approach PG team**
