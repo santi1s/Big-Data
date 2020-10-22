@@ -17,6 +17,25 @@ How to Create an IcM -> Coming soon
 [Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
 [Azure Project Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
 
+[GitHub Docs Project Babylon Documentation]
+(https://github.com/Azure/Babylon) 
+ 
+**Instructions for Access to GitHub Docs** 
+
+- Internal Microsoft employees (self-service):  If you want to access the docs for yourself 
+
+- Go to aka.ms/azuregithub  
+
+- Tie your GitHub user name to Microsoft by following instructions here 
+
+- Under Organizations - search for Azure and join it (This step is mandatory)  
+
+- Once you do so, you automatically get access to the GitHub docs here: https://github.com/Azure/Babylon 
+
+ 
+
+ 
+
 # **Troubleshooting**
 Support Engineer Troubleshooting Guide -> Coming soon
 
