@@ -269,6 +269,8 @@ You cannot update your FTS Request, can’t save it, and your stages show little
  
 _Resolution:_
 Your FTS request is inactive. You can see this at the bottom of the page.
+This is likely because there is already another active FTS request for this case.
+You can either [check for the existing FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FCRM%20%26%20VDM%20(Virtual%20Duty%20Manager)%2FFollow%20the%20Sun%20(FTS)%20%252D%20Handoff%20Tool%20%26%20Process%2FFTS%20(Follow%20the%20Sun)%20User%20Guides&pageId=393781&anchor=check-fts-requests-for-case) and fill out that request. OR you can re-activate your current request and continue there.
 Select “Activate” to continue working on your FTS request.
 ![image.png](/.attachments/image-c32a0752-cff2-433d-80b8-b83634bed70c.png)
  
