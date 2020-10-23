@@ -37,8 +37,9 @@ It is suggested to do daily reviews for at least two weeks before phasing out le
 [WW Data Movement Leads Channel](https://teams.microsoft.com/l/channel/19%3a97376d30de2b400ca19641af9615b796%40thread.tacv2/FTS%2520Leads%2520Chat?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 # How Does FTS Assign Cases?
-FTS uses a flavor of VDM! However, FTS:
+FTS uses VDM, but has its own rules atop VDMs normal assignment rules. So, FTS:
 - **Does NOT** do prebooking - FTS only looks for currently available engineers.
 - **DOES** respect WFM schedules- For Severity A cases, FTS Will not assign a case if an engineer if the engineer has fewer than 2 hrs available on their schedule.
 For example - if your engineer has lunch less than 2 hrs after the handover call time, they will not show as available to take a case.
 - **DOES** respect capacity - if your engineer has already received a case, FTS will respect the timing limitations based on the severity of a case and will not assign a case within those thresholds.
+- **DOES** use VDM to assign the case so engineers who have a case assigned to them from FTS will receive an email and capacity "credit" as expected.
