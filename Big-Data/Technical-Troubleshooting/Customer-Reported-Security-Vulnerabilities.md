@@ -8,6 +8,11 @@ Reference: https://www.microsoft.com/en-us/msrc/faqs-report-an-issue
 #CERT for Unknown IPs
 https://portal.msrc.microsoft.com/en-us/engage/cars
 
+#Process
+1. Scope the case and understand what the customer's issue is
+2. If customer is reporting unknown IPs or security vulnerabilities, particularly if they are being generated from like a 3rd party report we should send customer messaging like below templates. These issues are out of scope for CSS and should be handled by MSRC.
+3. Close out the case once customer has acknowledged the customer messaging. **Do not leave the case open while the customer engages MSRC.** MSRC has final say on these matters. Internally speaking MSRC has a very high bar for what constitutes as malicious behavior and will often tell customers their report does not meet the MSRC criteria of a vulnerability. At that point that is the final answer. Customer cannot come back to support to escalate. MSRC is the final escalation point. 
+
 # Customer Messaging
 ##Security Vulnerabilities
 Here is some example messaging we can share with the customer for **security vulnerabilites:**
