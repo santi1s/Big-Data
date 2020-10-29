@@ -17,9 +17,9 @@ You'll need the resource ID, region, and investigation timeframe.
 
 6. Query is filtering contraints are too high such that it is filtering out all the data.
 
-# By Input Adapter 
+# By Output Adapter 
 
-After completing the general troubleshooting if you're still unable to see input please review the input adapter specific troubleshooting options below: 
+After completing the general troubleshooting if you're still unable to see output please review the output adapter specific troubleshooting options below: 
 
  
 ## Data Lake Storage Gen 1
@@ -113,6 +113,9 @@ _Details to come_
 
 ##Azure CosmosDB
 **Azure Stream Analytics output to Azure Cosmos DB** 
+When using CosmosDB as an output from ASA it is important to understand that only CosmosDB SQL API is compatible as an output connector.  More documentation regarding that limit is available here https://docs.microsoft.com/es-es/azure/cosmos-db/
+
+The CosmosDb Cassandra feature is not yet available to use with ASA, but it is in the future plans.  Please consider providing feedback to the Product Group to request this feature here https://feedback.azure.com/forums/270577-stream-analytics/suggestions/11384418-add-cassandra-to-output
 
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-documentdb-output 
 1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
