@@ -117,6 +117,8 @@ When using CosmosDB as an output from ASA it is important to understand that onl
 
 The CosmosDb Cassandra feature is not yet available to use with ASA, but it is in the future plans.  Please consider providing feedback to the Product Group to request this feature here https://feedback.azure.com/forums/270577-stream-analytics/suggestions/11384418-add-cassandra-to-output
 
+By default from cosmosdb service side we set maxitem retrieval count to 100 & 40 MB limit.  The customers can change maxitemcount to be retrieved to other value using function mentioned in link https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.documents.client.feedoptions.maxitemcount?view=azure-dotnet
+
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-documentdb-output 
 1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
 2. Review ASA Job Signals graph for latency on output.
