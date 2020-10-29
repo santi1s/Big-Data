@@ -212,8 +212,11 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 4. If you chose "Manual" select a resource to transfer the case to using the search button. A list of engineers in the next region should appear, but you may also search by name. After selecting an engineer choose "Next Stage" to proceed.
 ![image.png](/.attachments/image-53c32075-e71c-44df-bf51-5644cd477d77.png)
 
-5. If you chose "Automatic" simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region.
+5. If you chose "Automatic" simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region. **It takes about 30 seconds-1 minute to complete this process, and the page looks like it is hanging. Just wait.** There is a little "Saving" icon in the bottom corner to show you that it is working.
 ![image.png](/.attachments/image-c8c1f341-7b6b-4207-9f1b-049a5ed4cecc.png)
+If a resource isn't automatically selected, it is likely that based on FTS/VDM rules, an engineer isn't available. 
+For a Sev A FTS requires that an engineer have at least 2 hours free on their schedule to be able to take the case.
+You will need to press the back arrow, change the assignment type to "Manual" and manually find an owner.
 
 ### All Done?
 
