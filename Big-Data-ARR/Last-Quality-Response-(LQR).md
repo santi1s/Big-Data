@@ -1,5 +1,5 @@
 <p style='margin-top:18pt;margin-bottom:7pt;line-height:29pt;font-family:&amp;quot;
-font-size:24.0pt;color:#1C3A56'>Last Quality Response</p>  
+font-size:24.0pt;color:#1C3A56'>Last Quality Response</p>   
 
 Last Quality Response gives you an opportunity to leave the customer with a good last impression. Set the expectation that a closing email will be sent that captures the issue and resolution.  This is something customer can always use if the issue happens again. 
 
