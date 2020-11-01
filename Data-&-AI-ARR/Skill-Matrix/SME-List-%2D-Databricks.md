@@ -1,5 +1,5 @@
 
-|Name|Days  |Hours  |
+|Name| Days  |Hours  |
 |--|--|--|
 |Ravi De Aliws  | Monday-Friday | 9-6|
 |Dinesh Kalla  | Monday-Friday |9-6  |
