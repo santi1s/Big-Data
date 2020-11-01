@@ -38,25 +38,10 @@ Welcome to ARR Databricks Team. This Playbook is a summary version of [Databrick
 ![image.png](/.attachments/image-b92d1295-2513-412e-baaf-089bace8b6c2.png)
 
 
-# **[Escalate CSAT Impacting Issues](https://dev.azure.com/Supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/312129/Escalating-CSAT-Impacting-Collaborations-and-ICMs)**
-If you need to engage the Databricks team or Microsoft PG and sense the customer is frustrated or having an 
-     extreme negative sentiment towards the case resolution or how the case is progressing, act immediately to 
-     engage the relevant team. 
-     
-     
-- **Actions**
+# **[Escalate CSAT Impacting Issues]
+To escalate CSAT Impacting ARR case towards Databricks to get immediate attention please follow the steps below 
 
--        proactive to identify CSAT impacting scenarios: 
-       
--        Email smespark@microsoft.com and have a Databricks SME review and approve the escalation
--       Add "[CSAT Impacting|ARR ]" to the Internal Title of your service desk case/ Databricks Partner ticket
--       If you need assistance on ICM, add [CSAT Impacting | ARR] tag in title of ICM and change severity to Sev 2.
--       If you need assistance on Salesforce Databricks ticket, escalate the ticket and add a comment [CSAT Impacting | ARR]. Also add additional details on current customer sentiment and how this sentiment could be improved.
--       The intent of the [CSAT Impacting] tag is to immediately identify and notify the Engineering/Databricks team of a potential low CSAT score pending on a case and they need to engage with the customer directly to ensure the customer is ‘happier’ with the case resolution than they might have been.
-
-    **The Flow**
-
-<IMG  src="https://dev.azure.com/Supportability/5e48464c-3501-44a0-a6e0-8839f7cd21f0/_apis/git/repositories/af110ba9-8ac6-40c3-ae01-d63c5a9ffa00/Items?path=%2F.attachments%2Fimage-3e5882d7-3e9b-4b28-aa66-b071fb5f0126.png&amp;download=false&amp;resolveLfs=true&amp;%24format=octetStream&amp;api-version=5.0-preview.1&amp;sanitize=true&amp;versionDescriptor.version=wikiMaster"  alt="image.png"/>
+![Databricks Wiki.jpg](/.attachments/Databricks%20Wiki-27de7110-8059-47f5-a3ed-e15b58d40534.jpg)
 
 # **Point of Contacts for CSAT Impacting Issue:**
  Reach out to point of contacts listed below for any urgent assistance required on your Databricks case.
