@@ -1,10 +1,6 @@
-Welcome to Azure Databricks. 
+Go go Databricks Wiki
 
-<IMG  src="https://www.bing.com/th/id/OIP.WXFrPQkEhshZdaOaR5U_7AHaEo?w=282&amp;h=173&amp;c=7&amp;o=5&amp;dpr=1.5&amp;pid=1.7"  alt="Image result for Azure Databricks"/>
-
-<br>
-
-- Following are the important training modules you have to complete.  
+![Databricks.png](/.attachments/Databricks-e264aaf1-ee2d-4d54-80fe-62c69fb83bcd.png)[https://aka.ms/databrickswiki]()
 
 
  
