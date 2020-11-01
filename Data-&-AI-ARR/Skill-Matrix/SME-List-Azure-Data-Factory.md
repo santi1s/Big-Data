@@ -8,6 +8,6 @@
 | Laxmana Murthy Karaka|  |  |
 | Karan Arora |  |  |
 | Venkata Nagesh Boddapati |  |  |
-| Mario Codoba Puesto |  |  |
+| Mario Cordoba Puesto |  |  |
 | Aravind Nuthalapati |  |  |
 
