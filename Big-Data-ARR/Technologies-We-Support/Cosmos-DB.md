@@ -1,1 +1,0 @@
-[https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/229391/AzureCosmosDB]()
