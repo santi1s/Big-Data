@@ -7,5 +7,5 @@
 
 ## Trainings for Troubleshooting
 
- Go to [Training Videos](https://supportability.visualstudio.com/AzureHDinsight/_wiki/wikis/AzureHDinsight/279621/Training-Videos) for additional recordings for troubleshooting
+- [HDInsight Cluster Internals](https://supportability.visualstudio.com/AzureHDinsight/_wiki/wikis/AzureHDinsight/279621/Training-Videos?anchor=channels-with-multiple-videos-and-independent-videos)
  
