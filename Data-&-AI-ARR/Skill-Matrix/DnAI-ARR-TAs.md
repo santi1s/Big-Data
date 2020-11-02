@@ -7,5 +7,5 @@
 | Luciano Moreira  | Cosmos DB  |
 | Thomas Bragalono |  |
 | Samir Vora   | Azure Data Factory  |
-| Freddie Santos  |  |
+| Freddie Santos |  |
 
