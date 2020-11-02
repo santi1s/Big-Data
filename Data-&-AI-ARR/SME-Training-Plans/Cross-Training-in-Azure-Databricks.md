@@ -17,6 +17,10 @@
     - [JDBC / ODBC](https://msit.microsoftstream.com/video/38f7a3ff-0400-aa75-ba04-f1ea63e3d7f2?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
 <br>
 
-3) Once completes above L200 and All recordings listed have a Sync up with your TA and Manager and to proceed with other related pre-requisite account provisioning and formal introduction to Databricks cases.
+3) Once completes above L200 and All recordings listed, schedule a Sync up with your TA and Manager to proceed with other pre-requisites and for the formal introduction to Databricks cases.
 
+
+Additional Training Materials
+
+[Tech Talks By Partner Databricks Team](https://msit.microsoftstream.com/channel/ab4a9c80-628d-4265-90bc-cdc64d8f768a)
  
