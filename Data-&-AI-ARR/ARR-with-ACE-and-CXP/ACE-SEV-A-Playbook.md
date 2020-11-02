@@ -1,1 +1,1 @@
-ACE SEV A 24*7 [Playbook](https://msazure.visualstudio.com/AdvCloudEngSupport/_wiki/wikis/Azure%20ACE%20Wiki/38801/ACE-Sev-A-24x7-Playbook)
+[ACE Severity A Playbook](https://msazure.visualstudio.com/AdvCloudEngSupport/_wiki/wikis/Azure%20ACE%20Wiki/38801/ACE-Sev-A-24x7-Playbook)
