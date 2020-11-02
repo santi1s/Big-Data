@@ -1,4 +1,4 @@
-Reach out to below list of EEEs if your 
+Reach out to below list of EEEs for any ICM related questions
 
 |Name|Technology  |
 |--|--|
