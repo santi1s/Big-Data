@@ -23,4 +23,5 @@
 Additional Training Materials
 
 [Tech Talks By Partner Databricks Team](https://msit.microsoftstream.com/channel/ab4a9c80-628d-4265-90bc-cdc64d8f768a)
+[CSS Deep Dive](https://msit.microsoftstream.com/channel/14f7a3ff-0400-96d0-2373-f1ea8b2a483e)
  
