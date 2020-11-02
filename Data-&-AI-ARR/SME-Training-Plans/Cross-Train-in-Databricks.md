@@ -14,7 +14,7 @@
     - [Spark UI](https://msit.microsoftstream.com/video/d847a1ff-0400-aa75-1ee0-f1ea63d74d6e?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
     - [VNET](https://msit.microsoftstream.com/video/aa22bbce-9e93-4ad3-8e16-c9be5f107fea?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
     - [Rest API](https://msit.microsoftstream.com/video/c00da1ff-0400-aa75-9aee-f1ea63bcfc89?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
-    
+    - [JDBC / ODBC](https://msit.microsoftstream.com/video/38f7a3ff-0400-aa75-ba04-f1ea63e3d7f2?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
   
 
  
