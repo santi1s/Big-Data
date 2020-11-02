@@ -20,11 +20,12 @@
 3) Once completes above L200 and All recordings listed, schedule a Sync up with your TA and Manager to proceed with other pre-requisites and for the formal introduction to Databricks cases.
 
 
-## **Troubleshooting Training Materials**  
+## Training Materials for Troubleshooting 
 - [Tech Talks By Partner Databricks Team](https://msit.microsoftstream.com/channel/ab4a9c80-628d-4265-90bc-cdc64d8f768a)
 - [CSS Deep Dive](https://msit.microsoftstream.com/channel/14f7a3ff-0400-96d0-2373-f1ea8b2a483e)
 - [Preview Features](https://msit.microsoftstream.com/channel/9538a4ff-0400-96d1-24ed-f1ea8e4517b2)
 - [No Pubic IP - Overview & Architecture](https://msit.microsoftstream.com/video/dd6aa1ff-0400-9fb2-c37c-f1eb08ab9b8e?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
+- [Azure Databricks Power BI Connector](https://msit.microsoftstream.com/video/80cea3ff-0400-96f3-90d4-f1eaf900445a?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
 
 
  
