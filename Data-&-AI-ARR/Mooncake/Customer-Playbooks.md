@@ -1,4 +1,4 @@
-This Page list Mooncake customers having a separate playbook when handling cases
+Following are Mooncake customers with special care Playbooks
 
 
 |**Customer** **Name**|**Playbook** **URL**  |
