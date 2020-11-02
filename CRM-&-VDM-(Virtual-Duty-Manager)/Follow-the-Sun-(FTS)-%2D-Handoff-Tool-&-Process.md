@@ -104,6 +104,7 @@ Why?
 The regions must be in a chain.  Adding another region means:
 -	This requires you also have 4 support regions.
 -	R1 => R2 => R3 => R4 => R1
+-  AMER -> APAC -> India -> EMEA -> AMER
 -	Resources and counties must be assigned to R1 to R4.
 -       _Per CRM Lead: Clint Warriner_ 
 
