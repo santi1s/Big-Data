@@ -7,5 +7,5 @@
 
 ## Trainings for Troubleshooting
 
-- [HDInsight Cluster Internals](https://supportability.visualstudio.com/AzureHDinsight/_wiki/wikis/AzureHDinsight/279621/Training-Videos?anchor=channels-with-multiple-videos-and-independent-videos)
+- [HDInsight Cluster Internals](https://msit.microsoftstream.com/channel/e3bdea95-8458-4925-a51f-96181180ff2c)
  
