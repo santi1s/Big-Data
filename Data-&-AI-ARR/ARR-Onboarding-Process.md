@@ -1,3 +1,3 @@
-[ARR WIKI](https://aka.ms/arrwiki)
-This section contains information about the Azure Rapid Response organization and those teams with which ARR frequently collaborates. Look to the list of pages on the left to identify the subjects within this folder.
+Go to [ARR WIKI](https://aka.ms/arrwiki) 
 
+This section contains details about CSS ARR teams and associated processes.
