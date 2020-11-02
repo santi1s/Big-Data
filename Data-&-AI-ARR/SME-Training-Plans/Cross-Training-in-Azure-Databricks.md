@@ -1,4 +1,4 @@
-# **Path To Become  Databricks SME**
+## **Path To Become  Databricks SME**
 
 1) Complete Azure Databricks L200 Certification 
 [Databricks-L200.xlsx](/.attachments/Databricks-L200-2484b0dc-fb06-4f85-83ea-8d1fb3b76054.xlsx)
@@ -20,9 +20,11 @@
 3) Once completes above L200 and All recordings listed, schedule a Sync up with your TA and Manager to proceed with other pre-requisites and for the formal introduction to Databricks cases.
 
 
-Additional Training Materials
+## **Troubleshooting Training Materials**  
+- [Tech Talks By Partner Databricks Team](https://msit.microsoftstream.com/channel/ab4a9c80-628d-4265-90bc-cdc64d8f768a)
+- [CSS Deep Dive](https://msit.microsoftstream.com/channel/14f7a3ff-0400-96d0-2373-f1ea8b2a483e)
+- [Preview Features](https://msit.microsoftstream.com/channel/9538a4ff-0400-96d1-24ed-f1ea8e4517b2)
+- [No Pubic IP - Overview & Architecture](https://msit.microsoftstream.com/video/dd6aa1ff-0400-9fb2-c37c-f1eb08ab9b8e?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
 
-[Tech Talks By Partner Databricks Team](https://msit.microsoftstream.com/channel/ab4a9c80-628d-4265-90bc-cdc64d8f768a)
-[CSS Deep Dive](https://msit.microsoftstream.com/channel/14f7a3ff-0400-96d0-2373-f1ea8b2a483e)
-[Preview Features](https://msit.microsoftstream.com/channel/9538a4ff-0400-96d1-24ed-f1ea8e4517b2)
+
  
