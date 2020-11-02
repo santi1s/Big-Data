@@ -1,0 +1,1 @@
+Go to WIKI ["Strategic Customer Architecture Review Recordings"](https://msazure.visualstudio.com/AdvCloudEngSupport/_wiki/wikis/Azure%20ACE%20Wiki/43137/Strategic-Customers-Architecture-Review-Recordings) to get more details about Azure architecture for ESDP strategic customers
