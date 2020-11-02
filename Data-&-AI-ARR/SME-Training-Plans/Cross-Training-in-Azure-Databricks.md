@@ -17,6 +17,8 @@
     - [JDBC / ODBC](https://msit.microsoftstream.com/video/38f7a3ff-0400-aa75-ba04-f1ea63e3d7f2?channelId=0cabc0f0-94bb-4ce0-9da4-84209dfd756b)
 <br>
 
+2) [Spark Boot Camp](https://dev.azure.com/supportability/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/331721/Spark-Boot-Camp) 
+
 3) Once completes above L200 and All recordings listed, schedule a Sync up with your TA and Manager to proceed with other pre-requisites and for the formal introduction to Databricks cases.
 
 
