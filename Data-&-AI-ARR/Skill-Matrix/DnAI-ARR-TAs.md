@@ -3,7 +3,7 @@
 |--|--|
 | Ravi De Alwis | Databricks / Cosmos DB / HDInsight  |
 | Fernando Cobo | Azure SQL DB |
-| Mark Lane | Azure SQl VM |
+| Mark Lane | Azure SQL VM |
 | Luciano Moreira  | Cosmos DB  |
 | Thomas Bragalono |  |
 | Samir Vora   | Azure Data Factory  |
