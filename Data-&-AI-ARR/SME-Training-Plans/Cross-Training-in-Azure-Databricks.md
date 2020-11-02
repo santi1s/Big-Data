@@ -27,6 +27,7 @@
 - [No Pubic IP - Overview & Architecture](https://msit.microsoftstream.com/video/dd6aa1ff-0400-9fb2-c37c-f1eb08ab9b8e?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
 - [Azure Databricks Power BI Connector](https://msit.microsoftstream.com/video/80cea3ff-0400-96f3-90d4-f1eaf900445a?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
 - [Grafana/CSET Tool Training](https://msit.microsoftstream.com/video/65efa3ff-0400-9fb2-4990-f1eb0d848830?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
+- [Databricks Job Analyzer](https://msit.microsoftstream.com/video/8fe5a3ff-0400-9fb2-b4a5-f1eb097fdb42?channelId=2144a1ff-0400-9fb2-7494-f1eb098ec9c5)
 
 
  
