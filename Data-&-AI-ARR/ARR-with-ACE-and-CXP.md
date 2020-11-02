@@ -1,1 +1,1 @@
-[About ACE and CXP](https://supportability.visualstudio.com/AzureRapidResponse/_wiki/wikis/AzureRapidResponse.wiki/361521/1.3.-About-ACE-and-CXP)
+[About ACE and CXP](https://msazure.visualstudio.com/AdvCloudEngSupport/_wiki/wikis/Azure%20ACE%20Wiki/35969/Welcome-to-Azure-CXP!)
