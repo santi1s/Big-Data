@@ -1,11 +1,3 @@
-<table border="1";bgcolor="#ffa7a7";>
-<tr>
-  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
-vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
-
-<b> This page has an open work item! </b>
-If you would like to contribute, please follow up here:
-#5392
-</td>
-</tr>
-</table>
+::: video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/8113a4ff-0400-9fb2-8802-f1eb1d527193?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
