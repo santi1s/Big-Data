@@ -6,6 +6,8 @@ Azure Project Babylon, Data Catalog, is a fully managed cloud service. It lets u
 
 With Data Catalog, any user (analyst, data scientist, or developer) can discover, understand, and consume data sources. Data Catalog includes a crowdsourcing model of metadata and annotations. It is a single, central place for all of an organization's users to contribute their knowledge and build a community and culture of data.
 
+#**Official Project Babylon Wiki Page - Please Read**
+https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylon/297885/Welcome-(Please-Read)
 
 # **Training Materials**
 - [Azure Babylon Video](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
