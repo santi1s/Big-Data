@@ -17,6 +17,7 @@ If you would like to contribute, please follow up here:
 - <a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a> 
 - [DDX for Engineers](https://microsofteur.sharepoint.com/teams/CXD/SitePages/CXD-for-Engineers.aspx) which includes:  Intro, Procedural Support Engineer Trainings, and Customer Expected Behaviors Learning Path
 
+- [Case Management and L100 Technical Training Video Channel](https://msit.microsoftstream.com/channel/8113a4ff-0400-9fb2-4061-f1eb1dda1534)
  
 
 # Data Movement Technical Training
