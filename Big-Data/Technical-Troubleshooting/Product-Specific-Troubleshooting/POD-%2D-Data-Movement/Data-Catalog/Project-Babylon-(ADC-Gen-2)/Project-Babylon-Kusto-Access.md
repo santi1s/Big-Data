@@ -1,3 +1,3 @@
 - Go to [MyAccess](https://myaccess/) request access to following Projects
-- [TM-Babylon, ARM Logs]([https://armwiki.azurewebsites.net/troubleshooting/kusto/getting_access.html?q=kusto) 
+- [TM-Babylon, ARM Logs](https://armwiki.azurewebsites.net/troubleshooting/kusto/getting_access.html?q=kusto) 
 - [ARM Logs Useful queries]([https://armwiki.azurewebsites.net/troubleshooting/kusto/useful_queries.html) 
