@@ -9,14 +9,22 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 
 # **Training Materials**
 [Azure Babylon Video](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
+[Babylon demo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmsit.microsoftstream.com%2Fvideo%2Fb332a1ff-0400-aa75-8884-f1ea68ead103&data=04%7C01%7CTiffany.Fischer%40microsoft.com%7C0c8ce7c5af14449bd48b08d88006ba6e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637400113678618090%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=4uiVbl5Gov4oAWLVBuRplt2AHFtA6OrQNhG9LhXXb%2BA%3D&reserved=0)
+[CSS Wiki page & TSG](https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylon/297885/Welcome)
+[What is Project Babylon?](https://stackoverflow.microsoft.com/questions/170265/what-is-project-babylon)
+[Enabling data discovery using Babylon catalog, scanning and classification capabilities](https://stackoverflow.microsoft.com/questions/93290/what-is-the-status-of-azure-data-catalog/93291#93291) 
+[Babylon Presentation in 10 min - OK to present to customers under NDA](https://microsoft.sharepoint.com/:p:/t/ProjectBabylon/EdK0yo8dRvxEgRgJogbO8CEBjDNVnSTFhQ7u5cN15yoYeA?e=3hMjfd)
 How to Query Kusto Clusters -> Coming soon
 How to Create an IcM -> Coming soon
-[CSS Wiki page & TSG](https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylon/297885/Welcome)
+
+#**Documentation Request**
+Project Babylon Documentation
+https://github.com/Azure/Babylon
+
 
 # **Online Support Documentation**
 [Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
 [Azure Project Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
-
 [GitHub Docs Project Babylon Documentation](https://github.com/Azure/Babylon) 
  
 **Instructions for Access to GitHub Docs** 
