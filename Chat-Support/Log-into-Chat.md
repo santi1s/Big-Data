@@ -12,6 +12,8 @@
 
 ![image.png](/.attachments/image-9de696e6-7752-4300-81c0-13e339c6d84a.png)
 
+5. Now you are set to get chat if any customer selects chat modality for ADF topics. 
+
 
 **Set Notification Preference**
 
