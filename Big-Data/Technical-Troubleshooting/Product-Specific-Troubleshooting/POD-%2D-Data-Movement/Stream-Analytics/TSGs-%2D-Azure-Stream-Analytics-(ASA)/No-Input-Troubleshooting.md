@@ -190,3 +190,18 @@ OTHER TSG:
      - Check the Stream Analytics input (is it connected to the right IoT Hub with the right consumer group) and after submitting, check the automatic connectivity test.
 
 - If this does not work, please first output to an Event hub and connect that Event hub as an input for your Stream Analytics Job. You get more insights from that event hub.
+
+## CI/CD
+ERROR
+Unable to find assembly 'Microsoft.EventProcessing.SteamR.Sql, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+CAUSE
+I think the error on the Assembly looks like it might come from the Dev Ops Ci/CD side. The customer (that I was helping another SE with) was due to a deployment using CI/CD where either the ASA job needed to be stopped, or due to a bug in the Query file that they were trying to deploy.   
+
+1) Use diagnostic logging when troubleshooting
+
+2) Test Query in the test portal first
+
+3) Are they using The CI/CD NuGet or the latest npm, see the [Continuous integration and deployment overview](https://docs.microsoft.com/en-us/azure/stream-analytics/cicd-overview)?
+
+4) Although I have troubleshoot the CI/CD previously, I would possibly create a collab with the Dev Ops Teams to find more information about failed deployments.
