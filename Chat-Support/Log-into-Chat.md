@@ -4,7 +4,7 @@
 - alias@mft.support.microsoft.com
 - Please create a BTS ticket should you face any issue.
 -https://bts.microsoftcrmportals.com/ (Chatting with BTS team can get you a faster response)
-3. once logged in, you status is set to "Not Available" by default.
+3. Once logged in, Notice your status is set to "Not Available" by default.
 
 ![image.png](/.attachments/image-f5509ed0-51d2-4b3c-ae43-628e2173eec9.png)
 
