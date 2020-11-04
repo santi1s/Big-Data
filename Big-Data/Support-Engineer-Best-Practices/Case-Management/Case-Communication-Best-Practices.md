@@ -175,6 +175,11 @@ Your signature should always contain: Your email address, your title, your hours
 6. Click Okay
 ![image.png](/.attachments/image-381ef547-93a4-4c7a-b82a-16a131775e1b.png)
 
+
+### Email Signatures in Service Desk
+
+Service Desk does **NOT** automatically pick up your email signature, so when you reply in Service Desk, be sure to copy over your email signature at the bottom of the email.
+
 ## First Quality Response (FQR)
 
 **First Quality Response (FQR) is a new behavior for delivering initial response to the customer for CSS.** The focus is to ensure the first engagement with the customer is done by an Engineer that is prepared, personalizes a response, and intends to make progress towards resolving the customer’s issue. (We call this the **3 P's: Prepared, Personalized, Progress**).
