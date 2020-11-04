@@ -1,4 +1,4 @@
-1. Access chat using the below URL:
+1. Access chat using the below URL (make sure you open the browser in InPrivate browser mode):
 - https://servicedesk.microsoft.com/#/comm
 2. Login using your UPN credentials.
 - alias@mft.support.microsoft.com
