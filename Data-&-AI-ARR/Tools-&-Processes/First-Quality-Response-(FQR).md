@@ -1,1 +1,0 @@
-[First Quality Response (FQR) for ARR training videos](https://microsofteur.sharepoint.com/teams/DnECARRSupportBusiness/Shared%20Documents/Forms/AllItems.aspx?viewid=48ec9869%2D9de1%2D4ee5%2Dae28%2D4a5ac5cfab53&id=%2Fteams%2FDnECARRSupportBusiness%2FShared%20Documents%2FGeneral%2FSoft%20Skills%20Training)
