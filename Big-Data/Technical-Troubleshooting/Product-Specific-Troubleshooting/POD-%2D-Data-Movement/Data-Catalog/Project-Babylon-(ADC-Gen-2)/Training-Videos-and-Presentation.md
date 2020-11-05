@@ -17,6 +17,6 @@ https://microsofteur.sharepoint.com/teams/WorkloadCSA/SitePages/Babylon.aspx
 - Glossary [https://msit.microsoftstream.com/video/e868a1ff-0400-9fb2-a882-f1eb0c85ed29?list=studio]()
 - ADF Scan [https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-d549-f1eb0c841df2?list=studio]()
 - Babylon Lineage [https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-eae0-f1eb0c84580e?list=studio]()
-- Feature Flag[https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-c4bd-f1eb0c845ea5?list=studio]()
+- Feature Flag [https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-c4bd-f1eb0c845ea5?list=studio]()
 
 
