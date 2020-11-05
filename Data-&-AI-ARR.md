@@ -1,1 +1,1 @@
-Go to [DnAI ARR Big Data WIKI](aka.ms/DnAIARR)
+Go to [DnAI ARR Wiki](https://aka.ms/DnAIARR)
