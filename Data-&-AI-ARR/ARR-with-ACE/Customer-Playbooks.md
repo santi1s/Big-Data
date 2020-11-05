@@ -1,1 +1,0 @@
-Go to WIKI ["ESDP Customer Playbooks"](https://msazure.visualstudio.com/AdvCloudEngSupport/_wiki/wikis/Azure%20ACE%20Wiki/58808/Customer-Playbooks?anchor=all-esdp-customer-playbooks-are-linked-below%3A)
