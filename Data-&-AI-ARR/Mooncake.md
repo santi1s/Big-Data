@@ -1,1 +1,0 @@
-Go to [ARR CORE Mooncake Support Wiki](https://aka.ms/arrmooncake) to read more details about processes and best practices handling Mooncake escalations
