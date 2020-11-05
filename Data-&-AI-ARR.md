@@ -1,1 +1,1 @@
-Azure Rapid Response (ARR)
+Go to [DnAI ARR Big Data WIKI](aka.ms/DnAIARR)
