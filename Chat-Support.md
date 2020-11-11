@@ -67,7 +67,7 @@ Chat CSAT review tool  https://aceninjahubchat.azurewebsites.net/CSAT/Review#
 MSaaS tool Overview: https://web.microsoftstream.com/video/36f7a3ff-0400-a521-3903-f1eabf97e9c8
 Chat Engineer Playbook: https://web.microsoftstream.com/video/1ff5a3ff-0400-a521-ec5e-f1eac060dd05
 [For manager] Setting up insights we have notes on that here https://dev.azure.com/cssazurechat/AzureChatWiki/_wiki/wikis/AzureChatWiki.wiki/27/MSaaS-Service-Desk-TA-or-TM-setup-for-Chat-Insights
-## To Access, set up,  and enable Chat function within Service Desk  
+## Getting Started: How to Access, set up,  and enable Chat function within Service Desk  
 This is the link to instructions we leveraged to setup engineers but we need the Data queues and teams vs what is listed is VM or Net.
 https://dev.azure.com/cssazurechat/AzureChatWiki/_wiki/wikis/AzureChatWiki.wiki/29/MSaaS-Service-Desk-SE-setup-for-Chat
 
@@ -92,6 +92,7 @@ Please follow the below steps for the access requests:
 |Expected Behavior | Access to Service Desk, Please replicate MSaaS access of pamcbrid@microsoft.com |
  
 
-
+## How to / FAQ's
+- [Log into Chat](/Chat-Support/Log-into-Chat)
 
 
