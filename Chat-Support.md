@@ -16,7 +16,7 @@ Supportability lead: Deepti Vuppuluri
 - Sonic Tang leading this for Data Movement 
 - Supportability EEE: Brian Wang
 - POC's; 
-•	AMER: Azith Ganti, Dianna Flood, Azeez Oladejo
+•	AMER: Azith Ganti, Dianna Flood, Azeez Oladejo (pilot team) 
 •	EMEA: Gabriel Nespoli <Gabriel.Nespoli@microsoft.com>
 •	India: Ashish Shukla <Ashish.Shukla@microsoft.com>
 •	China: Vincent Yi <Wenqin.Yi@microsoft.com>
@@ -42,6 +42,11 @@ Supportability lead: Deepti Vuppuluri
 **For SQL Cloud** piloted first 
 - already active
 - for training Omeswar Reddy Danwada 
+
+## Long term plan / goal
+CSS ultimately owns the Cx experience, so CXD enabled chat for our Cx and will eventually be phased out.   Chat will like a call in or an email case. Over time will be be enabling more SAP's across all our products which chat is a better option.   
+
+We will need to figure out how to make Chat BAU, and able to move our teams in/out of Chat dynamically as volumes change bi-directionally. 
 
 ## Training: Chat Support 
 
@@ -97,4 +102,24 @@ Please follow the below steps for the access requests:
 ## How to / FAQ's
 - [Log into Chat](/Chat-Support/Log-into-Chat)
 
+**What do you do when your support Chat as a SE?**
+- Option 1: (preferred during 1st few weeks) At _**LEAST**_ a day before your going to be supporting Chat,  send an email to WFM Scheduling Team (wfms@microsoft.com)  to mark you "Research", CCing Lee, and the Leads (Whitney, Sundar, Alex) for all day on DATE (Month, Day, Year)
+- Option 2: When you _start your shift_ send a group Chat to the leads asking asking them to make you unavailable with the CRMBot since your supporting Chat that day.    Remember :
+- [ ] VDM won't assign you a case for the 1st 30 min of your schedule, so you if you didn't make the WFM request prior you'll need to do this.
+- [ ] You still could get asked to do a collaboration task since the DM uses RAT.  
+
+**How do I know who's supporting Chat when I am?** 
+enter Teams Channel please - Azeeth, Azith, Dianna
+
+**How do I know when I'm doing chat support?**
+pilot team is rotating daily and using an Excel spreadsheet 
+
+Can I work other cases or do other things? 
+technically no, we've got 15 seconds to respond to a Chat request.   However since  you've got multiple windows / screens theres alot of down time right now so you could work on training , eamil catch up , etc. as long as youre keeping an eye on Chat. 
+
+What do I do when I go on meal brake/ lunch since I'm Research in WFM now??
+enter Teams Channel please - Azeeth, Azith, Dianna
+## What to expect / Lessons Learned
+
+You need to keep your browser opened and on the Service Desk chat at all times.
 
