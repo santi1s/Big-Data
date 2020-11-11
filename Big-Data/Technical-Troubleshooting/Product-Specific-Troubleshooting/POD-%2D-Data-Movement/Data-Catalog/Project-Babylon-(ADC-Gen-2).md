@@ -27,9 +27,9 @@ https://github.com/Azure/Babylon
 
 
 # **Online Support Documentation**
-[Azure Project Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
-[Azure Project Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
-[APB Catalog Permissions](https://review.docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
+[Azure Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
+[Azure Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
+[ABC Catalog Permissions](https://review.docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
 [GitHub Docs Project Babylon Documentation](https://github.com/Azure/Babylon) 
  
 **Instructions for Access to GitHub Docs** 
