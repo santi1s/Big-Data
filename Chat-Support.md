@@ -12,7 +12,7 @@ Supportability lead: Deepti Vuppuluri
 - POC for AMER: Prashanth Madi 
 
 **For Data Movement**
--  currently piloting ADF with CxD in Oct,  with CSS to pilot in Nov
+-  Piloting ADF with CxD in Oct,  went live Nov 3rd. 
 - Sonic Tang leading this for Data Movement 
 - Supportability EEE: Brian Wang
 - POC's; 
