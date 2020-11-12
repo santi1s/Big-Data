@@ -10,8 +10,8 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylon/297885/Welcome-(Please-Read)
 
 # **Training Materials**
-- [Azure Babylon Catalog Introduction Video](https://msit.microsoftstream.com/video/7cf1a3ff-0400-b9eb-aa30-f1eb24b14b36)
-- [Azure Babylon Video](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
+- [Azure Babylon Catalog Introduction Video 11/20](https://msit.microsoftstream.com/video/7cf1a3ff-0400-b9eb-aa30-f1eb24b14b36)
+- [Azure Babylon Video 12/19](https://msit.microsoftstream.com/video/dd4a1df3-4a2e-4a7d-aa38-34ff99e92963)
 - [Babylon demo](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmsit.microsoftstream.com%2Fvideo%2Fb332a1ff-0400-aa75-8884-f1ea68ead103&data=04%7C01%7CTiffany.Fischer%40microsoft.com%7C0c8ce7c5af14449bd48b08d88006ba6e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637400113678618090%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=4uiVbl5Gov4oAWLVBuRplt2AHFtA6OrQNhG9LhXXb%2BA%3D&reserved=0)
 - [CSS Wiki page & TSG](https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylon/297885/Welcome)
 - [What is Project Babylon?](https://stackoverflow.microsoft.com/questions/170265/what-is-project-babylon)
