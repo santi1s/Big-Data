@@ -22,4 +22,4 @@ https://microsofteur.sharepoint.com/teams/WorkloadCSA/SitePages/Babylon.aspx
 |Babylon Lineage| https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-eae0-f1eb0c84580e?list=studio | 200 | 
 |Feature Flag | https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-c4bd-f1eb0c845ea5?list=studio | 200 |
 | APAC Brown Bag | https://web.microsoftstream.com/video/7cf1a3ff-0400-b9eb-aa30-f1eb24b14b36 | 200 |
-
+| Brown Bag Session 3 - Scanning | https://msit.microsoftstream.com/video/d72ca4ff-0400-b9eb-b9de-f1eb244f64a3 | 200 |
