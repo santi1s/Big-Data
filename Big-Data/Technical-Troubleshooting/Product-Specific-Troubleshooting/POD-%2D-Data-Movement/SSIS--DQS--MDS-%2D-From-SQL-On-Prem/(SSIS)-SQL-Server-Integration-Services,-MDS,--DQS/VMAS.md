@@ -52,7 +52,8 @@
    Super SQL St Alone 12 TO 17 Win 2012 ...
 
    ...
- 
+
+ ![templates.PNG](/.attachments/templates-c44e13d2-ffbb-4043-a60f-b2a724f27dbd.PNG)
 
 4) Name the Work Space and include the SD ticket number  
 
