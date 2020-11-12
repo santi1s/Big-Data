@@ -70,8 +70,8 @@ https://wagbsvmas/
 
 7) Troubleshooting 
 
-   - If there are any problems in making changes to template ask kuttka@microsoft.com 
+   - If there are any problems in making changes to template ask VMAS Help
 
    - Custom environment will need to install windows VM 3GB & then install SQL Server individually (SQL files found) computer->network->sqlbuilds->releases 
 
-   - VM cannot run for longer than 8 hours or extend quota for a week. ask  kuttka@microsoft.com 
+   - VM cannot run for longer than 8 hours or extend quota for a week. 
