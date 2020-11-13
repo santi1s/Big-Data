@@ -41,3 +41,10 @@ Note : New account will be created in a couple of hours.  Be sure to use Chrome 
 # How to request access for partner ticket systems including Genie access
 
 - [ ] http://aka.ms/partneraccess
+
+# How to request RAVE access
+https://internal.support.services.microsoft.com/en-us/help/4479873
+![image.png](/.attachments/image-6a98d121-bd07-4828-97ec-a5c24ed313fd.png)
+business justification "I'm a SE in Data Movement to support collabs and cases which are initiated within Rave. "
+
+
