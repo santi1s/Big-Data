@@ -167,9 +167,9 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits
 
 If SNAT Port Exhaustion is found
 This issue may occur when the code instantiates a connection client with each function invocation. This document https://4lowtherabbit.github.io/blogs/2019/10/SNAT/explains this situation in detail. 
-•     https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections
-•     https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/
-•     https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-intermittent-outbound-connection-errors
+•     [Manage Connections](https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections)
+•     [Improper Instantiation](https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/)
+•     [Troubleshoot Intermittent Outbound Connection Errors](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-intermittent-outbound-connection-errors)
 Resolution:
 •	Do not create a new client with every function invocation.
 •	Do create a single, static client that every function invocation can use.
