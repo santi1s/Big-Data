@@ -165,4 +165,15 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits
    - Get the App code from the customer to have available for the Function App SE
 10.  Additional resources for Function App TSG - https://supportability.visualstudio.com/AzureFunctions/_wiki/wikis/AzureFunctions.wiki/236911/readme
 
+If SNAT Port Exhaustion is found
+This issue may occur when the code instantiates a connection client with each function invocation. This document https://4lowtherabbit.github.io/blogs/2019/10/SNAT/explains this situation in detail. 
+•     https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections
+•     https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/
+•     https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-intermittent-outbound-connection-errors
+Resolution:
+•	Do not create a new client with every function invocation.
+•	Do create a single, static client that every function invocation can use.
+•	Consider creating a single, static client in a shared helper class if different functions use the same service.
+
+
 _More Details to come_
