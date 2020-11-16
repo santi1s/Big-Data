@@ -150,7 +150,9 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits
 1. [Intro to Function Apps in ASA - Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
 2. [Known Product Issues](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#known-issues)
 3.  Gather Preliminary Information
-    - Function app resource name (ask customer; not available in logs)
+    - ASA Output Function App Alias Name
+    - Service App resource name
+    - Function app name (ask customer; not available in logs)
     - Issue time frame (when events are output or errors occur)
 4. Check that ASA can connect to Function App in the Output Configuration
 5. Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
