@@ -51,9 +51,9 @@ Then copy the Object ID here
 
 ![image.png](/.attachments/image-f6b29d28-d0cd-42e3-8490-9e577f0dc517.png)
 
-###To modify the mask with Powershell
+###To modify the mask with Powershell 
 This is a small sample, but it sure works to edit / modify ACL
-==========================================================
+
 Entry ACL for MASK on ADLS gen1
 
 Set-AzDataLakeStoreItemAclEntry -AccountName "dyadlsg1" -Path /testadlstool -Acl "Mask::rwx" -Recurse -Concurrency 128 -ShowProgress -Verbose
