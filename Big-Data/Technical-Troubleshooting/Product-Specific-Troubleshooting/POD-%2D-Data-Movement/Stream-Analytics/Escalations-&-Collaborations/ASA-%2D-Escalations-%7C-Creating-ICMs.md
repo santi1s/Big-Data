@@ -33,7 +33,10 @@ From Azure Support Center:
 From ICM Site:
 Select the corresponding Owner:
 - Livesite DRI : Quota increase
+Request needs to contain both the SubscriptionId and Region(s) 
+Provide reasoning for request and the amount of the increase
 - CSS Escalation : Bugs, Feature Requests, RCA 
+Use ASC Template & Provide requested details as directed in the template.
 
 # Can I include the PG in emails and conversations?
 Product group members should not be involved in customer communications unless:
