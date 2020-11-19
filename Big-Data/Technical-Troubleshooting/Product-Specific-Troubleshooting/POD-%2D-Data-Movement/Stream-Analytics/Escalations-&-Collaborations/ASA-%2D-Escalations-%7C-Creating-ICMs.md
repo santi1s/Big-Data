@@ -25,7 +25,7 @@ All of these questions can be answered by your colleagues or the Subject Matter 
 1. If after the initial investigation you are unsure of how to proceed, we have a few options:
 1. Reach out to colleagues via [Teams](https://teams.microsoft.com/l/channel/19%3aed61c2064c6941d2988493b7cdce55d7%40thread.skype/z%2520-%2520Stream%2520Analytics?groupId=d6c5d9c8-f14e-4cb6-a79a-1874c3b84cb6&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47).
 1. If next steps cannot be determined after collaborating with colleagues on teams...
-1. Reach out to SMEs ([thussein](mailto:thussein@microsoft.com), and [camoisan](mailto:camoisan@microsoft.com)). SMEs can provide guidance on next action plan and determine if ICM is needed.
+1. Reach out to SMEs ([thussein](mailto:thussein@microsoft.com), and [tifische](mailto:tifische@microsoft.com)). SMEs can provide guidance on next action plan and determine if ICM is needed.
 1. If for some reason SMEs are not available, we have a [CSS & PG collab Teams channel](https://teams.microsoft.com/l/channel/19%3aaa42f7f4a4bd4daf88581ddc76faf624%40thread.skype/General?groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) where engineers can share troubleshooting findings with PG and determine if it is appropriate to open ICM. You can ping specific PG Engineers based on their [SME area](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/1049/Azure-Stream-Analytics-SMEs).
 
 # How do I open an ICM?
