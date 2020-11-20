@@ -15,7 +15,7 @@ You'll need the resource ID, region, and investigation timeframe.
 
 6. [Online Documentation to General Troubleshooting No Output](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output)
    - [Output not Produced by Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#output-not-produced-by-job)
-   - Output is delayed (https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed) 
+   - [Output is delayed](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-output#job-output-is-delayed) 
 
 7. Also, the Query may have filtering constraints that are too high such that it is filtering out all the data.
 
