@@ -1,4 +1,4 @@
-SAW workstation provides a Dev VM that allows them to access Corpnet stuff like the portal. 
+SAW workstation provides a Dev VM that allows them to access Corpnet resources like the portal. 
 Should be an icon called MSIT_WIN10 on desktop that allows access to a VM.
 
 If you are not able to log into the WIN10 Vm machine on your computer.
