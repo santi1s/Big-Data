@@ -22,6 +22,8 @@ If you have an engineer that is unable to complete automatic assignment of a cri
 
 ## AMER Process
 
+If the engineer still has some time left before their end of shift, wait 15-30 minutes and try assignment again; a resource may come available! If you do not have that time to wait, use the process below.
+
 1. **THIS STEP HAS NOT BEEN WORKING AS OF 11/16. Skip to Step 2.** Check this [VDM Resource Tool](https://crmglobal.corp.microsoft.com/GLBCRMSUP/WebResources/crmee_/Pages/CrmGlobal.ResourceSelection.html) to see who is available based on VDM's criteria.
 2. On the [CRM Global site](https://crmglobal.corp.microsoft.com/GLBCRMSUP/main.aspx#746218167) navigate to Collaboration, then 'Resource'. 
 ![image.png](/.attachments/image-6fb57c99-6ac4-4ddf-9458-c3e457e1ca63.png)
@@ -41,7 +43,7 @@ Scroll down to the 'Categories' section where you will be able to see the resour
 ![image.png](/.attachments/image-ffebedc8-3551-4e72-9646-9625b3f7ee03.png)
 **If there is 0 capacity under 'A'** then the user has already had a sev A case for the day, and if you are trying to assign a Sev A, that user should not be manually assigned to without asking them specifically.
 **If there is 0 capacity under 'Azure: Engineer (x/day)** then the user has already been assigned all their cases for that day and should not be manually assigned to without asking them specifically.
-**If there is available capacity under 'Azure: Engineer (x/day) and the correct Severity** then you can manually assign the case to that engineer.
+**If there is available capacity under 'Azure: Engineer (x/day) and the correct Severity** then you can use FTS to manually assign the case to that engineer.
 
 **If no engineers who are available in WFM have the correct capacity needed, the case may need to wait to be assigned until other engineers become available. Our Mindtree team comes online at 12pm EST and can generally absorb overflow.** 
 
