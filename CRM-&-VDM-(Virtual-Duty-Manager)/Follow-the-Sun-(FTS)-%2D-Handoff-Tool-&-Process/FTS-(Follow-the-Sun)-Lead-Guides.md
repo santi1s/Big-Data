@@ -43,7 +43,7 @@ Scroll down to the 'Categories' section where you will be able to see the resour
 ![image.png](/.attachments/image-ffebedc8-3551-4e72-9646-9625b3f7ee03.png)
 **If there is 0 capacity under 'A'** then the user has already had a sev A case for the day, and if you are trying to assign a Sev A, that user should not be manually assigned to without asking them specifically.
 **If there is 0 capacity under 'Azure: Engineer (x/day)** then the user has already been assigned all their cases for that day and should not be manually assigned to without asking them specifically.
-**If there is available capacity under 'Azure: Engineer (x/day) and the correct Severity** then you can use FTS to manually assign the case to that engineer.
+**If there is available capacity under 'Azure: Engineer (x/day) and the correct Severity** then you can [use FTS to manually assign the case to that engineer.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=select-resource)
 
 **If no engineers who are available in WFM have the correct capacity needed, the case may need to wait to be assigned until other engineers become available. Our Mindtree team comes online at 12pm EST and can generally absorb overflow.** 
 
