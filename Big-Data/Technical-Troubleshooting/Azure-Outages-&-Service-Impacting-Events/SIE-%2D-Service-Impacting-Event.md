@@ -171,6 +171,10 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 
    - For a scenario where a different TZ is monitoring the SIE cases and doesn’t own them, when the “Inbound email” column says “yes”, the case must be yanked in order for action to be properly reflected on Service Desk, i.e., SIE “Inbound Email” to change status
 
+9. Use Casebuddy to meet SLA
+
+![image.png](/.attachments/image-6ef3cf2f-1445-4c60-8ec9-818fb3beff6d.png)
+
 9. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
 
 10. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
