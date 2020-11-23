@@ -175,9 +175,13 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 
 ![image.png](/.attachments/image-6ef3cf2f-1445-4c60-8ec9-818fb3beff6d.png)
 
-9. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
+10. Right click on cases with pending SLA  and use "open in Casebuddy" to meet SLA
 
-10. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
+![image.png](/.attachments/image-a06bf2f2-db5a-4c32-a34b-fa01f6a2121d.png) 
+
+11. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
+
+12. In order to identify if any customer is still impacted post mitigation, keep checking cases with "Inbound Email" column "Yes":
 
 
 
@@ -191,9 +195,9 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 
 - If customer's SLA for service uptime has been violated AND customer has requested a refund, create a task to ASMS team so that they can create a new case on behalf of customer and then we can close this case.
 
-11. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
+13. Once RCA is ready send out closing communication, which should clearly state that the case is going to be closed in 24 hrs
 
-12. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
+14. Add appropriate Root Cause Classification found under "Cloud Event (SIE)" tree.
 
 13. Continue checking the SIE list for incoming emails from CX and reply accordingly
 
