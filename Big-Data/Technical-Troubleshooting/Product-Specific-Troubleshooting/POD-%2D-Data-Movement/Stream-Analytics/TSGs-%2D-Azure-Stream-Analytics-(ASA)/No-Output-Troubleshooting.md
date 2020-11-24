@@ -122,6 +122,8 @@ The CosmosDb Cassandra feature is not yet available to use with ASA, but it is i
 By default from cosmosdb service side we set maxitem retrieval count to 100 & 40 MB limit.  The customers can change maxitemcount to be retrieved to other value using function mentioned in link https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.documents.client.feedoptions.maxitemcount?view=azure-dotnet
 
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-documentdb-output 
+
+**TSG**
 1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
 2. Review ASA Job Signals graph for latency on output.
 3. Review CosmosDB App Lens for Throttling and Latency.
