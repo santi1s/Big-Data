@@ -1,6 +1,6 @@
 **What:**  What to do when your on-call for a week.   
-For Regular on call: Typically will only be CritSits/Sev A, or escalations which a on-call manager has approved, The Duty Manager will call you. 
-For FYEY/USNAT on call:  For any case which falls in the FYEY queue, the special duty manager will call you directly.  
+For **Regular** on call: Typically will only be CritSits/Sev A, or escalations which a on-call manager has approved, The Duty Manager will call you. 
+For **FYEY/USNAT** on call:  For any case which falls in the FYEY queue, the special duty manager will call you directly.  
 For Data Movement, the FYEY/USNAT on-call rotation is also considered the backup on-call, since most of the engineers aren't skilled on all 10 products. 
 
 **Who:**   Depth Queue and ARR*,  typically after an SE has handled at least one CritSit and has comfortably with all the services within the POD (Data Movement has the most services)  . For FVEY, those who can take Restricted cases like USNAT, Azure Gov in the United States and UK. 
@@ -14,7 +14,7 @@ Monday morning the Duty Manager on-call team will start sending reminder emails 
 **Why:**  CSS Big Data / CSS Data Movement needs to have an on call per POD for times during our NA (North American) region's timeslot if we don't have a a have scheduled engineer(s) or Mindtree to handle the case volume.   This is also our "backup" in the event we need SE's to stay late or come in early, additional volume spikes.  
 
 **When:**    For both on-call rotations starts every Friday and runs to Thursday the following week.  
-For Regular on-call its for Americas timeblock **9:00 AM PST to 4:59 PM PST**.   For FVEY its 24/7.   
+For **Regular** on-call its for Americas timeblock, M-F.   For **FVEY** its 24/7.   
 However, since the majority of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun,  (updated 5/12/2020 - typo)
 
 America's Region (NA / ATZ / AMER) Time block relative to On-Call is: 9:00 AM PST to 4:59 PM PST
@@ -31,7 +31,7 @@ FYI here's how it rolls up for all Data and AI: https://msit.powerbi.com/groups/
 
 
 **What's expected when your on call?**
-- your 1 of 4 SE's who are the on-call "Hive".  to support customers and peers in both an on-call and backup capacity.; 
+- your 1 of 4 SE's who are the big data on-call "Hive".  to support customers and peers in both an on-call and backup capacity.; 
 - Answer your phone from the Duty Manager when they call and work that case. 
 - before Monday please populate our new on-call log form for each call you have to take action with case, date, time, customer name, severity : http://aka.ms/oncalllog 
 - emails from various duty manager teams validating whos on call.   
@@ -67,20 +67,25 @@ https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/
 
 
 **High Level Process:**
+. For FYEY- review specific Teams and Quques , guidelines for after hours support (link here) 
 . Review the http://aka.ms/bigdataoncall  periodically to see when your on the rotation (this will change )
 . 2 weeks prior engineers who are 2 weeks out are CCed on on-call email
 . week of - Mon-Tues, FROM DUTY MANAGER TEAM, well send out a separate email to everyone whos on call for the following week. email subject "Data and AI After Hours Support Schedules for DATE"
 . week of - Weds, of week of a heads up email to on call "hive" notification of on call and basic info 
-. on call start - Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
-. HOPEFULLY - DM reviews WFM and RAT to see if Americas has an engineer working that shift before engaging the on-call. 
-1. case requires call out anytime Friday we don't have an engineer to support a case, which is typically Saturday/Sunday, between 9AM and 6PM PST
+. On call start - Fri morning, Manager updates the on call names and numbers a in freedomvoice for Americas, and updates hive via email this is complete. You can test this by calling 888-242-7001, then 881-4 for your POD your on call to verify it works.
+. HOPEFULLY - DM reviews WFM and RAT to see if Americas has an engineer working that shift before engaging the on-call.  If your POD is on VDM, you've most likely have an engineer working America's Time of day. 
+1. case requires call out anytime Friday we don't have an engineer to support a case, which is typically Saturday/Sunday, between 9AM and 6PM PST, 
 2. Duty Manager calls out On-call Manager (1 of 18 Managers from Data and AI), 1-800-242-7001, option 86 and approves call out to which team. 
 3. Duty Manager looks at http://aka.ms/bigdataoncall (well email generated off it a few days before Friday) and calls 1-800-242-7001, and based on which POD / Service puts in either 881, 882, 883, or 884. which call forwards to the mobile number based on Friday date and POD, and which engineer is listed. 
-FYI - Fridays your number is put into one of the following Freedom Voice mailmox (call forward)
+FYI - Fridays your number is put into one of the following FreedomVoice mailboxs (call forward)
 881       HDInsight
 882       Data Movement
 883       Database
 884       Databricks
+888       FVEY / USNAT Big Data-Database POD
+879       FVEY / USNAT Data Movement POD
+864       FVEY / USNAT Big Data-HDInsight POD
+858       FVEY / USNAT Big Data-Spark POD, Databricks
 
 4.  SE answers call and works case to delight our customer.  If case needs to be handed off to APAC, ping DM a few minutes before the end of the Americas time block so they initiate a call out (1st to APAC on-call manager, who oks call out to on-call engineer, etc) then work with DM/APAC engineer to hand off case. 
 5. populate the on-call form http://aka.ms/oncalllog 
