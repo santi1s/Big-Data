@@ -1,21 +1,30 @@
 **What:**  What to do when your on-call for a week.   
-Typically will only be CritSits, or escalations which a on-call manager has approved. 
+For Regular on call: Typically will only be CritSits/Sev A, or escalations which a on-call manager has approved, The Duty Manager will call you. 
+For FYEY/USNAT on call:  For any case which falls in the FYEY queue, the special duty manager will call you directly.  
+For Data Movement, the FYEY/USNAT on-call rotation is also considered the backup on-call, since most of the engineers aren't skilled on all 10 products. 
 
-**Who:**   Depth Queue and ARR,  typically after an SE has handled at least one CritSit and has comfortably with all the services within the POD (Data Movement has the most services) 
+**Who:**   Depth Queue and ARR*,  typically after an SE has handled at least one CritSit and has comfortably with all the services within the POD (Data Movement has the most services)  . For FVEY, those who can take Restricted cases like USNAT, Azure Gov in the United States and UK. 
+*as of Nov 2020, ARR has begun staffing over the weekends for most products, so they are slowly phasing out of on call rotations. 
 
 **How:**   Via a spreadsheet which has the rotation per POD. 
-Each region has a spreadsheet (rotation) which is pulled every 3 hours that generates  the on-call for all Data and AI teams into a BI web portal. 
+Each region has a spreadsheet (rotation) which is pulled every 3 hours that generates the on-call for all Data and AI teams into a BI web portal.  (aka.ms/bigdataoncall) 
+Monday morning the Duty Manager on-call team will start sending reminder emails based off the BI web portal.  If you're on the list you'll get the email. 
 
-**Why:**  CSS Big Data needs to have an on call per POD for times during our NA (North American) region's timeslot and we don't have scheduled engineers.   This is also our "backup" in the event we need SE's to stay late or come in early. 
 
-**When:**   On call rotation starts every Friday and runs to Thursday.   However since the majority of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun, **9:00 AM PST to 4:59 PM PST**.  (updated 5/12/2020 - typo)
+**Why:**  CSS Big Data / CSS Data Movement needs to have an on call per POD for times during our NA (North American) region's timeslot if we don't have a a have scheduled engineer(s) or Mindtree to handle the case volume.   This is also our "backup" in the event we need SE's to stay late or come in early, additional volume spikes.  
 
-America's Region (NA / ATZ / AMER) Time block is:
-**9:00 AM PST to 4:59 PM PST**
+**When:**    For both on-call rotations starts every Friday and runs to Thursday the following week.  
+For Regular on-call its for Americas timeblock **9:00 AM PST to 4:59 PM PST**.   For FVEY its 24/7.   
+However, since the majority of our staff is scheduled Monday though Friday as well as all the other regions, your really just on call for Sat and Sun,  (updated 5/12/2020 - typo)
 
-**On call schedule here:**  http://aka.ms/bigdataoncall 
- NA (orange) blocks is us. 
+America's Region (NA / ATZ / AMER) Time block relative to On-Call is: 9:00 AM PST to 4:59 PM PST
 
+Note, Azure North America support hours are 6AM to 6 PM PDT/PST, M-F. 
+
+**On call schedule:**  http://aka.ms/bigdataoncall  NA (orange) blocks is us. 
+Big Data (HDI/DB/Databricks) :  https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/ReportSectionf3d413d302a9b5717a58
+Data Movement : https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/ReportSection1a0f70142a39fa9f7f8b
+FYEY: https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/ReportSection06305dbf4819cb6012c7
 
 FYI here's how it rolls up for all Data and AI: https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/ReportSection5cbf5b59d218d279ceee
 
