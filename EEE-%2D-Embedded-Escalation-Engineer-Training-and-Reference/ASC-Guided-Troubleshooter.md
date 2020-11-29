@@ -69,10 +69,8 @@ Content and Customer Message would be the text that will be presented in each of
 - Every Content Step title should ideally start with “Check if…” or “Check for” if possible, and every Content Step Sub-title should ideally start with “How to…”.
 
 ##Step 4 - Publish content into the repositories
-This step is easy – just zip up everything you created and send them to **JR Mayberry (rimayber)** for now.  He will post them to the appropriate repo.
- 
-**Note:** 
-You can also follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own through forking SelfHelp and submitting a PR. 
+
+Please follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own through forking SelfHelp and submitting a PR. 
 
 
 It is likely you will need to re-iterate on content to adjust formatting, fix spelling errors, etc. 
