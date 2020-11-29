@@ -1,8 +1,9 @@
----
-##**Note:** For step 4, please follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own. 
+
+##**Note:** For [step 4](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/337043/ASC-Guided-Troubleshooter?anchor=step-4---publish-content-into-the-repositories), please follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own. 
 
 -----
 
+#Overview
 Guided troubleshooters enable to stitch together Insights and Content into a Workflow that efficiently guides the users through the series of steps required to diagnose a problem.
 
 ![1.png](/.attachments/1-2c4ffb81-bc51-49f0-8724-eca0a4ded74b.png)
