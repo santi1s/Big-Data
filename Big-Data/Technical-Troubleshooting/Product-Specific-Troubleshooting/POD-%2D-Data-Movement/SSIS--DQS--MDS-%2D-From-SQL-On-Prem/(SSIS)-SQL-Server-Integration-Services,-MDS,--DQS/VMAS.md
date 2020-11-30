@@ -2,7 +2,7 @@
 https://wagbsvmas/ 
 - [VMAS Teams Channel](https://teams.microsoft.com/l/team/19%3aafb9ad2caed345d1ad1f5840cebf30d7%40thread.skype/conversations?groupId=6c735961-0467-4bf0-ba51-4244910b8ed8&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)  
 - [VMAS Video Tutorial](https://msit.microsoftstream.com/video/3dd4a3ff-0400-9fb2-db3d-f1eb083ca537) 
-- [VMAS Help](https://aka.ms/vmashelp ) (Submit a request for CSS Users & External Cloud Users)
+- [VMAS Help](https://aka.ms/vmashelp ) (Report an Incident)
 - Other VMAS Questions VMASSPRT@microsoft.com 
  
 
