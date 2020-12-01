@@ -28,17 +28,17 @@ If the engineer still has some time left before their end of shift, wait 15-30 m
 2. On the [CRM Global site](https://crmglobal.corp.microsoft.com/GLBCRMSUP/main.aspx#746218167) navigate to Collaboration, then 'Resource'. 
 ![image.png](/.attachments/image-6fb57c99-6ac4-4ddf-9458-c3e457e1ca63.png)
 Then at the top of the page click the filter button. 
-![image.png](/.attachments/image-0ace1e48-e63c-4fa8-b334-78034b3d686b.png)
+
 Then select 'Saved Views' and use the select the AMER view for the correct technology for the case's support area path. 
-![image.png](/.attachments/image-a4634069-6af5-4439-8cb0-eeabc22f23eb.png)
-![image.png](/.attachments/image-2c01a60c-62a2-45f8-ba37-91bff6c690a3.png)
+
+![image.png](/.attachments/image-d7b60fc4-ac46-46ba-a08c-449de2a8fd11.png)
 Select 'Results' to see the full list. **This view only shows what resources take that kind of case and not who is available.**
 ![image.png](/.attachments/image-d1a97275-496e-4759-b8c4-27669977d2e5.png)
 3. Compare your list from step 2 with [WFM to see who is currently online for your pod.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-WFM-Schedule-Per-POD)
 4. For a user who is aligned with the correct technology and currently available in WFM check their capacity to see how many cases they have already been assigned by: On the [CRM Global site](https://crmglobal.corp.microsoft.com/GLBCRMSUP/main.aspx#746218167) in the top, black bar select the magnifying glass and search the name or alias of the user you would like to check.
 ![image.png](/.attachments/image-9fcf999c-3433-4847-af72-e2df87a5a27c.png)
 Select the user under "Bookable Resources"
-![image.png](/.attachments/image-2aadc87f-0f72-4e3e-99c1-5037c03df3ed.png)
+![image.png](/.attachments/image-f6663f45-839f-4af2-b640-ec88139ab148.png)
 Scroll down to the 'Categories' section where you will be able to see the resource's current capacities for the day. Under the 'Available Capacity' column you will see how much capacity the resource has available that day.
 ![image.png](/.attachments/image-ffebedc8-3551-4e72-9646-9625b3f7ee03.png)
 **If there is 0 capacity under 'A'** then the user has already had a sev A case for the day, and if you are trying to assign a Sev A, that user should not be manually assigned to without asking them specifically.
