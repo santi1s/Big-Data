@@ -20,11 +20,8 @@ _Do we have your consent to access data surrounding this job to troubleshoot thi
 # Visual Studio Tools
 
 ## Install Visual Studio Tools
-1. Download Visual Studio 2015 Enterprise with update 3
-https://my.visualstudio.com/Downloads/Featured  
-2. Download and install the Latest Data Lake tools for CSS (these are different than the public tools).
-If you are connected to corp-net, put the below address into your file explorer:
-\\cosbj-01\public\Kona\DRI\2017-06
+
+Go to step 3 on this page to install the latest tools: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/276227/Support-Training
 
 ## Using Visual Studio Tools
 
