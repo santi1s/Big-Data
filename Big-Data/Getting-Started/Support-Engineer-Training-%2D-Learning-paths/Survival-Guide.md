@@ -12,6 +12,8 @@ If you feel like you're drowning, start here.
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/5defa3ff-0400-a521-41cd-f1eac15c2b6d?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
 
+**Slide Deck:** [Survival Guide.pptx](/.attachments/Sanity%20Deck-a05132f5-d80f-4f61-ab7b-3054a191c965.pptx)
+
 # Good Behaviors
 Things you can start doing right now to make your work life better.
 
