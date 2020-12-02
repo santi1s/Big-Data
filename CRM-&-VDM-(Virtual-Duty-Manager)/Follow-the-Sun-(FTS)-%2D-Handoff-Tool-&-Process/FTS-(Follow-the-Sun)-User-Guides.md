@@ -144,7 +144,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 
 2. If 'Call Back Required' was "Yes" also fill out the "Call Back Time" field below.
 **Note: This time is in UTC time.**
-![image.png](/.attachments/image-9ad09d79-fa6d-4639-b060-17191aa4529d.png)
+![image.png](/.attachments/image-ea690e30-4733-4543-bfb8-255c73f1f1cc.png)
 
 3. Fill out 'Action On' with one of the three available options, depending on whose action is next for the case.
 ![image.png](/.attachments/image-402805c0-75f7-4582-8a74-4bc1531bb9cc.png)
