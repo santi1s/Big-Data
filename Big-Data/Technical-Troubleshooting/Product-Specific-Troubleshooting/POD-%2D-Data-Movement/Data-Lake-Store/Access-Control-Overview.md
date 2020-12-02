@@ -100,7 +100,7 @@ You can find the mask settings on any file/folder by going to Access -> Advanced
 The mask limits access for named users/groups (users/groups that have been granted ACL permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.), but NOT the owning user (which is the user listed under "Owner" on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
 
 For example, in this image:
-![image.png](/.attachments/image-e25a8fbb-d974-4ff7-a1d7-3710e1a0c1f1.png)
+![image.png](/.attachments/image-1118e130-09f1-4073-b770-73a24d89df9f.png)
 
 The mask is listed as --X, so even though whhenderTestSP, whhenderintadfv2, and whhendertestgroup3 are listed as having RWX under 'Assigned Permissions', the mask has created an effective permission of --X for all of them. Whenever whhenderTestSP, whhenderintadfv2, or whhendertestgroup3 interacts with this folder, it will only have --X permissions.
 
