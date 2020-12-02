@@ -163,7 +163,7 @@ You can add any one of those three links to your own notes, or provide those lin
 
 ### Logs Pane
 The Logs Pane is the center pane in Jarvis, and after you run your query, it will contain all the logs retrieved. The view will be filtered by the results filters at the top of the page. Here you can view and filter the data, select what columns to see, organize data by column, or download the data.
-![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-f4aa635b-7015-4583-82f7-198cd42688a4.jpg)
+![image.png](/.attachments/image-1d030d60-65d0-4804-a414-672e1fd9c0f8.png)
 
 
 **The Logs**
@@ -199,7 +199,7 @@ If you want to remove any of these filters, you can mouse over the number beside
 
 ### Aggregates Pane
 The Aggregates Pane is the right-hand pane in Jarvis, and can be used to aggregate data in your query by column.
-![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-01eeedbf-6a68-432e-8d7a-f36ca45ae7d9.jpg)
+![image.png](/.attachments/image-2de29b3e-4a9f-4f39-aff4-85c721108019.png)
 
 Add any aggregates by selecting the '+' button.
 ![image.png](/.attachments/image-5c74ca47-cff5-4c21-8755-e220ba00e168.png)
