@@ -103,7 +103,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 
 
 # Fill Out FTS Request
-![Screenshot 2020-10-12 143822.png](/.attachments/Screenshot%202020-10-12%20143822-2f67e3f3-202b-411a-9e90-bc026f76ec39.png)
+![image.png](/.attachments/image-e582a82f-70d8-49ef-b965-aa84d399393f.png)
 
 1. Stages Section - Takes you through each stage to ensure completion of FTS request.
 2. FTS Request - Full FTS request which will be filled out by completing stages above.
