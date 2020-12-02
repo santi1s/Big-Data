@@ -35,7 +35,7 @@ The URL in the browser will **NOT** link to your specific request.
 
 If you want to send a link to your specific request to someone, either in email or in chat, you'll need to use this "email a link" button in the FTS request, which will open a new email that contains the actual link.
 
-![image.png](/.attachments/image-6170dc38-03bc-4e06-aaff-b9a75e5a0957.png)
+![image.png](/.attachments/image-ed24d50d-1f03-4abd-8ae5-b17e278771fb.png)
 
 # Handover Call Pages
 
