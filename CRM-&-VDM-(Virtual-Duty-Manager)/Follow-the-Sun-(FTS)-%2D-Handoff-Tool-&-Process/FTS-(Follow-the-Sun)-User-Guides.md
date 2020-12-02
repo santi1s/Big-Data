@@ -61,7 +61,7 @@ These requests are added by one of two methods.
 
 Below is a description of all the parts of the handover menu.
 
- ![image.png](/.attachments/image-f36bb479-539d-4859-84d4-d6071e58d3d6.png)
+![image.png](/.attachments/image-d7f9578b-0669-4c97-8e54-3b9a901b9c20.png)
 
 1.	General handover call time and information.
 2.	Handover meeting URL. (This is a link to our existing handover teams meetings.)
