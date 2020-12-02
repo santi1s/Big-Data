@@ -208,7 +208,7 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 ![image.png](/.attachments/image-d964cb44-f44a-489e-b784-1f1be033a55a.png)
 
 4. If you chose "Manual" select a resource to transfer the case to using the search button. A list of engineers in the next region should appear, but you may also search by name. After selecting an engineer choose "Next Stage" to proceed.
-![image.png](/.attachments/image-53c32075-e71c-44df-bf51-5644cd477d77.png)
+![image.png](/.attachments/image-5c82349a-0ab8-466a-820b-79f70875beb4.png)
 
 5. If you chose "Automatic" simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region. **It takes about 30 seconds-1 minute to complete this process, and the page looks like it is hanging. Just wait.** There is a little "Saving" icon in the bottom corner to show you that it is working.
 ![image.png](/.attachments/image-c8c1f341-7b6b-4207-9f1b-049a5ed4cecc.png)
