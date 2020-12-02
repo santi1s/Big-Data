@@ -9,7 +9,7 @@ This is **Data Movement** FTS Portal, hosted on the best practices wiki
 
 **Data Movement's [FTS (Follow the Sun) Overview.pptx](/.attachments/FTS%20(Follow%20the%20Sun)%20Overview-38f63ade-0548-439f-83e1-64c9e130436d.pptx) Guide**
 
-**Background of CRMGlobal FTS as a platform:** [CRMGlobal Platform FTS Focus.pptx](/.attachments/CRMGlobal%20Platform%20FTS%20Focus-7d6d8575-4d65-4fd3-8cdc-087c6592047d.pptx) Clint Warriner 4/2/2020
+**Background of CRMGlobal FTS as a platform:** [CRMGlobal Platform FTS Focus.pptx](/.attachments/CRMGlobal%20Platform%20FTS%20Focus-7d6d8575-4d65-4fd3-8cdc-087c6592047d.pptx)
 
 
 
@@ -106,7 +106,7 @@ The regions must be in a chain.  Adding another region means:
 -	R1 => R2 => R3 => R4 => R1
 -  AMER -> APAC -> India -> EMEA -> AMER
 -	Resources and counties must be assigned to R1 to R4.
--       _Per CRM Lead: Clint Warriner_ 
+
 
 ## Overview Training Video for Team Leads
 
