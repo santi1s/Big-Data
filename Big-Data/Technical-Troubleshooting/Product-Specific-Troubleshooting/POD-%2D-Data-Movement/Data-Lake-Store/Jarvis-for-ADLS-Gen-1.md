@@ -27,7 +27,8 @@ When you open Jarvis, it is divided up into three main sections, which we will c
 ### Server Query Pane
 The Server Query Pane is the pane on the left hand side of the page, and has all the information you will use to query your data.
 Here we can create our queries and gather the link to a specific query to share with others, or to bring up later.
-![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-d86cc34f-f7c0-44fd-b02d-88ab408a89f2.jpg)
+![image.png](/.attachments/image-7208c240-0e86-4c89-9229-8ed9fb583ee1.png)
+
 **Endpoint**
 The Endpoint option in Jarvis is essentially the logs 'Server' we are pointing our query to in Jarvis.
 For ADLS, you will use 'Diagnostics PROD'
