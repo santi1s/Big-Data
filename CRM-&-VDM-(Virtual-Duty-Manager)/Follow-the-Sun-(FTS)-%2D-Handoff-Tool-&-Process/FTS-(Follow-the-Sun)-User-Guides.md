@@ -227,10 +227,10 @@ Let us say, for example, you have a case in EMEA that needs to skip AMER and go 
 You can use FTS to perform this transfer.
 
 1.  You fill out your FTS transfer as normal, and in the “Transfer To” section, you pick **the next region** Choose the next handover call and the next region, as the case will still need to pass through that region to get to the region you need. So for our example, you would still choose “Americas” as the next region, and the EMEA->AMER handover call as the next handover call.
- ![image.png](/.attachments/image-e0471cbc-d03f-40fb-baa1-60b48f0ed6a6.png)
+ ![image.png](/.attachments/image-e05f83d3-9d47-4dc7-9472-0dbf1bbfe9c3.png)
 
 2. Fill out the rest of the transfer as normal, and in the summary notes specify that the case needs to skip a region and why.
- ![image.png](/.attachments/image-f5c13872-1f29-43f7-93d4-7de8187018e6.png)
+ ![image.png](/.attachments/image-15e216b1-dd66-4765-813d-cdaa2634900e.png)
 
 3. Then in the “Select Resource” Section the Lead will see that the case needs to skip the region and choose “Skip”. The transfer will then skip the region and be moved to the next, where the leads can choose to process the assignment for that region.
 ![image.png](/.attachments/image-28bcc69c-8cb3-4fc9-accd-3ba685b54722.png)
