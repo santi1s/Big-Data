@@ -14,7 +14,7 @@ You will find in the below meeting recording suggestions and tips about Azure De
 ##**Azure DevOps queries:**
 • Click on [this link](https://dev.azure.com/Data-AI-Supportability/Supportability/_queries?tempQueryId=ac4594b0-c61e-461f-ad97-be55a6fd79a2) to have access to the query with your Product Backlog Items and Tasks: 
 • After having access tot the query make sure you change the value to your email in the Assigned To and Created by fields. 
- ![2020-03-19_10h51_09.png](/.attachments/2020-03-19_10h51_09-82c8d52c-07ac-46c9-a071-ab51da101f0c.png)
+![image.png](/.attachments/image-9fa8e70c-3d45-4ab9-99df-99930c9fb3d8.png)
 
 
 ##**Power BI dashboards:**
