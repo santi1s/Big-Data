@@ -95,7 +95,7 @@ If any other users needed to be granted automatic access to new files and folder
 The Mask on an ADLS File/Folder is essentially **effective permissions** on that file or folder.
 You can find the mask settings on any file/folder by going to Access -> Advanced, and then beneath the Default permissions is the mask.
 
-![image.png](/.attachments/image-33e0010d-c21f-4a4e-9069-3d3adc59a805.png)
+![image.png](/.attachments/image-6579b649-0707-47aa-807b-cbdcd5c19a75.png)
 
 The mask limits access for named users/groups (users/groups that have been granted ACL permissions to that file/folder), and the owning group (which is the group/second value listed under Owners on the Access menu.), but NOT the owning user (which is the user listed under "Owner" on the Access menu.) Users can have _fewer_ permissions than the mask has listed, but users can never have _more_ permissions than the mask has listed. 
 
