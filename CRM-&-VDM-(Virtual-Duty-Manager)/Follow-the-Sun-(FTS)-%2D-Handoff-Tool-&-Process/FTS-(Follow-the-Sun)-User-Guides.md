@@ -163,7 +163,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 ## Ensure Summary
 1. Ensure summary is the space for your transfer justification notes. They can be entered in the Ensure Summary field or in the summary field below.
 _(If you have already entered summary notes, just click the field next to 'Ensure Summary' then proceed.)_
-![image.png](/.attachments/image-ee04983f-536c-4c41-a6cf-d550d1065482.png)
+![image.png](/.attachments/image-17cc015e-8aeb-4908-a790-7f19eebd20ad.png)
 
 2. Please fill out your summary using the [notes template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) below.
 The summary notes should explain why the case needs to be transferred and what urgent next steps are, to help the transferring engineer make an accurate decision.
