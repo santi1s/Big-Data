@@ -9,7 +9,7 @@
 | Azure Data Factory                  | Jackie Huang(jiaqhuan) | Keiichiro Wakasa (kewaka)          | Yassine Mzoughi (mzyassin), Pedro Martins (pemar)                                                                          | Jijo Puthooran (JIPUTHOO)   | Sundar Easwaran (seaswara), Alex Blaine (alexbla)       |   |
 | Azure Data Lake Analytics/Store     | Yvonne Zhang(yuzhang4)      | Seongeun Kim (sekim)          |   Yassine Mzoughi (mzyassin)                                                                       | Anjali Singh (ANJSIN)       | Whitney Henderson (whhender), Derek Yang (DEYA), Simmi Pastakia (SIPASTAK)     |   |
 | Azure Data Share                    | Bohan Zhan(bohzhan)    | Kohei Ichinohe (koichino)          | Pedro Martins, Yassine Mzoughi (mzyassin)                                                                         | Ashish Shukla (ASHISHSH)    |  Whitney Henderson (whhender), Derek Yang (DEYA)      |   |
-| Azure Stream Analytics              | Ruoyu Li(ruoli)        | Seongeun Kim (sekim)         | Talab Hussein (tahussei)                                                                         | Ashish Shukla (ASHISHSH)    |     Tiffany Fischer   |   |
+| Azure Stream Analytics              | Ruoyu Li(ruoli)        | Seongeun Kim (sekim)         | Talab Hussein (tahussei)                                                                         | Ashish Shukla (ASHISHSH)    |     Tiffany Fischer (tifische)  |   |
 | SQL Server Integration Services | | | | | | |
 | Master Data Services | | | | | | |
 | Data Quality Services | | | | | | |
