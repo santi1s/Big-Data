@@ -69,7 +69,7 @@ _**1:44:55**_ - Closing and Discussion
 2. Use .\<Name of your .ps1 file> to run.
 
 For example:
-![image.png](/.attachments/image-f3e35233-dae8-4d77-b8f0-9321b1a0d1c7.png)
+![image.png](/.attachments/image-d24dc494-ed44-4da2-b65b-c71bffaa0e19.png)
 
 ### From a PS1 File
 1. Navigate to your .PS1 file in a file explorer.
