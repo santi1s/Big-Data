@@ -88,8 +88,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
  ![image.png](/.attachments/image-d452b0cc-ced5-4ba6-a1ad-efe6a609e29b.png)
 
 3.	Select your case under “Service Requests”
- ![image.png](/.attachments/image-f1677f53-c3cb-4132-af7f-74bd87107ac5.png)
-
+![image.png](/.attachments/image-e178cc0a-6717-4fd5-b236-7f9e9786cef4.png)
 4.	In the top bar, click the drop-down next to the case number.
  ![image.png](/.attachments/image-3285d00d-19e8-4cba-ae02-04fb1099c54d.png)
 
