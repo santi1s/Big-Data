@@ -27,7 +27,7 @@
 
 Here you will find a list of active and inactive transfers for the case. Active transfers are associated with a handover call. Inactive transfers can be activated and added to a handover call, or deleted.
 You can also create a new transfer call from this menu.
-![image.png](/.attachments/image-a0ffbf6e-0fcd-4458-9c3a-dfcaec4cb7e3.png)
+![image.png](/.attachments/image-601a0f41-9b89-4f2f-8a58-878b91e527aa.png)
 
 ## Share FTS Request Link
 
