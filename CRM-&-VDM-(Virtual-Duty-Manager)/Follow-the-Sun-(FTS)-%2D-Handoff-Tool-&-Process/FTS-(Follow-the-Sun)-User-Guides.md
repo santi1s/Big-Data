@@ -111,7 +111,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 
 ## First (Active)
 1. All sections with red * (highlighted below) need to be filled out.
-![image.png](/.attachments/image-364fc4f2-d0b2-40ac-8bd7-612ba8993f71.png)
+![image.png](/.attachments/image-d91e9685-76c9-46a1-bc9e-99215594de3e.png)
 
 2. If Transfer From, Transfer To or Originating Region are not filled out, you'll need to click the search button, select "Look Up More Records", change 'Valid Transfer From Regions' to 'Active Support Regions' and select your region.
 **Note:** 'Transfer To' will **always** be the next region, even if you need to skip a region and transfer to the next. For that, see our [skip guide](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=how-to-skip-regions).
