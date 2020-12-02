@@ -216,7 +216,7 @@ After selecting the column, you can see results per each value type for the colu
 ![image.png](/.attachments/image-0de14a9a-a377-4b80-8a70-ed246d145239.png)
 
 If you click on any one of these values, it will be added as a Client Query in the top section of the Logs pane, and all the displayed data will be filtered by that column.
-![image.png](/.attachments/image-1d558196-23a3-4c2a-8d2f-e7ebb507fd32.png)
+![image.png](/.attachments/image-4d8691e1-295a-4dd8-81e8-aa650ca03979.png)
 
 ##Jarvis Logs for ADLS Troubleshooting
 
