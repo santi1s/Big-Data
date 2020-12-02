@@ -123,7 +123,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 ![image.png](/.attachments/image-e63a9739-7b5f-4b10-8ae2-fac7923da27e.png)
 
 4. If the 'Next Stage' button is not green, select "Save"
-![image.png](/.attachments/image-c65a1bc4-6ed7-4ac5-8667-7aa98214426a.png)
+![image.png](/.attachments/image-51f3b45b-437d-49cf-a908-ba97abbbd06c.png)
 
 5. Select 'Next Stage' to proceed.
 ![image.png](/.attachments/image-030cdba1-8109-43c0-b97b-f81a861f212a.png)
