@@ -168,7 +168,7 @@ _(If you have already entered summary notes, just click the field next to 'Ensur
 2. Please fill out your summary using the [notes template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) below.
 The summary notes should explain why the case needs to be transferred and what urgent next steps are, to help the transferring engineer make an accurate decision.
 **Note:** These are different than your handoff case notes, which should still be in your case, but can contain similar information.
-![image.png](/.attachments/image-cfa03376-c76d-4123-9ca7-f63cb9bb267e.png)
+![image.png](/.attachments/image-6ff9d736-fd28-406a-a8b6-1317afa767f2.png)
 
 3. **If you are a support engineer processing a transfer, select 'Save' and stop here. Your leads will complete the transfer.**
 ![image.png](/.attachments/image-8665b40e-9749-493f-ab56-267f4c34302c.png)
