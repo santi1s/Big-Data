@@ -82,7 +82,7 @@ R-X allows the user to list all files/folders contained in a folder. This abilit
 ## Permissions Inheritance/Default Permissions
 
 When a new file or folder is created on the data lake it **does not automatically inherit the parent folder's permissions**. Instead, the new file or folder inherits the **Default Permissions**. You can find the Default permissions in the portal under the Data Explorer -> Access -> Advanced
-![image.png](/.attachments/image-8e7c9fd8-dca3-4ace-a570-4792557bec51.png)
+![image.png](/.attachments/image-e4c29d44-7927-4b23-b6b7-bd070b3d0033.png)
 
 For example, in the scenario above, note that the only user that will be automatically granted permissions on a new file or folder under the root is whhenderintadfv2.
 
