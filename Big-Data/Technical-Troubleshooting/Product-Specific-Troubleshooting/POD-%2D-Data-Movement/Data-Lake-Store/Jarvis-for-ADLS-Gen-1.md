@@ -23,8 +23,7 @@ You will be asked to authenticate before you are able to query any tables. It ma
 _If you have any problems authenticating or do not have access to Jarvis - please reach out to your TA._
 
 When you open Jarvis, it is divided up into three main sections, which we will cover below.
-![Jarvis Overview.jpg](/.attachments/Jarvis%20Overview-8ea089ff-a49d-4c8d-a425-8a710f6af15f.jpg)
-
+![image.png](/.attachments/image-722dea8f-bd00-40c6-a382-e6ae49a55a7c.png)
 ### Server Query Pane
 The Server Query Pane is the pane on the left hand side of the page, and has all the information you will use to query your data.
 Here we can create our queries and gather the link to a specific query to share with others, or to bring up later.
