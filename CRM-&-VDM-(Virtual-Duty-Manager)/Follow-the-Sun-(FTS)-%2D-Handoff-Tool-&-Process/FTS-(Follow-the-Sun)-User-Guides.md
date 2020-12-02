@@ -126,8 +126,7 @@ If your case does not meet the criteria for an [automatic request](https://dev.a
 ![image.png](/.attachments/image-51f3b45b-437d-49cf-a908-ba97abbbd06c.png)
 
 5. Select 'Next Stage' to proceed.
-![image.png](/.attachments/image-030cdba1-8109-43c0-b97b-f81a861f212a.png)
-
+![image.png](/.attachments/image-e89446be-aa93-4ad4-b006-7d802f3aad3d.png)
 ## Customer Validation
 1. Select "Yes" or "No" under 'Customer Available' feild.
 ![image.png](/.attachments/image-39012c42-9716-431b-8d48-b7e11cf15d74.png)
