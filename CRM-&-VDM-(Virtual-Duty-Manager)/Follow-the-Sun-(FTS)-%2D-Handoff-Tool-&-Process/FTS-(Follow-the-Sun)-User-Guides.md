@@ -17,7 +17,7 @@
 ![image.png](/.attachments/image-2b269a6c-e847-49ab-a941-2f07733810a1.png)
  
 3.	Select your case under “Service Requests”
- ![image.png](/.attachments/image-97a5f39b-858e-4a95-8f03-d48d6bf90bc6.png)
+![image.png](/.attachments/image-e178cc0a-6717-4fd5-b236-7f9e9786cef4.png)
 
 4.	In the top bar, click the drop-down next to the case number.
  ![image.png](/.attachments/image-c41297c8-9900-4348-ab1c-d3f6320b3222.png)
