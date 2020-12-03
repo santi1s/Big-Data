@@ -23,15 +23,10 @@ https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylo
 - How to Query Kusto Clusters -> Coming soon
 - How to Create an IcM -> Coming soon
 
-#**Documentation Request**
-Project Babylon Documentation
-https://github.com/Azure/Babylon
-
-
 # **Online Support Documentation**
-[Azure Babylon Overview](https://review.docs.microsoft.com/en-us/pdfs/overview?branch=master)
-[Azure Babylon Limitations](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
-[ABC Catalog Permissions](https://review.docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
+[Overview](https://docs.microsoft.com/en-us/azure/purview/overview)
+[Limitations](https://docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
+[Permissions](https://docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
 [GitHub Docs Project Babylon Documentation](https://github.com/Azure/Babylon) 
  
 **Instructions for Access to GitHub Docs** 
