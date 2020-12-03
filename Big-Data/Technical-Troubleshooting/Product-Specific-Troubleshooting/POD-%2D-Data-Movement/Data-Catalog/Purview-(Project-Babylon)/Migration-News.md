@@ -10,3 +10,6 @@ Once we hit GA hopefully by June 2021 and have 80-90% feature parity, we can try
 
 **MIGRATION ADC Gen 1 to Purview Documentation**
 https://docs.microsoft.com/en-us/azure/purview/frequently-asked-questions#how-do-i-migrate-existing-adc-gen-1-data-assets-to-azure-purview
+
+**MIGRATION Atlas to Purview Documentation**
+https://docs.microsoft.com/en-us/azure/purview/frequently-asked-questions#how-do-i-migrate-existing-adc-gen-1-data-assets-to-azure-purview
