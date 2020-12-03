@@ -7,3 +7,6 @@ Automatic or manual migration from existing ADC Gen 1 to the new catalog is not 
 Starting Jan 2021, we will start putting a banner in ADC Gen1 portal experience, telling customers that Babylon is the unified data governance solution with Babylon catalog as the next gen catalog with the latest and greatest features and experiences and encouraging them to try it out. 
 
 Once we hit GA hopefully by June 2021 and have 80-90% feature parity, we can try and use the stick approach again similar to ADF. But we all very well know from ADF v1 experience that retiring a GA service takes 5 years as per Azure Global guidelines. 
+
+**MIGRATION ADC Gen 1 to Purview Documentation**
+https://docs.microsoft.com/en-us/azure/purview/frequently-asked-questions#how-do-i-migrate-existing-adc-gen-1-data-assets-to-azure-purview
