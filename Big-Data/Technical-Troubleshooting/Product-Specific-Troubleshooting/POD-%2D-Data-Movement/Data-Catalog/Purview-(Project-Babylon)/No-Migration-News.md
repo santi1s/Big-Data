@@ -1,3 +1,4 @@
+Automatic or manual migration from existing ADC Gen 1 to the new catalog is not currently supported. It is not planned for Public Preview. It is in the backlog for release to GA of the new catalog
 
 1)	We should calm any anxious ADC Gen 1 customers down and say that ADC Gen 1 will continue to be available and we don’t have any deprecation plans yet. We will be running it in sustenance mode though with no new feature development happening. The goal is just to provide 99.9 SLA.
 
