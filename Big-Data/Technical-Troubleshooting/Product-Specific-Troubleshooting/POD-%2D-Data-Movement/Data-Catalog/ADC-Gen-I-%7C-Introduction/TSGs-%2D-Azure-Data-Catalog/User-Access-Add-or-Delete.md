@@ -1,6 +1,6 @@
 In the case that the user has owner permissions to the Azure Data Catalog in the Azure Portal, they can add or delete the ADC Administrator as follows:
 
-1.	Log into Azure Portal as subscription admin for the catalog (might have to be tenant admin also,not sure)
+1.	Log into Azure Portal as subscription admin for the catalog (might have to be tenant admin also, not sure)
 2.	Go to Resources and click on the catalog resource.  Note the resource group the catalog exists in.
 ![image.png](/.attachments/image-11861f5b-2d6c-4319-9c43-04812a609869.png)
  
@@ -16,16 +16,16 @@ In the case that the user has owner permissions to the Azure Data Catalog in the
                 "sku": "Standard",
                 "admins": [
                     {
-                        "upn": "TestUser@stevenlhalehotmail.onmicrosoft.com",
-                        "objectId": "636e33a3-7c52-456c-a0c6-6054d37e6efe"
+                        "upn": "TestUser@xxxxxxxxhalehotmail.onmicrosoft.com",
+                        "objectId": "636e33a3-xxxx-xxxc-a0c6-6054d37e6efe"
                     }
                 ],
                 "users": [
 10.	Add or remove admins as needed, using the proper JSON, upn, and object id for the new admin.  You can get the objectid from Azure Active Directory/Users, choose the user, and you will see their objectid.  You can also remove admins.  Note you can do users the same way if desired, or other catalog properties.
 
                     {
-                        "upn": "TestUser2@stevenlhalehotmail.onmicrosoft.com",
-                        "objectId": "c03aa001-abd0-4552-be73-7c194552e5ca"
+                        "upn": "TestUser2@xxxxxhalehotmail.onmicrosoft.com",
+                        "objectId": "c03aa001-xxxx-xxxx-be73-7c194552e5ca"
                     }
 11.	After editing, the new admins should look like this.  Note the added comma after the previoius original admin block.
 
@@ -33,12 +33,12 @@ In the case that the user has owner permissions to the Azure Data Catalog in the
                 "sku": "Standard",
                 "admins": [
                     {
-                        "upn": "TestUser@stevenlhalehotmail.onmicrosoft.com",
-                        "objectId": "636e33a3-7c52-456c-a0c6-6054d37e6efe"
+                        "upn": "TestUser@xxxxxhalehotmail.onmicrosoft.com",
+                        "objectId": "636e33a3-xxxx-xxxx-a0c6-6054d37e6efe"
                     },
                     {
-                        "upn": "TestUser2@stevenlhalehotmail.onmicrosoft.com",
-                        "objectId": "c03aa001-abd0-4552-be73-7c194552e5ca"
+                        "upn": "TestUser2@xxxxxlhalehotmail.onmicrosoft.com",
+                        "objectId": "c03aa001-xxxx-xxxx-be73-7c194552e5ca"
                     }
                 ],
                 "users": [
