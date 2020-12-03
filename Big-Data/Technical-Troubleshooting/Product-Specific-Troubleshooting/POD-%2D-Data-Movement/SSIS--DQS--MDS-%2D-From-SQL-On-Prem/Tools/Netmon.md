@@ -60,7 +60,7 @@ When page complete loads see communicating SSL
 
  
 
-DEMO Walkthrough with SSIS server & Proxy 
+[DEMO Walkthrough with SSIS server & Proxy](https://msit.microsoftstream.com/video/6d38a4ff-0400-b9eb-f733-f1eb2b3ecac6) 
 
 SSIS HTTP Connection manager test script  
 
