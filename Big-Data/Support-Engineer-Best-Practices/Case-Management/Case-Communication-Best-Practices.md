@@ -4,6 +4,8 @@
 # Life Cycle of Communications
 <center>
 
+![image.png](/.attachments/image-be1291c9-0549-474d-b8ff-6e17fc6f52ea.png)
+
 ::: mermaid
 graph TD
  A(FQR, First Quality Response)
