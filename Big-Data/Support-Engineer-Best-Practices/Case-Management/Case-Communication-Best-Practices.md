@@ -13,7 +13,7 @@ graph TD
  B(Email, based on customer preference.)
  C(Call, based on customer preference.)
  D(Follow Up Email <br> with Status and Next Steps)
- E(Follow up Daily <br> or on date indicated br> by customer <br> until confirmation.)
+ E(Follow up Daily <br> or on date indicated <br> by customer <br> until confirmation.)
  F(LQR, Last Quality Response)
  G(Follow up Every <br> 3 business days for <br> customer information, <br> or on date indicated <br> by customer.)
  H(Indicate when you will follow up <br> and follow up at that time.)
