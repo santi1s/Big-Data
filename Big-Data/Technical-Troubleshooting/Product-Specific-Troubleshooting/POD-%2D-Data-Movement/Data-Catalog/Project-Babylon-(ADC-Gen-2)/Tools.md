@@ -47,7 +47,7 @@ Unsuccessful results: May have invalid policy credentials and need to discuss wi
 
  
 
-XML POLICY POWERSHELL SCRIPT
+**XML POLICY POWERSHELL SCRIPT**
 
 If SCC may not be working due to tenant specific issues or policy. This script will retrieve the XML Policy. With this process it will allow the Babylon CSS team to identify if the support ticket should be moved to SCC CSS team for investigation (in case policy is not retrieved correctly) or it should be managed by the Babylon CSS team.
 
