@@ -30,3 +30,10 @@ Microsoft Teams meeting
 
 ##SSIS/MDS/DQS CSS - Collaboration Teams Channel
 - [General](https://teams.microsoft.com/l/channel/19%3a12b9a87efd3c462e82c04e455a299265%40thread.tacv2/General?groupId=5aecbfad-4c41-487e-8bf8-8d187d11927b&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+
+| SMES | Region |
+|--|--|
+|Harpreet|India|
+|Sundar|AMER|
+|Apurva|AMER|
+|John|AMER|
