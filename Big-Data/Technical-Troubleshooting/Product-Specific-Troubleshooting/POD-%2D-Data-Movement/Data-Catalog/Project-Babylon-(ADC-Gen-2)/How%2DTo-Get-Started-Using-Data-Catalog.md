@@ -79,3 +79,29 @@ TBD.
 		
 Classification = sensitive information types (e.g. PCI, SSN) found in the data
 		Labeling = the label taxonomy defined by an organization (e.g. Public, General, Confidential) within the M365 Security and Compliance Center and associated with specific classifications
+
+**Walkthrough - How to create & use custom classification**
+Create Custom Classification To apply to Data Source Scan 
+
+1) Create Classifications “Babylon_demo” 
+![step1-classification.PNG](/.attachments/step1-classification-0c91c3e2-c626-442f-97e6-e9dcccf9523b.PNG)
+ 
+2) Create Classification Rules “Babylon Demo” 
+![step2-classification-rules.PNG](/.attachments/step2-classification-rules-7c97c896-db48-4c7d-b340-2b8eea8c2de5.PNG)
+ 
+3) Create Scan Rule Sets “babylon_demo” 
+![step3-createscan-rule-set.PNG](/.attachments/step3-createscan-rule-set-cde4780c-eef6-4125-a76c-9962f7fa4488.PNG)
+![step4-scan-rules-set-files.PNG](/.attachments/step4-scan-rules-set-files-f5d122cf-721f-4961-8e54-ea72a9120715.PNG)
+![step5-scan-rules-set-select-classification-rules.PNG](/.attachments/step5-scan-rules-set-select-classification-rules-280cafb0-c5dd-4919-8f16-8d11e59e30d6.PNG)
+
+4) Create new Scan using Scan Rule Set 
+![setp6-Data-source-select-source.PNG](/.attachments/setp6-Data-source-select-source-142431f1-c803-4380-b494-d3bd61effc7a.PNG)
+![step7-Data-source-create-scan.PNG](/.attachments/step7-Data-source-create-scan-0d952a27-c153-4df2-a000-119f97efa6d7.PNG)
+![step8-data-scan-scope-scan-folders-files.PNG](/.attachments/step8-data-scan-scope-scan-folders-files-f5cc56eb-8f7c-4604-83b9-0e7dd72bbb6a.PNG)
+![step9-Data-source-scan-trigger.PNG](/.attachments/step9-Data-source-scan-trigger-7b682a53-c9d2-4110-8bb2-649acf608769.PNG)
+![step10-Data-Source-select-scan-rule-set-to-run-against-source.PNG](/.attachments/step10-Data-Source-select-scan-rule-set-to-run-against-source-52861a35-f26b-420d-a60b-05c053e7b3e8.PNG)
+ 
+5) Search the Data Catalog for all Sources using a classification 
+![step11-search-catalog.PNG](/.attachments/step11-search-catalog-1fe3edde-a2aa-49b0-9767-1b815365f465.PNG)
+
+TSG WIKI
