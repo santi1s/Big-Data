@@ -54,41 +54,44 @@
 
 **Netmon TCP** 
 
-TLS can be used over TCP or HTTP 
+- TLS can be used over TCP or HTTP 
 
-When page complete loads see communicating SSL 
+- When page complete loads see communicating SSL 
+
+- [DEMO Walkthrough with SSIS server & Proxy](https://msit.microsoftstream.com/video/6d38a4ff-0400-b9eb-f733-f1eb2b3ecac6) 
+
+- SSIS HTTP Connection manager test script  
+
+- Netmon on Server - (http or TCP no TLS not secured) 
+
+- Netmon on Proxy – (TLS secure) know destination ipaddress  to identify the connection 
+
+   EXPECTED RESULTS:
+
+   1) Client hello 
+
+   2) Server Hello 
+
+   3) client key exchange – ready to communicate! TLS is working fine 
+
+   4) can also filter using the Source Port & Destination Port 
+
+- EX Problem Visual Studio SSIS 2015 does not http_conneciton manager goes over TLS 1.0 
+
+- Look for encryption alert 
 
  
+**Security & Network Changes to Registry Editor**
 
-[DEMO Walkthrough with SSIS server & Proxy](https://msit.microsoftstream.com/video/6d38a4ff-0400-b9eb-f733-f1eb2b3ecac6) 
+- Need to run as administration
 
-SSIS HTTP Connection manager test script  
+- Recommended for Network Administrator to Make Changes
 
-Netmon on Server - (http or TCP no TLS not secured) 
+- Would require restart on server 
 
-Netmon on Proxy – (TLS secure) know destination ipaddress  to identify the connection 
+- EventLogging 000001 > capture 
 
-1) Client hello 
-
-2) Server Hello 
-
-3) client key exchange – ready to communicate! TLS is working fine 
-
-4) can also filter using the Source Port & Destination Port 
-
-EX Problem Visual Studio SSIS 2015 does not http_conneciton manager goes over TLS 1.0 
-
-Look for encryption alert 
-
- 
-
-Need to run as administration 
-
-Would require restart on server 
-
-EventLogging 000001 > capture 
-
-IIS Crypto nartac software 
+- IIS Crypto nartac software 
 
  
 
