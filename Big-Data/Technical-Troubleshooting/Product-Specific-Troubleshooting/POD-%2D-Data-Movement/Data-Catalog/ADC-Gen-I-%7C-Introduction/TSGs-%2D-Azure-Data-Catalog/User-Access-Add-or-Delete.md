@@ -2,7 +2,7 @@ In the case that the user has owner permissions to the Azure Data Catalog in the
 
 1.	Log into Azure Portal as subscription admin for the catalog (might have to be tenant admin also, not sure)
 2.	Go to Resources and click on the catalog resource.  Note the resource group the catalog exists in.
-![image.png](/.attachments/image-11861f5b-2d6c-4319-9c43-04812a609869.png)
+![image.png](/.attachments/image-769f8e71-6c9b-4577-b8cf-4cfbe54885b4.png)
  
 3.	Click on Export Template
 4.	Click on Add to Library and give a name for the template, save it.
