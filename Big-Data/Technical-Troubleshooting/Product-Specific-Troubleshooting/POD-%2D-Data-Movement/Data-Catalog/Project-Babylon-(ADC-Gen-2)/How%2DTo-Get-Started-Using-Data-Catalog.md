@@ -1,5 +1,8 @@
 #Getting Started with using Data Catalog
-I. **[Create a Data Catalog, Publish a data source and create a label](https://msit.microsoftstream.com/video/b0f999a9-e399-4253-acfb-4015c12adbce?referrer=https:%2F%2Fstatics.teams.cdn.office.net%2Fevergreen-assets%2Fsafelinks%2F1%2Fatp-safelinks.html)**
+I. **Create a Data Catalog**
+II. **Publish a data source**
+III. **Create a label**
+[Video Training](https://msit.microsoftstream.com/video/b0f999a9-e399-4253-acfb-4015c12adbce?referrer=https:%2F%2Fstatics.teams.cdn.office.net%2Fevergreen-assets%2Fsafelinks%2F1%2Fatp-safelinks.html)
 
 II. **Classification and Labeling (ADLS example)**
 We are happy to share that classification and labeling report is now available for Azure Data Lake(ADLS) Gen 1/2 in addition to Azure Blob Storage, Azure Files and Amazon AWS S3 buckets.
@@ -82,6 +85,7 @@ Classification = sensitive information types (e.g. PCI, SSN) found in the data
 
 **Walkthrough - How to create & use custom classification**
 Create Custom Classification To apply to Data Source Scan 
+[Training Video](https://msit.microsoftstream.com/video/f5fca3ff-0400-b9eb-d465-f1eb2b8aaba1) 
 
 1) Create Classifications “Babylon_demo” 
 ![step1-classification.PNG](/.attachments/step1-classification-0c91c3e2-c626-442f-97e6-e9dcccf9523b.PNG)
