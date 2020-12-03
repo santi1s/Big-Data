@@ -25,8 +25,9 @@ https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylo
 
 # **Online Support Documentation**
 [Overview](https://docs.microsoft.com/en-us/azure/purview/overview)
-[Limitations](https://docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
-[Permissions](https://docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
+[Product Limitations - Internal](https://review.docs.microsoft.com/en-us/pdfs/product-limitations?branch=master)
+[Resource Limits/Quota](https://docs.microsoft.com/en-us/azure/purview/how-to-manage-quotas)
+[Permissions - Internal](https://review.docs.microsoft.com/en-us/pdfs/catalog-permissions?branch=master)
 [GitHub Docs Project Babylon Documentation](https://github.com/Azure/Babylon) 
  
 **Instructions for Access to GitHub Docs** 
@@ -48,7 +49,7 @@ https://supportability.visualstudio.com/ProjectBabylon/_wiki/wikis/ProjectBabylo
 # **Troubleshooting**
 Support Engineer Troubleshooting Guide -> Coming soon
 
-# **Daily Case Triage/Training Meeting**
+# **ADC/PB Daily Case Triage/Training Meeting**
 M-F 3pm CST Microsoft Teams Meeting
 [Click Here to Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTBiNWU4OGQtZmViNC00NzNmLWFlZTMtNzNlZmViZTliNDJl%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d)
 
