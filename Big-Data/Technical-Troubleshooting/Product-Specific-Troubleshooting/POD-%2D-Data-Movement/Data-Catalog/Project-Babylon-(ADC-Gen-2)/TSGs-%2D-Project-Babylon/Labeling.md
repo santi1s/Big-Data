@@ -1,3 +1,21 @@
+[Training Video](https://msit.microsoftstream.com/video/f5fca3ff-0400-b9eb-d465-f1eb2b8aaba1) 
+
+Onenote  
+
+[CSS TSG (Classification)](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#CSS%20TSG%20(Classification)&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={4A44CB21-2A5B-474C-8801-FCBCAEE5FF41}&end) 
+
+[Deleted asset's classification still available in catalog](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#Deleted%20asset's%20classification%20still%20available%20in%20catalog&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={EBF2A64D-96B3-4741-B6A5-0D1B461B9981}&end) - full scan must be triggered for delete to take effect.  If full scan performed and did not delete, then open ticket with offline Tier/HotTier. 
+
+[Custom Classification Rule Application Behavior](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#Custom%20Classification%20Rule%20Application%20Behavior&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={BCE4C1E4-5947-4689-962C-22363B68D4BC}&end)  Both need to Match Data Pattern and Column Pattern.  Use regex tool to verify.  Retrieve pattern from Kusto logs. Check thresholds are met. Need custom. TSG in missing classification. 
+
+[Threshold Values for System Classifications](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#Threshold%20Values%20for%20System%20Classifications&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={D3C98CAD-A5A6-4ACB-85A3-3A448BF255A8}&end) 
+
+[Wrong Classification](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#Wrong%20Classification&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={C72E5B3E-6709-4C41-A7A9-1F359AEEEABE}&end) Do not expect to see this classification. 
+
+[System Classifications](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#System%20Classifications&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={1C812C75-F09D-4BDF-AA54-758E5F1CAF47}&end) 
+
+[Missing Classification](onenote:https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Scanning%20and%20Classification%20Notebook/Classification.one#Missing%20Classification&section-id={7CA71898-322C-4982-A7B2-1333EC24D8D4}&page-id={D7F7F8BD-FF15-409B-BB24-6D061C9065A0}&end)
+
 **Detailed information for demo env for labeling\security insights:**
 For any question please Contact Kevin McKinnerney & Hen David
  
