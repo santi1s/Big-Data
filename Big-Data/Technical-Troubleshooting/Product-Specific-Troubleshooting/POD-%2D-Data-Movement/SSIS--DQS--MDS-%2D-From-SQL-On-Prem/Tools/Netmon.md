@@ -1,5 +1,7 @@
 Example to Check TLS Handshake using Netmon
 
+[Video Training Here](https://msit.microsoftstream.com/video/6d38a4ff-0400-b9eb-f733-f1eb2b3ecac6)
+
 Why do we need TLS handshake to provide secure communication between client and server?
 
 1) Client and Server need to understand each other using common cipher 
