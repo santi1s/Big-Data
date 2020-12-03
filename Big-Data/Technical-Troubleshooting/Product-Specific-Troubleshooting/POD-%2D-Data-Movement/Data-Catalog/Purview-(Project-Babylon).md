@@ -71,8 +71,7 @@ M-F 3pm CST Microsoft Teams Meeting
 | Diagnostic PROD | AzureClpMdsDF |Reporting Events||
 ex. Orderby event_time asc WHERE FilePath.contains("label");
 
-# **Escalation**
-SR PARTNER TECH ADVISOR Sundar Easwaran
+
 
 # **Group Emails**
 CSS SMEs  CSSADCSMEs@microsoft.com
