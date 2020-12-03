@@ -74,7 +74,7 @@ Netmon on Proxy – (TLS secure) know destination ipaddress  to identify the con
 
 4) can also filter using the Source Port & Destination Port 
 
-EX Problem SQL 2016 does not http_conneciton manager goes over TLS 1.0 
+EX Problem Visual Studio SSIS 2015 does not http_conneciton manager goes over TLS 1.0 
 
 Look for encryption alert 
 
