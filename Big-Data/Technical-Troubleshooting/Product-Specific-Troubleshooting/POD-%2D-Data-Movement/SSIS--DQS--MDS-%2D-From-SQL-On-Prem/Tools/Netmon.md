@@ -1,8 +1,8 @@
-Example to Check TLS Handshake using Netmon
+**Example to Check TLS Handshake using Netmon**
 
 [Video Training Here](https://msit.microsoftstream.com/video/6d38a4ff-0400-b9eb-f733-f1eb2b3ecac6)
 
-Why do we need TLS handshake to provide secure communication between client and server?
+**Why do we need TLS handshake to provide secure communication between client and server?**
 
 1) Client and Server need to understand each other using common cipher 
 
@@ -12,7 +12,7 @@ Why do we need TLS handshake to provide secure communication between client and 
 
  
 
-Connection Encrypted string of the TLS handshake 
+**Connection Encrypted string of the TLS handshake** 
 
 1) Client initiate  
 
@@ -26,13 +26,13 @@ Connection Encrypted string of the TLS handshake
 
  
 
-Tools to get a network trace  
+**Tools to get a network trace**  
 
 1) Netmon  
 
-2) >netsh trace start capture=yes scenario=NetConnection tracefile=c:%computername%.etl maxsize1024 filemode=circular overwrite=yes 
+2) CMD>netsh trace start capture=yes scenario=NetConnection tracefile=c:%computername%.etl maxsize1024 filemode=circular overwrite=yes 
 
-Using Netmon SERVER HTTP 
+**Using Netmon SERVER HTTP** 
 
 1) New Capture bing.com 
 
@@ -52,7 +52,7 @@ Using Netmon SERVER HTTP
 
  
 
-Netmon TCP 
+**Netmon TCP** 
 
 TLS can be used over TCP or HTTP 
 
