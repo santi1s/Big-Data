@@ -4,11 +4,8 @@ Detailed information for demo env for labeling\security insights:
 For any question please Contact Kevin McKinnerney & Hen David
  
 Connection details:
-User:
-John@ip4demo.com (Contributor rights on Babylon + Can see label configuration in SCC)
- 
+User: needs Contributor rights on Babylon + Can see label configuration in SCC
 pW:
-*********
  
 URL:
 https://web.babylon.azure.com/resource/BabylonCatalog/?feature.tenant=fc676d39-8548-4816-8b88-1b9eb74a0399&feature.ext.sensitivity=%7B%22wave2%22:true%7D&feature.ext.catalog={%22amazonPreview%22:%22true%22}
