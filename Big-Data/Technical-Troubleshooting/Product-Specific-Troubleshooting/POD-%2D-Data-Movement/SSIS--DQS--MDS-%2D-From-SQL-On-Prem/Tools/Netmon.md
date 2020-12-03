@@ -1,4 +1,4 @@
-Example to Check TLS Hanshake 
+Example to Check TLS Handshake using Netmon
 
 Why do we need TLS handshake to provide secure communication between client and server?
 
