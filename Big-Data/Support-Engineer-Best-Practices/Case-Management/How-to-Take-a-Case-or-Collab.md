@@ -71,7 +71,7 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-6978a3e0-8121-40a5-8c24-a7fbf73f8bd1.png)
 
 2. Then select 'Assign to Me'
-![image.png](/.attachments/image-a6a20aa5-985f-4c8d-aa82-aaffacdc32f5.png)
+![image.png](/.attachments/image-cae94221-ee70-44b0-8e7f-4ebdf60995a8.png)
 
 ###Self-Assign Collaboration
 1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
