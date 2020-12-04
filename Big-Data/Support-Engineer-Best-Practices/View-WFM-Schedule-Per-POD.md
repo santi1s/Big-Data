@@ -74,8 +74,8 @@ And thats how you use WFM Schedule view in IE to view most of your engineering p
 Note its now 115 aliass. 
 ![image.png](/.attachments/image-1c6e4da3-4870-467d-ad87-4c03c3cb213a.png)
  tap **OK**. 
-![WFM-sr-multi-good.png](/.attachments/WFM-sr-multi-good-916aa262-24f2-45e1-bd22-225fd6eee1af.png)
+![image.png](/.attachments/image-be0b90c1-1a43-42f2-8c3d-0f1317a54ae3.png)
 and ta-da multiday of entire team.  drill into a day for per 30 min.  Just like the other example tap a day to drill in. 
 
  **PRO TIP!!!!**  to pull a day into Excel .  use the select all icon by clicking on it (below) then control-p into a new Excel tab. 
-![WFM-select-all.png](/.attachments/WFM-select-all-db9ca7ab-ef50-4729-97d4-3fcdb90b5f4b.png)
+![image.png](/.attachments/image-e9312d82-ebeb-49cc-bc89-a439376962b6.png)
