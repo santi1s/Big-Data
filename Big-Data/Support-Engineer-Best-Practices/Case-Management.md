@@ -47,7 +47,13 @@ The following the best practices listed below and implemented rigorously, would 
 
 - Engineer Success Series - Session 4: Writing Case Documentation that will Impress Your Peers
 
-
+Additional Trainings located [here](https://msit.microsoftstream.com/channel/8113a4ff-0400-9fb2-4061-f1eb1dda1534):
+1. Case Management Life Cycle
+2. Case Communications
+3. Case Labor and Case Tools
+4. Taking Great Notes
+5. Troubleshooting Basics
+6. How to Stay Sane as a Support Engineer
 
 # Understanding customer problem
 It is critical to ensure the problem description is fully understood and can be restated in the ICM.  This can be achieved only when you understand the customer problem well through prompting question to customer and clarifying the question with customer.  I would strongly urge you all to have  phone calls as much as possible to ensure you understand the customer issue, and collecting the required data in the initial engagement with the customer.  This would help to avoid multiple round trips and raise the CRI with clear ask to the engineering team.
