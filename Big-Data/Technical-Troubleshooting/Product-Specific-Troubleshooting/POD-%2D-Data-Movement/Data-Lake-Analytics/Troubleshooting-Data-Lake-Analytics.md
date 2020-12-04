@@ -26,13 +26,12 @@ Go to step 3 on this page to install the latest tools: https://dev.azure.com/Sup
 ## Using Visual Studio Tools
 
 ### Looking Up an ADLA Account
-![image.png](/.attachments/image-d7dec9f7-524e-4b47-b558-ca498e88c4f4.png)
-
+![image.png](/.attachments/image-5c28d0b8-78d6-443a-b418-8d8fda0f1543.png)
 ### Looking up a Job
-![image.png](/.attachments/image-14569870-9ed6-45b4-b33b-003b1d197a59.png)
+![image.png](/.attachments/image-14c0d335-7cca-4cf2-a4de-feb885a5318b.png)
 
 ### Investigating Available Job Logs
-![image.png](/.attachments/image-779b6a63-eaa2-4010-a927-6b0fd5737e15.png)
+![image.png](/.attachments/image-9e9ccc2c-4418-4943-89ee-38eab5d59d77.png)
 
 
 # Common Issues
