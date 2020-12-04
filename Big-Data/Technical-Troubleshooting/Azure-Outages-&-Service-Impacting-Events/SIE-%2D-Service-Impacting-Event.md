@@ -177,7 +177,7 @@ SIE 000000 - Current Owner: whhender - Status: active  - Outage: Creation Failur
 
 10. Right click on cases with pending SLA  and use "open in Casebuddy" to meet SLA
 
-![image.png](/.attachments/image-a06bf2f2-db5a-4c32-a34b-fa01f6a2121d.png) 
+![image.png](/.attachments/image-b8281cad-c4e2-4212-af4f-44928079aa4f.png)
 
 11. If outage is mitigated ensure all the case status are changed accordingly and mitigation communications sent to customers as well.
 
