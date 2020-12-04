@@ -20,7 +20,7 @@ https://internal.support.services.microsoft.com/en-US/help/4572133#13
 # Note Taking Training Videos
 We have some awesome in-depth training on writing amazing notes!
 
-July 06, 2020 Training - Whitney Henderson
+July 06, 2020 Training
 
 ::: video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/1ff5a3ff-0400-a521-7fe0-f1eabfc7b4b0?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
@@ -29,7 +29,7 @@ July 06, 2020 Training - Whitney Henderson
 PPT Deck: [Note Taking - July062020 - Reduced Size.pptx](/.attachments/Note%20Taking%20-%20July062020%20-%20Reduced%20Size-7a7dc91a-2064-4035-9559-c1d031f7de9b.pptx)
 <br>
 
-July 27, 2019 Training - Rob Beene & Smit Shah
+July 27, 2019 Training
 ::: video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/74367acc-1d3c-4031-b65b-d65ade33b8b2?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
