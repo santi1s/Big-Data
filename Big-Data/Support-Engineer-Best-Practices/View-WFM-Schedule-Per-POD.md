@@ -34,14 +34,14 @@ Install Silverlight and reload page.
 <br>
 
 If this is your first time looking at WFM2, you won't have a "GA" or "SR" group loaded. Below is what you would see if **GE SQL-Data Move SR** is what you viewed last (it saves your last group) in Multiple Day View:
-![WFM-multi-day-view-good.png](/.attachments/WFM-multi-day-view-good-64de7eaf-2277-4e24-91a7-f3ec775f8544.png)
+![image.png](/.attachments/image-d2139c2c-a468-4317-acd5-95d94b3ffb0f.png)
 
 10.	If you don’t see the group of people you want listed, click the filter icon at the top (and allow popups if prompted)
 ![WFMScheduleViewFliterIcon.png](/.attachments/WFMScheduleViewFliterIcon-8ff84eaa-bec2-453a-a0b1-f3e0d3231145.png)
 
 
 11.	This will take you to the Select Employees popup window that lets you choose who you see in schedule viewer.  Click “**New...**” Note that yours will likely be blank unlike this screenshot
-![WFMScheduleViewNewFilter.png](/.attachments/WFMScheduleViewNewFilter-8c327701-fb6f-49a0-83ea-1fb3d0102f7e.png)
+![image.png](/.attachments/image-2afeae18-fa36-42cd-a05a-1700e2f0630e.png)
 
 12.	Once that is up, Name your filter (I’m setting up a _**DataMoveAMER**_ a group here, so I’ve named it accordingly), Click the “**Use in filter**” checkbox, and Expand “**Group Allowance**”
 ![WFMScheduleViewFilterConfig1.png](/.attachments/WFMScheduleViewFilterConfig1-0739664a-62ec-4288-bf7f-94d462945655.png)
@@ -50,7 +50,7 @@ If this is your first time looking at WFM2, you won't have a "GA" or "SR" group 
 ![WFM-GA-select.png](/.attachments/WFM-GA-select-a2d17783-5e84-4263-bfd8-e1b45e864fad.png)
 
 14.	You will see your filter show up in the saved filters list and the members of it show up under the Selected box.  You can then remove people from that list by selecting them and hitting the < button if you’d like.
-![WFM-GA-filter.png](/.attachments/WFM-GA-filter-39099348-f151-49c5-a7fd-a24b375ad12b.png)
+![image.png](/.attachments/image-c9c5e990-804b-4bd9-8374-decdb1fd7a36.png)
 
 15.	Tap **OK** on this window and it will take you back to the schedule view and show everyone’s schedule.  Note that the next time you come back to WFM, you will not need to create a new filter, it will use the last one you had active.  At this point you can tap F12 to turn off Developer to save resources.  Below is what you should see, Note for the first day I've expanded the column to show the **GE SQL-Data Move SR**. 
 ![WFM-good-multi.png](/.attachments/WFM-good-multi-ec12b84a-2b61-44b5-9147-1059ae3ac8d5.png)
