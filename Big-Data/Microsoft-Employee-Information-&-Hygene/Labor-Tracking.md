@@ -53,7 +53,7 @@ If you missed the daily time entry for labor, you can enter the labor late, just
 If you entered labor on the wrong case, or accidentally entered the incorrect amount of labor, you can adjust it! 
 
 1. Go to the labor section in service desk, and beside some previously entered labor select the ellipsis (…)
-![image.png](/.attachments/image-a0b72f72-7a69-4f59-a579-1b10cbdf2d87.png)
+![image.png](/.attachments/image-1d13c6d4-eb9b-4a61-8336-abfcc2554d3b.png)
 2. Correct duration and select ‘Update Labor Reason’ and ‘Late Reason’ if applicable.
 ![image.png](/.attachments/image-8e6fe318-1a5b-442b-9102-35fc581c63f3.png)
 
@@ -87,7 +87,7 @@ To get access to Non-Scorecard Labor Page. Please follow these steps bellow:
 2.	if you’re having trouble accessing that Non-scorecard labor page. Please go to https://aka.ms/bts and fill out a ticket with them 
 	Please choose “Non-Scorecard Labor PowerApp” for service and fill in the rest of the information base on your business requirement
  
- ![stuff.jpg](/.attachments/stuff-2148b663-91a5-4e57-919a-9532a4e97654.jpg)
+![image.png](/.attachments/image-dfd3e1fc-b4be-40b3-bd47-02c2cf4edec6.png)
  
 **Note:**
  
