@@ -88,7 +88,10 @@ These steps are additional to the Government Access in section III.  If you have
 
 3.  Click on ![submit.png](/.attachments/submit-3e55d453-b9aa-4d84-8e67-e6b43dbe3230.png)
 
-4.  Populate with your alias, CSS SE, US citizen,  select Premier USNAT (SD) for Restricted Program, example below.![new-item.png](/.attachments/new-item-8de77030-3e30-410e-b49e-fdbe297a78e9.png)
+4.  Populate with your alias, CSS SE, US citizen,  select Premier USNAT (SD) for Restricted Program, example below.
+
+![image.png](/.attachments/image-08024b37-c1c6-47d2-a3db-b53375070938.png)
+![image.png](/.attachments/image-20a08a3d-415a-490d-8787-fef99f9936b5.png)
 
 5.  Confirm email from US Gov and follow instructions. 
 
