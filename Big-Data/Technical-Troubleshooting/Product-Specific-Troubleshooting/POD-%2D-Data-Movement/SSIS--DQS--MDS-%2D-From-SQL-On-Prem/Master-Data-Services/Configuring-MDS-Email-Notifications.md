@@ -38,4 +38,4 @@ Apply the changes.
 For more details on when notifications are sent you can refer: [Notifications - SQL Server Master Data Services | Microsoft Docs](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fsql%2Fmaster-data-services%2Fnotifications-master-data-services%3Fview%3Dsql-server-ver15&data=04%7C01%7CTiffany.Fischer%40microsoft.com%7Ca8454396ecf74ee392d308d898368859%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637426707806388416%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=DwX88jvNxDJIjNHBNEkQq8HZdV9468E55bixNtHHLIg%3D&reserved=0)
 
 Example, if you have configured change sets, then you will receive email as below.
- ![image.png](/.attachments/image-f0fef90a-6dc6-4051-8fbd-55a0f4f0567f.png)
+ ![image.png](/.attachments/image-7de1e2d3-5e98-4b3b-a546-a4b6080881a2.png)
