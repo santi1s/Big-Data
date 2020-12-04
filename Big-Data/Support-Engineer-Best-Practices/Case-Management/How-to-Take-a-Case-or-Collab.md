@@ -30,7 +30,7 @@ If you are picking up a collaboration while your team is using VDM-- Virtual Dut
 
 Instead, follow these steps:
 1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
-![image.png](/.attachments/image-7448aab0-4243-45e0-968a-25b19e554012.png)
+![image.png](/.attachments/image-ed8e3311-224f-4293-bf35-3bafe341a26c.png)
 
 2. Scroll down to the 'Tasks' Tile, be sure you are on the 'Collaboration' view, and choose the ellipsis button next to the collaboration you are picking up.
 ![image.png](/.attachments/image-26526cef-f5dc-418b-9c4c-14784465382f.png)
