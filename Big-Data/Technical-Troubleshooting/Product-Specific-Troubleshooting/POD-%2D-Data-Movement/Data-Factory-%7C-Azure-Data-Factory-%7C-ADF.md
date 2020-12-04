@@ -15,5 +15,3 @@ Use AVA ADF - CSS Team Channel https://teams.microsoft.com/l/channel/19%3a768c7b
 
 for your case(s) in doubt.
 
-_credit: Sundar Easwaran
-posted: 4/10/2020_
