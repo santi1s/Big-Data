@@ -40,7 +40,7 @@ Set-AzDataLakeStoreItemAclEntry -AccountName "myADLSgen1Name" -Path / -Acl $newF
 ###Object ID for Group 
 ObjectID = can be found on Azure Active Directory > click on Group > 
 
-![image.png](/.attachments/image-e523e103-090e-4937-9743-5d547a124ef1.png)
+![image.png](/.attachments/image-1e449e97-64b3-4586-b573-204ba0cf059c.png)
 
 ###Object ID for SPN
 Onject ID = can be found on Azure Active Directory > Enterprise Application > drop down “all application”
