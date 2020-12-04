@@ -40,8 +40,7 @@ Region is Clear
 For Role, you can use this chart: [Role by Region List](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/285440/Jarvis-for-ADLS-Gen-1?anchor='role'-values-mapping-to-region)
 
 5. Set KiwiAccountName contans to the name of the data lake, Path contains to the path of the affected data, and set Operation to contains "DELETE"
-![Jarvis DELETE Operation Settings.jpg](/.attachments/Jarvis%20DELETE%20Operation%20Settings-7fca3459-a242-4ef4-bb29-01bc8056476e.jpg)
-
+![image.png](/.attachments/image-8256e8f8-1421-462f-8d86-69f3e17f8ca8.png)
 6. Run your query, and search for the Delete Operations.
 
 7. Once you have found the delete operations:
