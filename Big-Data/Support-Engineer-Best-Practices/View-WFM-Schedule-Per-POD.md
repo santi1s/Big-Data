@@ -72,7 +72,7 @@ And thats how you use WFM Schedule view in IE to view most of your engineering p
 ![WFM-SR-filter.png](/.attachments/WFM-SR-filter-d39604c3-b8ca-4fe7-979a-e71b5cfe7302.png)
 
 Note its now 115 aliass. 
-![WFM-SR-select.png](/.attachments/WFM-SR-select-249dbffa-0af4-439a-9c3b-0a889cb4b00b.png)
+![image.png](/.attachments/image-1c6e4da3-4870-467d-ad87-4c03c3cb213a.png)
  tap **OK**. 
 ![WFM-sr-multi-good.png](/.attachments/WFM-sr-multi-good-916aa262-24f2-45e1-bd22-225fd6eee1af.png)
 and ta-da multiday of entire team.  drill into a day for per 30 min.  Just like the other example tap a day to drill in. 
