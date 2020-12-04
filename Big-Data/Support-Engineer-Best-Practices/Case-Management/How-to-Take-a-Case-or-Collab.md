@@ -113,7 +113,7 @@ There are three ways you can check if you were assigned a case or a collaboratio
 1. The assignment email will designate if you have been assigned a case or a collaboration, the email title will either say: "Case Assignment" or "Collaboration Assignment" right in the title.
 
 2. You can check the case itself! Open the case in Service Desk and check the case owner. If it is you, then it was a case assignment!
-![image.png](/.attachments/image-f2d4b756-a517-42e5-886b-7c9a2c38cdde.png)
+![image.png](/.attachments/image-9d5107b6-824f-441d-900c-3c807f46aa23.png)
 If it was not you, scroll down to the 'Tasks' tile, make sure 'Collaboration' tab is selected, and check collaboration owner:
 ![image.png](/.attachments/image-2ad81f6c-e4f7-463d-beb0-6fe6f4072f3e.png)
 
@@ -125,7 +125,7 @@ Your list of cases has a column called 'Type' that will tell you if an assignmen
 
 There are two ways to check current SLA (time until we have agreed to contact the customer).
 1. In the case! Open the case in Service desk, and in the Details there is an SLA box, which shows the current time until SLA.
-![image.png](/.attachments/image-c47e504d-03c9-4b8c-9cb2-43406d979a37.png)
+![image.png](/.attachments/image-bc70d328-a247-4a1d-b365-c7bed004bc5c.png)
 
 2. Under the My Cases and Tasks tile you can click 'View All' and in that table there is an 'Initial Response SLA' column, which will tell you if the SLA was met, missed, or how much time is left.
 ![image.png](/.attachments/image-fd3259c3-a63b-459f-bf4e-23b746dda2ba.png)
@@ -145,7 +145,7 @@ Even if a customer lists 'Phone' as their preferred communication method, send a
 2. If you have a good amount of SLA time left, do some research and try to give the customer a solution, or provide questions/next steps in your first contact!
 3. If you have very little SLA time left, reach out to a customer in an email introducing yourself, saying you are currently reviewing their issue and will reach out shortly with next steps.
 4. Don't forget to change case state in the top, right-hand corner!
-![image.png](/.attachments/image-4b5c9aca-8b5f-4fdf-bda8-ddb14f016d72.png)
+![image.png](/.attachments/image-384ef9ee-a72b-4f34-8bdd-095574b70a55.png)
 
 5. If you have provided any information or suggestions that you believe could resolve the case, change the case status to 'Waiting for Confirmation' and leave it there for the duration of the case. 
 
