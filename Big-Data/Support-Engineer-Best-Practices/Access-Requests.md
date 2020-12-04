@@ -44,7 +44,7 @@ Note : New account will be created in a couple of hours.  Be sure to use Chrome 
 
 # How to request RAVE access
 https://internal.support.services.microsoft.com/en-us/help/4479873
-![image.png](/.attachments/image-6a98d121-bd07-4828-97ec-a5c24ed313fd.png)
+![image.png](/.attachments/image-efc8feaa-7551-401d-8711-018f286ec705.png)
 business justification "I'm a SE in Data Movement to support collabs and cases which are initiated within Rave. "
 
 
