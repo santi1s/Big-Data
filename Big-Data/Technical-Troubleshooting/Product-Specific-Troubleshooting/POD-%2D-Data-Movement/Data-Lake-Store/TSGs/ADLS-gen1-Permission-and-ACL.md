@@ -49,7 +49,7 @@ Onject ID = can be found on Azure Active Directory > Enterprise Application > dr
 
 Then copy the Object ID here
 
-![image.png](/.attachments/image-f6b29d28-d0cd-42e3-8490-9e577f0dc517.png)
+![image.png](/.attachments/image-5b6d3bb0-fdd4-4bd8-bd71-2aece0fae05e.png)
 
 ##To modify the mask with Powershell 
 This is a small sample, but it sure works to edit / modify ACL
