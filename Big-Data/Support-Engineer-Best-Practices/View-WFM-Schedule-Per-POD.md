@@ -61,7 +61,7 @@ Note the SR is the Staff Group which is rolled up from the regional GA's and is 
 ![image.png](/.attachments/image-aae5c2b8-75f4-4ff8-a77d-6e9d97930fce.png)
 
 17.	You will now see an hour-by-hour view of everyone you’ve selected for that day
-![WFM-singleday-good.png](/.attachments/WFM-singleday-good-00a194e4-5f12-48ff-a949-abd07dfff2ef.png)
+![image.png](/.attachments/image-326e1693-261c-4103-b578-37a916acfd6f.png)
 Note, WFM2 uses your local timezone based of our OS.  The example above is in **CDT (UTC-5)**
 Note, as part of the Data Movement re-org / alignment, Mindtree was put into the GA's they are most aligned to. Hence 40 alias's in AMER GA instead of 21 (as of July, 2020) 
 
