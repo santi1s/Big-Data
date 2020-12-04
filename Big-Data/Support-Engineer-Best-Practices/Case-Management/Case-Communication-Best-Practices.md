@@ -53,7 +53,7 @@ graph TD
 
 <center>
 
-**Effective Communication Training - Rob Beene, Smit Shah - May 16 2019**
+**Effective Communication Training - May 16 2019**
 ::: video
 # Communications Training Videos
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/4fba91e4-f162-49a8-907d-d058c1545ac1?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
@@ -62,7 +62,7 @@ graph TD
 <br>
 <br>
 
-**Case Communication Training - Whitney Henderson - July 20 2020**
+**Case Communication Training - July 20 2020**
 :::video
 <iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/ff01a1ff-0400-a521-ee90-f1eacac98879?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 :::
@@ -108,7 +108,7 @@ f. Leave your phone number.
 
 For example:
 
-> Hello, this is Jane Smith from Microsoft Support. I was just reaching out to give you an update on your Data factory case. I was able to complete my review of your logs and wanted to speak with you about the results and next steps. I'll send all that information to you in an email, but if you would like to discuss it, please feel free to call me back! My number is in the signature of my email, but in case you don't receive the email, you can reach me here: 704-555-9988. That's 704-555-9988. Thank you! 
+> Hello, this is Jane Smith from Microsoft Support. I was just reaching out to give you an update on your Data factory case. I was able to complete my review of your logs and wanted to speak with you about the results and next steps. I'll send all that information to you in an email, but if you would like to discuss it, please feel free to call me back! My number is in the signature of my email, but in case you don't receive the email, you can reach me here: <Phone Number>. That's <Phone Number>. Thank you! 
 
 ## Best Practices
 
@@ -147,7 +147,7 @@ Template:
 
 Example:
 
-![image.png](/.attachments/image-692b1fb3-0feb-45ec-ba86-b5ba23338be0.png)
+![image.png](/.attachments/image-db9cf863-5c64-478d-8440-6b047010be97.png)
 
 
 ## Email Signature
@@ -155,12 +155,12 @@ Example:
 ### Template
 Your signature should always contain: Your email address, your title, your hours, your managers email address, your phone number, and the microsoft logo. You can use the below signature as a template.
 
->Whitney Henderson
->whhender@microsoft.com
+>Firstname Lastname
+>alias@microsoft.com
                    
 >Support Engineer       Work Hours: M-F 8am-5pm EST
->Data Movement         Office: +1 (980) 7767642 X67642
-> Manager: Lee Pauling - lepaulin@microsoft.com
+>Data Movement         Office: Office Phone Number
+> Manager: Firstname Lastname - alias@microsoft.com
 > ![image.png](/.attachments/image-1235bd30-b3be-4f75-bb2a-c7f96ce2998d.png)
 
 ### Adding a Signature in Outlook
@@ -172,9 +172,9 @@ Your signature should always contain: Your email address, your title, your hours
 3. Name your Signature and click "Okay"
 ![image.png](/.attachments/image-9867536c-1d3a-4df2-8a66-63741377a396.png)
 4. Add your signature to the Editor at the bottom
-![image.png](/.attachments/image-74523b6b-8039-4675-bbd6-0568213d340f.png)
+![image.png](/.attachments/image-f443a41b-54f7-4c18-92bf-d73c8b2ff3ab.png)
 5. Choose what email account you want to use, and what kinds of emails you want it for.
-![image.png](/.attachments/image-0d844667-54ea-4aa8-97aa-de141561b0a8.png)
+![image.png](/.attachments/image-efde5c30-de44-4117-93e2-9684cdd28409.png)
 6. Click Okay
 ![image.png](/.attachments/image-381ef547-93a4-4c7a-b82a-16a131775e1b.png)
 
