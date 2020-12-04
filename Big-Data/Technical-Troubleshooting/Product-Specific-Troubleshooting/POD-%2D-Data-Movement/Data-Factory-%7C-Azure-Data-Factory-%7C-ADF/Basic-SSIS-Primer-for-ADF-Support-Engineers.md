@@ -8,7 +8,7 @@
 ### ADF Setup:
 Create a Data Factory (v2) and Create a new Azure SSIS Integration Runtime
 
-![image.png](/.attachments/image-8b761897-38dd-44ce-bd0f-c3a9dbdadf2f.png)
+![image.png](/.attachments/image-31017f2b-8df1-4cd9-88bd-7b669ac000b1.png)
 
 Go through a default SSIS IR setup.  Point it to the database where you’ll be hosting your SSISDB (my example here is an Azure SQL Database)
 
