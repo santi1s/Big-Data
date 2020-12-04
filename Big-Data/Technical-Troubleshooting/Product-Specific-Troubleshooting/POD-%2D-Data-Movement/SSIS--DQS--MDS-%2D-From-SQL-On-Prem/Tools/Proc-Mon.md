@@ -4,10 +4,6 @@
 
 ## Where do you get it from?
 
-Download from www.sysinternals.com (redirects to http://technet.microsoft.com/en-us/sysinternals/bb896645).
-Unzip into a folder.
-
-	How to collect?
 
 1.	Download the ProcMon tool from the following link:
 https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
