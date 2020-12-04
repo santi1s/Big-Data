@@ -9,9 +9,9 @@ Generally, these tasks are assigned to engineers from another team when you need
 1. Open your case in Service Desk and select 'Edit' in the upper right-hand corner.
 ![image.png](/.attachments/image-e311fcc6-82e6-4ab1-bc13-d41cb8707112.png)
 2. Scroll down and find the 'Tasks' pane on the left-hand side of the case in service desk.
-![image.png](/.attachments/image-ec67fcc5-c6ee-4a4e-b830-97016172f64a.png)
+![image.png](/.attachments/image-d56a74eb-d094-498e-9439-83a21679ed57.png)
 3. Select + Collaboration
-![image.png](/.attachments/image-15843134-96b2-4f57-8867-872d03702ad1.png)
+![image.png](/.attachments/image-06b669e5-d6da-4990-a7c9-0ae5db4715d1.png)
 4. Use 'Route by Area Path' to assign to a team/queue.
 Choose the Product, Support Topic, and Support Subtopic based on the issue you need the collaboration engineer to address.
 ![image.png](/.attachments/image-a59cec05-d984-4832-8268-3f83af123a7e.png)
