@@ -14,4 +14,4 @@ This will bring up the RAT interface.  Click on the Roster menu and select DSD:
 
 You now have access to RAT.  A good place to start is to change the Skill drop-down to the product you're working with.  In this example, SSIS:
 
-![image.png](/.attachments/image-78402243-4973-420f-8c97-1dca0af5a104.png)
+![image.png](/.attachments/image-e344436d-97a5-4224-b40a-bd2a2daf492d.png)
