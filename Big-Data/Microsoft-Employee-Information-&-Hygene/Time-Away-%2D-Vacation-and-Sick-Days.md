@@ -134,7 +134,7 @@ For long vacation or sick days, it is good to set automatic replies that contain
 
 2. Set the option to 'Send Automatic Replies', and then 'Only send during this time range'
 Set the time range for the dates of your vacation. 
-![image.png](/.attachments/image-9c7dc90c-37da-41a6-a33f-57dc02e435da.png)
+![image.png](/.attachments/image-18f2ae10-4f70-44c3-b91b-f5b127a32c90.png)
 
 3. You'll note there are two reply options, one for Inside your Organization (the message people within Microsoft will receive) and Outside your Organization (the message outside customers will receive).
 Please set both, though do use different messages. Here are some examples.
