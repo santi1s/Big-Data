@@ -53,12 +53,12 @@ If this is your first time looking at WFM2, you won't have a "GA" or "SR" group 
 ![image.png](/.attachments/image-c9c5e990-804b-4bd9-8374-decdb1fd7a36.png)
 
 15.	Tap **OK** on this window and it will take you back to the schedule view and show everyone’s schedule.  Note that the next time you come back to WFM, you will not need to create a new filter, it will use the last one you had active.  At this point you can tap F12 to turn off Developer to save resources.  Below is what you should see, Note for the first day I've expanded the column to show the **GE SQL-Data Move SR**. 
-![WFM-good-multi.png](/.attachments/WFM-good-multi-ec12b84a-2b61-44b5-9147-1059ae3ac8d5.png)
+![image.png](/.attachments/image-ba40bfab-6754-45b2-b5a4-0dcaac2b3984.png)
 
 Note the SR is the Staff Group which is rolled up from the regional GA's and is availability time for VDM and the Duty Managers.  The GA view makes it easier to see regional alias, however its as good as what the Duty Managers and Managers have put in for everyone while keeping it updated.
 
 16.	In order to see an hour-by-hour breakdown of everyone’s availability for a specific day, click on that date at the top of the schedule view.  Note, First day was expanded to see SR. 
-![WFMScheduleViewMultiDayView.png](/.attachments/WFMScheduleViewMultiDayView-8f1fbaa7-341e-4466-80ed-31f8b0deea4e.png)
+![image.png](/.attachments/image-aae5c2b8-75f4-4ff8-a77d-6e9d97930fce.png)
 
 17.	You will now see an hour-by-hour view of everyone you’ve selected for that day
 ![WFM-singleday-good.png](/.attachments/WFM-singleday-good-00a194e4-5f12-48ff-a949-abd07dfff2ef.png)
