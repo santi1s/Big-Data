@@ -82,7 +82,7 @@ Ex: "cancel"
 
 [Case Ninja](https://aka.ms/caseninja) is a configurable outlook tool that can throw up a banner when you're assigned a case or a critsit, so you don't miss case assignments or other important case emails.
 
-![image.png](/.attachments/image-7c68b09f-7548-4088-af5e-a6ddf18916ee.png)
+![image.png](/.attachments/image-44f76262-4016-41c6-b92b-34e56d4909ed.png)
 
 ## OOFSponder
 
