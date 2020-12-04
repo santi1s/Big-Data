@@ -12,7 +12,7 @@ Create a Data Factory (v2) and Create a new Azure SSIS Integration Runtime
 
 Go through a default SSIS IR setup.  Point it to the database where you’ll be hosting your SSISDB (my example here is an Azure SQL Database)
 
-![image.png](/.attachments/image-74784573-9f2a-4bcc-8f44-2056a6711417.png) ![image.png](/.attachments/image-985908c7-5b76-4586-8140-db809e7161cb.png)
+![image.png](/.attachments/image-0dda551b-dd7e-48dd-a859-9b74e9df614b.png)
 
 Then “next next finish” through the rest of the wizard.
 
@@ -20,14 +20,14 @@ Then “next next finish” through the rest of the wizard.
 
 Launch Visual Studio 2017 and Ctrl-Shift-N to create a new Project
 
-![image.png](/.attachments/image-68839373-134a-4405-816c-60f898ebf618.png)
+![image.png](/.attachments/image-86538dfe-d211-4d06-b3ed-75cc042d462c.png)
 
 Select the “Integration Services Project (Azure-Enabled)”, give it a name, and hit OK
 
 It will prompt you to connect to SSIS in Azure Data Factory now.  Hit Yes (you can set this up later, too)
 Select your relevant info from the dropdowns:
 
-![image.png](/.attachments/image-959de6d9-d309-49f0-a1fe-7fb48dda8eae.png)
+![image.png](/.attachments/image-bbf9f5fd-a025-446e-a555-35a50faf41f4.png)
 
 Pick a Storage account to store the packages in Azure, and then click Connect
 You’re now in the SSIS Design View in Visual Studio.  Click the Data Flow tab at the top and then “click here to add a new data flow task”
