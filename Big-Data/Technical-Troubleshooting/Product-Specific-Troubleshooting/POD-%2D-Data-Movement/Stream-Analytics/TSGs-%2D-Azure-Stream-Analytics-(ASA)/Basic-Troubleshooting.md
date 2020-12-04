@@ -1,6 +1,6 @@
 #Review Case Details:
 1.) Customer Statement:
- ![0.png](/.attachments/0-b898348c-2ac5-47a7-9dd4-809f2e410825.png)
+ ![image.png](/.attachments/image-18a6dbcf-704e-4ece-ab6c-1bcd1deba45d.png)
 Note the Problem start time, resource uri, and location.
 
 2.) Check if there is an existing ICM
@@ -10,10 +10,9 @@ Note the Problem start time, resource uri, and location.
 ![2.png](/.attachments/2-f5cb47f1-0c37-4d64-a65d-5eca7f191d5e.png)
 
 4.)Review Communications
- ![3.png](/.attachments/3-4eccf80c-db91-4d86-9828-c9243ff0a30f.png)
-
+ ![image.png](/.attachments/image-20b332cf-dc60-45ff-a465-5b365bc8bed2.png)
 5.)Review Timeline & Notes
- ![4.png](/.attachments/4-856095a4-86a3-4239-a731-e51367627f55.png)
+![image.png](/.attachments/image-2b2eff07-64db-44f3-8a2c-03a206f4871c.png)
 
 After you have reviewed all the case details write yourself a quick summary of the issue as it stands now.
 
@@ -23,7 +22,7 @@ After you have reviewed all the case details write yourself a quick summary of t
 ![5.png](/.attachments/5-a01e0df1-f375-49dc-bc3c-c84b253c57dd.png)
  
 1.1)Review Insights
-![6.png](/.attachments/6-3538b8ad-6dc4-4e62-8c2c-a8af89937b66.png)
+![image.png](/.attachments/image-cf572c10-44bb-401d-9a9f-3015f6698473.png)
 
 1.2)	If there are no helpful insights leave feedback
 
