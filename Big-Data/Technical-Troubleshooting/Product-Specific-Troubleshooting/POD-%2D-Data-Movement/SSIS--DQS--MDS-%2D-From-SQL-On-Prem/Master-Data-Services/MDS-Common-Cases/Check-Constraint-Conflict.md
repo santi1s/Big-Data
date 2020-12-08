@@ -11,7 +11,7 @@ After reviewing the file, I can see the Check Constraint statement related to fk
 
 In the case there is a DELETE statement mdm.udpModelDelete on a table with a Check Constraint, the process will fail.  It would seem that the check constraint would need to be removed if there is a delete on that table, however, my expertise is limited in this area. I need verification from the SQL MDS Team as to the next plan of action. 
 
-REQUESTED INFORMATION
+**REQUESTED INFORMATION**
 
 Could you please verify what method you are using to upgrade MDS Database?
 
