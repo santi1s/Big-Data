@@ -2,6 +2,9 @@
 
 [![image.png](/.attachments/image-afa33277-136b-423b-8563-f3dc95e6ac3c.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/389990/Follow-the-Sun-(FTS)-Handoff-Tool-Process?anchor=guidelines-for-support-engineer%27s-using-fts)[![image.png](/.attachments/image-28a757f1-47df-49c6-8033-f621da286e74.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-flow-chart)[![image.png](/.attachments/image-42b4fd78-6cad-42e6-8744-7193a64a3d0f.png)](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289524/Big-Data-ARR)
 
+[[_TOC_]]
+
+
 # Handoff Process
 
 ## Handoff Between Regions
