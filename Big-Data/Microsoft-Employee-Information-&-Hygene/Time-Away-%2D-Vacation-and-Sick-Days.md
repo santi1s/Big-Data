@@ -190,7 +190,7 @@ Professional : +44-844-800-2400
 
 ## Case Handoff for Vacation
 
-Please follow the Expected OOF Case Handoff guidelines to hand off cases for vacation: [Expected OOF Case Hand Off](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Hand-Off-Process?anchor=hand-off-for-planned-oof)
+Please follow the Expected OOF Case Handoff guidelines to hand off cases for vacation: [Expected OOF Case Hand Off](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-for-planned-oof)
 
 ## Record Vacation Hours
 
