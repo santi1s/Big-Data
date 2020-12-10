@@ -8,6 +8,8 @@ The MDS training would be self-paced with learning content provided to the engin
 
 [MDS -SQL OnPrem wiki](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master%20Data%20Services.aspx)
 
+[MDS 2016 Release Features Video](https://www.youtube.com/watch?v=cKA72FpOVxI) 
+
 #Product Group Engagement:
 MDS product maps under the same product team management as SSIS.
 
