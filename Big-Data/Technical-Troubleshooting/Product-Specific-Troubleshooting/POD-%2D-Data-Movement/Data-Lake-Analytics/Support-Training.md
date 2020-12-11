@@ -11,6 +11,12 @@ If you are connected to corp-net, put the below address into your file explorer:
 
 `\\cosbj-01\public\2.5.1000.6\Microsoft.Cosmos.ScopeStudio.vsix`
 
+If the installer failed for any reason, need to click on 'show more detail' save and share the logs to PG (Hao Zhang) 
+If you can view the error/failed logs then use this link on your window file explore %AppData%\Microsoft\ScopeStudio\log
+
+Or use the manual downlaod on the below:
+https://aad.cosmos08.osdinfra.net/File/Download/cosmos/cosmos.clientTools/public/CosmosClientTools/ScopeStudio/Stable/Microsoft.Cosmos.ScopeStudio.vsix
+
 This takes a little while to install. The "Initializing" will spin for about 7 minutes, then it will ask if you want to allow it to make updates to your computer. Then it will spin for about 7 minutes more before asking what versions of VS you want to install for.
 	
 4. Get Started with your first U-SQL Script: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-get-started-portal
