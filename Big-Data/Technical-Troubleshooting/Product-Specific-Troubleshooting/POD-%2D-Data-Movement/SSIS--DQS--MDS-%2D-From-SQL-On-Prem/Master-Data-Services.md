@@ -21,7 +21,10 @@ MDS product maps under the same product team management as SSIS.
 | Master Data Service (MDS)  |For Advisory questions & Pre-RFC discussions,  approach dedicated PG SPOC (Josh Du (Wicresoft) <v-redu@microsoft.com>) & cc team alias (SQL MDS team <mdstm@microsoft.com>)   | We file RFC / HOTFIX and work together with PG team.|
 
 RFC [Template.docx](/.attachments/Template-f119996a-cc19-4e01-b760-35afbf7c1309.docx)
-Email SEE or TA RFC to file
+Email SEE or TA RFC to file at http://sqlbuvsts01:8080/Main/SQL%20Server
+
+SQL Build Releases
+https://sqlserverbuilds.blogspot.com/
 
 NOTE: The volume of MDS (<30 cases monthly) is significantly lower than the volume of SSIS (<190 cases monthly) support tickets.
 
