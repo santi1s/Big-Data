@@ -13,8 +13,9 @@ Response
 
 - Backlogged events is a result of transient errors or not enough streaming units, fixing these will increase processing rates and will reduce backlogged events. If the issue is not resolved and results in the continual accumulation of retry events, the ASA job may run out of resources.  
 
+- Retry events for SQL may behave differently as documented [Working with transient errors - Azure SQL Database | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-sql/database/troubleshoot-common-connectivity-issues) 
+
 - A Drop policy can be used for preventing retries or the user can create an alert to be able to identify and resolve the source of the errors more quickly. 
 
-- Retry Policy Docs Output error policies in Azure Stream Analytics | Microsoft Docs 
+- Retry Policy Docs [Output error policies in Azure Stream Analytics | Microsoft Docs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-output-error-policy#retry) 
 
-- Retry events for SQL may behave differently as documented Working with transient errors - Azure SQL Database | Microsoft Docs 
