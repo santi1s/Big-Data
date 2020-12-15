@@ -1,3 +1,7 @@
+EXAMPLE Question:
+SSIS Packages are not able to copy generated files into File server
+
+
 1) Is the source and destination in the same Network?
 
 2) What is the Environment (On-Prem or Azure Cloud)?
