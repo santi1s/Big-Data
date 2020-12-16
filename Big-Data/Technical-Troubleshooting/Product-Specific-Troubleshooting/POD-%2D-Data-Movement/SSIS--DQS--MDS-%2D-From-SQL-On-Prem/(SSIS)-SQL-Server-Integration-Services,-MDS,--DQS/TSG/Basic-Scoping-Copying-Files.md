@@ -24,7 +24,7 @@ SSIS Packages are not able to copy generated files into File server
 
    b) **Procmon** will monitor the file system and process/thread activity.  This could be helpful when trouble shooting connecting to a shared drive or if there may be capacity issues or zombie processes.
 
-   c) **Fiddler** is similar to Netmon is limited to HTTP requests.
+   c) **Fiddler** is similar to Netmon, but is limited to HTTP requests.
 
 **Common Problem:**
 This is a permissions issue accessing the file on the network share.
