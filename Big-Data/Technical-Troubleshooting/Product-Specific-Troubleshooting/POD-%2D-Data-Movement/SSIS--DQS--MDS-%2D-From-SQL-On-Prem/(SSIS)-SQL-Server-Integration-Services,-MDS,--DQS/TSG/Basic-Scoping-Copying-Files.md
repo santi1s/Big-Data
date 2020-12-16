@@ -19,7 +19,8 @@ SSIS Packages are not able to copy generated files into File server
 7) Dig in deeper into the SSIS logs
 
 8) Use a tool to further investigate (netmon, procmon, fiddler)
-a) **Netmon** for monitoring the network connectivity.  This would not be needed if the copy file is using a shared drive unless the shared drive is configured to use a TLS connection.
+
+   a) **Netmon** for monitoring the network connectivity.  This would not be needed if the copy file is using a shared drive unless the shared drive is configured to use a TLS connection.
 
    b) **Procmon** will monitor the file system and process/thread activity.  This could be helpful when trouble shooting connecting to a shared drive or if there may be capacity issues or zombie processes.
 
