@@ -19,8 +19,13 @@ SSIS Packages are not able to copy generated files into File server
 7) Dig in deeper into the SSIS logs
 
 8) Use a tool to further investigate (netmon, procmon, fiddler)
+a) **Netmon** for monitoring the network connectivity.  This would not be needed if the copy file is using a shared drive unless the shared drive is configured to use a TLS connection.
 
-Common Problem:
+   b) **Procmon** will monitor the file system and process/thread activity.  This could be helpful when trouble shooting connecting to a shared drive or if there may be capacity issues or zombie processes.
+
+   c) **Fiddler** is similar to Netmon is limited to HTTP requests.
+
+**Common Problem:**
 This is a permissions issue accessing the file on the network share.
 
 When you start the execution of a SSIS package from SSISDB, this will start in background the ISServerExec.exe using the Login credentials. You must check that the Windows user, with which you are logged in on the SQL Server instance, has access on the network share.
