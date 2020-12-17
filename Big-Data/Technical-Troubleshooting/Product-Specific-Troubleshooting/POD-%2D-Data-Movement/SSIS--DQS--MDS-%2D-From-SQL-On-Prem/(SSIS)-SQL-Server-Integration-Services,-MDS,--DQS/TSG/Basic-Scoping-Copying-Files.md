@@ -93,4 +93,5 @@ SELECT auth_scheme FROM sys.dm_exec_connections WHERE session_id = @@spid ;
 
 If you get NTLM,verify that the SPNs are set correctly for the SQL Server instance.
 
-2. The SQL Server service account does not have delegation permissions
+2. The SQL Server service account does not have delegation permissions.  The issue was with the SPN configuration for SQL server in domain. Also had to allow delegation to Application servers in domain service account. Then had to reboot SQL server and everything worked fine. 
+
