@@ -1,0 +1,1 @@
+[Debugging ASA Dedicated Cluster](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/13308/Debugging-Dedicated-Cluster-errors-and-Private-Endpoint-errors-using-Jarvis-logs)  
