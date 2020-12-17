@@ -26,7 +26,7 @@ SSIS Packages are not able to copy generated files into File server
 
    c) **Fiddler** is similar to Netmon, but is limited to HTTP requests.
 
-**Common Problem:**
+**Example Solution:**
 This is a permissions issue accessing the file on the network share.
 
 When you start the execution of a SSIS package from SSISDB, this will start in background the ISServerExec.exe using the Login credentials. You must check that the Windows user, with which you are logged in on the SQL Server instance, has access on the network share.
