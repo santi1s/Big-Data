@@ -14,6 +14,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 
  ![image.png](/.attachments/image-8e44ad91-4996-4354-895e-02cc8cc13e47.png)
 
+
 3.	Click Options > Select Columns. Put a check by each attribute and click OK.
 4.	Prepare to reproduce the issue
 5.	To begin capturing trace events click File > Capture Events
@@ -35,6 +36,8 @@ Procmon /Quiet /BackingFile "D:\Tools\ProcMon\output.PML" /AcceptEULA /Quiet
 After you have finished collecting the run Procmon /Terminate
 
 The /Terminate tells the first instance to stop capturing, commit any outstanding data to the backing file and exit cleanly. The reason why we would have to run Procmon from command line because while running setup, you shouldn't (It's a Best Practice!) log into the passive nodes using Terminal Services or Console Mode. If you need to run ProcMon on the passive nodes, then you can run ProcMon using a Scheduled Task. Keep in mind that the ProcMon /Terminate needs to be called from the same session where you instantiated ProcMon to cleanly shutdown and commit the backing file. If this is NOT done, then the PML file sometimes cannot be opened with ProcMon. If you know for how long you need to run procmon, then you could put in a wait in a batch file with the Procmon commands. 
+
+![image.png](/.attachments/image-e7ae4ba9-dbe9-4392-bb55-0f13cdece326.png)
 
 Example:
 set PM=C:\sysint\procmon.exe
