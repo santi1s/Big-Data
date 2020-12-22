@@ -13,7 +13,7 @@ SSIS Packages are not able to copy generated files into File server
 
 5) What activity are they using to copy the file?  File System Task, Script Task, FTP (if on different network maybe), Component Task
 
-6) What are the User access to folders and files (if exists already).  Ex. Execution using SSISDB or SQL Server Agent or VSDT will all have different user agents.  Does one user work but not others? Or do all users not connect?
+6) What are the User access to folders and files (if exists already).  Ex. Package Execution using SSISDB or SQL Server Agent or 3rd party custom application or VSDT will all have different user agents.  Does one user work but not others? Or do all users not connect?
 
 7) Look deeper into the activity that they are using to connect...how is it configured are they using the UNC Path?
 
