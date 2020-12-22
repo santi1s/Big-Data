@@ -5,7 +5,7 @@ SSIS Packages are not able to copy generated files into File server
 **EXAMPLE SCOPING QUESTIONS**
 1) Is the source and destination in the same Network?
 
-2) What is the Environment (On-Prem or Azure Cloud, 32 bit or 64 bit, Version of SQL Server & Package version (version should be the same), is it scaled out)?
+2) What is the Environment (On-Prem or Azure Cloud, 32 bit or 64 bit OS and SSIS, Version of SQL Server & Package version (version should be the same), is it scaled out)?
 
 3) Network.  Is the port open (1433)? **Note:** Scaled out environment would need additional scoping for other ports too ie. 8391, and correctly installed SSL Certificates.
 
