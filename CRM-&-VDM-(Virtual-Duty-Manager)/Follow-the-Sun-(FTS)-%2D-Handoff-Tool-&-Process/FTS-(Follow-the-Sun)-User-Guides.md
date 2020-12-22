@@ -298,3 +298,22 @@ If there is an FTS request there that isn't yours you will either need to:
 2. Remove and delete that FTS request and then add yours.
 
 If no FTS request is there, just add your current one.
+
+**Current FTS must be completed before creating a new manual request**
+
+_Issue:_
+![image.png](/.attachments/image-630be7a8-d42f-4e64-b26a-b63b506b0638.png)
+
+_Resolution:_
+If you open the case in CRM by searching your case number in the top, right hand search bar
+ ![image.png](/.attachments/image-d452b0cc-ced5-4ba6-a1ad-efe6a609e29b.png)
+
+Select your case under “Service Requests”
+![image.png](/.attachments/image-e178cc0a-6717-4fd5-b236-7f9e9786cef4.png)
+
+And scroll down, on the left-hand side there's a spot for "Current FTS" which should be the current FTS request. 
+![image.png](/.attachments/image-bd5b9b2e-0dc8-4f3d-8872-ff7756a5406a.png)
+
+If there is an FTS request there that isn't yours you will either need to:
+1. Use that FTS request.
+2. Remove and delete that FTS request and then add yours.
