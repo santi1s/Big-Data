@@ -264,7 +264,7 @@ OR reach out to your [assignment lead](https://dev.azure.com/Supportability/Big%
 
  
 
-Can’t Update Your FTS Request?
+**Can’t Update Your FTS Request?**
 
 _Issue:_
 You cannot update your FTS Request, can’t save it, and your stages show little lock icons.
