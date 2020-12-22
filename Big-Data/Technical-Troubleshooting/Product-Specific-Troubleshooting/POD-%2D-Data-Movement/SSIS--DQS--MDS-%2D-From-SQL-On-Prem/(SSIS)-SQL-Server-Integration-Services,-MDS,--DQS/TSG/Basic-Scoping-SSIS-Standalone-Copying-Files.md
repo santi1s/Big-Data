@@ -96,3 +96,4 @@ If you get NTLM,verify that the SPNs are set correctly for the SQL Server instan
 
 2. The SQL Server service account does not have delegation permissions.  The issue was with the SPN configuration for SQL server in domain. Also had to allow delegation to Application servers in domain service account. Then had to reboot SQL server and everything worked fine. 
 
+https://techcommunity.microsoft.com/t5/sql-server/understanding-kerberos-and-ntlm-authentication-in-sql-server/ba-p/383190
