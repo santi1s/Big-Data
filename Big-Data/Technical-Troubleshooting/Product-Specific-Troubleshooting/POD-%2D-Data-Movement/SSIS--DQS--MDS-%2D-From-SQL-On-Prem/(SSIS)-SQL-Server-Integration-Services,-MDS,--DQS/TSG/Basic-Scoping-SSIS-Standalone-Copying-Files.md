@@ -9,7 +9,7 @@ SSIS Packages are not able to copy generated files into File server
 
 3) Network.  Is the port open (1433)? **Note:** Scaled out environment would need additional scoping for other ports too ie. 8391, and correctly installed SSL Certificates.
 
-4) Architecture of the Pipeline. What server are the input from (source)? What server is the SSIS package from? What server is the destination of the files?
+4) Architecture of the Pipeline. What server & connector are the input from (source)? What server is the SSIS package from? What server and connector is the destination of the files?
 
 5) What activity are they using to copy the file?  File System Task, Script Task, FTP (if on different network maybe), Component Task
 
