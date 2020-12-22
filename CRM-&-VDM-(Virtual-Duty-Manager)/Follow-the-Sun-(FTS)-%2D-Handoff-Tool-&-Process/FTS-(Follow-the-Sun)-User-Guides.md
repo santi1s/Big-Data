@@ -317,3 +317,29 @@ And scroll down, on the left-hand side there's a spot for "Current FTS" which sh
 If there is an FTS request there that isn't yours you will either need to:
 1. Use that FTS request.
 2. Remove and delete that FTS request and then add yours.
+
+**You Selected "Automatic" Transfer, But it is asking you to input a resource.**
+
+_Issue:_
+![image.png](/.attachments/image-03f73c13-f6cf-4570-975c-52d89c4d4a33.png)
+Even though you selected "Automatic" Transfer, when you get to the "Confirm Resource" Stage it asks you to input a resource.
+
+_Resolution:_
+Check and see if the stages are light green (like below) or dark green.
+![image.png](/.attachments/image-ae7cff56-17f4-40e2-b8dd-852465134e14.png)
+
+If they are light green, you've clicked through the arrows to get through each stage, rather than using "Next Stage".
+Go back to the First(Active) stage and then use "Next Stage" to advance. This should resolve the issue.
+
+**You must wait for Handover Call**
+
+_Issue:_
+![image.png](/.attachments/image-7a65e8cc-84b1-4573-b9c7-9abe245fbf7e.png)
+
+_Resolution:_
+You are submitting this request before the handover call time.
+
+1. Check that you Transfer From and Transfer To regions are correct on the First(Active) stage.
+2. On the Wait Until stage, either change the handover call time to the current time 
+OR
+wait until the specified handover call time to process handover.
