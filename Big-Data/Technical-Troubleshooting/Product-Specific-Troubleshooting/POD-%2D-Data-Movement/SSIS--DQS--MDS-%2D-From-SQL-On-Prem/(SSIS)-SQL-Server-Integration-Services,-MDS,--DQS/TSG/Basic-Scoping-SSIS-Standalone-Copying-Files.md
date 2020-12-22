@@ -88,7 +88,9 @@ The authentication information fields provide detailed information about this sp
  - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
 
 There are two possible reasons why this would fail:
-1. Comparing the working captures to the non working capture... I see that when things work, the app use Kerberos for authentication.  In the non-working scenario, the app uses NTLM.  I’m not sure why there are two different authentication methods being used as that is decided at the application layer.
+Comparing the working captures to the non working capture. Does the app work sometimes using Kerberos for authentication and sometimes using NTLM?  
+
+1. The connection to the SQL Server is made over KERBEROS when connecting locally and NTLM when connecting remotely. You can test if you are running KERBEROS or NTLM by running the following statement.  
 
 SELECT auth_scheme FROM sys.dm_exec_connections WHERE session_id = @@spid ;
 
