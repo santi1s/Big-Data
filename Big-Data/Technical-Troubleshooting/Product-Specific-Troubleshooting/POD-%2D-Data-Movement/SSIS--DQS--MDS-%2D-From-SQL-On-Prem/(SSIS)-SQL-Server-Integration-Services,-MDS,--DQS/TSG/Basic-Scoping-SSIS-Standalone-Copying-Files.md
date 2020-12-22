@@ -11,7 +11,7 @@ SSIS Packages are not able to copy generated files into File server
 
 4) Architecture of the Pipeline. What server are the input from (source)? What server is the SSIS package from? What server is the destination of the files?
 
-5) What activity are they using to copy the file?  File System Task, Script Task, FTP (if on different network maybe)
+5) What activity are they using to copy the file?  File System Task, Script Task, FTP (if on different network maybe), Component Task
 
 6) What are the User access to folders and files (if exists already)
 
