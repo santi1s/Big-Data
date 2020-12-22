@@ -40,6 +40,25 @@ _(yes, same link for / tool for VDM)_
 Ensure summary notes should follow the [template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) shown below.
 4.	If your case is not already in the list, [manually create an FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=manually-create-handover-request) and [complete the FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=fill-out-fts-request) up to the [“Ensure Summary”](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=ensure-summary) stage. Save.
 Ensure summary notes should follow the [template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) shown below.
+Select "next Stage"
+5. Under “Select Resource” stage, there are three options to choose a resource in the next region.
+a. **Automatic** – The option you will most often use. Automatic uses VDM to choose the next engineer available in the region you are transferring to. It favors engineers who have owned the case in the past.
+b. **Manual** – allows you to manually choose an engineer to assign to in the next region.
+c. **Skip** – Allows the transfer to skip the current region and move on to the next. For more information, see the “How to Skip a Region” section.
+
+**If you chose "Skip"** select 'Next Stage' to proceed.
+If you chose "Manual" or "Automatic" another stage will appear after the 'Select Resource' section. Select 'Next Stage' to proceed to it.
+
+**If you chose "Manual"** select a resource to transfer the case to using the search button. A list of engineers in the next region should appear, but you may also search by name. After selecting an engineer choose "Next Stage" to proceed.
+image.png
+
+**If you chose "Automatic"** simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region. It takes about 30 seconds-1 minute to complete this process, and the page looks like it is hanging. Just wait. There is a little "Saving" icon in the bottom corner to show you that it is working.
+
+If a resource isn't automatically selected, it is likely that based on FTS/VDM rules, an engineer isn't available.
+For a Sev A FTS requires that an engineer have at least 2 hours free on their schedule to be able to take the case.
+Either wait 15-30 minutes and retry or follow the next step.
+
+
 5.	Join the handover call to confirm your case will be transferred or reach out to your [case assignment lead](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=case-assignment-leads) to manage or vouch for your case at the call.
 6.	If there is no handover call, or the lead is unavailable, c[omplete the final to stages “Select Resource” and “All Done” to finish the transfer process.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=complete-transfer)
 
