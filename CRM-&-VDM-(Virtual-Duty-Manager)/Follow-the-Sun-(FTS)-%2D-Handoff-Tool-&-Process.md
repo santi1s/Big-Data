@@ -92,6 +92,10 @@ Theme:  _**The tool changes, not the expectations**_
 
 **Who are the leads: [Link to List](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=case-assignment-leads)**
 
+## Full Lead Guide
+
+[Follow this Link](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides)
+
 ## Steps to Complete Case Transfer
 
 1.	Check the [list of FTS requests in the next handover call.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=handover-call-pages)
