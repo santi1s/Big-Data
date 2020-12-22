@@ -259,10 +259,12 @@ You are attempting to use 'Automatic' to select a resource, but when you use "Ne
 ![image.png](/.attachments/image-b58887b9-8244-435f-a2d6-4f95b5bd83cc.png)
  
 _Resolution:_
-There have been some issues with CRM. Please use the Manual transfer to select a resource in the next region and report the issue in your [Leads Teams Channel](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=leads-teams-channels)
+There is not a resource available to take your case. Wait 15-30 minutes if possible and try again.
+OR reach out to your [assignment lead](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=data-movement-leads) during the handover call to assist you with the manual assignment process.
+
  
 
-**Can’t Update Your FTS Request?**
+Can’t Update Your FTS Request?
 
 _Issue:_
 You cannot update your FTS Request, can’t save it, and your stages show little lock icons.
@@ -275,3 +277,24 @@ You can either [check for the existing FTS request](https://dev.azure.com/Suppor
 Select “Activate” to continue working on your FTS request.
 ![image.png](/.attachments/image-c32a0752-cff2-433d-80b8-b83634bed70c.png)
  
+**Business Process Error FTS Transfer is Not Current**
+
+_Issue:_
+![image.png](/.attachments/image-c24cc1ac-badb-4307-ac3f-042bc98f1c64.png)
+FTS Transfer is Not Current FTS Transfer on Service request. Please check current FTS on the Service request.
+
+_Resolution:_
+If you open the case in CRM by searching your case number in the top, right hand search bar
+ ![image.png](/.attachments/image-d452b0cc-ced5-4ba6-a1ad-efe6a609e29b.png)
+
+Select your case under “Service Requests”
+![image.png](/.attachments/image-e178cc0a-6717-4fd5-b236-7f9e9786cef4.png)
+
+And scroll down, on the left-hand side there's a spot for "Current FTS" which should be the current FTS request. 
+![image.png](/.attachments/image-bd5b9b2e-0dc8-4f3d-8872-ff7756a5406a.png)
+
+If there is an FTS request there that isn't yours you will either need to:
+1. Use that FTS request.
+2. Remove and delete that FTS request and then add yours.
+
+If no FTS request is there, just add your current one.
