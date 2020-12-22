@@ -330,6 +330,7 @@ Check and see if the stages are light green (like below) or dark green.
 
 If they are light green, you've clicked through the arrows to get through each stage, rather than using "Next Stage".
 Go back to the First(Active) stage and then use "Next Stage" to advance. This should resolve the issue.
+![image.png](/.attachments/image-0cf88b17-39c3-4022-8bb5-6c0edf10092e.png)
 
 **You must wait for Handover Call**
 
