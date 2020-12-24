@@ -212,9 +212,15 @@ c. **Skip** – Allows the transfer to skip the current region and move on to th
 
 5. If you chose "Automatic" simply choose "Next Stage" to proceed. FTS will fill in an available resource from the next region. **It takes about 30 seconds-1 minute to complete this process, and the page looks like it is hanging. Just wait.** There is a little "Saving" icon in the bottom corner to show you that it is working.
 ![image.png](/.attachments/image-c8c1f341-7b6b-4207-9f1b-049a5ed4cecc.png)
-If a resource isn't automatically selected, it is likely that based on FTS/VDM rules, an engineer isn't available. 
+If a resource isn't automatically selected, it is likely that based on FTS/VDM rules, an engineer isn't currently available. 
 For a Sev A FTS requires that an engineer have at least 2 hours free on their schedule to be able to take the case.
-You will need to press the back arrow, change the assignment type to "Manual" and manually find an owner.
+
+You will have two options:
+1. Wait 15-30 minutes and retry by returning to the "Select Resource" tab and using the "Next Stage" button to proceed just like you did in steps 3 and 5. It will attempt to find a resource again. If it fails you can once again wait and try again or you can manually assign an engineer.
+2. To manually find an engineer reach out to your [assignment lead](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=data-movement-leads) during the handover call to assist you with the manual assignment process.
+
+Or, follow the process to [manually find an owner](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/394171/FTS-(Follow-the-Sun)-Lead-Guides?anchor=how-to-manually-find-a-resource), then follow the steps to manually assign above.
+
 
 ### All Done?
 
