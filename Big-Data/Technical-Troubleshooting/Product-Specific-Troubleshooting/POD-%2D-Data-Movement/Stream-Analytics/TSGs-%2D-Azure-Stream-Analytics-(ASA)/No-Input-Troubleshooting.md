@@ -158,6 +158,8 @@ After completing the general troubleshooting if you're still unable to see input
 - Incorrect Shared Access Policy Configuration
 - Device not sending data to EventHub - Check the EventHub Monitoring Graphs from the customer
 - [Malformed input](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FTechnical%20Troubleshooting%2FProduct%20Specific%20Troubleshooting%2FPOD%20%252D%20Data%20Movement%2FStream%20Analytics%2FTSGs%20%252D%20Azure%20Stream%20Analytics%20(ASA)%2FNo%20Input%20Troubleshooting&pageId=143968&anchor=malformed-input-events-causes-deserialization-errors) 
+- Throttling ingress. Calculate throughput. Ex Max Values bytes ÷ (1024 x 1024 x 60) = XX MB/sec
+The event hub configured with 20TU allows for 20MB/sec on message ingress.  If over this amount, the customer can increase the EventHub TU.
 
 ## IoT Hub 
 
