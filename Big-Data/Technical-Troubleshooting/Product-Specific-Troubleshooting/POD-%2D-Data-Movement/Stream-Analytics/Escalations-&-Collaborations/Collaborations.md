@@ -25,9 +25,9 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - If the input or output is the issue, also include a screenshot of the ASA Input configuration & output configuration
 
 # Azure Machine Learning
-1. Is this using Azure Automation ML? 
-2. Scoring URI and key (if any)
-3. If not using Automation, include the swagger.json file 
+- Is this using Azure Automation ML? 
+- Scoring URI and key (if any)
+- If not using Automation, include the swagger.json file 
 
 #Blob
 - Blob Name
@@ -37,6 +37,15 @@ The Resource URI is the fully qualified ID of the resource, including the resour
 - What is the most recent time this issue has occurred?
 - What are the steps to reproduce this issue?
 - What is the question for the Collaborator?
+
+#CosmosDB
+When opening a collaboration to Azure CosmosDB, be sure to include the following in your request:
+- CosmosDB Name
+- CosmosDB Table
+- Problem Start and end time
+- Problem Description
+- Ask for CosmosDB Team
+- ASC CosmosDB Insights found
 
 #Dev Ops
 When opening a collaboration to Azure Dev Ops, be sure to include the following in your request:
@@ -80,7 +89,7 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 Email the IoT POD:
 CSSPodDevSptDevIOT@microsoft.com
 
-   Not getting any response from the IoT Pod?
+- Not getting any response from the IoT Pod?
 [Reach out the correct regional SME for your customer: Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
 
 #PowerBi
