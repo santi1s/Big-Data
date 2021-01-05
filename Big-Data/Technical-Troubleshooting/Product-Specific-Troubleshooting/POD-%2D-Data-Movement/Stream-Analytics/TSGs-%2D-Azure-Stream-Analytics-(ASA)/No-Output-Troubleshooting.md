@@ -126,7 +126,7 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-documen
 **TSG**
 1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
 2. Review ASA Job Signals graph for latency on output.
-3. Review CosmosDB App Lens for Throttling and Latency.
+3. Review CosmosDB ASC for Insights, Throttling and Latency.
 4. Is the ASA job utilizing partitioning?
 **Example Problem.** 
 Cosmos DB Output contains multiple rows and just one row per partition key. If the output latency is higher than expected, consider choosing a partition key that contains at least several hundred records per partition key. For best performance, consider choosing the same partition key column for input and output. 
@@ -150,6 +150,8 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits
 </div></div> 
 
 6. If the RU Quota is maxed, then they need to scale up. [Here is an online support document related to CosmosDB Performance](https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput).
+7. Create a collaboration with CosmosDB for technical assistance in resolving the issue. [Review Collaboration Notes for CosmosDB Here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/379265/Collaborations?anchor=cosmosdb) 
+
 ##Azure Functions
 1. [Intro to Function Apps in ASA - Using Function App in Stream Analytics Job](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
 2. [Known Product Issues](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#known-issues)
