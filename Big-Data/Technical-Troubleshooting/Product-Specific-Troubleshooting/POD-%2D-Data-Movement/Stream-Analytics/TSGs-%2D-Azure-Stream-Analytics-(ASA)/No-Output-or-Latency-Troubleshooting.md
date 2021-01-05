@@ -162,9 +162,9 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits#per-item-limits
     - Issue time frame (when events are output or errors occur)
 4. Check that ASA can connect to Function App in the Output Configuration
 5. Check that execution time has not exceeded app limit.  They may need to upgrade to a higher Tier for the Function App.
-   - [Guide to Use AppLens to find long running apps](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
+   - [Guide to Use AppLens to find long running apps](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/16760/troubleshooting-azure-functions-output-related-issues)
 6. Check that Functions do not have errors.
-   - [Guide to Use AppLens to find function app errors](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/4997/Troubleshootng-Azure-Functions-Output-related-issues)
+   - [Guide to Use AppLens to find function app errors](https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20Stream%20Analytics.wiki/16760/troubleshooting-azure-functions-output-related-issues)
    - [Error Handling Retries](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions#error-handling-and-retries) 
 7. Check for Function App Configuration limitations when reading in JSON as array
    - ASA Sends JSON as an array to the Function App
