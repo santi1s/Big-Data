@@ -76,7 +76,12 @@ https://msaas.support.microsoft.com/queue/bb7f20ed-8267-e711-8126-002dd815174c
 - Errors or Warnings found
 - What is the most recent time this issue has occurred?
 - What is the question for the Collaborator?
-- [Opened a collaboration task to IoT Hub and haven't gotten a response? Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
+- Opened a collaboration task to IoT Hub and haven't gotten a response?
+Email the IoT POD:
+CSSPodDevSptDevIOT@microsoft.com
+
+   Not getting any response from the IoT Pod?
+[Reach out the correct regional SME for your customer: Click here.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/289430/Collaborations-IoT-Hub)  
 
 #PowerBi
 - PowerBi Name
