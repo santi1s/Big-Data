@@ -1,3 +1,6 @@
+[[_TOC_]]
+*What* 
+
 **What:**  What to do when your on-call for a week.   
 For **Regular** on call: Typically will only be CritSits/Sev A, or escalations which a on-call manager has approved, The Duty Manager will call you. 
 For **FYEY/USNAT** on call:  For any case which falls in the FYEY queue, the special duty manager will call you directly.  
@@ -20,6 +23,7 @@ However, since the majority of our staff is scheduled Monday though Friday as we
 America's Region (NA / ATZ / AMER) Time block relative to On-Call is: 9:00 AM PST to 4:59 PM PST
 
 Note, Azure North America support hours are 6AM to 6 PM PDT/PST, M-F. 
+
 
 **On call schedule:**  http://aka.ms/bigdataoncall  NA (orange) blocks is us. 
 Big Data (HDI/DB/Databricks) :  https://msit.powerbi.com/groups/me/reports/f1b399b5-7442-42d8-9c28-e25eec66ca1c/ReportSectionf3d413d302a9b5717a58
@@ -49,7 +53,7 @@ FYI here's how it rolls up for all Data and AI: https://msit.powerbi.com/groups/
 
 
 
-**Submit expense report for Cell usage (for the month, FTE only):**
+**Submit Expense report for Cell usage (for the month, FTE only):**
 1. use aka.ms/MSexpense
 2. use Expense purpose like : mobile phone services while on call 
 3. use Cell Phone category , and your cost center 
