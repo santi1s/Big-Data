@@ -25,7 +25,7 @@ By 11:59 pm local time.
 
 # Training
 
-Mandatory training FY20:
+**Mandatory training FY20:**
 https://learn.microsoft.com/activity/S3670183/launch/#/
 
 Team Meeting Recording:
@@ -77,20 +77,3 @@ The labor is classified in following categories, which are self explanatory: Com
 
 
 
-##Non-Scorecard (Non-Customer) Labor
-
-### Non-Scorecard Labor Page
-To get access to Non-Scorecard Labor Page. Please follow these steps bellow:
-
-1.	Check if you have access to the Non-scorecard Labor Page bellow
-	https://aka.ms/labormanager
-2.	if you’re having trouble accessing that Non-scorecard labor page. Please go to https://aka.ms/bts and fill out a ticket with them 
-	Please choose “Non-Scorecard Labor PowerApp” for service and fill in the rest of the information base on your business requirement
- 
-![image.png](/.attachments/image-dfd3e1fc-b4be-40b3-bd47-02c2cf4edec6.png)
- 
-**Note:**
- 
-If you’re still having trouble with saving labor Non-scorecard Labor, Please create another case with https://aka.ms/bts and attached the error image. 
- 
- 
