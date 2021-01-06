@@ -90,14 +90,14 @@ Want a different on-call week or need to change it?
 
 
 # Submit Expense report for Cell usage (FTE only in United States)
-Each month submit an expense report
-1. use aka.ms/MSexpense
+Each month submit an Expense Report
+1. use [aka.ms/MSexpense](aka.ms/MSexpense)
 2. use Expense purpose like : mobile phone services while on call 
 3. use Cell Phone category like: ![image.png](/.attachments/image-07e5a176-2b78-48ff-bd99-d4484bca69cc.png)
 4. your cost center should be pre-populated
- (GL code for Cell Phone should be 742001)
- (default will be like 10175153 if your data movement. 10175331, 10175360. 10213160. 10177173. ARRs 10194032
-4. Amount $75
+ (GL code for Cell Phone should be 742001)(default will be like 10175153 if your data movement. 10175331, 10175360. 10213160. 10177173. ARRs 10194032
+5. Amount $75
+6. Once you've summitted if not approved within 48 hours ping your manager in Teams Chat please
 
 
     
