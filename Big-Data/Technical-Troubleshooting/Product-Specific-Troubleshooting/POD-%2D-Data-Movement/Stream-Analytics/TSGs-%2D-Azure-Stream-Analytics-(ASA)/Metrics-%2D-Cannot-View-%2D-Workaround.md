@@ -2,7 +2,6 @@ If a customer is having trouble viewing their metrics from the ASA job page of t
 
 1.) Select "Monitor" from the Azure Portal Dashboard, or the Search Bar:
 ![monitor0.png](/.attachments/monitor0-c870b454-a975-43a6-8cc9-06f396ddb5eb.png)
-![monitor1.png](/.attachments/monitor1-b045c2f0-7603-4cfb-95d5-b4cf0ec77f64.png)
  
 2.) From the Monitor, select Metrics
 ![monitor2.png](/.attachments/monitor2-207e6a99-4d52-4c18-81c8-c0586b04da37.png)
