@@ -19,9 +19,6 @@ After you have reviewed all the case details write yourself a quick summary of t
 # Initial Investigation
 ## If SLA time allows…
 1.)	Review ASC
-![5.png](/.attachments/5-a01e0df1-f375-49dc-bc3c-c84b253c57dd.png)
- 
-1.1)Review Insights
 ![image.png](/.attachments/image-cf572c10-44bb-401d-9a9f-3015f6698473.png)
 
 1.2)	If there are no helpful insights leave feedback
