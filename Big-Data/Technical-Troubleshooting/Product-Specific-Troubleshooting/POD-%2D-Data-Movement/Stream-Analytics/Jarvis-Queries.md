@@ -152,7 +152,7 @@ HTTP Status, User Agent and Detailed Header information
 TraceApiCall
 
 **Filtering condition:**
-```where subscriptionId="e0c6ae60-5a94-43a6-a0b8-9e9c66a7a8b1" and headersString.ContainsI("ewaz-de01-uswc-vfa-saj-validate-login-risk")```
+```where subscriptionId="" and headersString.ContainsI("")```
 
 **Client Query:**
 ```orderby statusCode desc```
