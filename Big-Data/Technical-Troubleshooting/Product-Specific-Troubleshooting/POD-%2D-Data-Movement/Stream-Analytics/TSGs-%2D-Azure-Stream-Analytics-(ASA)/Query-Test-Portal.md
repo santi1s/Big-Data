@@ -33,7 +33,6 @@ https://msdata.visualstudio.com/Azure%20Stream%20Analytics/_wiki/wikis/Azure%20S
 | Cause |There is a limit on number of sample data requests in an interval of 15 minutes   |
 | Resolution | The counter for request refreshes after 15 minutes and user can run sample data.  |
 |  More Information| This is a hard limit and cannot be increased.  |
-| SR | 120090124005639  |
 | ICM |https://portal.microsofticm.com/imp/v3/incidents/details/203783276/home |
 
 
