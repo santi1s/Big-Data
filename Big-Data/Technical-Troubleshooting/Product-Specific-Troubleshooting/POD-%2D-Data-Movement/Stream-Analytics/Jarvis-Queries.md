@@ -48,7 +48,7 @@ Any values contained within <> should be replaced.
 - Resource Utilization.
 
 
-https://jarvis-west.dc.ad.msft.net/dashboard/AzureNRTProd/JobStatusSignals/Signals%2520By%2520Job?overrides=[{%22query%22:%22//*[id=%27SubscriptionId%27]%22,%22key%22:%22value%22,%22replacement%22:%220732b52e-6aa9-4098-87e1-c148f2a4f878%22},{%22query%22:%22//*[id=%27ResourceGroup%27]%22,%22key%22:%22value%22,%22replacement%22:%22nsprdeutoccrg%22},{%22query%22:%22//*[id=%27ResourceName%27]%22,%22key%22:%22value%22,%22replacement%22:%22nsprdeutoccsajdatapartner%22},{%22query%22:%22//*[id=%27ResourceId%27]%22,%22key%22:%22value%22,%22replacement%22:%22/subscriptions/<subId>/resourceGroups/<resourceGroup>/providers/Microsoft.StreamAnalytics/streamingjobs/<jobname>%22}]%20
+https://jarvis-west.dc.ad.msft.net/dashboard/AzureNRTProd/JobStatusSignals/Signals%2520By%2520Job?overrides=
 
 #Finding ASA Job on a Subscription
 You can also get the JobID from this query, which is needed for other Jarvis queries, this is not the same as the JobRunID or ActivityID.
