@@ -183,5 +183,10 @@ Resolution:
 •	Do create a single, static client that every function invocation can use.
 •	Consider creating a single, static client in a shared helper class if different functions use the same service.
 
+**If ERROR connected host failed to respond**
+due to a connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 40.85.190.10:443
+
+ASA does not retry on certain errors for azure functions currently and this is the reason why the job crashed. Error happened because user's azure function did not respond. We will improve the error handling for such cases, to continue trying until the function responds back. Mitigation for the user would to restart the job.  Create a collab with the Network Team to investigate why the host failed to respond.
+
 
 _More Details to come_
