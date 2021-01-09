@@ -1,6 +1,0 @@
-- UX - related to issues from the UI/UX/Portal  - EM is Philip Liu
-- 	Insights - related to issues from the graphs/charts/metrics/monitor/etc - EM is Craig Lee or John Lin (CEIP)
-- 	Data Scan - issues related to scanning, classification - EM is Ivy Liu
-- 	Hot Tier - issues related to search, lineage asset metadata correctness,   - EM is Chao Pan
-- 	Offline Tier - issues related to resource sets, deleted items not going away - EM is Boris Asipov
-- 	Platform - issues related to account provisioning, gateway, authorization/authentication, certificates - EM is Narayan Nevrekar
