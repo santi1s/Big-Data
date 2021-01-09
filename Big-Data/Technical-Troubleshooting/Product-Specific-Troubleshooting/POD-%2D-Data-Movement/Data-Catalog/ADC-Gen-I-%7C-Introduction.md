@@ -27,7 +27,7 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 Azure Data Catalog Tips & Troubleshooting [OneNote](https://microsoft.sharepoint.com/teams/bidpwiki/PublishingImages/Pages1/Azure%20Data%20Catalog/Azure%20Data%20Catalog.onepkg) present in above link.   The topic will help to assist the customer
 
 # **ADC Daily Case Triage Meeting**
-[M/F 12pm CST](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVkMDUwZmItM2I0MC00MDBhLWI4ODYtNmM1MWNhYWI4YWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d) Organizer Tiffany Fischer
+[M/F 12pm CST](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVkMDUwZmItM2I0MC00MDBhLWI4ODYtNmM1MWNhYWI4YWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d) 
 
 # **SME** 
 Use AVA in [Azure Purview Teams Channel](https://teams.microsoft.com/l/team/19%3a9a0e973781f54c98a5fcc222ffa00ee3%40thread.tacv2/conversations?groupId=1943848d-4f61-482c-889e-c64a82245fb2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) to contact SME
