@@ -29,16 +29,8 @@ Azure Data Catalog Tips & Troubleshooting [OneNote](https://microsoft.sharepoint
 # **ADC Daily Case Triage Meeting**
 [M/F 12pm CST](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVkMDUwZmItM2I0MC00MDBhLWI4ODYtNmM1MWNhYWI4YWQz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22360e5ec4-f6ed-4352-8919-83bdca7326d2%22%7d) Organizer Tiffany Fischer
 
-# **SME**
+# **SME** 
+Use AVA in Teams Channel to contact SME
 
-|Region| Name| Alias | Shift | Location | 
-|------------------|----------|--------------------|---------------------|------------------|
-|APAC|  |  |  |  |  
-|EMEA| Talab Hussein | tahussei | Sunday - Thursday <br> 10:00 - 19:00 (UTC+2) | Amman, Jordan|
-|AMER|Tiffany Fischer|tifische| Monday - Friday <br> 08:00 - 17:00 (UTC-5) | Las Colinas, TX|
-
-
-# **Escalation**
-SR PARTNER TECH ADVISOR Sundar Easwaran
 
 
