@@ -50,7 +50,7 @@ New Logon:
  Security ID:  <domain>\<SQL Server hostname>$
  Account Name:  <SQL Server hostname>$
  Account Domain:  <domain>
- Logon ID:  0x2435C7
+ Logon ID:  0xxxxx
  Logon GUID:  {00000000-0000-0000-0000-000000000000}
 
 Process Information:
