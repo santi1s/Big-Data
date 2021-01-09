@@ -51,7 +51,7 @@ CSS escalation process:
 2.	**Email @CSS Azure Stream Analytics SMEs and have an ASA SME review and approve the escalation**. Use this as an opportunity to discuss any ways in which the customer's current low sentiment could have been avoided.
 3.	If your regional CSS SME agrees that the case should be escalated, **add [CSAT Impacting] to the title of your service desk case and IcM** and provide additional details in the IcM as to the current customer sentiment, why they feel that way, and what could have been done differently to improve this in the future.
 The intent of the [CSAT Impacting] tag is to immediately identify and notify the feature team of a potential low CSAT score pending on a case and they need to engage with the customer directly to ensure the customer is ‘happier’ with the case resolution than they might have been.
-4.	Using the email template below, email the Engineering manager and PMs (**@Vignesh Chandramohan, @Emma An and @Sid Ramadoss**) please also include the **ICM owner**. Use your judgement, but along with tagging the IcM as CSAT Impacting and notifying the EM and PMs, if you feel the case situation is exceptionally bad, please do loop the EM and PM directly in with the customer email communications.
+4.	Using the email template below, email the Engineering manager and PMs please also include the **ICM owner**. Use your judgement, but along with tagging the IcM as CSAT Impacting and notifying the EM and PMs, if you feel the case situation is exceptionally bad, please do loop the EM and PM directly in with the customer email communications.
 
 **Email template for notifying the PG of a CSAT Impacting ICM:**
  
