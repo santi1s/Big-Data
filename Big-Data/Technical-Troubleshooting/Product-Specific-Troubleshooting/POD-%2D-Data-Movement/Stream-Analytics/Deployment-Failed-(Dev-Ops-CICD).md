@@ -1,5 +1,5 @@
 **Error Example**
-'Stream Analytics job has validation errors: Unable to find assembly 'Microsoft.EventProcessing.SteamR.Sql, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+'Stream Analytics job has validation errors: Unable to find assembly 'Microsoft.EventProcessing.SteamR.Sql, Version=1.2.0.0, Culture=neutral, PublicKeyToken=xxxxxxxxxxx'.
 
 I think the error on the Assembly looks like it might come from the Dev Ops Ci/CD side. The customer (that I was helping another SE with) was due to a deployment using CI/CD where either the ASA job needed to be stopped, or due to a bug in the Query file that they were trying to deploy. 
 
