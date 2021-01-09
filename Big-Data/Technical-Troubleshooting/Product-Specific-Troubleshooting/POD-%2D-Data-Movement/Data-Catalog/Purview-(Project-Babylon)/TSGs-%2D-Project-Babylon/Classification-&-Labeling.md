@@ -21,17 +21,8 @@
 **Detailed information for demo env for labeling\security insights:**
 For any question please Contact Kevin McKinnerney & Hen David
  
-**Demo Environment Connection details:**
-User:
-John@ip4demo.com (Contributor rights on Babylon + Can see label configuration in SCC)
  
-pW:
-\*********
- 
-URL:
-https://web.babylon.azure.com/resource/BabylonCatalog/?feature.tenant=fc676d39-8548-4816-8b88-1b9eb74a0399&feature.ext.sensitivity=%7B%22wave2%22:true%7D&feature.ext.catalog={%22amazonPreview%22:%22true%22}
- 
-This URL in including 2 feature flags (AWS + Classification report) and redirecting to the 'BabylonCatalog" account
+Create 2 feature flags (AWS + Classification report) and redirecting to the 'BabylonCatalog" account
  
 3 catalogs (all enabled for classification and labeling for Azure and AWS):
 -    IP4demobabylon - initial account with different integrations
@@ -42,8 +33,6 @@ This URL in including 2 feature flags (AWS + Classification report) and redirect
 **Feature Flags in use:**
  
 [Babylon Feature flags  (Web view)](onenote:Supportability.one#Babylon%20Feature%20flags&section-id={492AC8F0-596F-4CEA-8D30-A7260F2C6C5F}&page-id={D63DC2B0-3756-4C51-86B8-7D7CB2B20A09}&end&base-path=https://microsoft.sharepoint.com/teams/ProjectBabylon/SiteAssets/Project%20Babylon%20Notebook)
-Use the below feature flags - already appended to this URL
-?feature.tenant=fc676d39-8548-4816-8b88-1b9eb74a0399&feature.ext.sensitivity=%7B%22wave2%22:true%7D&feature.ext.catalog={%22amazonPreview%22:%22true%22}
  
 **Labeling Management portal in SCC:**
  
