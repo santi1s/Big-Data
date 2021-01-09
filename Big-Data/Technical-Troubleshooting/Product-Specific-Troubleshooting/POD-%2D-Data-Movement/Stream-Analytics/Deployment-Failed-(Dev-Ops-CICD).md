@@ -13,4 +13,4 @@ I think the error on the Assembly looks like it might come from the Dev Ops Ci/C
 
 4) Although I have troubleshoot the CI/CD previously, I would recommend to create a collab with the Dev Ops Teams to find more information about failed deployments.
 
-EditedContinuous integration and deployment for Azure Stream AnalyticsThis article gives an overview of a continuous integration and deployment (CI/CD) pipeline for Azure Stream Analytics.docs.microsoft.com<https://teams.microsoft.com/l/message/19:aa42f7f4a4bd4daf88581ddc76faf624@thread.skype/1603913167638?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;groupId=f4ae42e4-0a6c-44b7-8865-20266713a849&amp;parentMessageId=1603314780328&amp;teamName=Stream Analytics Product Team - CSS Collaboration&amp;channelName=General&amp;createdTime=1603913167638>
+Continuous integration and deployment for Azure Stream AnalyticsThis article gives an overview of a continuous integration and deployment (CI/CD) pipeline for Azure Stream https://docs.microsoft.com/en-us/azure/stream-analytics/cicd-overview
