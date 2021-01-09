@@ -34,7 +34,7 @@ Note: User needs to Azure Active Directory User with Member Role and Subscriptio
 
 Alternate Option:
 
-1. Go to Office 365 Admin Page | Remove the PowerBI license for the User Example: user@contoso.com
+1. Go to Office 365 Admin Page | Remove the PowerBI license for the User Example: user@company.com
 
 2. Go to http://azuredatacatalog.com or http://www.azuredatacatalog.com UI will differ will provide an option to Create “Catalog”   - Default Name no option to Rename
 
@@ -42,7 +42,7 @@ Alternate Option:
 
 4. Please select Settings – Add User & you to Catalog Administrator.    It is better to have extra User(s).     The Settings page User can be added
 
-5. Go to Office 365 Admin Page | Add the PowerBI license for the User Example: user@contoso.com
+5. Go to Office 365 Admin Page | Add the PowerBI license for the User Example: user@company.com
 
 6. Post creation from Home type “*” check for Assets from Azure Data Catalog Portal
 
@@ -63,4 +63,3 @@ Please update the following "Change Management" template below from the customer
 >- Note:  Azure Data Catalog PG Team will initiate Change Management Request post CRI to get necessary approval.
 - Why do you need to delete the catalog (e.g. created in the wrong region, or with the wrong name)?
 ----
-_Thanks to Sundar Easwaran for his help and notes._
