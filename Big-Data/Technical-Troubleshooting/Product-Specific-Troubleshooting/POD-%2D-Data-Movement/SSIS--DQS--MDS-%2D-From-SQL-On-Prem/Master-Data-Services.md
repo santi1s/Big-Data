@@ -30,13 +30,5 @@ NOTE: The volume of MDS (<30 cases monthly) is significantly lower than the volu
 
 Also please note that the current training covers all the topics of MDS in depth. So there is no separate L100 and L200 categorization of training content due to the depth of the product.
 
-Please reach out to me if you have any follow-up questions.
-
-**Krishnakumar Rukmangathan**
-Escalation Engineer                                                          Office: India: 0008000402235 | US: +1(855)4251603 | EMEA: +(44)2080686433 Extension: 80586
-
-Microsoft SQL Server Integration Services Team 
-Customer Services and Support                                          
-Working hours: Mon-Fri 10:00am-7:00pm IST | 12:30am-9:30am US EST | 4:30am-1:30pm UTC
-
+Please reach out to a SME using the [SSIS/MDS/DQS Teams Channel](https://teams.microsoft.com/l/team/19%3a12b9a87efd3c462e82c04e455a299265%40thread.tacv2/conversations?groupId=5aecbfad-4c41-487e-8bf8-8d187d11927b&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) 
 
