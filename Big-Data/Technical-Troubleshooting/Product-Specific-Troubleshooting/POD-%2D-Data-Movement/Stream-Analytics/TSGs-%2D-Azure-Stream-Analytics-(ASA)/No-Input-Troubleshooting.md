@@ -25,7 +25,7 @@ Check Event Hub metrics to ensure events are being sent. Message metrics should 
 
 Ensure that you have selected a time range in the input preview. Choose Select time range, and then enter a sample duration before testing your query.
 
-#Malformed input events causes deserialization errors
+#Malformed or InValidData input events causes deserialization errors
 Deserialization issues are caused when the input stream of your Stream Analytics job contains malformed messages. For example, a malformed message could be caused by a missing parenthesis, or brace, in a JSON object or an incorrect timestamp format in the time field.
 
 When a Stream Analytics job receives a malformed message from an input, it drops the message and notifies you with a warning. A warning symbol is shown on the Inputs tile of your Stream Analytics job. The following warning symbol exists as long as the job is in running state:
@@ -33,6 +33,23 @@ When a Stream Analytics job receives a malformed message from an input, it drops
 **Azure Stream Analytics inputs tile**
 
 Enable resource logs to view the details of the error and the message (payload) that caused the error. There are multiple reasons why deserialization errors can occur. For more information regarding specific deserialization errors, see [Input data errors](https://docs.microsoft.com/en-us/azure/stream-analytics/data-errors#input-data-errors). If resource logs are not enabled, a brief notification will be available in the Azure portal.
+
+The goal is to find the invalid or malformed data
+
+1) [Diagnostic logs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-diagnostic-logs#send-diagnostics-to-azure-monitor-logs) may provide more information about the error.  
+
+2) [Troubleshooting Inputs for Azure Stream Analytics | Microsoft Docs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-troubleshoot-input#malformed-input-events-causes-deserialization-errors)
+
+   Try to capture the events that are causing the serialization error from the device console or sending the messages to an EventHub to capture to a blob.
+
+   Customer to provide the input from the capture during the time of the InputSerialization error.  Then we can investigate that in put to identify what data is invalid.
+
+   Route IotHub to EventHUb
+[Configure message routing for Azure IoT Hub using Azure CLI | Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing)
+
+   Docs to use EventHub Capture to blob
+[Capture streaming events - Azure Event Hubs - Azure Event Hubs | Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview#:~:text=Event%20Hubs%20Capture%20is%20the%20easiest%20way%20to,real-time%20and%20batch-based%20pipelines%20on%20the%20same%20stream.)
+
 
 **Input details warning notification**
 
