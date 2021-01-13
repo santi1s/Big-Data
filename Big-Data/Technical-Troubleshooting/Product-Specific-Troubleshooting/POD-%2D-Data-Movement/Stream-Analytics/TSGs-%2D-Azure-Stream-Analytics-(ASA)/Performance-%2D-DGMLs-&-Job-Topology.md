@@ -43,6 +43,20 @@ We need to install Visual Studio (any version other than code), and a plugin tha
 3.)	A new tab to Jarvis will open, once the logs have loaded, download them as a zip
 	 ![10.png](/.attachments/10-2f08277c-d0cd-4bec-93e6-7d0e3e49b5a6.png)
 	 ![11.png](/.attachments/11-969626a5-7e18-433a-8dde-9b3381713c04.png)
+  **Table**
+TraceEvent
+
+**Time range**
+Use Time of MetaData events start +145
+ 
+**Scoping Conditions**
+Tenant == xxxxxx
+
+**Filtering Conditions**
+where ActivityId.ToLower() =="xxxxxx".ToLower() and type = "DgmlTopology" let PreciseTimestamp = PreciseTimeStamp.RoundDown("PT30S") select PreciseTimestamp, message 
+
+**Client Query**
+orderby PreciseTimeStamp, message select message.Substring(37) as msg
 
 4.)	In another browser tab, navigate to the ASA Wizard at https://aka.ms/asawizard, and select “DGML Converter”
 	 ![12.png](/.attachments/12-1d3de6c2-0c2c-415b-ae7a-ba1a889fb16d.png)
