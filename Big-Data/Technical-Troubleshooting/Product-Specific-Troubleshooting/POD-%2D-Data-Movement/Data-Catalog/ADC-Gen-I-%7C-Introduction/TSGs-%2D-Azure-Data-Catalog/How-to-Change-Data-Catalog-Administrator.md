@@ -7,6 +7,7 @@
 •	Subscription details (backend information).   We need Tenant ID / Region
 •	Go to http://mxtoolbox.com – Copy the TenantID from the Case (then add “.api.datacatalog.azure.com)  Paste whole text in the search, CName will be displayed 3rd column will have short region name
 •	You can reach out to me or Raise an ICM with Owning Service – DPG InfoService then InfoCat  make sure to provide previous step details request backend information
+- **TIP:**  Check the Support Case for ResourceURI details if it includes Catalog then User needs to be Owner of that Subscription
 
 **Step 2:**
 
