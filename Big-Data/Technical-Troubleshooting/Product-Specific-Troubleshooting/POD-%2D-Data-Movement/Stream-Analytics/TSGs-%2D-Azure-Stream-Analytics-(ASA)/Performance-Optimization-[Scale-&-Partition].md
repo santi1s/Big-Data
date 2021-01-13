@@ -13,6 +13,9 @@
 
 1. For a job with 6 streaming units, you may need 4 or 8 partitions from the Event Hub. However, avoid too many unnecessary partitions since that causes excessive resource usage. For example, an Event Hub with 16 partitions or larger in a Stream Analytics job that has 1 streaming unit.
 
+3. In regards to the use of Streaming Units, as a general suggestion the best performance/throughput  is achieved when input is already partitioned and the partitioning scheme is specified in the input definition, and then every step in the query (i.e. FROM clause) specifies PARTITION BY PartitionId. This way we can independently scale each partition which results in the best utilization of the SU resources.
+
+4. If the job is not using partition by partition ID, there may be a concern that some partitions that have a much heavier load than others and require increased SU while others do not.  It is important to chose a partition that will evenly distribute the processing load.  
 
 **Maximize throughput with repartitioning** - https://azure.microsoft.com/en-us/blog/maximize-throughput-with-repartitioning-in-azure-stream-analytics/
 
