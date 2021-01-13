@@ -3,7 +3,7 @@
 To get access to ADLA Kusto DB, you need to follow these steps
 
 ##Get access 
-Go to MyAccess https://myaccess/identityiq/home.jsf and request to this group, **TM-CosmosAnalytics**
+Go to MyAccess https://myaccess/identityiq/home.jsf and request to this group, **TM-CosmosAnalytics** for **Read Only**
 
 Once approved, you can just click on this [ADLA-link](https://adla.eastus2.kusto.windows.net/Default?query=H4sIAAAAAAAEAPPKT3LNS0lNca0o4apRKEnMTlUw5OICAPdqQB4WAAAA&web=0) it will add automatically to your Kusto.
 
