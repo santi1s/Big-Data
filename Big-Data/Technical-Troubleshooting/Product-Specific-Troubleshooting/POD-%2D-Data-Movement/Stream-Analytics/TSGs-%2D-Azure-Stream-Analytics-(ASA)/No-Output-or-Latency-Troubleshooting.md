@@ -8,7 +8,7 @@ Review insights, if insights are not helpful provide feedback then proceed to st
 You'll need the resource ID, region, and investigation timeframe.
 
 3. If you find errors, review the [documentation for the cause](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326779/Common-Error-Codes)
-   - Output Data Errors can use the Error Policy Drop or Retry these events.
+   - Output Data Errors can use the [Error Policy Drop or Retry](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-output-error-policy) these events.
    - Transient output errors will retry regardless of the Error Policy.
 
 4. Ensure there is input, if there is no input there will be no output. If there is no input and the customer is unsure why please see No Input Troubleshooting
