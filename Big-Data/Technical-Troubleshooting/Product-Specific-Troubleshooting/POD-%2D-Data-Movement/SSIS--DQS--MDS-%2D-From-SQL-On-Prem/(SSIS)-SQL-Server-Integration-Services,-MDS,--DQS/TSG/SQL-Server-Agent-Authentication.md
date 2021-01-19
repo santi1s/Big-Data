@@ -1,4 +1,4 @@
-The SQL-Agent job will always run the package using Windows authentication by default as seen below:
+The SQL Agent job will always run the package using Windows authentication by default as seen below:
 ![image.png](/.attachments/image-a808d30c-d9be-41be-978d-737967d71aec.png)
 SQL Server Authentication only authenticates to SQL Database.
 
