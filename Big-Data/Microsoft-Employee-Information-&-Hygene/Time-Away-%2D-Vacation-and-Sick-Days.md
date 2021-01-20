@@ -47,9 +47,9 @@ This site is for vacation/schedule requests as well as viewing your shift times 
 
 **TAR:** https://tar/Common/Home.aspx (//tar)
 This is the Time and Absence Microsoft site where you can see vacation and sick leave balances as well as the site where you record any vacation, sick leave, Jury Duty, or Bereavement (this guide does not cover bereavement or jury duty. Please look into benefits to reach out to your manager if you have question about bereavement or jury duty processes)
-# Vacation
-## Check Available Vacation Time
-1. Go to //tar to check your total vacation balance as of the present date. You can see it here:
+# Time Away
+## Check Available Vacation, Sick, and Floating Holiday Hours
+1. Go to //tar to check your total vacation, sick, and floating holiday balance as of the present date. You can see it here:
 ![image.png](/.attachments/image-c6a81e80-3705-4cbd-899d-13b03ae0f83a.png)
 
 2. You can also check for any Flex/Lieu Days on WFM (see section below for Flex/Lieu Days), by going to Personal Accounts, entering the date, and checking your current balance.
@@ -100,14 +100,14 @@ For a vacation of two weeks, request one pre-oof day. For a longer vacation, ple
 
 8. if no response from Manager within 48 hours ping them in Teams chat. 
 
-## Check if Vacation Was Approved
+## Check if Time Away Was Approved
 1. When vacation is approved and your schedule is updated, you will receive an email telling you what dates have been updated.
 
 2. You can go to WFM, then to the schedule editor, and navigate to the requested date. If your vacation has been approved, your schedule will include a Planned OOF/ Flex Time block that will cover the whole day.
 
-## Add Vacation to Outlook Calendar
+## Add Time Away to Outlook Calendar
 
-After your vacation is approved, you should add an Out of Office appointment to your outlook, so you appear out of office when coworkers try to ping you or try to request a meeting time.
+After your time awayis approved, you should add an Out of Office appointment to your outlook, so you appear out of office when coworkers try to ping you or try to request a meeting time.
 
 1. In Outlook, go to New Items, then 'Appointment'
 ![image.png](/.attachments/image-aaab7bd6-fa28-4c9c-9dab-b5f0cfed0b6f.png)
@@ -192,9 +192,9 @@ Professional : +44-844-800-2400
 
 Please follow the Expected OOF Case Handoff guidelines to hand off cases for vacation: [Expected OOF Case Hand Off](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-for-planned-oof)
 
-## Record Vacation Hours
+## Log Time Away Hours - Vacation, Sick, Bereavement, etc...
 
-After your vacation has been approved, or on the first day back from your vacation, you'll need to log your vacation hours in Time and Absence Reporting (TAR). This is how all your vacation and sick hours are tracked and logged.
+After your time away has been approved, or on the first day back from your time away, you'll need to log your hours in Time and Absence Reporting (TAR). This is how all your time away hours are logged or recorded...
 
 1. Go to //tar, and navigate to the dates of your vacation:
 ![image.png](/.attachments/image-7e4c4d49-4711-4a18-aebc-94c1f5edd082.png)
