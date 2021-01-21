@@ -22,6 +22,9 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 # **Troubleshooting**
 [Support Engineer Troubleshooting Guide](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Azure%20Data%20Catalog.aspx)
 
+# **ADC Support Hub**
+[ADC Support Hub](https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Azure%20Data%20Catalog.aspx)
+
 # **Note**
 
 Azure Data Catalog Tips & Troubleshooting [OneNote](https://microsoft.sharepoint.com/teams/bidpwiki/PublishingImages/Pages1/Azure%20Data%20Catalog/Azure%20Data%20Catalog.onepkg) present in above link.   The topic will help to assist the customer
