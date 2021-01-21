@@ -15,6 +15,7 @@ With Data Catalog, any user (analyst, data scientist, or developer) can discover
 
 # **Training**
 [Azure Data Catalog L100](https://microsoft.sharepoint.com/sites/infopedia/Pages/Docset-Viewer.aspx?did=G01KC-1-5843)
+[ADC Training Presentation](https://msit.microsoftstream.com/video/7313a1ff-0400-9887-d1b6-f1eb5b0c090c)
 
 # **Online Support Documentation**
 [Azure Data Catalog Overview](https://docs.microsoft.com/en-us/azure/data-catalog/overview)
