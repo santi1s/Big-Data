@@ -24,3 +24,10 @@ us15
 Cosmo convergence 
 us80
 us81
+
+##Step 3 : ICM Process
+IF and when its a Cosmo convergence and you are needing to file an ICM, then refer to the below :
+https://portal.microsofticm.com/imp/v3/incidents/details/224015738/home
+
+The owner service should be file under "Cosmo Analytics" then the owning team correlate to the issue. 
+![image.png](/.attachments/image-ff4858c0-88c6-4405-bb57-a6f5fd79a281.png)
