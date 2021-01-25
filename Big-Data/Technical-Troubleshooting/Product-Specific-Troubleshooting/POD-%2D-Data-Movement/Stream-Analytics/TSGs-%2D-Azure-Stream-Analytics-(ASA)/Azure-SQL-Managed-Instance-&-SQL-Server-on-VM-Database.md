@@ -16,7 +16,7 @@ Can open collab to review the SQL Cert & Network config is properly configured.
 
 4) Verify if the customer has the SSL Certificate installed in SQL Server Configuration Manager as requested?
 
-5) Verify SQL Server opened TCP/1433 or 3342 port (Check VM Networking NSG Rules)
+5) Verify SQL Server opened TCP/1433 or 3342 port (Check Firewall rule and VM Networking NSG Rules)
 
 6) Verify SQL Server TLS 1.2 is enabled
 
