@@ -7,21 +7,24 @@ Issue: Cannot load an output (SQL Server VM - Iaas DB) using ASA set up.
 **MITIGATION**
 
 1) Does ASA Output Server Name have correct configuration (servername,port) ie. 1433 or 3342.   For SQL Managed Instance, it is required to specify the port 3342. 
+
 2) Does ASA Output Server Name have the correct table name where the output is written? The table name is case-sensitive. 
 
 Can open collab to review the SQL Cert & Network config is properly configured.
 
-3) Verify if the customer has the SSL Certificate installed in SQL Server Configuration Manager as requested?
+3) Public IP was setup for Virtual Machine
 
-4) Verify SQL Server opened TCP/3342 port 
+4) Verify if the customer has the SSL Certificate installed in SQL Server Configuration Manager as requested?
 
-5) Verify SQL Server TLS 1.2 is enabled
+5) Verify SQL Server opened TCP/3342 port 
 
-6) Remember to restart the Server after any changes are made
+6) Verify SQL Server TLS 1.2 is enabled
 
-7) If Errors, review Event System Log on Server
+7) Remember to restart the Server after any changes are made
 
-8) If there is still an error related to SSL cert, please confirm if the customer us able to successfully run the ASA job despite the error in the test connection and open an ICM with PG
+8) If Errors, review Event System Log on Server
+
+9) If there is still an error related to SSL cert, please confirm if the customer us able to successfully run the ASA job despite the error in the test connection and open an ICM with PG
 
 **NOTES**:
 
