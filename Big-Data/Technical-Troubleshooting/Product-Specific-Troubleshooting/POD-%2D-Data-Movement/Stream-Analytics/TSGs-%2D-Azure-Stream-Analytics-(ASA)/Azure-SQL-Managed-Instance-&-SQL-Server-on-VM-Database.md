@@ -6,7 +6,7 @@ Issue: Cannot load an output (SQL Server VM - Iaas DB) using ASA set up.
 
 **MITIGATION**
 
-1) Does ASA Output Server Name have correct configuration (servername,port) ie. 3342.   For SQL Managed Instance, it is required to specify the port 3342. 
+1) Does ASA Output Server Name have correct configuration (servername,port) ie. 1433 or 3342.   For SQL Managed Instance, it is required to specify the port 3342. 
 2) Does ASA Output Server Name have the correct table name where the output is written? The table name is case-sensitive. 
 
 Can open collab to review the SQL Cert & Network config is properly configured.
