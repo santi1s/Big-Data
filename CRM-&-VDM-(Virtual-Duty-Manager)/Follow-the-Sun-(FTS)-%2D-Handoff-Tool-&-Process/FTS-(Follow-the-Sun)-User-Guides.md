@@ -8,7 +8,7 @@
 1.	In Edge Browser:  https://crmglobal.corp.microsoft.com/GLBCRMSUP/  
 2.	Go to Collaboration, then FTS Transfers under “Follow The Sun” title 
 
-![image.png](/.attachments/image-8f3dd01c-59bf-42fa-999e-96bc1a65b1c6.png) > ![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) > ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) > ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
+![image.png](/.attachments/image-8f3dd01c-59bf-42fa-999e-96bc1a65b1c6.png) ![Arrow.png](/.attachments/Arrow-c36d454e-21b1-4c0f-8c2b-de6932681b43.png) ![image.png](/.attachments/image-b226d22b-2ef0-4958-b3d2-ab8f30f85f4a.png) ![Arrow.png](/.attachments/Arrow-6f0470a1-16c1-4515-8d95-84b57b1a4e07.png) ![image.png](/.attachments/image-434b1254-e925-471c-97dc-7d208945481d.png) ![Arrow.png](/.attachments/Arrow-31c83e10-c4c9-424f-a6d7-418ddf3d0b19.png) ![image.png](/.attachments/image-d134d111-4cf6-44f8-8be9-af4d69389e9f.png)
 
 
 ## Check FTS Requests for Case
