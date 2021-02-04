@@ -1,11 +1,12 @@
 [[_TOC_]]
 
 # Guidelines 
-## Use WFH or Site Request?
+## Use WFH or Site Request or Tech Link?
 
-situational - if the local site has the inventory - will be for headset replacements, additional wireless headset, monitors, etc.     reviewing the WFH buying program will best guide for you, for that time, and situation. 
-
-New employees the manager will use the Site Request.
+This is situational - high level:
+- if the local site has the inventory - will be for headset replacements, additional wireless headset, monitors, etc.     reviewing the WFH buying program will best guide for you, for that time, and situation
+- if you have a broken / failing piece of hardware - [aka.ms/itweb](aka.ms/itweb) for Tech Link
+- new employees the manager will use the Site Request.
 
 ## Process 
 Regardless of which guide you follow, please give you're manager a heads up, each guide / tool has different approval engines, for example the site request you're required to get you're managers approval prior to submitting the request. 
@@ -14,7 +15,7 @@ Regardless of which guide you follow, please give you're manager a heads up, eac
 Typical hardware refresh is the latest capitalization date +36 months but may vary per org.
 Reach out to your manager with questions!  
 
-# Hardware, Peripheral & Space Requests - Site Request
+# Site Request
 [aka.ms/siterequest](aka.ms/siterequest) form for all hardware, peripheral and space request.
 Charlotte Campus POC: Kathleen Napodano
 Las Colinas POC: Lori Pace
