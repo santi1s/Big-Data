@@ -19,6 +19,14 @@ Reach out to your manager with questions!
 
 ## Asset tracking
 For information about your machine or any other Microsoft-issued assets, you can use the Asset Link tool!
+Go to //AssetLink and it will trigger the install of the AssetLink app.
+
+Once that app loads you search for your alias as the "Custodian"
+![image.png](/.attachments/image-9195e050-63c8-48f9-8a93-68e0f234fd04.png)
+
+This will load a list of your assets.  
+
+
 # Tech Link
 Start here [aka.ms/itweb](aka.ms/itweb) for Tech Link - support, warranty, failing or broken, and also a good resource for options. 
 
@@ -31,18 +39,11 @@ Las Colinas POC: Lori Pace
 # Work From Home Equipment Buying Program
 WFH 
 https://microsoft.sharepoint.com/teams/MyProcureWeb/SitePages/Work-from-home-buying-program.aspx
-
-# Tech Link
-[aka.ms/itweb](aka.ms/itweb) for Tech Link - support, warranty, failing or broken, and also a good resource for options. 
+please review details
 
 
 
-Go to //AssetLink and it will trigger the install of the AssetLink app.
 
-Once that app loads you search for your alias as the "Custodian"
-![image.png](/.attachments/image-9195e050-63c8-48f9-8a93-68e0f234fd04.png)
-
-This will load a list of your assets.  
 
 
  
