@@ -13,10 +13,12 @@ Regardless of which guide you follow, please give you're manager a heads up, eac
 
 Review the links of each and ping leads and manager for suggestions after you've reviewed these options.  
 
-# Hardware Refresh Guideline
+## Hardware Refresh Guideline
 Typical hardware refresh is the latest capitalization date +36 months but may vary per org.
 Reach out to your manager with questions!  
 
+## Asset tracking
+For information about your machine or any other Microsoft-issued assets, you can use the Asset Link tool!
 # Tech Link
 Start here [aka.ms/itweb](aka.ms/itweb) for Tech Link - support, warranty, failing or broken, and also a good resource for options. 
 
@@ -33,8 +35,7 @@ https://microsoft.sharepoint.com/teams/MyProcureWeb/SitePages/Work-from-home-buy
 # Tech Link
 [aka.ms/itweb](aka.ms/itweb) for Tech Link - support, warranty, failing or broken, and also a good resource for options. 
 
-# Asset tracking
-For information about your machine or any other Microsoft-issued assets, you can use the Asset Link tool!
+
 
 Go to //AssetLink and it will trigger the install of the AssetLink app.
 
