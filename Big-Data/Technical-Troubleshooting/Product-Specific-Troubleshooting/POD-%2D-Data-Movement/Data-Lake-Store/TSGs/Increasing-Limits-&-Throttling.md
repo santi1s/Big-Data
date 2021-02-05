@@ -82,7 +82,9 @@ OR if the customer is CONSTANTLY running into the throttling limit, we can discu
 
 However, before that is discussed, often other solutions/workarounds are implemented/tried long before a permanent limit increase is ever granted.
 
-Specific information about what the limit increase would need to be and why will be critical to a limit increase happening, and a project manager from the product team will always be involved before that happens.
+Specific information about what the limit increase would need to be and why will be critical to a limit increase happening, and a project manager from the product team will always be involved before that happens. 
+
+The Microsoft internal ADLS gen1 PM team is adlspm@microsoft.com
 
 
 #Summary/Quick Reference
