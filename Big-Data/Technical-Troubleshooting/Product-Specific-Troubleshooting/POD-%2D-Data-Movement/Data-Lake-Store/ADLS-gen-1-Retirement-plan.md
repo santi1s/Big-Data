@@ -27,4 +27,5 @@ Some frequent questions asked:
 
 - If they've created an ADLS gen 1 before they'll still be able to create another one after March 2021.
 - If they're a new customer who has never been able to create an ADLS gen 1 before they will no longer be able to after March 2021.
-- We are **NOT** saying this to customers yet! We will only start saying this to customers **AFTER** the PG has announced it.
+- We're **NOT** announcing this information to customer's yet! The PG will have an official announcement towards the month and we'll be able to talk to customers then as they have questions.
+- Customers who are currently on Gen 1 are gonna have a good, long migration period available to them. We're not kicking them off.
