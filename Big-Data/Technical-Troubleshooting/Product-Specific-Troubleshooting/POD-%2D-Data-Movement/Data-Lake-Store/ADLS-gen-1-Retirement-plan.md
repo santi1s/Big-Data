@@ -16,3 +16,5 @@ After 29 February 2024, you will not be able to:
 - Receive service updates to Azure Data Lake Store Gen1 or APIs/SDKs/client tools or access customer support (phone, email, web).
 
 If you have questions, get answers from community experts in Microsoft Q&A - If you have a support plan and require technical support, please contact us.
+
+Starting with [ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) 
