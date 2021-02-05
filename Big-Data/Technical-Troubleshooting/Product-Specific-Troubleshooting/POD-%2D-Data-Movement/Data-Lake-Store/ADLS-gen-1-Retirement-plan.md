@@ -21,3 +21,10 @@ If you have questions, get answers from community experts in Microsoft Q&A - 
 
 ###Starting with ADLS gen2 
 [ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) 
+
+#FAQ
+Some frequent questions asked:
+
+- If they've created an ADLS gen 1 before they'll still be able to create another one after March 2021.
+- If they're a new customer who has never been able to create an ADLS gen 1 before they will no longer be able to after March 2021.
+- We are NOT saying this to customers yet! We will only start saying this to customers AFTER the PG has announced it.
