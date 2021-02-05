@@ -43,7 +43,7 @@ ObjectID = can be found on Azure Active Directory > click on Group >
 ![image.png](/.attachments/image-1e449e97-64b3-4586-b573-204ba0cf059c.png)
 
 ###Object ID for SPN
-Onject ID = can be found on Azure Active Directory > Enterprise Application > drop down “all application”
+Object ID = can be found on Azure Active Directory > Enterprise Application > drop down “all application”
 
 ![image.png](/.attachments/image-59d6dfce-5e11-49be-a9d5-a845053027e9.png)
 
