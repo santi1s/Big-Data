@@ -1,3 +1,5 @@
+
+<span style="color:#DF0101;">**Notice ADLS gen1 is due for retirement, more info on the below**</span>
 [[_TOC_]]
 #Overview
 
@@ -7,8 +9,8 @@ Azure Data Lake Storage Gen 2 is integrated with newer analytics offerings such
 - Tiered storage
 - High availability and disaster recovery
 
-With this new experience, we’re retiring Azure Data Lake Storage Gen1 on 29 February 2024.
-How does this affect me?
+With this new experience, we’re **retiring Azure Data Lake Storage Gen1** on **29 February 2024**.
+###How does this affect me?
 After 29 February 2024, you will not be able to:
 
 - Create or manage Azure Data Lake Storage Gen1 accounts.
@@ -17,4 +19,5 @@ After 29 February 2024, you will not be able to:
 
 If you have questions, get answers from community experts in Microsoft Q&A - If you have a support plan and require technical support, please contact us.
 
-Starting with [ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) 
+###Starting with ADLS gen2 
+[ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) 
