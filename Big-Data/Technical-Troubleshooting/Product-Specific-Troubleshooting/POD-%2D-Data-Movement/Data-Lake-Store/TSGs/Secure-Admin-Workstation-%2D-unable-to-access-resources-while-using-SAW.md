@@ -1,3 +1,6 @@
+<span style="color:#DF0101;">**Notice ADLS gen1 is due for retirement, for more info check out this**</span> [ADLS gen1 Retirement plan TSG](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/444557/ADLS-gen-1-Retirement-plan)
+
+#Overview
 SAW workstation provides a Dev VM that allows MSFT internal users to access Corpnet resources like the portal. There should be an icon called MSIT_WIN10 on desktop that allows access to a VM.
 
 If you are not able to log into the WIN10 VM machine on your computer, please reach out to SAW support to remove the existing machine and install a new VM and link it up to Microsoft Corp account.
