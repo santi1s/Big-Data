@@ -1,5 +1,5 @@
 
-<span style="color:#DF0101;">**Notice ADLS gen1 is due for retirement, more info on the below**</span>
+<span style="color:#DF0101;">**Notice ADLS gen1 is due for retirement on February 29, 2024**</span>
 [[_TOC_]]
 #Overview
 
