@@ -22,7 +22,7 @@ If you have questions, get answers from community experts in Microsoft Q&A - 
 
 
 #FAQ
-Some frequent questions asked:
+Some frequent Q&A asked:
 
 - If they've created an ADLS gen 1 before they'll still be able to create another one after March 2021.
 - If they're a new customer who has never been able to create an ADLS gen 1 before they will no longer be able to after March 2021.
