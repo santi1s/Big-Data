@@ -4,7 +4,7 @@
 #Overview
 
 ###Starting with ADLS gen2 
-[ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) Azure Data Lake Storage Gen 2 is integrated with newer analytics offerings such as Azure Synapse, HDInsight and Azure Databricks. In addition, Azure Data Lake Storage Gen 2 offers a rich set of capabilities for your analytics needs such as
+[ADLS gen 2 documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) is integrated with newer analytics offerings such as Azure Synapse, HDInsight and Azure Databricks. In addition, Azure Data Lake Storage Gen 2 offers a rich set of capabilities for your analytics needs such as
 
 - Lower cost
 - Tiered storage
