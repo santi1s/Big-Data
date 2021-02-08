@@ -1,8 +1,7 @@
 Steps to run the PSSdiag:
 
-Could you please download the pssd.zip from link below(you will have to login to see the files present)
+Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performanve information such as disk capacity, % CPU Utilization RAM Usage
 
-File Transfer - Case 121020524002731 example
 File name:-pssd.zip
 
 and follow these instructions to run it on the problematic database server . PSSDIAG is configured to collect profiler traces so you might see some bit of overhead when this tool is running.
