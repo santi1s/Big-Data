@@ -1,7 +1,7 @@
  
 - Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performance information such as disk capacity, % CPU Utilization RAM Usage
 
-   PSSDIAG is configured to collect profiler traces so you might see some bit of overhead when this tool is running.  See Tools section here: 
+   PSSDIAG is configured to collect profiler traces so you might see some bit of overhead when this tool is running.  See Tools section here: https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/445330/PSSdiag
 
 
 - Find long running SQL Queries
