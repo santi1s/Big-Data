@@ -17,7 +17,7 @@ iv. Troubleshooting Performed (if you have logs to share)
 -  Reach out to SME via Email or Teams
 
 #**3) Ask Questions for TSG in ASA Teams** 
--  Discuss _questions_ to help Troubleshoot the issue with Product Group in General Channel of Azure Stream Analytics Product Team Chat (@General)
+-  Discuss _questions_ to help Troubleshoot the issue with SMEs & Product Group in General Channel of Azure Stream Analytics CSS Product Collaboration Team Chat (@AVA casenumberhere)
 
 #**4) Daily IcM Meeting** 
 -  Discuss with PG for possibly _creating an IcM_
