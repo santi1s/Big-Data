@@ -5,7 +5,7 @@
 
 
 - Find long running SQL Queries
-SELECT sqltext.TEXT,
+>SELECT sqltext.TEXT,
 req.session_id,
 req.status,
 req.start_time,
