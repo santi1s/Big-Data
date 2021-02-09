@@ -20,7 +20,7 @@ Catalog exist with empty folder, then,
         > NET STOP MSSQLServer
         > NET START MSSQLServer
 
-**CASE 2)** Error: The binary code for the script is not found.
+**CASE 2)** _Error: The binary code for the script is not found._
 
 - Package Log:
 Check if Cases File is Empty:Error: The binary code for the
