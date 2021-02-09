@@ -20,3 +20,27 @@ Catalog exist with empty folder, then,
         > NET STOP MSSQLServer
         > NET START MSSQLServer
 
+** CASE 2) ** Error: The binary code for the script is not found.
+
+- Package Log:
+Check if Cases File is Empty:Error: The binary code for the
+script is not found. Please open the script in the designer
+by clicking Edit Script button and make sure it builds
+successfully.
+
+   Check if Cases File is Empty:Error: CS2001 - Source file
+'C:\Windows\TEMP
+\.NETFramework,Version=v4.0.AssemblyAttributes.cs'
+could not be found, CSC, 0, 0
+
+- SQL server logs:
+   01/28/2021 20:15:03,spid62,Unknown,Unsafe assembly 'microsoft.sqlserver.integrationservices.server<c/> version=13.0.0.0<c/> culture=neutral<c/> publickeytoken=89845dcd8080cc91<c/> processorarchitecture=msil' loaded into appdomain 2 (SSISDB.dbo[runtime].1).
+
+**RESOLUTION**
+​Check the value for the run_time column
+
+If it's set to 1, you can try the following to disable strict security which would allow an unsafe assembly to execute:
+
+exec sp_configure 'show advanced options', 1
+reconfigure;
+exec sp_configure 'clr strict security',0
