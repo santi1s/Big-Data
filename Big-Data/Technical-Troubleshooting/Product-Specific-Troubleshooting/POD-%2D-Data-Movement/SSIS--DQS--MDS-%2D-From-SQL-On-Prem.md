@@ -16,11 +16,7 @@
 
 ##SSIS/MDS/DQS Case Triage Meetings w/ TA/SEE/SMEs
  
-- **Mon 6:30am CST** 
-Microsoft Teams Meeting
-[Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZkM2IyZTItMzQ3NS00MWE4LTkzODEtZTRjMmRlMWJjYWU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223b3fe204-ab8b-400c-ad3d-d3e80cd70eee%22%7d)
-
-- **Tue 2:30pm CST** 
+- **Tue 8:30am CST** 
 Microsoft Teams Meeting
 [Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZkM2IyZTItMzQ3NS00MWE4LTkzODEtZTRjMmRlMWJjYWU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223b3fe204-ab8b-400c-ad3d-d3e80cd70eee%22%7d)
 
