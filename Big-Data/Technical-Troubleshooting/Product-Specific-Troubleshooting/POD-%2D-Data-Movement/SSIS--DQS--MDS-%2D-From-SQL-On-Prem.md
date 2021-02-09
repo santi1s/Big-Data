@@ -15,6 +15,7 @@
 - [For SSIS/MDS/DQS as well as the other 6 Products Data Movement supports.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286261/Support-Engineer-Training) 
 
 ##SSIS/MDS/DQS Case Triage Meetings w/ TA/SEE/SMEs
+Please choose what calls you would like to join for Triage.
  
 - **Tue 8:30am CST** 
 Microsoft Teams Meeting
