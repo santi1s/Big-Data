@@ -42,7 +42,7 @@ The difference is that you DO NOT need to enter this vacation day in //tar. You 
 # Sites You Will Need
 _If you do not have access to either site, please reach out to your manager or TA_
 
-**WFM:** https://wfm2.corp.microsoft.com/WFO/WFMPRD/home/dashboard/
+**WFM:** https://wfm2.corp.microsoft.com/WFO/WFMCLOUD/home/dashboard/
 This site is for vacation/schedule requests as well as viewing your shift times and queue times.
 
 **TAR:** https://tar/Common/Home.aspx (//tar)
