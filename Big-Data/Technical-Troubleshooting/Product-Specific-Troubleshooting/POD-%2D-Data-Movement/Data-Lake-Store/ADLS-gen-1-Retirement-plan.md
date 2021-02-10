@@ -28,3 +28,6 @@ Some frequent Q&A asked:
 - If they're a new customer who has never been able to create an ADLS gen 1 before they will no longer be able to after March 2021.
 - We're **NOT** announcing this information to customer's yet! The PG will have an official announcement towards the month and we'll be able to talk to customers then as they have questions.
 - Customers who are currently on Gen 1 are gonna have a good, long migration period available to them. We're not kicking them off.
+
+More FAQs:(released by PG which is going to be Customer facing)
+https://microsoft-my.sharepoint.com/:w:/p/rugopala/EWA6_RzOjzlJtHxKrNIWtVsBjY0HfF2G9508Ai7nMWrsYw?e=oDgYKM
