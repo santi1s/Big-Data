@@ -15,7 +15,14 @@ Response
 
 - Retry events for SQL may behave differently as documented [Working with transient errors - Azure SQL Database | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-sql/database/troubleshoot-common-connectivity-issues) 
 
-- A Drop policy can be used for preventing retries or the user can create an alert to be able to identify and resolve the source of the errors more quickly. 
+- A Drop policy can be used for preventing retries or the user can create an alert to be able to identify and resolve the source of the errors more quickly.
+ 
+**With the drop policy if the job has two out puts and one of the output succeeds and another fails, data will be inserted into the succeeded output rather than both dropping the data**
+
+For example if  a job has two outputs blob and SQL database
+
+
+![Capture.errorpolicy.PNG](/.attachments/Capture.errorpolicy-edffb2fa-97de-4c0e-b789-3c927c0d1280.PNG)
 
 - Retry Policy Docs [Output error policies in Azure Stream Analytics | Microsoft Docs](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-output-error-policy#retry) 
 
