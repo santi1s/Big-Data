@@ -1,5 +1,6 @@
- 
-- Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performance information such as disk capacity, % CPU Utilization RAM Usage
+- Use Task Manager to review Processes CPU, Memory, Threads. 
+
+- Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performance information for SQL Server Engine to compare package performing different in different environments.
 
    PSSDIAG is configured to collect profiler traces so you might see some bit of overhead when this tool is running.  See Tools section here: https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/445330/PSSdiag
 
