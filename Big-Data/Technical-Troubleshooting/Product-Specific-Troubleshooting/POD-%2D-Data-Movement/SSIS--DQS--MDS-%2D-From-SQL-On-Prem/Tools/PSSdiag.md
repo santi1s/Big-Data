@@ -1,6 +1,6 @@
 Steps to run the PSSdiag:
 
-Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performanve information such as disk capacity, % CPU Utilization RAM Usage
+Please provide PSSDIAG results PSSDIAG data collection utility (microsoft.com) to gather performance information such as disk capacity, % CPU Utilization RAM Usage.  May be helpful when customer experiences different performance of SSIS in different environments.  Ex. If package is hung, waiting on SQL Server to respond.  Ex.  One machine processes slow and other machine is fast. If execute SQL task in SSIS verbose logs takes a long time on 1 machine and not the other. Engauge SQL Performance to assist customer to gather logs and analyze. 
 
 File name:-pssd.zip
 
