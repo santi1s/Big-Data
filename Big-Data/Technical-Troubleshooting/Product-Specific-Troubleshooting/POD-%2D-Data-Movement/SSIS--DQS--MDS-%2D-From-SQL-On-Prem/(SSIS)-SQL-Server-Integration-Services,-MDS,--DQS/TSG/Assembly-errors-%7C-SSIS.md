@@ -1,5 +1,10 @@
 There are many Assembly Errors that can happen.  I am trying to use this wiki to provide troubleshooting for case by case examples.
 
+Logs to gather are
+1) Package log
+2) [Fusion log](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/446939/Fusion-logs
+) 
+
 **CASE 1)** _Assembly ‘ISSERVER’ Was Not Found in the SQL Catalog of Database ‘SSISDB’._  This could be because the Folder was created but is empty or it was not created at all.
 
 - Start by looking into SQL Server ERRORLOG log to see if there are mire details.
