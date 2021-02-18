@@ -12,6 +12,10 @@ If you would like to contribute, please follow up here:
 
 [[_TOC_]]
 
+# Azure Fundamentals
+
+New to Azure? This training takes you through many of the basics: [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
 
 # Culture / Case Management Training  
 - <a href=https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/286263/CSS-based-training>CSS Business &amp; Culture Foundations training</a> 
