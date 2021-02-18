@@ -7,10 +7,10 @@
 [[_TOC_]]
 
 #First Step
-**Recovery of user-deleted data is not supported, and so cannot be guaranteed, but we will make our best effort to restore their data.**
+**Recovery of user-deleted data is not technically "supported:, and so cannot be guaranteed, but we will make our best effort to restore their data.**
 Communicate this to your customer, to set expectations, and gather the information below based on their situation.
 
-**Data deleted over 7 days ago cannot be recovered.** Recovery is never guaranteed, but for data removed over 7 days, we will not be able to recover it.
+**Data deleted over 7 days ago _cannot_ be recovered.** Recovery is never guaranteed, but for data removed over 7 days, we will not be able to recover it.
 
 # Recover Files or Folders That Have Been Deleted
 
