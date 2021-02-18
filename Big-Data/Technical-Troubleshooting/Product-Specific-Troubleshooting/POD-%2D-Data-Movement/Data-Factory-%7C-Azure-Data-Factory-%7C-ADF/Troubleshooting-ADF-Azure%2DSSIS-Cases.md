@@ -14,15 +14,14 @@ If the path starts with **Package Execution** it should probably be owned by an 
 If the the path is **How to** - read the description or ask clarifying questions to determine who should own.
 
 2. What is the error message?
+If error is an SSIS-Error or mentions "SSIS Error Code", it should probably be owned by an **SSIS-Skilled Engineer**.
+If error is from the Data Factory side, or is regarding the SSIS IR it should probably be owned by an **ADF-Skilled Engineer**.
+If error is regarding **connectivity** it will likely need **both ADF and SSIS skills.** Create a collaboration for a teammate with the other skillset, rather than transferring the whole case.
+
+3. Unclear?
+Reach out to your [TA/SME](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/305780/Regional-Subject-Matter-Experts-(SMEs)) for guidance **OR** create a collab with the opposite-skilled engineer rather than transferring the whole case.
+
+#Troubleshooting First-Steps for IR Management Cases
 
 
-# The Support Area Paths (SAPs)
-
-Within Data Factory Cases, there is a topic called "Azure-SSIS" which supports all topics related to running SSIS Packages in Azure using the [SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/create-azure-ssis-integration-runtime).
-
-As of today (02/18/2021) there are 8 paths under this topic.
-**Some paths require SSIS knowledge.**
-**Some paths require ADF knowledge.**
-**Some paths will require both.**
-
-![image.png](/.attachments/image-9b988383-7d15-4d91-9022-e02f5fe3c33a.png)
+#Troubleshooting First Steps for Package Execution Cases
