@@ -9,6 +9,8 @@ All cases will be migrated into DfM in the near future!
 # DFM Site
 aka.ms/onesupport
 
+You will need to log in using your @microsoftsupport credentials
+
 # Resources
 [DfM Wiki](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/59/Welcome)
 
