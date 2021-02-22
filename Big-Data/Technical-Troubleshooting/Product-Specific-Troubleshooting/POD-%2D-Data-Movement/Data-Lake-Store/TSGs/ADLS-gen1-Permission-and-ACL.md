@@ -16,7 +16,7 @@ To bypass policy when installing the new module (if firewall blocking):
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
  
 Install  new module (if you haven’t got the latest module install):
-Install-Module Az.DataLakeStore -Repository PSGallery -Force
+Install-Module Az.DataLakeStore -Repository PSGallery -Force -AllowClobber
  
 To connect to Azure:
 Connect-AzAccount
