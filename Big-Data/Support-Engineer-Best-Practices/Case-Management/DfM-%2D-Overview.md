@@ -1,7 +1,14 @@
 DfM will be replacing Service Desk. We may start getting collaborations from this tool now and should start taking our cases from DfM starting **Feb **22nd.****
 
+All cases will be migrated into DfM in the near future
+
 # Resources
-[DfM User Guide](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/59/Welcome)
+[DfM Wiki](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/59/Welcome)
+
+[Logging In for the First Time](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/9/READ-ME-New-Users)
+
+[Setting Up Profiles](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/38/Getting-Started-Set-Up?anchor=setup-a-browser-profile)
+
 [DfM Training](https://microsoftlmsap2.lms.sapsf.com/learning/user/learning/program/viewProgramDetails.do?OWASP_CSRFTOKEN=SUTU-CI7F-FB1P-HPGN-FMTS-W1SW-V0ZQ-C1XJ&fromSF=Y&programID=DfM_Dynamics_365_for_CSS&menuGroup=Learning&menuItem=Cur&fromDeepLink=true&hideProgramDetailsBackLink=true)
 
 # Demo Videos
@@ -35,3 +42,8 @@ You can access the videos directory from [here](https://microsofteur-my.sharepoi
 
 
 Thanks to Laila Haddad for putting this page together on Databricks: https://supportability.visualstudio.com/AzureDataBricks/_wiki/wikis/AzureDataBricks.wiki/404392/DfM
+
+# Full Case-Basics Demo
+:::video
+<iframe width="640" height="360" src="https://msit.microsoftstream.com/embed/video/2363a1ff-0400-85a8-f50c-f1eb75567446?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+:::
