@@ -6,6 +6,7 @@ Review insights, if insights are not helpful provide feedback then proceed to st
 
 2. Check the Logs using ASA Wizard
 You'll need the resource ID, region, and investigation timeframe.
+Generally check: Job Signals, AzureUserEvents, TraceEvents, MetaData, TraceJobStatus
 
 3. If you find errors, review the [documentation for the cause](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326779/Common-Error-Codes)
    - Output Data Errors can use the [Error Policy Drop or Retry](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-output-error-policy) these events.
@@ -127,7 +128,7 @@ By default from cosmosdb service side we set maxitem retrieval count to 100 & 40
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-documentdb-output 
 
 **TSG**
-1. Review ASA Trace Event Jarvis logs for errors related to performance or configuration.
+1. Review ASA Jarvis logs for errors related to performance or configuration.
 2. Review ASA Job Signals graph for latency on output.
 3. Review CosmosDB ASC for Insights, Throttling and Latency.
 4. Is the ASA job utilizing partitioning?
