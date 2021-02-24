@@ -37,7 +37,7 @@ Please note that ALL Escalation requests must go through the SME/ TA for approva
 **Process Flow:** 
 ![ssis-escalation.PNG](/.attachments/ssis-escalation-7b5a05c6-051c-47fc-8c93-c786dce134e8.PNG)
 
-Global SMEs / Escalation resources: (subjected to change at the discretion of the regional TMs)
+**Global SMEs / Escalation resources:** (subjected to change at the discretion of the regional TMs)
 
 |**Region TOD support**  | **Regional SME (1st Level of Escalation) – ACTs as mentors / unblocks the new engineers/ Reviews CSST and approves for escalation.** | **Regional Escalation (2nd level of Escalation) – Works on Escalation Tasks / works with PG team on work items (includes TA/ EE)** |
 |--|--|--|
