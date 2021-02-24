@@ -35,7 +35,7 @@ At a very high level, this is the workflow we will be following when escalating 
 Please note that ALL Escalation requests must go through the SME/ TA for approval prior to transfer of tasks.  If they do not get TA or manager approval, they may be rejected. Continue contact with the customer while the escalation task is being accepted.  All SMEs/TAs/Escalation resources have been / will be briefed on this process. 
 
 **Process Flow:** 
-[Data Movement - SSIS_DQS_MDS Escalation Process.vsdx](/.attachments/Data%20Movement%20-%20SSIS_DQS_MDS%20Escalation%20Process-8e5d8a40-1747-4c79-bcbc-c49bc25aa2ba.vsdx)
+![ssis-escalation.PNG](/.attachments/ssis-escalation-7b5a05c6-051c-47fc-8c93-c786dce134e8.PNG)
 
 Global SMEs / Escalation resources: (subjected to change at the discretion of the regional TMs)
 
