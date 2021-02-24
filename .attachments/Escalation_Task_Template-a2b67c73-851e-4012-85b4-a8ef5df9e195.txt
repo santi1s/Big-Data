@@ -1,0 +1,15 @@
+
+
+Escalation Task:
+============================
+
+1. CSST added to the case? : Yes/No
+2. Alias of SME/TA who has aprroved for escalation:
+3. Case discussed over AVA / local chat channel / Triage ? : Yes/No
+4. Is it a political escalation?: Yes/No
+5. PG had been involved at any point? Yes/No
+
+
+
+
+
