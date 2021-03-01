@@ -1,16 +1,10 @@
-ERROR
+**ERROR**
 Error 'the application pool user account is not recognized on the database server'
 
-PROBLEM DETAILS
+**PROBLEM DETAILS**
 We have built two servers to use MDS (Master Data Service) 2019. One server for IIS and MDS, and the other server for SQL. In the MDS configuration, when we try to create web application using a domain account, the ok button is grayed out. If we try to use a local account, as recommended in the microsoft article, we get the error 'the application pool user account is not recognized on the database server'. That error makes sense because SQL is installed in a different server. We need to be able to use the domain account.
 
-SOLUTION
-On the IIS Server, do the following:
-1. Create a local machine account.
-2. Using Master Data Services Configuration Manager, create a Master Data Services database on the remote SQL Server.
-3. Using Master Data Services Configuration Manager, create a Master Data Services database on the IIS host with the same name as the database on the remote SQL Server
-4. On the Web Configuration page of Master Data Services Configuration Manager, select Create '
-changed to '
+**SOLUTION**
 On the IIS Server, do the following:
 1. Create a local machine account.
 2. Using Master Data Services Configuration Manager, create a Master Data Services database on the remote SQL Server.
