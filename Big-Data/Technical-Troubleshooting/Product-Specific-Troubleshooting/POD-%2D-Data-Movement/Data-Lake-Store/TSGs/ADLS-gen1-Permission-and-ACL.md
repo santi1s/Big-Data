@@ -29,14 +29,14 @@ Select-AzSubscription -SubscriptionId 5454546-45654-454654-4545465
 ###Microsoft doc regarding ACL entry : https://docs.microsoft.com/en-us/powershell/module/az.datalakestore/set-azdatalakestoreitemaclentry?view=azps-5.0.0
 Example 3:
  
-###For individual user then use this sample:
-$fullAcl="user:ObjectID:rwx,default:user:ObjectID:rwx"
-$newFullAcl = $fullAcl.Split(",")
+###For individual user then use this sample: (make sure to include the $ on your variable)
+fullAcl="user:ObjectID:rwx,default:user:ObjectID:rwx"
+newFullAcl = $fullAcl.Split(",")
 Set-AzDataLakeStoreItemAclEntry -AccountName "myADLSgen1Name" -Path / -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
  
-###For group then use this sample:
-$fullAcl="group:ObjectID:rwx,default:group:ObjectID:rwx"
-$newFullAcl = $fullAcl.Split(",")
+###For group then use this sample: (make sure to include the $ on your variable)
+fullAcl="group:ObjectID:rwx,default:group:ObjectID:rwx"
+newFullAcl = $fullAcl.Split(",")
 Set-AzDataLakeStoreItemAclEntry -AccountName "myADLSgen1Name" -Path / -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
  
 
