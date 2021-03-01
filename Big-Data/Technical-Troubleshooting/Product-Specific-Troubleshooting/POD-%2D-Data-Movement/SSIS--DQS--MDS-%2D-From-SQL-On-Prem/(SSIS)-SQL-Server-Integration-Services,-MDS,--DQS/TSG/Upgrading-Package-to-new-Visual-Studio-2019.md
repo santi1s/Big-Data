@@ -2,15 +2,25 @@
 Customer requires advisory on how to upgrade SSIS packages from previous version of VS to Visual Studio 2019
 
 **Resolution**
+Migrate and then Upgrade each package
+https://docs.microsoft.com/en-us/answers/questions/86501/sql-server-2016-migrate-ssis-packages-including-en.html
+
 The customer can upgrade the packages on VS2019 by 
 1) Opening the solution on that environment: File >Open >Project/Solution
 2) Selects the solution from the folder where the packages are stored. 
 
 The project will be upgraded at that time. 
 
+More information about backups, moving, and upgrading SSISDB can be found in the support guide here:
+
+https://docs.microsoft.com/en-us/sql/integration-services/catalog/ssis-catalog?view=sql-server-2017#backup
+
+
 **Additional Notes**
 1. He may need to point the connection managers to the right connections, etc. 
 2. If the package contains any script task/script component, he will have to rebuild or recreate them in that environment as they may not work. 
+
+   SQL 2012 and SQL 2019 SSIS have major changes, specifically related to script task.  Script task will complain on .net framework which is different in both SQL versions. You will need to open the script task of each package build it for SQL 2019, else this will fail on execution.
 3. Then they should point the target server version to the right SQL server.
  
 I am not aware of any specific documentation to do this
