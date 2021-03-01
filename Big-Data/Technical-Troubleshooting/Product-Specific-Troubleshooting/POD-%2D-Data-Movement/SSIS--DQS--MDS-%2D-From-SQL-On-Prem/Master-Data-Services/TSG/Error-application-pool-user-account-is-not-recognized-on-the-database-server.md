@@ -24,4 +24,3 @@ On the IIS Server, do the following:
 10. Right Click on the Application Pool and select Advanced Properties.
 11. Edit the Identity and replace the local account with the domain account.
 12. Open Master Data Services Configuration Manager and  in the Associate Application with Database section, select the database on the Remote instance of SQL Server then click Apply.
-'
