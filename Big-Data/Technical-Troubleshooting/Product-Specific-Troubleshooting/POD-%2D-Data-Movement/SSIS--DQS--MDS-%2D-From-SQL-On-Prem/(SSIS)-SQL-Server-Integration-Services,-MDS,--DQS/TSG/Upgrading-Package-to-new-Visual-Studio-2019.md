@@ -15,6 +15,15 @@ More information about backups, moving, and upgrading SSISDB can be found in the
 
 https://docs.microsoft.com/en-us/sql/integration-services/catalog/ssis-catalog?view=sql-server-2017#backup
 
+Detailed Steps
+1) Origin server SQL 2012 SSIS 2012 & Destination to SQL 2019 SSIS 2019
+2) Before upgrading SSIS, run Upgrade Advisor: https://docs.microsoft.com/en-us/sql/integration-services/install-windows/upgrade-integration-services?view=sql-server-ver15#before-upgrading-integration-services
+3) Packages are 2012 then PackageFormatVersion is 
+4) Install SSMS & SSIS on SQL 2019 https://docs.microsoft.com/en-us/sql/integration-services/install-windows/install-integration-services?view=sql-server-ver15
+5) Create SSISDB Catalog https://docs.microsoft.com/en-us/sql/integration-services/catalog/ssis-catalog?view=sql-server-ver15
+6) Create new projection in VS 2019 on new server Add existing package path...should automatically upgrade to current version of SSIS.
+7) Create SSISDB and Folder for Porject
+8) From VS Deploy to SSISDB to Target SQL DB SSISDB Folder Project
 
 **Additional Notes**
 1. He may need to point the connection managers to the right connections, etc. 
