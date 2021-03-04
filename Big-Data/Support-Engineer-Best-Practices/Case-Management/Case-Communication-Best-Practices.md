@@ -414,7 +414,7 @@ The customer has stopped responding to calls or emails, please make sure to **_C
 >
 > If you still have questions or need assistance before that time, please reach out to me directly.
 >
-> I apologize if this causes any inconveniences, and if after that date you still need assistance, please do not hesitate to reach out to me directly, or to open a new case an add this case number **[case number]** in the description so we may pick up from where we left off.
+> I apologize if this causes any inconvenience(s), and if after that date you still need assistance, please do not hesitate to reach out to me directly, or to open a new case and add this case number **[case number]** in the description so we may pick up from where we left off.
 >
 > If your issue has been resolved, we always appreciate anything you can share as to the resolution; so we can update our records and documentation to help us in future cases. If you have immediate feedback about me, please feel free to reach out to my manager First Name, Last Name xxxx@microsoft.com.
 >
