@@ -1,4 +1,4 @@
-[JARVIS Walk-Through Video](https://msit.microsoftstream.com/video/52cea3ff-0400-a521-4279-f1ead6a5f722)
+[JARVIS Walk-Through Video](https://msit.microsoftstream.com/embed/channel/eaf05cc2-4f4c-44be-91e2-8f1932268baa?app=microsoftteams&sort=undefined&l=en-us)
 
 ENDPOINT
 |Endpoint|Description|
