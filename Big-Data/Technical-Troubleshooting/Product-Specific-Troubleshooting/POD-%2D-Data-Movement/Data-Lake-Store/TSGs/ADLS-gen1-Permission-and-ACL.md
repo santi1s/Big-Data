@@ -30,12 +30,12 @@ Select-AzSubscription -SubscriptionId 5454546-45654-454654-4545465
 Example 3:
  
 ###For individual user then use this sample: (make sure to include the $ on your variable)
-fullAcl="user:ObjectID:rwx,default:user:ObjectID:rwx"
+fullAcl="user:enterpriseObjectID:rwx,default:user:enterpriseObjectID:rwx"
 newFullAcl = $fullAcl.Split(",")
 Set-AzDataLakeStoreItemAclEntry -AccountName "myADLSgen1Name" -Path / -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
  
 ###For group then use this sample: (make sure to include the $ on your variable)
-fullAcl="group:ObjectID:rwx,default:group:ObjectID:rwx"
+fullAcl="group:enterpriseObjectID:rwx,default:group:enterpriseObjectID:rwx"
 newFullAcl = $fullAcl.Split(",")
 Set-AzDataLakeStoreItemAclEntry -AccountName "myADLSgen1Name" -Path / -Acl $newFullAcl -Recurse -Concurrency 128 -ShowProgress -Verbose
  
