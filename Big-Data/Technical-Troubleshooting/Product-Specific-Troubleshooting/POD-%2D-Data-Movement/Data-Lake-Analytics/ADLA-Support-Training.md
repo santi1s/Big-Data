@@ -10,7 +10,7 @@ https://my.visualstudio.com/Downloads/Featured
 2. Install Data Lake and Stream Analytics Tools
 https://marketplace.visualstudio.com/items?itemName=ADLTools.AzureDataLakeandStreamAnalyticsTools
 
-**Step 4 is all your customers will need. Step 3 is for Internal Support**
+**Step 4 is all your customers will need. Step 4 is for Internal Support**
 
 3. Download and install the Latest Data Lake tools for CSS (these are different than the public tools).
 If you are connected to corp-net, put the below address into your file explorer:
