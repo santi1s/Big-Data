@@ -36,6 +36,11 @@ Go to step 3 on this page to install the latest tools: https://dev.azure.com/Sup
 
 # Common Issues
 
+## TSGs
+
+Check our ADLA troubleshooting guides for more common failures and their fixes.
+![image.png](/.attachments/image-778925b3-d9e6-4e26-85bf-cc73fa737820.png)
+
 ## ADLA Job Failures
 If a customer is experiencing a failure with their ADLA job, the error message will tell you what is going on.
 
