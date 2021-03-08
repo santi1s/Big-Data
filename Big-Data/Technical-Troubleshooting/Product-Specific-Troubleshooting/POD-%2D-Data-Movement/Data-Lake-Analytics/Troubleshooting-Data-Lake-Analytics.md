@@ -36,4 +36,24 @@ Go to step 3 on this page to install the latest tools: https://dev.azure.com/Sup
 
 # Common Issues
 
-# Information for the Product Team
+## ADLA Job Failures
+If a customer is experiencing a failure with their ADLA job, the error message will tell you what is going on.
+
+There are two kinds of errors in ADLA: **System** and **User**
+
+### System Failures
+These are usually caused by a problem on the backend or a problem with the runtime.
+Customers are not charged for jobs that fail with a "System"  error message.
+
+If the issue happened once and they have successfully re-run the job, it is likely a transient issue.
+If the issue is happening consistently, open an ICM.
+
+### User Failures
+These are usually caused by a problem with the customer's configuration, script, or custom code.
+
+**The error message will tell you what's happening**- so be sure to ask your customer if they've addressed the problem outlined by the error message. Be that a missing file, unhandled exceptions in C# code, or any number of other errors.
+
+Customers can write their own extractors and outputters-- and it is up to them (or the author) to debug this custom code.
+We do have a guide to help them get started: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-debug-u-sql-jobs
+
+# Information for the Product Team/ICMs
