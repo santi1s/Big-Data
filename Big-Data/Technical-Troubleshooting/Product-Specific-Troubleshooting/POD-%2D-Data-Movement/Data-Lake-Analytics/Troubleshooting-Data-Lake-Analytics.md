@@ -71,4 +71,7 @@ For ACL errors, follow the [ADLS Access Troubleshooting Guide.](https://dev.azur
 
 For other issues check the firewall and use the ADLA [Add User Wizard](https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-add-users) to assign permissions to the user that is faulting.
 
+## Other Errors/Issues
+[Reach out to the ADLA Teams Channel](https://teams.microsoft.com/l/team/19%3ac593d664843c4d8d9a68eadb80d45d7b%40thread.skype/conversations?groupId=f105a548-2134-4fdb-baff-8d038cd9c2ec&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+
 # Information for the Product Team/ICMs
