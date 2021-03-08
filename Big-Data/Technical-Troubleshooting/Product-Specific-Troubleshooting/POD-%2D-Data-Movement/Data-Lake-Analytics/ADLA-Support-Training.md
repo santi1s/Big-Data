@@ -1,13 +1,16 @@
 1. Go through Troubleshooting for ADLA: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/312740/Troubleshooting-Data-Lake-Analytics
 This will cover the most basic requirements for working through an ADLA case.
 
+2. Confirm you are able to access the [ADLA teams channe](https://teams.microsoft.com/l/team/19%3ac593d664843c4d8d9a68eadb80d45d7b%40thread.skype/conversations?groupId=f105a548-2134-4fdb-baff-8d038cd9c2ec&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)l! If not, request Access.
+**The ADLA Teams channel is very helpful for resolving cases.**
+
 1.  Download Visual Studio 2017 or 2019
 https://my.visualstudio.com/Downloads/Featured
 
 2. Install Data Lake and Stream Analytics Tools
 https://marketplace.visualstudio.com/items?itemName=ADLTools.AzureDataLakeandStreamAnalyticsTools
 
-**Step 2 is all your customers will need. Step 3 is for Internal Support**
+**Step 4 is all your customers will need. Step 3 is for Internal Support**
 
 3. Download and install the Latest Data Lake tools for CSS (these are different than the public tools).
 If you are connected to corp-net, put the below address into your file explorer:
