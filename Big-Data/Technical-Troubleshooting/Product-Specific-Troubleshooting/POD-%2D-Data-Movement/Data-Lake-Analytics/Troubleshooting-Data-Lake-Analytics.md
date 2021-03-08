@@ -75,3 +75,16 @@ For other issues check the firewall and use the ADLA [Add User Wizard](https://d
 [Reach out to the ADLA Teams Channel](https://teams.microsoft.com/l/team/19%3ac593d664843c4d8d9a68eadb80d45d7b%40thread.skype/conversations?groupId=f105a548-2134-4fdb-baff-8d038cd9c2ec&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 # Information for the Product Team/ICMs
+
+When opening an ICM to the ADLA team you will need this information:
+1. Error Message/Issue to troubleshoot.
+2. Job URL of failing/bad job.
+4. Either an email with customer approval to access data or a screenshot of the customer approval to access data from the case. (Guide Below)
+3. (Optional) Job URL of previously successful/good job.
+
+
+Customer Approval:
+Permission from the customer to access the data associated with the job. This consent is required by the product team to be able to troubleshoot ADLA jobs. It can be found in the case description, here:
+![image.png](/.attachments/image-b72b7778-c850-41ad-850b-95c3f5fd7e8f.png)
+If the customer has left this blank, or has replied 'No' you can request that they confirm permission, using a request like this:
+_Do we have your consent to access data surrounding this job to troubleshoot this issue? We will only have access for the duration of our troubleshooting process, and only for this issue._
