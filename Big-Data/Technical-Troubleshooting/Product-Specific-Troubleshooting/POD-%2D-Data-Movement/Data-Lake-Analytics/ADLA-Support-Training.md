@@ -1,3 +1,6 @@
+1. Go through Troubleshooting for ADLA: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/312740/Troubleshooting-Data-Lake-Analytics
+This will cover the most basic requirements for working through an ADLA case.
+
 1.  Download Visual Studio 2017 or 2019
 https://my.visualstudio.com/Downloads/Featured
 
