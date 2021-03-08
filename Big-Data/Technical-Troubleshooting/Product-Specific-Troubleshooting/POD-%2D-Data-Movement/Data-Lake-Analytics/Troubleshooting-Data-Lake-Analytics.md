@@ -56,4 +56,19 @@ These are usually caused by a problem with the customer's configuration, script,
 Customers can write their own extractors and outputters-- and it is up to them (or the author) to debug this custom code.
 We do have a guide to help them get started: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-debug-u-sql-jobs
 
+## Runtime Errors
+If your customer is seeing errors like "Invalid Runtime" or "Expired Runtime" check and see if they're using the current default runtime (compare failing jobs to working jobs or run a test job of your own!)
+
+If the job has a custom runtime set, ask why and try setting them to the default runtime.
+
+If this does not resolve the issue, or if they are not using a custom runtime-- open an ICM.
+
+## Permissions Errors
+
+Permissions issues with ADLS ACLS will always mention "acl" in the error message. If it only says "Access Issue" it is likely due to the fire wall or some other high-level permissions.
+
+For ACL errors, follow the [ADLS Access Troubleshooting Guide.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/280901/Troubleshooting-Access)
+
+For other issues check the firewall and use the ADLA [Add User Wizard](https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-add-users) to assign permissions to the user that is faulting.
+
 # Information for the Product Team/ICMs
