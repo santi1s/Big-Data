@@ -4,7 +4,7 @@
 #Meeting Time and Scope
 
 ## Time
-1pm EST - 1:30pm EST - Reach out to SME (whhender) for Invitation
+1pm EST - 1:30pm EST - Reach out to SME (whhender, deya, sipastak) for Invitation
 
 ## Scope
 
