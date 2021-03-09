@@ -3,12 +3,19 @@
 
 #Meeting Time and Scope
 
-## Time
-1pm EST - 1:30pm EST - Reach out to SME (whhender, deya, sipastak) for Invitation
+## Times
+
+### ADLA
+1:30pm EST - 2pm EST - Reach out to SME (whhender, deya, sipastak) for Invitation
+
+### ADLS
+2pm EST - 2:30pm EST - Reach out to SME (whhender, deya, sipastak) for Invitation
 
 ## Scope
 
 This Daily Review meeting covers cases that have not yet met First Day Resolution (FDR) for both ADLS Gen 1 and ADLA. Secondly, it covers open ICMs that the product team needs feedback on from CSS. Lastly, this meeting covers any open cases that engineers from CSS would like feedback on.
+
+The product teams attend both meetings so for any difficult cases or questions or troubleshooting, please feel free to bring them to this call!
 
 ##Schedule
 
