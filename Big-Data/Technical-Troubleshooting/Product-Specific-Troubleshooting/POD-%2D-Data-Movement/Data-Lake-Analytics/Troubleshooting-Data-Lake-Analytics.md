@@ -61,6 +61,14 @@ These are usually caused by a problem with the customer's configuration, script,
 Customers can write their own extractors and outputters-- and it is up to them (or the author) to debug this custom code.
 We do have a guide to help them get started: https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-debug-u-sql-jobs
 
+## Performance Problems
+**If a job that used to run quickly has started to run slowly**, ask if the customer regularly adds to their table with APPEND.
+APPEND commands create a new flat file with each command, and over time all those small files can build up and cause performance issues. Thankfully, there's an easy fix with [ALTER TABLE REBUILD](https://docs.microsoft.com/en-us/u-sql/ddl/tables/alter-table).
+
+**If this job has never run quickly**, here are a couple things you can do:
+1. Ask for a screenshot of the job graph. Look out for any Vertex with a low number of vertices but a high amount of data. That may indicate they're having a skew problem, or the optimizer didn't anticipate how much data would be going through that vertex. Reach out to the ADLA teams channel or open an ICM.
+2. Ask if the data they're using is stored in many small files, or fewer big files. Many small files will potentially cause performance problems, and if they can they should aggregate their data into fewer, larger files.
+
 ## Runtime Errors
 If your customer is seeing errors like "Invalid Runtime" or "Expired Runtime" check and see if they're using the current default runtime (compare failing jobs to working jobs or run a test job of your own!)
 
