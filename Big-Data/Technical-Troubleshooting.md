@@ -400,8 +400,13 @@ _Summarize most likely, easiest, and least dangerous, and start there._
 
 You can find ASC one of three ways:
 1. //azuresupportcenter.msftcloudes.com
-2. By selecting Launch ASC from inside any of your Service Desk Cases
+2. By selecting Launch ASC from inside any of your Cases
+DfM
+![image.png](/.attachments/image-1439441d-a313-4bbe-b734-717f3617ff1e.png)
+
+Service Desk
 ![image.png](/.attachments/image-ff6343cb-331c-423b-a428-ceb89ba1dad5.png)
+
 3. If you use Case Buddy, right click any of your case numbers and select "Open in Azure Support Center"
 ![image.png](/.attachments/image-d2f2bc59-04af-47c2-aeef-23d023cde1b6.png)
 
