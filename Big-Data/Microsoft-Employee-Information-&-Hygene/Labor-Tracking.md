@@ -2,6 +2,15 @@
 [[_TOC_]]
 
 # How to Add Labor
+
+## DfM
+For both Collaboration cases and Main Cases, to add labor you will need to open the main case in DfM, scroll to the 'labor' section, select the ellipsis, and then "New Labor"
+![image.png](/.attachments/image-9210896b-0406-4940-b6d1-f0390eb52fbb.png)
+
+You will need to chose a labor category, the date, duration, and to describe the activity performed.
+The description need only be a few words such as: Troubleshooting, Customer Call, Email Update, Research...
+
+## Service Desk
 You can add the labor entry by opening the case in Service Desk, scroll down to "Labor" section and select "+Labor":
 
  ![sdlabor.JPG](/.attachments/sdlabor-e0d20039-bcfd-483a-82ff-e527b260ef36.JPG)
@@ -43,10 +52,13 @@ PPT Deck: [Labor and Case Tools - September072020.pptx](/.attachments/Labor%20an
 # How to Enter Labor Late
 If you missed the daily time entry for labor, you can enter the labor late, just be certain to correctly mark the day it was worked.
 
-1. Enter labor just like normal, but for the date choose the correct date worked and add a brief description.
-![image.png](/.attachments/image-eb06f766-d55b-4da0-8312-038c4227f2f9.png)
+Enter labor just like normal, but for the date choose the correct date worked and add a brief description and select a late labor reason as accurately as possible.
 
-2. Select Late Labor Reason as accurately as possible.
+DfM:
+![image.png](/.attachments/image-f18ef874-1efe-417f-92c4-a0f00b9ce434.png)
+
+Service Desk:
+![image.png](/.attachments/image-eb06f766-d55b-4da0-8312-038c4227f2f9.png)
 ![image.png](/.attachments/image-3843157d-e115-450d-a6d0-44501e0b92db.png)
 
 #Adjust Labor
