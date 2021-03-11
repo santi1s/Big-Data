@@ -64,6 +64,15 @@ Service Desk:
 #Adjust Labor
 If you entered labor on the wrong case, or accidentally entered the incorrect amount of labor, you can adjust it! 
 
+##DfM
+
+1. Go to the Labor Section in DfM, and select the ellipsis beside your previously entered labor:
+![image.png](/.attachments/image-ae3c8a0c-ebb3-4901-a2c3-872d82aa5d1a.png)
+
+2. Enter adjustments to duration or notes, and add adjustment reason as necessary, then select "Save and Close"
+![image.png](/.attachments/image-befd199f-4cdc-4113-bf37-e65113bd061d.png)
+
+##Service Desk
 1. Go to the labor section in service desk, and beside some previously entered labor select the ellipsis (…)
 ![image.png](/.attachments/image-1d13c6d4-eb9b-4a61-8336-abfcc2554d3b.png)
 2. Correct duration and select ‘Update Labor Reason’ and ‘Late Reason’ if applicable.
