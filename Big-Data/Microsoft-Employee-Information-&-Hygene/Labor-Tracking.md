@@ -90,7 +90,7 @@ For your quick reference, here’s a summary of “DOs” and “DON’Ts”:
 
 ##Scorecard (Customer) Labor
 
-Most labor tracking will occur when working with customers and researching issues. The labor will be captured in Service Desk.
+Most labor tracking will occur when working with customers and researching issues. The labor will be captured in your case tool.
 Any time you will perform any type of work on a case, you will need to track the time spent. This is **mandatory** and extremely important, so please try to be as accurate as possible in tracking and describing the performed work.
 
 The labor is classified in following categories, which are self explanatory: Communications, Recovery & Billing, Research, Admin Review, Tech Review, Troubleshooting. If you are not sure which category to choose, please reach your mentor/TA/SME.
