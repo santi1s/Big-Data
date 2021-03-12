@@ -284,7 +284,7 @@ If unable to access case to send it back to the queue, please inform your manage
 vertical-align:top;white-space: wrap;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
 - Accept ownership of cases assigned to you. Take full accountability to meet SLA and provide quality responses.
-- Log clear case notes in Service Desk for every case, but especially cases to transfer.
+- Log clear case notes for every case, but especially cases to transfer.
 - Change the case internal title to show the clear reason for transfer if you will move the case back to the queue.
 - Double check with customer whether customer really needs to continue the troubleshooting with next shift engineer. As them if they want to proceed with another engineer, or would prefer to pick up during your next working hours. 
 - If a customer would prefer to work in a different region, transfer to that region as soon as possible.
