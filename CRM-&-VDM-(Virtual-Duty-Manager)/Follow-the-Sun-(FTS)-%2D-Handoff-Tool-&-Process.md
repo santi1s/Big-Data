@@ -38,7 +38,7 @@ _(yes, same link for / tool for VDM)_
 
 ## Quick Steps to Transfer Case
 1. [Confirm that your transfer is a valid transfer.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=handoff-between-regions)	
-2. Add [case transfer notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=hand-over-notes-template) to your case in service desk as normal.
+2. Add [case transfer notes](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/306262/Case-Handoff-Process?anchor=hand-over-notes-template) to your case  as normal.
 2.	Check the list of FTS requests in the [next handover call.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=handover-call-pages)
 3.	If your case is in the list, select and [complete the FTS request](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=fill-out-fts-request) up to the [“Ensure Summary”](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=ensure-summary) stage.
 Ensure summary notes should follow the [template](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=notes-template) shown below.
