@@ -18,7 +18,7 @@ This helps our customers feel cared for and again, lets our team leads gather fe
 
 ## Data Movement Team
 
-1. Fill out the Recovery/Follow Up Request Template and add it as your most recent case notes in your service desk case.
+1. Fill out the Recovery/Follow Up Request Template and add it as your most recent case notes in your case.
 
 2. Add your recovery request to appropriate Regional Request Channel under [Data Movement Teams Channel](https://teams.microsoft.com/l/team/19%3ab2778d321edf4189baae4b7bb779fb85%40thread.tacv2/conversations?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) (For Example AMER Recovery Request)
 
