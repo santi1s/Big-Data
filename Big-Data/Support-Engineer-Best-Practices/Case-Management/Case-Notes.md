@@ -35,9 +35,9 @@ July 27, 2019 Training
 :::
 
 # How to 'Take' Case Notes and Where to Update Them
-Currently, all our case notes are housed in Service Desk. Service Desk is where other engineers are going to be able to see and use your case notes and you'll be able to use them as well.
+Your case notes will be in the "Timeline" section of your case tool. Here in the Timeline is where other engineers are going to be able to see and use your case notes and you'll be able to use them as well.
 
-No matter what case note tool you use to take your initial notes, save them in Service Desk once they are completed, so they will be appropriately tracked.
+No matter what case note tool you use to take your initial notes, **save them to your case once they are completed**, so they will be appropriately tracked.
 # How to Take Great Notes
 
 ## Goal of Great Notes
