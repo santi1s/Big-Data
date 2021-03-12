@@ -1,3 +1,20 @@
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> With DfM, many 'Value Add Tools' like these will be depreciated. </b>
+<b> DfM plans to make updates to include requested value-add features into itself. </b>
+
+Current depreciation timelines and information can be found here: [DfM Wiki - Value Add App FAQs](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/148/FAQs)
+
+Vote on, or suggest DfM features here: [DfM Ideas](https://bts-ideas.powerappsportals.com/community/forum/dcffe51d-a964-ea11-a811-000d3a3b1bf3)
+
+</td>
+</tr>
+</table>
+
+
 [[_TOC_]]
 
 # Case Assignment Tools
