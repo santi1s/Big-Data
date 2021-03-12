@@ -142,7 +142,7 @@ If you follow up using an email, please make sure any additional troubleshooting
 2. Search for the Azure Data Lake Store product and select the 'Store' team.
 3. Set your title using this format: [Case Number][Severity][Premier/Pro/ARR]Short, Descriptive Title
 4. Choose most specific/accurate problem category and sub category, and fill in all required data. Also fill in 'Subscription Id' and 'Support Ticket Id' at the bottom of the form.
-5. 'Submit' and include your ICM number in your Service Desk case.
+5. 'Submit' and include your ICM number in your case.
 
 <br>
 <br>
