@@ -49,7 +49,7 @@ Most cases aren't make or break on technical knowledge. All your customers want 
 4. Mentor/Buddy
 
 ## How to Organize
-1. Case Categories in Service Desk or Case Buddy
+1. (Case Categories in Service Desk or Case Buddy) - **Current case tool (DfM does not yet support categories. [Vote for the feature here!](https://bts-ideas.powerappsportals.com/community/idea/b59389a8-cd0c-eb11-8441-00155dd02b13)**
 2. Use Your Case's Internal Title
 3. [OlHelper](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=ol-helper) - Or our other [Tools](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools)
 4. Review Your Cases Regularly
@@ -79,12 +79,12 @@ This column allows you to set a 'Smiley' that will turn red after x number of bu
 This is an easy way to keep track of labor for your various cases as you switch tasks through the day!
 ![image.png](/.attachments/image-2dc0d6d6-30ff-4172-8d7c-826f48a7b625.png)
 
-**3. Notes** - You can take Notes in Case Buddy and they will be submitted to your service desk case **with any recorded labor already attached.**
+**3. Notes** - You can take Notes in Case Buddy and they will be submitted to your case **with any recorded labor already attached.**
 
 Just right-click any case number and select "Open in Case Buddy"
 ![image.png](/.attachments/image-dce7f583-530c-49c1-9e6b-408f4cd67d4c.png)
 
-From there you'll be able to add your notes, and you'll notice the labor timer is still clicking along in the bottom left corner! And in the bottom right you can submit the notes to Service Desk and even change case status!
+From there you'll be able to add your notes, and you'll notice the labor timer is still clicking along in the bottom left corner! And in the bottom right you can submit the notes to your case and even change case status!
 ![image.png](/.attachments/image-7f9668a8-d083-4763-9242-083f283a7ae0.png)
 
 **4. Categories** - Under your columns in Case Buddy is a 'Categories' column that you can customize to have any kinds of categories you need! The goal here is to be able to tell where your cases are at a glance, but this is a tool for you! You can even organize your cases by category.
