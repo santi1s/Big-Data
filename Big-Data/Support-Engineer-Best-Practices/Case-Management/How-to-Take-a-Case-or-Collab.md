@@ -6,6 +6,8 @@
 # Taking a Case or Collab from the Queue
 
 ##Find Cases in Your Technology
+
+### Service Desk
 1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
 Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-6e6fcb9c-446a-498a-9529-ce0690a8e864.png)
