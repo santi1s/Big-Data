@@ -41,10 +41,9 @@ Welcome to Big Data! Are you ready to get started?
 Before we dive into the technical specifics it's good to get familiar with general topics and best practices for working with customer cases in CSS.
 A majority of this content was taken from the CSS Business and Culture Foundations Training  
 Case Management
-Some engineers rely on Service Desk, while other use Rave. Below you can find trainings for whichever option is correct for you!
-Service Desk Case and Insights Training  
-[Rave 2.0 - Case Handling]("https://microsofteur.sharepoint.com/:p:/r/teams/OperationalManagementPackage/Rave/_layouts/15/doc2.aspx?sourcedoc={E8C4E494-28C5-43A1-8179-74159F96B653}&file=Rave  2.0 - Training (for Users).pptx&action=edit&mobileredirect=true&DefaultItemOpen=1")
-[Rave FAQ](https://microsoft.sharepoint.com/:w:/r/teams/SPOT_Production/Release_4162/Release/Rave  FAQ.docx?d=wdc9097c0fe0643ad92ab0d406a642ec4&csf=1&e=NNfQDi)
+
+Currently we use a tool called DfM or OneSupport for case management.
+You can [find more information here on the DFM Wiki.](https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/59/Welcome)
 Processes
 [SaRA and Rave-ViewPoint Diagnostics training material](https://microsoft.sharepoint.com/teams/CSSLearning/_layouts/15/Doc.aspx?sourcedoc={5D0A2DE2-A83E-4CD5-A986-BE9355CFECDC}&file=SaRA  and Rave-ViewPoint Diagnostics Training Material.docx&action=default&mobileredirect=true&DefaultItemOpen=1 )
 Procedure
