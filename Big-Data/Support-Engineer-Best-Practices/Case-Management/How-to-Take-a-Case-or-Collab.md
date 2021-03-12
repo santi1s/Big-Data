@@ -1,48 +1,11 @@
-**This is the current process for our Service Desk tool, and covers only the basics for picking up a case/collaboration from the queue, or starting a case/collaboration that has been assigned to you.**
+**This guide covers only the basics for picking up a case/collaboration from the queue, or starting a case/collaboration that has been assigned to you.**
 
 [[_TOC_]]
 
 
 # Taking a Case or Collab from the Queue
 
-## If your team is using Virtual Duty Manager (VDM)
-
-### Taking a Case
-If your team is using the Virtual Duty Manager, don't cherry-pick cases out of the queue. Let the VDM do its job.
-
-**If there is a specific case you are taking from a teammate or handoff, do this:**
-
-1. Use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to you to make sure you receive proper credit by saying "Assign Case# to me"
-2. If the case it already assigned it will ask you to confirm, say Y and the case will be assigned to you and you will receive credit.
-
-**If you are a new engineer ready to take cases, do one of these things:**
-1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
-2. Let your Assignment Lead or Manager know you're ready to be in the queue. You can be set to 1 case a day to get started.
-
-**If you have capacity to take more cases, do this:**
-1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
-2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
-
-
-### Taking a Collaboration
-
-If you are picking up a collaboration while your team is using VDM-- Virtual Duty Manager is not aware of Collaborations, so you will not be able to use the CRM bot.
-
-Instead, follow these steps:
-1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
-![image.png](/.attachments/image-ed8e3311-224f-4293-bf35-3bafe341a26c.png)
-
-2. Scroll down to the 'Tasks' Tile, be sure you are on the 'Collaboration' view, and choose the ellipsis button next to the collaboration you are picking up.
-![image.png](/.attachments/image-26526cef-f5dc-418b-9c4c-14784465382f.png)
-
-3. Choose 'Assign to Me'
-![image.png](/.attachments/image-9876a496-d968-4d1d-b07b-77cf9d15b16a.png)
-
-4. Notify your Assignment Lead that you have picked up a collaboration so that they can 'add credit' for you for that collaboration, so that you are only assigned the correct number of cases in a day.
-
-## If your team is NOT using VDM
-
-###Find Cases in Your Technology
+##Find Cases in Your Technology
 1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
 Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 ![image.png](/.attachments/image-6e6fcb9c-446a-498a-9529-ce0690a8e864.png)
@@ -61,51 +24,27 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 
 2. Check the 'Sev' column to check Severity, or the 'Service Level' column to check if it is a Professional or Premier Case
 
-###Check If It Is a Full Case or a Collab
+##Check If It Is a Full Case or a Collab
 
 1. Check the Type column to see if the pending task is a Collaboration, or a full Case
 ![image.png](/.attachments/image-5542aad7-831c-43ce-ac75-2b7c833d9134.png)
 
-###Self-Assign Case
-1. To Self-Assign a case, open the case in Service Desk and choose "Edit"
-![image.png](/.attachments/image-6978a3e0-8121-40a5-8c24-a7fbf73f8bd1.png)
 
-2. Then select 'Assign to Me'
-![image.png](/.attachments/image-cae94221-ee70-44b0-8e7f-4ebdf60995a8.png)
+## Taking a Case or Collaboration
+If your team is using the Virtual Duty Manager, don't cherry-pick cases out of the queue. Let the VDM do its job.
 
-###Self-Assign Collaboration
-1. To Self-Assign a collaboration, open the Case in Service Desk and choose "Edit"
-![image.png](/.attachments/image-65b07f30-b985-4436-839f-0eb58d4ba3db.png)
+**If there is a specific case you are taking from a teammate or handoff, do this:**
 
-2. Scroll down to the 'Tasks' Tile, be sure you are on the 'Collaboration' view, and choose the ellipsis button next to the collaboration you are picking up.
-![image.png](/.attachments/image-26526cef-f5dc-418b-9c4c-14784465382f.png)
+1. Use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to you to make sure you receive proper credit by saying "Assign <Case#> to me"
+2. If the case it already assigned it will ask you to confirm, say Y and the case will be assigned to you and you will receive credit.
 
-3. Choose 'Assign to Me'
-![image.png](/.attachments/image-9876a496-d968-4d1d-b07b-77cf9d15b16a.png)
+**If you are a new engineer ready to take cases, do one of these things:**
+1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
+2. Let your Assignment Lead or Manager know you're ready to be in the queue. You can be set to 1 case a day to get started.
 
-
-###Notify DMs (Duty Managers)
-After you have assigned a case or collaboration to yourself, be sure to reach out to your duty managers to let them know they no longer need to find a case owner.
-
-Email: sqldmmdt@microsoft.com
-
-Email Title: <Case Number> Assigned to <Your Alias>
-
-Email Body:
-I am picking up <Case Number>. Thank you!
-
-# Starting a Case that Has Been Assigned
-
-If a case has been assigned to you by the duty managers, you should get an email with a title similar to this:
-
-Case Assignment: <Case Number> /Professional  Sev C / SLA - 1h 49m left
-
-or 
-
-Collaboration Assignment: <Case Number> /Professional  Sev C / SLA - 1h 49m left
-
-You will not need to assign it to yourself after this! All you will need to do is check 'My Cases and Tasks' in Service Desk, and you will find that the assigned case is now there!
-
+**If you have capacity to take more cases, do this:**
+1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
+2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
 
 ##Were You Assigned a Case or a Collaboration?
 
