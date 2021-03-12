@@ -11,7 +11,7 @@ GE SQL-Data Move EMEA (GA)
 GE SQL-Data Move India (GA) 
 
 
-## New / existing Service Desk Queues: 
+## New / existing Queues: 
 SSIS-MDS-DQS Premier
 SSIS-MDS-DQS Escalations
 SSIS-MDS-DQS Pro
