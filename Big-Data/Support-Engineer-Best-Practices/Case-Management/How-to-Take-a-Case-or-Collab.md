@@ -1,3 +1,17 @@
+<table border="1";bgcolor="#ffa7a7";>
+<tr>
+  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
+vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
+
+<b> March 12, 2021 12:15pm EST - This page is currently being updated!</b>
+<b> Pardon our dust!</b>
+
+<b> If you have any questions while we're in progress here, please reach out to whhender!</b>
+
+</td>
+</tr>
+</table>
+
 **This guide covers only the basics for picking up a case/collaboration from the queue, or starting a case/collaboration that has been assigned to you.**
 
 [[_TOC_]]
