@@ -34,8 +34,11 @@ By 11:59 pm local time.
 
 # Training
 
-**Mandatory training FY20:**
-https://learn.microsoft.com/activity/S3670183/launch/#/
+**Mandatory training FY21:**
+•	[FTEs](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Faka.ms%2Femptktraining&data=04%7C01%7Cwhhender%40microsoft.com%7Ca45c487d6f2141ad8e4608d8e8734ee6%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637514929223910451%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=%2FQ9ljdv2wUje5whtMMvIC0f9mETj9aCrWWXvoW%2Bzsrg%3D&reserved=0)  
+•	[Subcontractors with CorpNet access](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Faka.ms%2Fintsubcontktraining&data=04%7C01%7Cwhhender%40microsoft.com%7Ca45c487d6f2141ad8e4608d8e8734ee6%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637514929223915442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=zcdMw5GdEabaTRwNMVUxL%2BH2hPi%2Fcn6WpIpzoZKjhSg%3D&reserved=0)
+•	[Subcontractors without CorpNet](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Faka.ms%2Fextsubcontktraining&data=04%7C01%7Cwhhender%40microsoft.com%7Ca45c487d6f2141ad8e4608d8e8734ee6%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637514929223920434%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=n1c7iSngJUKkRkyTi7OnNCQ4MogSuVLMUo2i2HuVY9g%3D&reserved=0)
+
 
 Team Meeting Recording:
 
