@@ -72,6 +72,7 @@ Microsoft gives its engineers access to a wide variety of learning resources if 
 [LinkedIn Learning](https://nam06.safelinks.protection.outlook.com/?url=http%3A%2F%2Flynda.com%2F&data=02%7C01%7CTiffany.Fischer%40microsoft.com%7Cbae3f8762bc6446c5f0908d76a01ec81%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637094428800177591&sdata=X5s37X3MuRSR15y0kcecaOS3FbcKwkKJfvquza58NgM%3D&reserved=0)
 [Pluralsight](https://aka.ms/pluralsight)
 [O’Reilly Online Learning](http://aka.ms/safari)
+[Cloud Academy](https://cloudacademy.com/library/)
 
 #Troubleshooting Introduction:
 
