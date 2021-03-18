@@ -96,7 +96,7 @@ If you need to verify that a subscription is impacted by this change, check the 
 # Registering for an AIRS Gov subscription:
 1. Go to https://aka.ms/airs and then click New Registration.
 2. In Account type, select USGov Internal Account
-3. In Account Owner ID, enter your mcsinternaltrials or fieldinternaltrials account
+3. In Account Owner ID, enter your mcsinternaltrials or fieldinternaltrials account [from the above steps](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/321472/Internal-Subscription-Management?anchor=mcs-internal-%26-field-internal-trials-program-(azure-government).)
 4. For Property/service name enter "Microsoft Azure Internal Consumption"
 5. In Cross Charge Information, use PC Code P10175065 in both fields requesting it
 6. Leave PFAM as 000
