@@ -45,7 +45,7 @@ In order to access the correct Jarvis logs, and Azure Support Center, request ac
 Collaboration & Escalation: Swarming https://learn.microsoft.com/activity/S4295219/launch#/
 
 #ASA Learning Courses
-[L100/L200 Azure Stream Analytics Training](https://hcm41.sapsf.com/sf/learning?destUrl=https%3a%2f%2fmicrosoftlmsap2%2elms%2esapsf%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dAzure%2bBackup%26fromSF%3dY&company=microsofAP2)
+Required [L100/L200 Azure Stream Analytics Training](https://hcm41.sapsf.com/sf/learning?destUrl=https%3a%2f%2fmicrosoftlmsap2%2elms%2esapsf%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dAzure%2bBackup%26fromSF%3dY&company=microsofAP2)
 
 Overview readiness session about ASA and the basics to troubleshoot cases using ASC:
 [Internal SE Learning - Intro to Azure Streaming Analytics and TS](https://microsoft.sharepoint.com/:v:/t/BigDataAnalyticsPOD/ERhPMiCNRp1EkdW8TObvYToB7EOnNCsT8BDmiSMwRHDxLg?e=bjM46x)
