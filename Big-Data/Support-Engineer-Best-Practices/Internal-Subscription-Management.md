@@ -94,6 +94,7 @@ Both options require creation of an AIRS registration which can be done here . A
 If you need to verify that a subscription is impacted by this change, check the Account Administrator of the subscription. If mcsinternaltrials.admin@mcsinternaltrials.omicrosoft.com , mcsinternaltrials.admin2@mcsinternaltrials.onmicrosoft.com , or fieldinternaltrials.admin@fieldinternaltrials.onmicrosoft.com is the Account Administrator then it’s being funded by the Azure Government Engineering team
 
 # Registering for an AIRS Gov subscription:
+1. If you haven't already, please initiate a request for a mcsinternaltrials or feildinternaltrials account here: [https://ageaccounts.azurewebsites.us/](https://ageaccounts.azurewebsites.us/ ) 
 1. Go to https://aka.ms/airs and then click New Registration.
 2. In Account type, select USGov Internal Account
 3. In Account Owner ID, enter your mcsinternaltrials or fieldinternaltrials account [from the above steps](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/321472/Internal-Subscription-Management?anchor=mcs-internal-%26-field-internal-trials-program-(azure-government).)
