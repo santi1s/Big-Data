@@ -4,6 +4,7 @@ WFM has a schedule view that supports filter sets and groups.  This makes it eas
 1.	Open **Internet Explorer**  (IMPORTANT! yes IE, you have to use IE for ) 
 ![ie_logo-sm.png](/.attachments/ie_logo-sm-33aacbf9-dd34-4e67-b68b-276c29a6b27e.png)  
 2.	Navigate to https://wfm2/ 
+[New WFM Cloud](https://wfm2/WFO/WFMCLOUD/home/dashboard/)
 3.	Click on the red “**Schedule View**” tile
 ![WFM-schedule-view.png](/.attachments/WFM-schedule-view-5e553abe-c754-4253-8d0f-92a1f223d117.png)
 4.	A page with two sections and an Aspect icon in the lower right should appear
