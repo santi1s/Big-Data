@@ -77,11 +77,7 @@ a. If there is **<u>no</u> handoff meeting** (when SME in **<u>receiving</u> reg
 b. If you **cannot attend the handoff meeting** (because it is outside your working hours or otherwise) find a teammate who can hold/monitor your case and attend the meeting in your place.
 c. If you **cannot find a teammate who can handle the case before the handoff meeting**, reach out to your [regional handoff SME.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=region-handoff-smes)
 d. **<u>Only after</u> you have aligned with regional handoff SME**, perform step e:
-e. <span style="color:#DF0101;">At the end of your region's hours, **transfer back** the case to queue, </span> and notify the DM  sqldmmdt@microsoft.com for reassignment.
-**Reference Email Subject:**
-Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
-
-
+e. <span style="color:#DF0101;">At the end of your region's hours, **transfer back** the case to queue, </span> and wait for the VDM to reassign the case.
 
 5. <span style="color:#DF0101;">**Remain with the case until handoff to another engineer can occur.** </span>
 
