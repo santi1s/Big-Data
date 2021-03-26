@@ -31,7 +31,7 @@ graph TD
     C -->|Yes| D{Can you attend?}
 D -->|Yes| F(Attend Handoff Call <br> and Follow Instruction There)
 D -->|No| I{Can a <br> teammate take <br> until handoff call?}
-    C -->|No| E(Transfer to Queue <br> Notify DMs)
+    C -->|No| E(Transfer to Queue <br> and wait for VDM to reassign the case)
 E -->|Critical Case| H(Stay with case until <br> there is a new case owner.)
 I-->|Yes| J(Transfer to Teammate)
 I --> |No| K(Contact Handoff SME)
