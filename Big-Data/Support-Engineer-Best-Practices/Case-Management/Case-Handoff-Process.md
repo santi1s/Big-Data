@@ -106,9 +106,7 @@ e. <span style="color:#DF0101;">At the end of your region's hours, **transfer ba
 ![image.png](/.attachments/image-f96e38aa-f73f-4483-93ad-c859dd03eec3.png)
 5. **If the [handoff call](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&_a=edit&anchor=region-handoff-meetings) is within your hours**, attend the handoff call to move this case first. 
 If it is not within your hours, <span style="color:#DF0101;">**transfer the case back to queue.**</span>
-6. Send email to sqldmmdt@microsoft.com to ask for reassignment.
-	**Reference Email Subject:**
-	Big Data DM, please reassign <Prem/Pro> <Severity> <case number> to <APAC/IST/EMEA/US SE> - Skill: <product skill>
+6. VDM will reassign the case as per the region accordingly.
 
 ## Collaboration Handoff
 1. Talk to your case owner about whether they need continued input from your team.
