@@ -46,7 +46,7 @@ FYI here's how it rolls up for all Data and AI: https://msit.powerbi.com/groups/
 - review the On-call heads up emails 2 weeks before and a week before
 - In the morning login and check the Case Assignment Chat in Teams
 - After the notification that your officially on call Friday morning/afternoon, test that  you receive your own call by calling 1-800-242-7001 and your teams mailbox (list below in high level process section) 
-- Before Monday (after the weekend on-call)  following your on-call weekend please populate our new on-call log form for each call you have to take action with case, date, time, customer name, severity : [http://aka.ms/oncalllog](aka.ms/oncalllog) 
+- Before Monday (after the weekend on-call)  following your on-call weekend please populate our new on-call log form for each call you have to take action with case, date, time, customer name, severity : [http://aka.ms/oncalllog](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6s1Ft68YBdMmxbKDoRuMtlUOEJOTTIzSDM2SFdSMThOVTlYUkRDUlhKVi4u) 
 ## What's expected when your on call?
 - Calls from Duty Managers, or On Call Manager, On-call Peer, to support customers and peers in both an on-call and backup capacity.
 - Typically you will only receive calls Saturday and Sunday for our timeblock- when the scheduled staff working can't work the cases because of volume, skill or restricted access; 
