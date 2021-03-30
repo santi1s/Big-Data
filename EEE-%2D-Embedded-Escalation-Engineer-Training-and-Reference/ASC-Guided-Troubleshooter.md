@@ -1,8 +1,4 @@
 
-##**Note:** For [step 4](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/337043/ASC-Guided-Troubleshooter?anchor=step-4---publish-content-into-the-repositories), please follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own. 
-
------
-
 #Overview
 Guided troubleshooters enable to stitch together Insights and Content into a Workflow that efficiently guides the users through the series of steps required to diagnose a problem.
 
@@ -54,48 +50,86 @@ Identify the TSG you want to build the troubleshooter for. It is important to ha
 
 ![7.png](/.attachments/7-98efce9a-a9c1-4a2b-a0d1-517ee9ed675c.png)
 
-- Go through steps 1-10 to provide TSG name, guid, summary description, resource type, sap path and support topic.
+- Go through steps 1-12 to provide TSG name, guid, summary description, resource type, sap path and support topic.
 
 
-##Step 3 - Build the TSG workflow 
-You can do it manually in Visio or through Excel. As we now have a powershell script to create visio from Excel automatically, it is **highly recommended to use Excel here**. Make sure to optimize the workflow by having minimal necessary steps. 
-XLS structure would be similar to this:
+##Step 3 - Design TSG
 
-![8.png](/.attachments/8-73c1214c-2516-4154-bd3d-e554fcc4702b.png)
+- Go through step 13 to design your TSG. Please [refer to this recording to understand how to use the designer](https://microsoft.sharepoint.com/:v:/t/ProjectCentennial/EZaaWFJ6DplPimbV-2kaztUBB9zuakFcjACtqjFyvy9azA?e=S0piQu).
 
-You can follow these instructions to go from **XLS -> VISIO**:
+![designtsg1.png](/.attachments/designtsg1-76533cc5-2e98-490d-940b-24e0f600c49f.png)
 
-![9.png](/.attachments/9-07d75a96-713b-40ff-a289-2aca384b476d.png)
- 
-Content and Customer Message would be the text that will be presented in each of the steps in the Troubleshooter. Troubleshooter would have start, decision, or end steps based on the workflow. Please check this example [here](https://microsofteur-my.sharepoint.com/:f:/g/personal/lahaddad_microsoft_com/Ep75Pi54gbtBpIHnSCNQgXgB-BxnF-6Phh8SB_io1clu2g).
-
-**Note:** 
-- Content steps are in markdown format. Remember to use numbered lists not bullets.
-- Customer message actual implementation is some strange mix of HTML and feature-reduced markdown. You can use markdown format for it and do adjustments during the testing process if needed.
-- Every Content Step title should ideally start with “Check if…” or “Check for” if possible, and every Content Step Sub-title should ideally start with “How to…”.
-
-##Step 4 - Publish content into the repositories
-
-Please follow the [Self-Authoring (Advanced)](/EEE-%2D-Embedded-Escalation-Engineer-Training-and-Reference/ASC-Guided-Troubleshooter/Self%2DAuthoring-\(Advanced\)) for importing and managing all of these files on your own through forking SelfHelp and submitting a PR. 
+- Make sure to optimize the workflow by having minimal necessary steps. 
 
 
-It is likely you will need to re-iterate on content to adjust formatting, fix spelling errors, etc. 
+##Step 4 - Publish TSG contents into the repositories
 
-##Step 5 - Test your content 
+Once you finished designing your TSG and saved it, you need to publish contents into repos:
+
+- Go back to onboarding page and jump to step 26 to download the deployment package.
+
+![deppackage.png](/.attachments/deppackage-e83328e8-5d92-47ff-8bf6-6687c3375285.png)
+
+- The compressed file will have all Decision steps (.md), Solution steps (.tsginsight), Workflow steps (.json).
+
+![pkgfiles.png](/.attachments/pkgfiles-45b16f4e-f94f-48b3-9d97-f52de7db1c30.png)
+
+   - Follow these steps to upload each in its correct repository:
+
+     **Decision steps - md**
+     1. Go to [Azure Github Self-Help repository](https://github.com/Azure/SelfHelpContent/tree/master/articles).
+     2. Create a new folder for your TSG.
+     3.  Upload TSG summary file from onboarding step 12 along with .md files from downloaded package into TSG directory.
+     4. Create pull request.
+
+
+     **Solution steps - tsginsight**
+     1. Go to [ASC TSG Insight Repo](https://msazure.visualstudio.com/One/_git/EngSys-ads-partner?path=%2Fsrc%2FDiagnosticsApps&version=GBmaster).
+     2. Create a new branch and select your product directory.
+     3. Navigate to Definitions > tsginsights.
+     4. Create a new folder for your TSG, and upload the .tsginsight files from downloaded package.
+     5. Commit and create pull request.
+
+     **Workflow steps - json**
+  
+   
+     1. Go to [asc-workflow-metrics repo workflows - Repos](https://msazure.visualstudio.com/One/_git/EngSys-ads-ascworkflow-metrics?path=%2Fworkflows).
+     2. Create a new folder (use something obvious like TSG name) under the workflows folder, put an empty file in it.
+     3. Commit to a new branch.
+     4. Upload all the JSON files in the download package to the new folder.
+     5. Delete the empty file in step 2, and Commit again.
+     6. Go to [Geneva Automation](https://jarvis-west.dc.ad.msft.net/settings/automation) and choose your branch from step 3 under ASCWorkflows.
+     7. Create a pull request from GA UI, and approve it.
+     8. An additional step here is to get Geneva automation URL to complete the onboarding. Go to the first step of your TSG workflow and copy the http post URL:
+
+![genevalurl.png](/.attachments/genevalurl-6ae5994f-d165-4df3-9525-73e85e6ada9e.png) 
+
+## Step 5 - Finish Onboarding
+
+- Go back to onboarding page and paste URL in step 24. Make sure to add "/api" before "monitoringAccounts"
+
+![step24url.png](/.attachments/step24url-bca198e4-1412-494e-ad06-b52c87b2c9dc.png)
+
+- Go to step 25 to get TSG definition file. Upload it to [ASC TSG Definition Repo](https://msazure.visualstudio.com/One/_git/EngSys-ads-definitions?path=%2Fsrc%2FNoCodeDiagnostics%2FInsights%2FTroubleshooterSolutionJsons) under your product ownership directory. Create the pull request and approve.
+
+- Once all PRs are approved, complete the remaining onboarding steps.
+
+##Step 6 - Test your TSG
 Once it is confirmed that troubleshooter has been published:
-- Go to the [manage TSG](https://asctsgreporting.azurewebsites.net/TSGList/Onboarding) page and select your TSG.
-- There are steps about Testing your Articles and Testing Insights – go to both of those links.
-- Click on each GUID to load the content on the right side and verify you are OK with the formatting and content.
+
 - Find a case that matches the resource type and support topic of your TSG.
 - Go to ASC and walk the workflow and test it.
 
 **Note:** 
 In case you can’t see the troubleshooter in ASC, you would need to request access from [here](https://idweb/IdentityManagement/aspx/Groups/AllGroups.aspx?searchtype=3a8f0ff2-72d2-428b-8e5b-2b3653cbca8e&content=ASCFlight3&popupFromClipboard=%2Fidentitymanagement%2Faspx%2FGroups%2FEditGroup.aspx%3Fid%3D36520db8-c534-43ab-b675-f3bc1b404adc).
 
-#References
-- Recordings - [Week 1](https://web.microsoftstream.com/video/1f25a1ff-0400-96d0-52e9-f1ea8a36e459), [Week 2](https://web.microsoftstream.com/video/1723a1ff-0400-96d1-5da1-f1ea8fb594e3), [Week 3](https://web.microsoftstream.com/video/b12ca1ff-0400-96d0-65d9-f1ea95352f9e)
-- Overall [documentation](https://microsoft.sharepoint.com/:w:/t/GuidedWorkflowV-Team/EXErVtUvuQhCmEWpqtFjmV0B6TLtKW-ExomN1v5Fzo6Sxg?e=TgVKGO)
-- Samples on [steps](https://microsoft.sharepoint.com/:t:/r/teams/ProjectCentennial/Shared%20Documents/TSGAuthor/TSGContent.txt?csf=1&web=1&e=qSdqB0), [visio](https://microsofteur-my.sharepoint.com/:u:/g/personal/lahaddad_microsoft_com/EQ3HJ2FzsINNk7piskw4j8QBu-XKEjvdAiBmSJ8Bf98MFg?e=naKtmd), and [xls](https://microsoft.sharepoint.com/:x:/r/teams/ProjectCentennial/_layouts/15/Doc.aspx?sourcedoc=%7B5BFB7555-A92C-41D4-88BA-98EB43A0D58E%7D&file=TSGCreatorTemplate.xlsx&action=default&mobileredirect=true)
+
+## Resources
+
+- [Onboarding and Training](https://supportability.visualstudio.com/CSS%20GWT%20Initiative/_wiki/wikis/CSS%20GWT%20Initiative.wiki/421439/Resources?anchor=onboarding)
+- [Repos](https://supportability.visualstudio.com/CSS%20GWT%20Initiative/_wiki/wikis/CSS%20GWT%20Initiative.wiki/421439/Resources?anchor=repos)
+- [Troubleshooting](https://supportability.visualstudio.com/CSS%20GWT%20Initiative/_wiki/wikis/CSS%20GWT%20Initiative.wiki/421439/Resources?anchor=troubleshooting)
+- [Other](https://supportability.visualstudio.com/CSS%20GWT%20Initiative/_wiki/wikis/CSS%20GWT%20Initiative.wiki/421439/Resources?anchor=other)
 
 
 You can reach **JR Mayberry (rimayber)** from APAC or **Chad Mathiason (chadmat)** from North America if you need help.
