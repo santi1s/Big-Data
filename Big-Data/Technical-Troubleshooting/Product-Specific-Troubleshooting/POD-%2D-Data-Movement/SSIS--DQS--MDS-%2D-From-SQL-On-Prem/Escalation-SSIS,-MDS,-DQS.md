@@ -38,7 +38,7 @@ Please note that ALL Escalation requests must go through the SME/ TA for approva
 Escalation Task:
 ============================
 
-1. CSST added to the case? : Yes/No
+1. [CSST added to the case](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/466895/CSST-Template)? : Yes/No
 2. Alias of SME/TA who has aprroved for escalation:
 3. Case discussed over AVA / local chat channel / Triage ? : Yes/No
 4. Is it a political escalation?: Yes/No
