@@ -23,6 +23,14 @@ A request for escalation does not mean the SR becomes a Sev A CritSit.  That is 
 -	Political Escalation  
 -	TAM / Customer /TM requested 
 
+#Escalation Task Checklist:
+============================
+
+1. [CSST added to the case](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/466895/CSST-Template)? : Yes/No
+2. Alias of SME/TA who has aproved for escalation:
+3. Case discussed over AVA / local chat channel / Triage ? : Yes/No
+4. Is it a political escalation?: Yes/No
+5. PG had been involved at any point? Yes/No
 #**Escalation Process:** 
 At a very high level, this is the workflow we will be following when escalating a case and accepting an escalation.
 1.	Engineer creates a CSST note (fills the [CSST template attached](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/466895/CSST-Template) along) on their SR and requests the regional SME / TA for review. 
@@ -33,16 +41,6 @@ At a very high level, this is the workflow we will be following when escalating 
 6.	Assigned Escalation resource to work along with the Engineer towards resolution of the issue.
 
 Please note that ALL Escalation requests must go through the SME/ TA for approval prior to transfer of tasks.  If they do not get TA or manager approval, they may be rejected. Continue contact with the customer while the escalation task is being accepted.  All SMEs/TAs/Escalation resources have been / will be briefed on this process. 
-
-#Escalation Task Template
-Escalation Task:
-============================
-
-1. [CSST added to the case](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/466895/CSST-Template)? : Yes/No
-2. Alias of SME/TA who has aprroved for escalation:
-3. Case discussed over AVA / local chat channel / Triage ? : Yes/No
-4. Is it a political escalation?: Yes/No
-5. PG had been involved at any point? Yes/No
 
 
 #**Process Flow:** 
