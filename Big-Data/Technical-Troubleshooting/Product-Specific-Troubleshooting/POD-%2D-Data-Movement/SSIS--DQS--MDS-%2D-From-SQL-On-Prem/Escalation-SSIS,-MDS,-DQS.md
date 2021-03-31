@@ -25,7 +25,7 @@ A request for escalation does not mean the SR becomes a Sev A CritSit.  That is 
 
 #**Escalation Process:** 
 At a very high level, this is the workflow we will be following when escalating a case and accepting an escalation.
-1.	Engineer creates a CSST note (fills the CSST template attached along) on their SR and requests the regional SME / TA for review. 
+1.	Engineer creates a CSST note (fills the [CSST template attached](https://supportability.visualstudio.com/Big%20Data/_wiki/wikis/Big-Data.wiki/466895/CSST-Template) along) on their SR and requests the regional SME / TA for review. 
 2.	Regional SME / TA reviews the CSST note and approves the escalation.
 3.	If not approved, the regional SME/TA provides their set of action items to be performed.
 4.	If approved, the Engineer creates an Escalation task (fills Escalation Task template attached along) and dispatches to the Escalation queue.
