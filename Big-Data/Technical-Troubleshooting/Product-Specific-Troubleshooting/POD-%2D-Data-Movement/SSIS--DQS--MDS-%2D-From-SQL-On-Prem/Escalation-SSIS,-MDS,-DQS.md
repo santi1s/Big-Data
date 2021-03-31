@@ -1,4 +1,4 @@
-**What is an Escalation ?**  
+#**What is an Escalation ?**  
 The term ‘escalation’ can be used in a number of contexts.  When the context is understood differently than intended, there can be routing or process issues. There are a variety of ways an Escalation can be initiated.  
 Here are some examples:   
 -	You have reached Technical roadblock preventing you from moving the SR toward resolution
@@ -9,7 +9,7 @@ Here are some examples:
 
 A request for escalation does not mean the SR becomes a Sev A CritSit.  That is a change in severity.  Changing the severity of a case when the customer really needed an Escalation can be detrimental to the customer experience. 
  
-**Two forms of Escalation:** 
+#**Two forms of Escalation:** 
 -	Pro-active Escalation  
 -	Re-active Escalation 
 
@@ -23,7 +23,7 @@ A request for escalation does not mean the SR becomes a Sev A CritSit.  That is 
 -	Political Escalation  
 -	TAM / Customer /TM requested 
 
-**Escalation Process:** 
+#**Escalation Process:** 
 At a very high level, this is the workflow we will be following when escalating a case and accepting an escalation.
 1.	Engineer creates a CSST note (fills the CSST template attached along) on their SR and requests the regional SME / TA for review. 
 2.	Regional SME / TA reviews the CSST note and approves the escalation.
@@ -34,7 +34,18 @@ At a very high level, this is the workflow we will be following when escalating 
 
 Please note that ALL Escalation requests must go through the SME/ TA for approval prior to transfer of tasks.  If they do not get TA or manager approval, they may be rejected. Continue contact with the customer while the escalation task is being accepted.  All SMEs/TAs/Escalation resources have been / will be briefed on this process. 
 
-**Process Flow:** 
+#Escalation Task Template
+Escalation Task:
+============================
+
+1. CSST added to the case? : Yes/No
+2. Alias of SME/TA who has aprroved for escalation:
+3. Case discussed over AVA / local chat channel / Triage ? : Yes/No
+4. Is it a political escalation?: Yes/No
+5. PG had been involved at any point? Yes/No
+
+
+#**Process Flow:** 
 ![ssis-escalation.PNG](/.attachments/ssis-escalation-7b5a05c6-051c-47fc-8c93-c786dce134e8.PNG)
 
 **Global SMEs / Escalation resources:** (subjected to change at the discretion of the regional TMs)
