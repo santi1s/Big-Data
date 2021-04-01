@@ -9,7 +9,7 @@ SSIS link https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/SSIS%20Wiki%20-
 
 MDS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Master%20Data%20Services.aspx
 
-Training link [https://microsoft.sharepoint.com/teams/bidpwiki/SQLTroubleshootingFiles/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fbidpwiki%2FSQLTroubleshootingFiles%2FMDSFiles%2FJan2011MDSTraining&FolderCTID=0x0120004238CDC3259A974EBC7E56B58E5287DF]()
+MDS Training [link](https://microsoft.sharepoint.com/teams/bidpwiki/SQLTroubleshootingFiles/Forms/AllItems.aspx?RootFolder=%2Fteams%2Fbidpwiki%2FSQLTroubleshootingFiles%2FMDSFiles%2FJan2011MDSTraining&FolderCTID=0x0120004238CDC3259A974EBC7E56B58E5287DF) 
 
 DQS - https://microsoft.sharepoint.com/teams/bidpwiki/Pages1/Data%20Quality%20Services.aspx
 
