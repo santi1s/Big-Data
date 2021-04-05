@@ -1,26 +1,5 @@
 
 
-<div style='direction:ltr;border-width:100%'>
-
-<div style='direction:ltr;margin-top:0in;margin-left:0in;width:12.0437in'>
-
-<div style='direction:ltr;margin-top:0in;margin-left:.075in;width:2.0527in'>
-
-<p style='margin:0in;font-family:"Calibri Light";font-size:20.0pt'>Tools:
-Fiddler</p>
-
-</div>
-
-<div style='direction:ltr;margin-top:.0388in;margin-left:.075in;width:2.6645in'>
-
-<p style='margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>Tuesday,
-November 27, 2018</p>
-
-<p style='margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>12:09
-PM</p>
-
-</div>
-
 <div style='direction:ltr;margin-top:.4305in;margin-left:0in;width:12.0437in'>
 
 <h1 style='margin:0in;font-family:Calibri;font-size:18.0pt;color:#1E4E79'>&nbsp;</h1>
@@ -48,11 +27,12 @@ PM</p>
    <p style='color:#000000;margin:0in;text-indent:-.1666in;font-family:Calibri;
    font-size:12.0pt'>
 
-![Items (3).png](/.attachments/Items%20(3)-5c6506b1-9f14-49c2-b5eb-07e3e0a0d1d1.png)&nbsp;Please request the customer to
-   install the fiddler from the web<br />
-      <a href="https://www.telerik.com/download/fiddler">https://www.telerik.com/download/fiddler</a><br />
-      <br />
-      &nbsp;</p>
+We can investigate TLS mismatch from the SSIS side, by reviewing connectivity with Fiddler and enabling TLS 1.2 by enabling SchStrongCrypto registry keys).
+ 
+To review connectivity, please install the fiddler from the web (instructions are provided below).
+
+Fiddler Download is available here: 
+      <a href="https://www.telerik.com/download/fiddler">https://www.telerik.com/download/fiddler</a>
    <ol type="1" style='margin-left:.375in;direction:ltr;unicode-bidi:embed;
     margin-top:0in;margin-bottom:0in;font-family:Calibri;font-size:12.0pt;
     font-weight:normal;font-style:normal'>
@@ -127,16 +107,5 @@ PM</p>
 
 </div>
 
-</div>
 
-</div>
-
-<div>
-
-<p style='margin:0in'>&nbsp;</p>
-
-<p style='text-align:left;margin:0in;font-family:Arial;font-size:9pt;
-color:#969696;direction:ltr'>Created with Microsoft OneNote 2016.</p>
-
-</div>
 
