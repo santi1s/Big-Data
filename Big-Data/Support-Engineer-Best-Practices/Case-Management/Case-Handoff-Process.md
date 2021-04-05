@@ -100,7 +100,9 @@ e. <span style="color:#DF0101;">At the end of your region's hours, **transfer ba
 <b>EMEA :</b>Ryszard Gawron
 <b>US:</b> Prashanth Madi or Whitney Henderson
 
-## Handoff Within Region
+
+
+## Handoff Within Region  -   AMER  -   Pilot "Case Transistion"   _**NEW**_
 
 ### AMER Data Movement
 Transition from Early AMER to Late AMER:
