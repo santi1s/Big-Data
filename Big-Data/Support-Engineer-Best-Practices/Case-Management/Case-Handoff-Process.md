@@ -7,7 +7,8 @@
 
 # Handoff Process
 
-## Handoff Between Regions
+
+## Handoff Basics
 <center>
 
 ![Hand Off Chart.jpg](/.attachments/Hand%20Off%20Chart-72acb208-2da3-4052-b733-eb22178db818.jpg =900x500)
@@ -19,7 +20,8 @@
 
 </center>
 
-## Handoff Flow Chart
+
+### Handoff Flow Chart
 
 <center>
 
@@ -43,7 +45,7 @@ K --> L(You may need to remain with an <br> active/critical case until an <br> o
 
 </center>
 
-## Handoff Process Overview Video
+### Handoff Process Overview Video
 
 <center>
 
@@ -65,7 +67,7 @@ PPT Deck: [Handoff - June012020.pptx](/.attachments/Handoff%20-%20June012020-662
 39:13 - Questions and Clarifications
 
 
-## Process for Critical / 24*7 Cases
+## Handoff Between Regions for Critical / 24*7 Cases
 1. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
  Follow [Case Severity Management](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/331739/Case-Severity-Management?anchor=when-to-downgrade-the-severity-from-a-to-b%2Cor-uncheck-24x7%3F) to verify if the case is qualified as Sev A and customer is available to continue working 24*7.
 2. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
@@ -98,7 +100,37 @@ e. <span style="color:#DF0101;">At the end of your region's hours, **transfer ba
 <b>EMEA :</b>Ryszard Gawron
 <b>US:</b> Prashanth Madi or Whitney Henderson
 
-## Process for Non-24*7 
+## Handoff Within Region
+
+### AMER Data Movement
+Transition from Early AMER to Late AMER:
+
+**Case / Child case meets criteria for a case to be transferred. ( Sev A / CritSit, 24/7 )**
+1.	Engineer updates case’s notes in DfM/Service Desk for transition to later team.
+
+2.	On / before 5PM EDT (UTC-4)  / 4PM CDT (UTC-5), Engineer enters the case plus details in the [AMER Critical Transfer](https://teams.microsoft.com/l/entity/26bc2873-6023-480c-a11b-76b66605ce8c/_djb2_msteams_prefix_3487100880?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3Ad38a75ab5640417db10e21fc3f6981ea%40thread.tacv2%22%7D&groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) within our WW Data Movement Team’s  Channel [AMER Critical Case transition – pilot](https://teams.microsoft.com/l/channel/19%3ad38a75ab5640417db10e21fc3f6981ea%40thread.tacv2/AMER%2520Critical%2520Case%2520transition%2520-%2520pilot?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+![image.png](/.attachments/image-ecbfa36a-1d57-477f-a347-20c6340a4c7e.png)
+   
+3.	Engineer, transfers case/child case back into queue.
+ 
+
+4.	Engineer updates Teams group chat,  Data Movement Assignment Chat -  Case/Collab so the Duty Manager(s) are aware of the case / child case is being transitioned, with the following “Case # | PRODUCT | Transisistioning from YOUR_ALIAS 
+_Example “00000000000 | SSIS | CritSit | Transitioning from lepaul_
+
+5.	VDM auto assigns case to available engineer working west/late Americas hours. 
+
+6.	New case owner works case.  
+_If after 30 minutes of the transition time, 5:30 PM EDT (UTC-4) / 4:30 PM CDT (UTC-5) VDM fails to auto assign the case:_
+a.	Case Transition Shepherd from the later working team does the following 
+b.	Updates AMER Critical Transfer within WW Data Movement Team’s Channel [AMER Critical Case transition – pilot](https://teams.microsoft.com/l/channel/19%3ad38a75ab5640417db10e21fc3f6981ea%40thread.tacv2/AMER%2520Critical%2520Case%2520transition%2520-%2520pilot?groupId=850828d8-228e-40ed-ab61-e73dd90037e2&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+c.	Takes ownership of case(s), updates the and/or find owner to work it 
+d.	Updates Duty Managers in group chat,  Data Movement Assignment Chat -  Case/Collab with the following “ Case # | Unable to Transistion, no resources available, investigating, please update you’re systems. “ 
+e.	If owners volenteers to assist, kindly ask them to update both AMER Critical Transfer and Data Movement Assignment Chat -  Case/Collab  that they have taken ownership and it required a manual transfer via the CRMBot. 
+
+7.	Case(s) continue to be worked by engineer and are transitioned to APAC at end of AMER hours as necessary.
+
+
+## Handoff Process for Non-24*7 
 1. Confirm this case is a good candidate for handover. Has the customer specifically requested a handoff? If not, does it really need to be transferred? 
 2. Log good case notes before beginning handoff process. You may use our [Notes Guides](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FBig%20Data%2FSupport%20Engineer%20Best%20Practices%2FCase%20Management%2FCase%20Handoff%20Process&pageId=306262&anchor=hand-over-notes-template) as a template. Your notes should give the next engineer a full picture of the case even if a warm handoff cannot occur.
 3. Add <Need APAC/IST/EMEA/US SE> prefix per customer's region/request to the internal case title.
