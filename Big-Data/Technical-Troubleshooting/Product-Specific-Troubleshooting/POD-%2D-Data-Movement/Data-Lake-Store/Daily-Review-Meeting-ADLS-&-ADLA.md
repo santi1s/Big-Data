@@ -32,19 +32,3 @@ The product teams attend both meetings so for any difficult cases or questions o
 Follow this [link](https://portal.microsofticm.com/imp/v3/incidents/search/advanced?sl=llglhyhaqcg) for an ICM query with will produce a list of open ADLS ICMs to be reviewed with the ADLS PG. 
 
 Open and review each one, in some instances opening the CSS case to review current status.
-
-## FDR Review ADLS/ADLA
-
-Go to [Case Triage](https://casetriage.azurewebsites.net/Home/OmegaIndex) and click 'Settings' and 'Add Shared Filter (only V2 filters)'
-
-![image.png](/.attachments/image-29521312-afe7-4ccb-bb80-eb18f842ddfe.png)
-
-Enter this filter ID: 2336
-
-Click 'Add'
-
-You can then find it under "My Cases" and "Shared Filters"
-![image.png](/.attachments/image-e8ce8973-90f2-4dfb-9b84-7c101b9f66d6.png)
-
-
-This report will generate a list of cases that were still awaiting FDR as of 00:00 UTC. Review all these cases in the daily meeting and add any FDR guidance to the case notes under the title "Technical FDR Review"
