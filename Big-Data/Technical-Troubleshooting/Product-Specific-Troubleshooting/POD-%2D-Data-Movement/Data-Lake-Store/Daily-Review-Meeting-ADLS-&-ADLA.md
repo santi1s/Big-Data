@@ -19,12 +19,11 @@ The product teams attend both meetings so for any difficult cases or questions o
 
 ##Schedule
 
-1. Review of ADLA FDR Cases
-2. Review of ADLA cases submitted by CSS during call
-3. Review of ADLA ICMs that the Product team needs feedback on.
-4. Review of ADLS cases submitted by CSS during call
-5. Review of ADLS FDR Cases
-6. Review of ADLS ICM list
+1. Review of ADLA cases submitted by CSS during call
+2. Review of ADLA ICMs that the Product team needs feedback on.
+
+3. Review of ADLS cases submitted by CSS during call
+4. Review of ADLS ICM list
 
 #Views/Reports Covered During Meeting
 
