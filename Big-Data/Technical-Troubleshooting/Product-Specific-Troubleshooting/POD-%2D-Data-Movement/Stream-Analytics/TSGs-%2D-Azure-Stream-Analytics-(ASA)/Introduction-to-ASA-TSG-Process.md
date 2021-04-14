@@ -14,6 +14,14 @@ iv. Troubleshooting Performed (if you have logs to share)
 
 #**2) ASA SME/SE Huddle for FRD case review and TSG** 
 -  Discuss in ASA Daily Case Triage with SMEs and SEs for _Troubleshooting_ guidence
+   - Be prepared for this meeting by gathering details 
+      - Ticket number
+      - Problem Statement
+      - ASC results
+      - JARVIS Logs
+      - TSG already performed
+
+      
 -  Reach out to SME via Email or Teams
 
 #**3) Ask Questions for TSG in ASA Teams** 
