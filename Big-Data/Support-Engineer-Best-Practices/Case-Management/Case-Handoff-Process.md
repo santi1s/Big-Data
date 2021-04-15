@@ -262,7 +262,7 @@ For longer vacations, please close what cases you can and make sure all your cus
 
 2. For slower cases where you are waiting on the customer or product team, and don't expect any update will be needed until after your return, please let the customer know of your absence and confirm if they are alright to have an update on your return, or if they would prefer to be handed off to another engineer in the meantime. If any of these cases need handoff, find a teammate who will be able to take the case and provide a warm handoff.
 
-3. Please **do not** just push batches of your case back to queue even if you are unable to find teammates to assist you. In this case, please reach out to your TA with a list of cases, and for each case including number, product, brief description, and brief status.
+3. Please **do not** just push batches of your case back to queue even if you are unable to find teammates to assist you. In this case, please reach out to your team and TA with a list of cases, and for each case including number, product, brief description, and brief status.
 
 4. You need to take back your own case after your OOF.
 
