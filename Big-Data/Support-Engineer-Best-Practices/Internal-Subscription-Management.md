@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-#How to Request Internal Subscription
+# FTEs - How to Request Internal Subscription
 
 Create an Account Internal Azure Subscription: https://microsoft.sharepoint.com/teams/azureinternal/CSSMgmt/SitePages/Home.aspx 
 1. Go to https://azuremsregistration.azurewebsites.net/Default.aspx​ and click on New Registration. The defined parameters for these accounts are:
@@ -54,6 +54,17 @@ Create an Account Internal Azure Subscription: https://microsoft.sharepoint.com/
 ![image.png](/.attachments/image-37327d1a-ea50-4e7d-9d1c-9414425e68fd.png)
 
 8. You should now be able to Add resources within your portal  
+
+# Subscriptions for Contractors
+
+As Contractors are unable to apply for a subscription of their own, they will need to be granted permission to a teammate or lead's internal subscription.
+
+1. Add reader role permissions for contractor at your subscription level.
+2. Create a resource group for contractor with <alias>ResourceGroup
+3. Grant contractor Owner role over this new resource group.
+4. Point contractor to the best practices below for managing their new resource group.
+
+That should give them the ability to do what they need to in their resource group but not on your subscription.
 
 # Internal Subscription Best Practices
 
