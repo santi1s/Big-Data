@@ -104,7 +104,7 @@ Even if a customer lists 'Phone' as their preferred communication method, send a
 2. If you have a good amount of SLA time left, do some research and try to give the customer a solution, or provide questions/next steps in your first contact!
 3. If you have very little SLA time left, reach out to a customer in an email introducing yourself, saying you are currently reviewing their issue and will reach out shortly with next steps.
 4. Don't forget to change case state in the top, right-hand corner!
-![image.png](/.attachments/image-384ef9ee-a72b-4f34-8bdd-095574b70a55.png)
+![image.png](/.attachments/image-c3b02b40-0233-468e-b86a-0fb47bb71e44.png)
 
 5. If you have provided any information or suggestions that you believe could resolve the case, change the case status to 'Waiting for Confirmation' and leave it there for the duration of the case. 
 
