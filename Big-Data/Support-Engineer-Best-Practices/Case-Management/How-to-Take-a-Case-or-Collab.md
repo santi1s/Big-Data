@@ -20,6 +20,16 @@ DfM wiki for dashboards and views: https://dev.azure.com/CSSToolsPM/Dynamics%20f
 
 ##Find Cases in Your Technology
 
+### DfM
+1. Go to aka.ms/oneSupport
+2. Select the + button at the top of the page and choose 'Cases'
+![image.png](/.attachments/image-14ccda78-48ae-48bf-a5f0-582e84d90224.png)
+3. Select the carrot next to the current view's name, and navigate to "Unassigned Cases in Queues I'm a Member of"
+![image.png](/.attachments/image-b7a1ecf4-d5f0-44d4-8b63-f0059d09ce18.png)
+4. Here you can see all unassigned cases, and can filter by any column, including Support Area Path, which you can use to search for a specific technology.
+![image.png](/.attachments/image-b5eee49f-2864-42c5-8615-decfccba8646.png)
+5. Check the "Severity" column for the severity of the case, and "IR SLA remaining Time" column to see how much time is left before the case needs to be owned and the customer contacted.
+
 ### Service Desk
 1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
 Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
@@ -32,15 +42,17 @@ Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
 Here you can add  filter for "Support Area Path", make sure it starts with your technology (in this example, Data Factory) and 'Save As'. You'll be saving this as a new view that you can switch to anytime you want to see cases of a specific technology. 
 ![image.png](/.attachments/image-3dae1860-1f69-4da4-8d16-2b4086ca83c4.png)
 
-###Check Severity and Customer Support Level`
-1. On Your Service Desk Home Page, visit the Unassigned Cases Tile and Select 'View All'
-Or visit this site: https://servicedesk.microsoft.com/#/mycases/unassignedcases
-![image.png](/.attachments/image-6e6fcb9c-446a-498a-9529-ce0690a8e864.png)
-
-2. Check the 'Sev' column to check Severity, or the 'Service Level' column to check if it is a Professional or Premier Case
+3. Check the 'Sev' column to check Severity, or the 'Service Level' column to check if it is a Professional or Premier Case
 
 ##Check If It Is a Full Case or a Collab
 
+### DfM
+
+In DFM it is clear if a task is a case or a collab.
+A case has a number in a format like this: 
+
+
+### Service Desk
 1. Check the Type column to see if the pending task is a Collaboration, or a full Case
 ![image.png](/.attachments/image-5542aad7-831c-43ce-ac75-2b7c833d9134.png)
 
