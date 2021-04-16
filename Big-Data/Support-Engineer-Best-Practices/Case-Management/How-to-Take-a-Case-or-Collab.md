@@ -48,8 +48,13 @@ Here you can add  filter for "Support Area Path", make sure it starts with your 
 
 ### DfM
 
-In DFM it is clear if a task is a case or a collab.
-A case has a number in a format like this: 
+In DFM it is clear if a task is a case or a collaboration.
+A case has a number in a format like this: 2000000000000000
+A collaboration or child case, has a number in a format like this: CAS-000000-000000
+
+In the case list you will also see that collaboration cases have parent cases listed.
+
+![image.png](/.attachments/image-b34ae03b-0e6f-4319-94fa-03d8f5ed9358.png)
 
 
 ### Service Desk
