@@ -3,10 +3,7 @@
   <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
 vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
-<b> March 12-15th - This page is currently being updated!</b>
-<b> Pardon our dust!</b>
 
-<b> If you have any questions while we're in progress here, please reach out to whhender!</b>
 
 DfM wiki for dashboards and views: https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/77/Dashboards-Views
 
