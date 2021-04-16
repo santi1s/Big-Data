@@ -78,28 +78,16 @@ If your team is using the Virtual Duty Manager, don't cherry-pick cases out of t
 1. Let the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) know you are ready for a case by saying "Give me a case" or "I want a case" and it will assign you the next available case that meets your severity and product restrictions.
 2. Or if there is a specific case you are taking from a teammate, or for a customer, then use the [CRMBot](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/297951/Tools?anchor=crm-bot) to assign the case to yourself by saying "Assign CaseNumber to me"
 
-##Were You Assigned a Case or a Collaboration?
 
-There are three ways you can check if you were assigned a case or a collaboration.
-1. The assignment email will designate if you have been assigned a case or a collaboration, the email title will either say: "Case Assignment" or "Collaboration Assignment" right in the title.
 
-2. You can check the case itself! Open the case in Service Desk and check the case owner. If it is you, then it was a case assignment!
-![image.png](/.attachments/image-9d5107b6-824f-441d-900c-3c807f46aa23.png)
-If it was not you, scroll down to the 'Tasks' tile, make sure 'Collaboration' tab is selected, and check collaboration owner:
-![image.png](/.attachments/image-2ad81f6c-e4f7-463d-beb0-6fe6f4072f3e.png)
-
-3. You can Check the 'My Cases and Tasks' tile in Service Desk
-Your list of cases has a column called 'Type' that will tell you if an assignment is a case or a Collaboration
-![image.png](/.attachments/image-ca7ae09f-60dd-4dd5-985d-d8747afcfbbf.png)
-
-##Check SLA
+#Check SLA
 
 There are two ways to check current SLA (time until we have agreed to contact the customer).
-1. In the case! Open the case in Service desk, and in the Details there is an SLA box, which shows the current time until SLA.
-![image.png](/.attachments/image-bc70d328-a247-4a1d-b365-c7bed004bc5c.png)
+1. In the case! Open the case in DfM, and on the right there is a Performance indicators box, which has a countdown to SLA.
+![image.png](/.attachments/image-f211c52d-cf02-460e-a4c6-3cf81ccec20a.png)
 
-2. Under the My Cases and Tasks tile you can click 'View All' and in that table there is an 'Initial Response SLA' column, which will tell you if the SLA was met, missed, or how much time is left.
-![image.png](/.attachments/image-fd3259c3-a63b-459f-bf4e-23b746dda2ba.png)
+2. In any case view in DFM, there will be an "IR SLA remaining time" column where you can see how much time is remaining on a case's SLA.
+![image.png](/.attachments/image-e1ea7448-6323-4c85-b689-9a6163a8844e.png)
 
 ## Check Customer's Communication Preferences
 
