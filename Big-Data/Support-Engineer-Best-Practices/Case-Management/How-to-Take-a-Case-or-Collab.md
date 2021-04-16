@@ -91,8 +91,8 @@ There are two ways to check current SLA (time until we have agreed to contact th
 
 ## Check Customer's Communication Preferences
 
-When a customer opens a case, they can choose if they prefer phone or email communications. You can check this under the 'Contacts' tile in the case. Look for the little 'preferred' marker which will either be by the phone number or email address.
-![image.png](/.attachments/image-0d38178e-29a2-494a-91b9-d2a32c8f2971.png)
+When a customer opens a case, they can choose if they prefer phone or email communications. You can check this under the 'Primary Contact' tile in the case. Look for the little 'preferred' marker which will either be by the phone number or email address.
+![image.png](/.attachments/image-48db5bda-03e9-4f37-a167-503e94c7b5b8.png)
 
 Please respect this preference at least for the first communication and feel free to confirm their preferences for further communications in that conversation.
 
