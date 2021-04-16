@@ -1,15 +1,4 @@
-<table border="1";bgcolor="#ffa7a7";>
-<tr>
-  <td style='border-style:solid;border-color:#f64e4e;background-color:#f9cccc;border-width:3pt; 
-vertical-align:top;width:8in;padding:2.0pt 3.0pt 2.0pt 3.0pt'>  
 
-
-
-DfM wiki for dashboards and views: https://dev.azure.com/CSSToolsPM/Dynamics%20for%20Microsoft/_wiki/wikis/DfM/77/Dashboards-Views
-
-</td>
-</tr>
-</table>
 
 **This guide covers only the basics for picking up a case/collaboration from the queue, or starting a case/collaboration that has been assigned to you.**
 
