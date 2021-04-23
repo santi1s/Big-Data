@@ -45,9 +45,17 @@ Scroll down to the 'Categories' section where you will be able to see the resour
 **If there is 0 capacity under 'Azure: Engineer (x/day)** then the user has already been assigned all their cases for that day and should not be manually assigned to without asking them specifically.
 **If there is available capacity under 'Azure: Engineer (x/day) and the correct Severity** then you can [use FTS to manually assign the case to that engineer.](https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/393781/FTS-(Follow-the-Sun)-User-Guides?anchor=select-resource)
 
-**If no engineers who are available in WFM have the correct capacity needed, the case may need to wait to be assigned until other engineers become available. Our Mindtree team comes online at 12pm EST and can generally absorb overflow.** 
+**If no engineers who are available in WFM have the correct capacity needed, the case may need to wait to be assigned until other engineers become available. Our main team comes online at 12pm EST and can generally absorb overflow.** 
+
+You can also double click *beside* the Azure Engineer (x/day).
+Not on the words, as that will take you to the category.
+If you click **beside** it will take you to that individual engineer's capacity.
+
+![image.png](/.attachments/image-4962f19f-8060-4173-8dcb-1551550d7e61.png)
 
 
+Then click on their 'current capacity' to see all cases they've been assigned that day.
+![image.png](/.attachments/image-0f29aff0-2ebc-4a3a-85d9-68978e9c6c3d.png)
 
 # How Long Will Leads Need to Review and Process Transfers?
 Currently we have requested that our support engineers complete their FTS requests up to the “Ensure Summary” stage, and then leave it to the Leads to confirm and complete the transfer at the time of the handover call.
