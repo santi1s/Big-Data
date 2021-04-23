@@ -24,7 +24,7 @@ If you have an engineer that is unable to complete automatic assignment of a cri
 
 If the engineer still has some time left before their end of shift, wait 15-30 minutes and try assignment again; a resource may come available! If you do not have that time to wait, use the process below.
 
-1. **THIS STEP HAS NOT BEEN WORKING AS OF 11/16. Skip to Step 2.** Check this [VDM Resource Tool](https://crmglobal.corp.microsoft.com/GLBCRMSUP/WebResources/crmee_/Pages/CrmGlobal.ResourceSelection.html) to see who is available based on VDM's criteria.
+1. Check who is online/on shift using WFM: https://dev.azure.com/Supportability/Big%20Data/_wiki/wikis/Big-Data.wiki/326172/View-WFM-Schedule-Per-POD
 2. On the [CRM Global site](https://crmglobal.corp.microsoft.com/GLBCRMSUP/main.aspx#746218167) navigate to Collaboration, then 'Resource'. 
 ![image.png](/.attachments/image-6fb57c99-6ac4-4ddf-9458-c3e457e1ca63.png)
 Then at the top of the page click the filter button. 
