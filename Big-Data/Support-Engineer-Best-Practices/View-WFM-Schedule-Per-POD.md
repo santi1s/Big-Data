@@ -2,11 +2,12 @@
 
 
 # WFM General User Access
-
+Engineers and Contractors use this
 1. [aka.ms/myaccess](aka.ms/myaccess ) 
 2. WFM Cloud request WFM General User Access 
 ( or use this link to get you there [WFM General User Access](https://myaccess/identityiq/ui/rest/redirect?rp1=/accessRequest/accessRequest.jsf&rp2=accessRequest/review?role=WFM+POD+Lead+Access&autoSubmit=true) )
-3. populate Permission Level * - ReadOnly
+3. populate 
+Permission Level * - ReadOnly
 Justification -  Engineer requesting personal access account
 Next
 4. verify and the Submit Request , if not approved in 48 hours drop Lee a chat in Teams
@@ -16,8 +17,9 @@ Next
 1. [aka.ms/myaccess](aka.ms/myaccess ) 
 2. WFM Cloud request WFM POD Lead Access  
 ( or use this link to get you there [WFM POD Lead Access ](https://myaccess/identityiq/ui/rest/redirect?rp1=/accessRequest/accessRequest.jsf&rp2=accessRequest/review?role=WFM+POD+Lead+Access&autoSubmit=true) )
-3. populate Permission Level * - ReadOnly
-Justification -  Engineer requesting personal access account
+3. populate 
+ReadWrite: Read and Write Access - able to approve schedule changes and OOF requests
+Justification -  Engineer requesting requiring elevated access
 Next
 4. verify and the Submit Request , if not approved in 48 hours drop Lee a chat in Teams
 
