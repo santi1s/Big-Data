@@ -4,10 +4,22 @@
 # WFM General User Access
 
 1. [aka.ms/myaccess](aka.ms/myaccess ) 
-2. WFM Cloud request WFM General User Access ( or use this link to get you there [WFM General User Access](https://myaccess/identityiq/ui/rest/redirect?rp1=/accessRequest/accessRequest.jsf&rp2=accessRequest/review?role=WFM+POD+Lead+Access&autoSubmit=true) )
-Permission Level * - ReadOnly
+2. WFM Cloud request WFM General User Access 
+( or use this link to get you there [WFM General User Access](https://myaccess/identityiq/ui/rest/redirect?rp1=/accessRequest/accessRequest.jsf&rp2=accessRequest/review?role=WFM+POD+Lead+Access&autoSubmit=true) )
+3. populate Permission Level * - ReadOnly
 Justification -  Engineer requesting personal access account
+Next
+4. verify and the Submit Request , if not approved in 48 hours drop Lee a chat in Teams
 
+
+# WFM Team Lead/ M1 Access
+1. [aka.ms/myaccess](aka.ms/myaccess ) 
+2. WFM Cloud request WFM POD Lead Access  
+( or use this link to get you there [WFM POD Lead Access ](https://myaccess/identityiq/ui/rest/redirect?rp1=/accessRequest/accessRequest.jsf&rp2=accessRequest/review?role=WFM+POD+Lead+Access&autoSubmit=true) )
+3. populate Permission Level * - ReadOnly
+Justification -  Engineer requesting personal access account
+Next
+4. verify and the Submit Request , if not approved in 48 hours drop Lee a chat in Teams
 
 
 #Viewing your (or anyone else's) POD's schedule in WFM
